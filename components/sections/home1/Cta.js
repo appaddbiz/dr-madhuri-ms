@@ -8,7 +8,9 @@ export default function Cta() {
         <div
           className="cta-one__bg"
           style={{
-            backgroundImage: " url(assets/images/backgrounds/cta-one-bg.jpg)",
+            backgroundImage: " url(/assets/home-image/cta.jpeg)",
+            backgroundPosition: "right",
+            backgroundAttachment: "fixed",
           }}
         ></div>
         <div className="container">
@@ -19,7 +21,7 @@ export default function Cta() {
               </h3>
               <div className="cta-one__btn-box">
                 <Link href="about" className="cta-one__btn thm-btn">
-                  Let's Start
+                  Book An Apppointment
                 </Link>
               </div>
             </div>

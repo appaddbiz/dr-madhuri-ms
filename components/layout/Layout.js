@@ -52,8 +52,8 @@ export default function Layout({ headerStyle, footerStyle, headTitle, breadcrumb
                 {headerStyle == 3 ? <Header3 scroll={scroll} isMobileMenu={isMobileMenu} handleMobileMenu={handleMobileMenu} handlePopup={handlePopup} isSidebar={isSidebar} handleSidebar={handleSidebar} /> : null}
 
 
-                <Sidebar isSidebar={isSidebar} handleSidebar={handleSidebar} />
-                <SearchPopup isPopup={isPopup} handlePopup={handlePopup} />
+                {/* <Sidebar isSidebar={isSidebar} handleSidebar={handleSidebar} />
+                <SearchPopup isPopup={isPopup} handlePopup={handlePopup} /> */}
 
                 {breadcrumbTitle && <Breadcrumb breadcrumbTitle={breadcrumbTitle} />}
 

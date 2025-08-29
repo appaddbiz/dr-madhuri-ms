@@ -7,6 +7,23 @@ export default function About() {
       {/*About Two Start*/}
       <section className="about-two">
         <div className="container">
+          <div
+            className="section-title text-center mobile-view"
+            style={{ marginBottom: "0px" }}
+          >
+            <div className="section-title__tagline-box">
+              <div className="section-title__tagline-shape">
+                <img
+                  src="assets/images/shapes/section-title-tagline-shape.png"
+                  alt=""
+                />
+              </div>
+              <span className="section-title__tagline">About Doctor</span>
+            </div>
+            <h2 className="section-title__title">
+              Compassionate Care for Women’s Health
+            </h2>
+          </div>
           <div className="row">
             <div className="col-xl-5">
               <div
@@ -16,7 +33,7 @@ export default function About() {
               >
                 <div className="about-two__img" style={{ marginTop: "50px" }}>
                   <img
-                    src="assets/images/resources/about-two-img-1.png"
+                    src="https://img.freepik.com/premium-vector/woman-waiting-gynecology-consultation-illustrated_23-2148680564.jpg"
                     alt="Dr. Madhuri M S"
                   />
                 </div>
@@ -24,7 +41,7 @@ export default function About() {
             </div>
             <div className="col-xl-7">
               <div className="about-two__right">
-                <div className="section-title text-left">
+                <div className="section-title text-left desk-view">
                   <div className="section-title__tagline-box">
                     <div className="section-title__tagline-shape">
                       <img
@@ -38,7 +55,10 @@ export default function About() {
                     Compassionate Care for Women’s Health
                   </h2>
                 </div>
-                <p className="about-two__text-2">
+                <p
+                  className="about-two__text-2"
+                  style={{ textAlign: "justify" }}
+                >
                   Dr. Madhuri M S is a highly skilled Obstetrician and
                   Gynaecologist with qualifications in
                   <strong> MBBS, MS (OBG), FMAS</strong> and a{" "}
@@ -49,7 +69,10 @@ export default function About() {
                   centered on delivering safe, evidence-based, and compassionate
                   healthcare to women at every stage of life.
                 </p>
-                <p className="about-two__text-2">
+                <p
+                  className="about-two__text-2"
+                  style={{ textAlign: "justify" }}
+                >
                   With her strong academic background and clinical excellence,
                   Dr. Madhuri is committed to empowering women with the right
                   guidance, preventive care, and modern treatment options for a

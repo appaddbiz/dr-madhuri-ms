@@ -4,7 +4,7 @@ export default function Features() {
   return (
     <>
       {/*Feature One Start*/}
-      <section className="feature-one project-one">
+      <section className="feature-one">
         <div className="container">
           <div className="section-title text-center">
             <div className="section-title__tagline-box">
@@ -126,7 +126,7 @@ export default function Features() {
                 </div>
                 <p className="feature-one__text">
                   Advanced minimally invasive surgeries including myomectomy,
-                  hysterectomy, ovarian cystectomy, tubal procedures, and
+                  hysterectomy, ovarian cystectomy, tubal procedures, &
                   diagnostic hysteroscopy.
                 </p>
                 <Link

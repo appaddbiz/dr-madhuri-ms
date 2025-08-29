@@ -6,9 +6,10 @@ import Cta from "@/components/sections/home1/Cta";
 import Features from "@/components/sections/home2/Feature";
 import Banner from "@/components/sections/home2/Banner";
 import Company from "@/components/sections/home2/Company";
-
 import Project from "@/components/sections/home2/Project";
 import Service2 from "@/components/sections/home3/Service2";
+import Process from "@/components/sections/home1/Process";
+import Faq from "@/components/sections/home3/Faq";
 
 export default function Home() {
   return (
@@ -20,8 +21,10 @@ export default function Home() {
         <Cta />
         <Features />
         <Company />
+        <Process />
         <Project />
-        <Testimonial />
+        <Faq />
+        {/* <Testimonial /> */}
         <Blog />
       </Layout>
     </>
