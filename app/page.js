@@ -4,12 +4,13 @@ import Testimonial from "@/components/sections/home3/Testimonial";
 import Blog from "@/components/sections/home1/Blog";
 import Cta from "@/components/sections/home1/Cta";
 import Features from "@/components/sections/home2/Feature";
-import Banner from "@/components/sections/home2/Banner";
+import Banner from "@/components/sections/home1/Banner";
 import Company from "@/components/sections/home2/Company";
 import Project from "@/components/sections/home2/Project";
 import Service2 from "@/components/sections/home3/Service2";
 import Process from "@/components/sections/home1/Process";
 import Faq from "@/components/sections/home3/Faq";
+import Service from "@/components/sections/home1/Service";
 
 export default function Home() {
   return (

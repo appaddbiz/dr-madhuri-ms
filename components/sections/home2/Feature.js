@@ -1,5 +1,6 @@
 "use client";
 import Link from "next/link";
+
 export default function Features() {
   return (
     <>
@@ -32,7 +33,7 @@ export default function Features() {
                     <span className="icon-baby"></span>
                   </div>
                   <h3 className="feature-one__title">
-                    <Link href="obstetrics">
+                    <Link href="/our-services/obstetrics">
                       Obstetrics <br /> & Pregnancy Care
                     </Link>
                   </h3>
@@ -42,7 +43,7 @@ export default function Features() {
                   expertise in high-risk pregnancy management and
                   preconceptional counselling.
                 </p>
-                <Link href="obstetrics" className="feature-one__read-more">
+                <Link href="#" className="feature-one__read-more">
                   Read More <span className="fas fa-arrow-circle-right"></span>
                 </Link>
               </div>
@@ -59,7 +60,7 @@ export default function Features() {
                     <span className="icon-heart"></span>
                   </div>
                   <h3 className="feature-one__title">
-                    <Link href="infertility">
+                    <Link href="/our-services/infertility">
                       Infertility <br /> Treatments
                     </Link>
                   </h3>
@@ -69,7 +70,7 @@ export default function Features() {
                   insemination (IUI) to support couples on their journey to
                   parenthood.
                 </p>
-                <Link href="infertility" className="feature-one__read-more">
+                <Link href="#" className="feature-one__read-more">
                   Read More <span className="fas fa-arrow-circle-right"></span>
                 </Link>
               </div>
@@ -86,7 +87,7 @@ export default function Features() {
                     <span className="icon-female"></span>
                   </div>
                   <h3 className="feature-one__title">
-                    <Link href="gynaecology-care">
+                    <Link href="#">
                       Gynaecology <br /> Care
                     </Link>
                   </h3>
@@ -96,10 +97,7 @@ export default function Features() {
                   cysts, menstrual disorders, menopausal care, and preventive
                   screenings.
                 </p>
-                <Link
-                  href="gynaecology-care"
-                  className="feature-one__read-more"
-                >
+                <Link href="#" className="feature-one__read-more">
                   Read More <span className="fas fa-arrow-circle-right"></span>
                 </Link>
               </div>
@@ -119,7 +117,7 @@ export default function Features() {
                     <span className="icon-surgery"></span>
                   </div>
                   <h3 className="feature-one__title">
-                    <Link href="laparoscopy-hysteroscopy">
+                    <Link href="#">
                       Laparoscopy <br /> & Hysteroscopy
                     </Link>
                   </h3>
@@ -129,10 +127,7 @@ export default function Features() {
                   hysterectomy, ovarian cystectomy, tubal procedures, &
                   diagnostic hysteroscopy.
                 </p>
-                <Link
-                  href="laparoscopy-hysteroscopy"
-                  className="feature-one__read-more"
-                >
+                <Link href="#" className="feature-one__read-more">
                   Read More <span className="fas fa-arrow-circle-right"></span>
                 </Link>
               </div>
@@ -149,7 +144,7 @@ export default function Features() {
                     <span className="icon-ultrasound"></span>
                   </div>
                   <h3 className="feature-one__title">
-                    <Link href="ultrasonography">
+                    <Link href="#">
                       Advanced <br /> Ultrasonography
                     </Link>
                   </h3>
@@ -159,7 +154,7 @@ export default function Features() {
                   ultrasound for accurate diagnosis and monitoring of women’s
                   health.
                 </p>
-                <Link href="ultrasonography" className="feature-one__read-more">
+                <Link href="#" className="feature-one__read-more">
                   Read More <span className="fas fa-arrow-circle-right"></span>
                 </Link>
               </div>
@@ -175,7 +170,7 @@ export default function Features() {
                     <span className="icon-calendar"></span>
                   </div>
                   <h3 className="feature-one__title">
-                    <Link href="appointment">
+                    <Link href="#">
                       Book an <br /> Appointment
                     </Link>
                   </h3>
@@ -184,7 +179,7 @@ export default function Features() {
                   Schedule your consultation with our specialists for
                   personalized, compassionate, and expert women’s healthcare.
                 </p>
-                <Link href="appointment" className="feature-one__read-more">
+                <Link href="#" className="feature-one__read-more">
                   Book Now <span className="fas fa-arrow-circle-right"></span>
                 </Link>
               </div>

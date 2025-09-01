@@ -677,13 +677,14 @@ a.video-popup {
 --------------------------------------------------------------*/
 .main-header {
   background: transparent;
-  position: absolute;
+  position: relative;
   top: 0;
   left: 0;
   right: 0;
   width: 100%;
   transition: all 500ms ease;
   z-index: 999;
+  background: #000;
 }
 
 .main-menu__top {
@@ -2659,11 +2660,10 @@ a.video-popup {
   left: 0;
   right: 0;
   bottom: 0;
-  mix-blend-mode: luminosity;
-  opacity: 0.12;
+  /* mix-blend-mode: luminosity; */
+  /* opacity: 0.12; */
   background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
   -webkit-transform: scale(1);
@@ -2725,9 +2725,9 @@ a.video-popup {
 }
 
 .main-slider .container {
-  position: relative;
+  /* position: relative; */
   padding-top: 300px;
-  padding-bottom: 168px;
+  padding-bottom: 300px;
   z-index: 30;
 }
 
