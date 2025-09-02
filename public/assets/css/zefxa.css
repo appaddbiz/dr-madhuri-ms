@@ -288,7 +288,7 @@ ul {
 
 .section-title__tagline-box {
   position: relative;
-  /* display: inline-flex; */
+  display: inline-flex;
   align-items: center;
   gap: 15px;
 }
@@ -3649,7 +3649,7 @@ a.video-popup {
 .services-one {
   position: relative;
   display: block;
-  padding: 120px 0 90px;
+  padding: 60px 0 90px;
   z-index: 1;
 }
 
@@ -11416,7 +11416,7 @@ a.video-popup {
   }
 
   .page-header {
-    padding: 236px 0px 187px;
+    /* padding: 236px 0px 187px; */
   }
 
   .error-page__title {

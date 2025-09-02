@@ -45,7 +45,7 @@ export const services = {
   obstetricServices: [
     {
       title: "Comprehensive Antenatal, Labour and Postnatal Care",
-      link: "/our-services/obstetrics/comprehensive-antenatal-labour-and-postnatal-care",
+      link: "/our-services/obstetrics/antenatal-and-post-natal-care",
     },
     {
       title: "Preconceptional Counselling",
