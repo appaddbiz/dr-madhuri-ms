@@ -4,7 +4,7 @@ export const subServices = [
     mainService: "Our Obstetrics Services",
     img: "/assets/services/Antenatal and Post-natal Care.avif",
     icon: "/assets/flat-icons/phone-call.svg",
-    title: "Comprehensive Antenatal, Labour and Postnatal Care",
+    title: "Antenatal and Post-natal Care",
     link: "obstetrics",
     description:
       "Complete pregnancy care including antenatal check-ups, safe delivery, and postnatal support for mother and baby.",
