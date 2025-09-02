@@ -141,15 +141,14 @@ export default function Features() {
                     </span>
                   </div>
                   <h3 className="feature-one__title">
-                    <Link href="#">
+                    <Link href="#" style={{ fontSize: "22px" }}>
                       Laparoscopy <br /> & Hysteroscopy
                     </Link>
                   </h3>
                 </div>
                 <p className="feature-one__text">
-                  Advanced minimally invasive surgeries including myomectomy,
-                  hysterectomy, ovarian cystectomy, tubal procedures, &
-                  diagnostic hysteroscopy.
+                  Advanced minimally invasive surgeries: myomectomy,
+                  hysterectomy, ovarian, tubal, hysteroscopy procedures.
                 </p>
                 <Link href="#" className="feature-one__read-more">
                   Read More <span className="fas fa-arrow-circle-right"></span>
