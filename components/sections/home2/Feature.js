@@ -49,7 +49,10 @@ export default function Features() {
                   expertise in high-risk pregnancy management and
                   preconceptional counselling.
                 </p>
-                <Link href="#" className="feature-one__read-more">
+                <Link
+                  href="/our-services/obstetrics"
+                  className="feature-one__read-more"
+                >
                   Read More <span className="fas fa-arrow-circle-right"></span>
                 </Link>
               </div>
@@ -82,7 +85,10 @@ export default function Features() {
                   insemination (IUI) to support couples on their journey to
                   parenthood.
                 </p>
-                <Link href="#" className="feature-one__read-more">
+                <Link
+                  href="/our-services/infertility"
+                  className="feature-one__read-more"
+                >
                   Read More <span className="fas fa-arrow-circle-right"></span>
                 </Link>
               </div>
@@ -105,7 +111,7 @@ export default function Features() {
                     </span>
                   </div>
                   <h3 className="feature-one__title">
-                    <Link href="#">
+                    <Link href="/our-services/gynaecology">
                       Gynaecology <br /> Care
                     </Link>
                   </h3>
@@ -115,7 +121,10 @@ export default function Features() {
                   cysts, menstrual disorders, menopausal care, and preventive
                   screenings.
                 </p>
-                <Link href="#" className="feature-one__read-more">
+                <Link
+                  href="/our-services/gynaecology"
+                  className="feature-one__read-more"
+                >
                   Read More <span className="fas fa-arrow-circle-right"></span>
                 </Link>
               </div>
@@ -141,7 +150,10 @@ export default function Features() {
                     </span>
                   </div>
                   <h3 className="feature-one__title">
-                    <Link href="#" style={{ fontSize: "22px" }}>
+                    <Link
+                      href="/our-services/laparoscopy-hysteroscopy"
+                      style={{ fontSize: "22px" }}
+                    >
                       Laparoscopy <br /> & Hysteroscopy
                     </Link>
                   </h3>
@@ -150,7 +162,10 @@ export default function Features() {
                   Advanced minimally invasive surgeries: myomectomy,
                   hysterectomy, ovarian, tubal, hysteroscopy procedures.
                 </p>
-                <Link href="#" className="feature-one__read-more">
+                <Link
+                  href="/our-services/laparoscopy-hysteroscopy"
+                  className="feature-one__read-more"
+                >
                   Read More <span className="fas fa-arrow-circle-right"></span>
                 </Link>
               </div>
@@ -173,7 +188,7 @@ export default function Features() {
                     </span>
                   </div>
                   <h3 className="feature-one__title">
-                    <Link href="#">
+                    <Link href="/our-services/ultrasonography">
                       Advanced <br /> Ultrasonography
                     </Link>
                   </h3>
@@ -183,7 +198,10 @@ export default function Features() {
                   ultrasound for accurate diagnosis and monitoring of women’s
                   health.
                 </p>
-                <Link href="#" className="feature-one__read-more">
+                <Link
+                  href="/our-services/ultrasonography"
+                  className="feature-one__read-more"
+                >
                   Read More <span className="fas fa-arrow-circle-right"></span>
                 </Link>
               </div>

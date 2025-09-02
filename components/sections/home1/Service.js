@@ -9,6 +9,7 @@ export default function Service() {
   const pathname = usePathname();
   const name = pathname.split("/")[2];
   const [data, setData] = useState([]);
+  console.log("data", data);
 
   useEffect(() => {
     const update = subServices.filter((ele, i) => {
@@ -30,11 +31,15 @@ export default function Service() {
             <div className="section-title text-center">
               <div className="section-title__tagline-box">
                 <div className="section-title__tagline-shape"></div>
-                <span className="section-title__tagline">Services List</span>
+                {/* <span className="section-title__tagline">
+                  {[...new Set(subServices.map((item) => item.mainService))]}
+                </span> */}
               </div>
-              <h2 className="section-title__title">What We are offering</h2>
+              <h2 className="section-title__title">
+                Caring for every stage of motherhood with compassion and
+                expertise
+              </h2>
             </div>
-
             <div className="row">
               {data.map((service, index) => (
                 <div
@@ -47,12 +52,23 @@ export default function Service() {
                   <div className="services-one__single">
                     <div className="services-one__img-box">
                       <div className="services-one__img">
-                        <img src={service.img} alt={service.title} />
+                        <img
+                          src={service.img}
+                          style={{ aspectRatio: "3/2" }}
+                          alt={service.title}
+                        />
                       </div>
                     </div>
                     <div className="services-one__content-wrap">
                       <div className="services-one__icon">
-                        <span className={service.icon}></span>
+                        <Link href="tel:+916361197107">
+                          <span className="">
+                            <img
+                              src={service.icon}
+                              style={{ height: "30px" }}
+                            />
+                          </span>
+                        </Link>
                       </div>
                       <div className="services-one__content">
                         <h3 className="services-one__title">
@@ -69,8 +85,19 @@ export default function Service() {
                           </Link>
                         </h3>
                         <p className="services-one__text">
-                          {service.description}
+                          {service.description.slice(0, 100)}...
                         </p>
+                        <Link
+                          href={`/our-services/${service.link}/${(
+                            service.title || "detail"
+                          )
+                            .toLowerCase()
+                            .replace(/[^a-z0-9\s-]/g, "")
+                            .replace(/\s+/g, "-")
+                            .replace(/-+/g, "-")}`}
+                        >
+                          Read More
+                        </Link>
                       </div>
                     </div>
                   </div>
