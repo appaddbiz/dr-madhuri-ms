@@ -72,7 +72,13 @@ export default function Company() {
                 <ul className="company-benefits__points list-unstyled">
                   <li>
                     <div className="icon">
-                      <span className="icon-coding"></span>
+                      <span className="">
+                        <img
+                          src="/assets/flat-icons/doctor.svg"
+                          style={{ height: "50px" }}
+                          alt=""
+                        />
+                      </span>
                     </div>
                     <div className="content">
                       <h3>
@@ -89,7 +95,13 @@ export default function Company() {
                   </li>
                   <li>
                     <div className="icon">
-                      <span className="icon-tiles"></span>
+                      <span className="">
+                        <img
+                          src="/assets/flat-icons/healthcare.svg"
+                          style={{ height: "50px" }}
+                          alt=""
+                        />
+                      </span>
                     </div>
                     <div className="content">
                       <h3>

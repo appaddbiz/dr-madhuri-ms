@@ -1,9 +1,10 @@
 export const services = {
   title: "Antenatal and Post-natal Care",
+  heading: "Obstetrics",
   introduction:
     "Welcoming a new life into the world is a beautiful journey, and proper medical care during pregnancy and after delivery plays a vital role in ensuring the health and well-being of both mother and baby. At the clinic of Dr. Madhuri M S, we provide comprehensive antenatal and post-natal care that supports women through every stage of motherhood with compassion, expertise, and personalized attention.",
   image: {
-    src: "assets/images/services/service-details-img-3.jpg",
+    src: "https://img.freepik.com/premium-photo/female-doctor-is-examining-pregnant-womans-belly-1719091031-1_979520-94226.jpg?uid=P172451948&ga=GA1.1.517022815.1751973251&semt=ais_hybrid&w=740&q=80",
     alt: "Antenatal and Post-natal Care",
   },
   sections: [
@@ -41,4 +42,46 @@ export const services = {
     },
   ],
   link: "/our-services/obstetrics/antenatal-and-post-natal-care",
+  obstetricServices: [
+    {
+      title: "Comprehensive Antenatal, Labour and Postnatal Care",
+      link: "/our-services/obstetrics/comprehensive-antenatal-labour-and-postnatal-care",
+    },
+    {
+      title: "Preconceptional Counselling",
+      link: "/our-services/obstetrics/preconceptional-counselling",
+    },
+    {
+      title: "High Risk Pregnancy",
+      link: "/our-services/obstetrics/high-risk-pregnancy",
+    },
+    {
+      title: "Poor Obstetric Past",
+      link: "/our-services/obstetrics/poor-obstetric-past",
+    },
+    {
+      title: "Recurrent Loss of Pregnancy",
+      link: "/our-services/obstetrics/recurrent-loss-of-pregnancy",
+    },
+    {
+      title: "Diabetes in Pregnancy (GDM)",
+      link: "/our-services/obstetrics/diabetes-in-pregnancy-gdm",
+    },
+    {
+      title: "Hypertension in Pregnancy (PIH)",
+      link: "/our-services/obstetrics/hypertension-in-pregnancy-pih",
+    },
+    {
+      title: "Twin/Triplet/Quadruplet Pregnancy",
+      link: "/our-services/obstetrics/twin-triplet-quadruplet-pregnancy",
+    },
+    {
+      title: "Multiple Pregnancies",
+      link: "/our-services/obstetrics/multiple-pregnancies",
+    },
+    {
+      title: "Fetal Growth Restriction",
+      link: "/our-services/obstetrics/fetal-growth-restriction",
+    },
+  ],
 };

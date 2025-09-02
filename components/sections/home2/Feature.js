@@ -30,7 +30,13 @@ export default function Features() {
               <div className="feature-one__single">
                 <div className="feature-one__icon-and-title">
                   <div className="feature-one__icon">
-                    <span className="icon-baby"></span>
+                    <span className="">
+                      <img
+                        src="/assets/flat-icons/obstetrical.svg"
+                        style={{ height: "70px" }}
+                        alt=""
+                      />
+                    </span>
                   </div>
                   <h3 className="feature-one__title">
                     <Link href="/our-services/obstetrics">
@@ -57,7 +63,13 @@ export default function Features() {
               <div className="feature-one__single">
                 <div className="feature-one__icon-and-title">
                   <div className="feature-one__icon">
-                    <span className="icon-heart"></span>
+                    <span className="">
+                      <img
+                        src="/assets/flat-icons/infertile.svg"
+                        style={{ height: "70px" }}
+                        alt=""
+                      />
+                    </span>
                   </div>
                   <h3 className="feature-one__title">
                     <Link href="/our-services/infertility">
@@ -84,7 +96,13 @@ export default function Features() {
               <div className="feature-one__single">
                 <div className="feature-one__icon-and-title">
                   <div className="feature-one__icon">
-                    <span className="icon-female"></span>
+                    <span className="">
+                      <img
+                        src="/assets/flat-icons/gynecology.svg"
+                        style={{ height: "70px" }}
+                        alt=""
+                      />
+                    </span>
                   </div>
                   <h3 className="feature-one__title">
                     <Link href="#">
@@ -114,7 +132,13 @@ export default function Features() {
               <div className="feature-one__single">
                 <div className="feature-one__icon-and-title">
                   <div className="feature-one__icon">
-                    <span className="icon-surgery"></span>
+                    <span className="">
+                      <img
+                        src="/assets/flat-icons/laparoscopy.svg"
+                        style={{ height: "70px" }}
+                        alt=""
+                      />
+                    </span>
                   </div>
                   <h3 className="feature-one__title">
                     <Link href="#">
@@ -141,7 +165,13 @@ export default function Features() {
               <div className="feature-one__single">
                 <div className="feature-one__icon-and-title">
                   <div className="feature-one__icon">
-                    <span className="icon-ultrasound"></span>
+                    <span className="">
+                      <img
+                        src="/assets/flat-icons/ultrasonography.svg"
+                        style={{ height: "60px" }}
+                        alt=""
+                      />
+                    </span>
                   </div>
                   <h3 className="feature-one__title">
                     <Link href="#">

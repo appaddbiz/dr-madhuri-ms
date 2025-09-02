@@ -41,7 +41,13 @@ export default function Process() {
                     }}
                   ></div>
                   <div className="process-one__icon">
-                    <span className="icon-coding"></span>
+                    <span className="">
+                      <img
+                        src="/assets/flat-icons/mother (1).svg"
+                        style={{ height: "70px" }}
+                        alt=""
+                      />
+                    </span>
                   </div>
                   <h3 className="process-one__title">Modern Delivery Suites</h3>
                   <p className="process-one__text">
@@ -71,7 +77,13 @@ export default function Process() {
                     }}
                   ></div>
                   <div className="process-one__icon">
-                    <span className="icon-curve"></span>
+                    <span className="">
+                      <img
+                        src="/assets/flat-icons/scan.svg"
+                        style={{ height: "70px" }}
+                        alt=""
+                      />
+                    </span>
                   </div>
                   <h3 className="process-one__title">
                     Ultrasound & Fetal Scanning
@@ -102,7 +114,13 @@ export default function Process() {
                     }}
                   ></div>
                   <div className="process-one__icon">
-                    <span className="icon-like"></span>
+                    <span className="">
+                      <img
+                        src="/assets/flat-icons/laparoscopy (1).svg"
+                        style={{ height: "70px" }}
+                        alt=""
+                      />
+                    </span>
                   </div>
                   <h3 className="process-one__title">
                     Laparoscopy & Hysteroscopy
@@ -134,7 +152,13 @@ export default function Process() {
                     }}
                   ></div>
                   <div className="process-one__icon">
-                    <span className="icon-bullhorn"></span>
+                    <span className="">
+                      <img
+                        src="/assets/flat-icons/neonatal.svg"
+                        style={{ height: "70px" }}
+                        alt=""
+                      />
+                    </span>
                   </div>
                   <h3 className="process-one__title">NICU & Neonatal Care</h3>
                   <p className="process-one__text">

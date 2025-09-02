@@ -5,13 +5,13 @@ export default function Footer1() {
     <>
       {/*Site Footer Start*/}
       <footer className="site-footer">
-        {/* <div
+        <div
           className="site-footer__bg"
           style={{
             backgroundImage:
-              " url(assets/images/backgrounds/site-footer-bg.jpg)",
+              " url(https://wallpapers.com/images/hd/pregnant-woman-baby-bump-sitting-down-uwu8ykihqmctbd5c.jpg)",
           }}
-        ></div> */}
+        ></div>
         <div className="site-footer__top">
           <div className="container">
             <div className="row">
@@ -34,14 +34,14 @@ export default function Footer1() {
                     ultrasound, providing compassionate women’s healthcare.
                   </p>
                   <div className="site-footer__social-box">
-                    <p>
+                    <p style={{ color: "white" }}>
                       Address : &ensp;
                       <Link href="https://maps.app.goo.gl/UTktM9oMxmkWy6bq6">
                         Pattabhirama Nagar, Jayanagar, Bengaluru, Karnataka
                         560041
                       </Link>
                     </p>
-                    <p>
+                    <p style={{ color: "white" }}>
                       Phone No. :{" "}
                       <Link href="tel:+916361197107">+91 6361197107</Link>
                     </p>

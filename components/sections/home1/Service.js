@@ -10,12 +10,8 @@ export default function Service() {
   const name = pathname.split("/")[2];
   const [data, setData] = useState([]);
 
-  console.log("anme", name);
-  console.log("data", data);
-
   useEffect(() => {
     const update = subServices.filter((ele, i) => {
-      console.log("update", subServices);
       return ele.link === name;
     });
     setData(update);
@@ -60,7 +56,17 @@ export default function Service() {
                       </div>
                       <div className="services-one__content">
                         <h3 className="services-one__title">
-                          <Link href={service.link}>{service.title}</Link>
+                          <Link
+                            href={`/our-services/${service.link}/${(
+                              service.title || "detail"
+                            )
+                              .toLowerCase()
+                              .replace(/[^a-z0-9\s-]/g, "")
+                              .replace(/\s+/g, "-")
+                              .replace(/-+/g, "-")}`}
+                          >
+                            {service.title}
+                          </Link>
                         </h3>
                         <p className="services-one__text">
                           {service.description}

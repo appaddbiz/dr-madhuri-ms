@@ -14,7 +14,7 @@ export default function About() {
             <div className="section-title__tagline-box">
               <div className="section-title__tagline-shape">
                 <img
-                  src="assets/images/shapes/section-title-tagline-shape.png"
+                  src="/assets/images/shapes/section-title-tagline-shape.png"
                   alt=""
                 />
               </div>
@@ -45,7 +45,7 @@ export default function About() {
                   <div className="section-title__tagline-box">
                     <div className="section-title__tagline-shape">
                       <img
-                        src="assets/images/shapes/section-title-tagline-shape.png"
+                        src="/assets/images/shapes/section-title-tagline-shape.png"
                         alt=""
                       />
                     </div>
