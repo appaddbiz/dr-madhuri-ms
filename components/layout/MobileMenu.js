@@ -73,7 +73,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                     isActive.key == 2 ? "dropdown current" : "dropdown"
                   }
                 >
-                  <Link href="/#">About Doctor</Link>
+                  <Link href="#">About Doctor</Link>
                   {/* <ul style={{ display: `${isActive.key == 2 ? "block" : "none"}` }}>                                 
                                         <li><Link href="#">About Doctor</Link></li>
                                         <li><Link href="team">Team</Link></li>
@@ -90,23 +90,23 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                     isActive.key == 3 ? "dropdown current" : "dropdown"
                   }
                 >
-                  <Link href="/#">Our Services</Link>
+                  <Link href="#">Our Services</Link>
                   <ul
                     style={{
                       display: `${isActive.key == 3 ? "block" : "none"}`,
                     }}
                   >
                     <li>
-                      <Link href="services">Obstetrics</Link>
+                      <Link href="#">Obstetrics</Link>
                     </li>
                     <li>
-                      <Link href="digital-marketing">Infertility</Link>
+                      <Link href="#">Infertility</Link>
                     </li>
                     <li>
-                      <Link href="ui-ux-designing">Gynaecology Care</Link>
+                      <Link href="#">Gynaecology Care</Link>
                     </li>
                     <li>
-                      <Link href="app-development">
+                      <Link href="#">
                         Laparoscopy & Hysteroscopy
                       </Link>
                     </li>
@@ -126,7 +126,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                     isActive.key == 4 ? "dropdown current" : "dropdown"
                   }
                 >
-                  <Link href="/#">Testimonials</Link>
+                  <Link href="#">Testimonials</Link>
                   <ul
                     style={{
                       display: `${isActive.key == 4 ? "block" : "none"}`,
