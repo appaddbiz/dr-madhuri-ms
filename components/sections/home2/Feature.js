@@ -39,7 +39,7 @@ export default function Features() {
                     </span>
                   </div>
                   <h3 className="feature-one__title">
-                    <Link href="/our-services/obstetrics">
+                    <Link href="#">
                       Obstetrics <br /> & Pregnancy Care
                     </Link>
                   </h3>
@@ -50,7 +50,7 @@ export default function Features() {
                   preconceptional counselling.
                 </p>
                 <Link
-                  href="/our-services/obstetrics"
+                  href="#"
                   className="feature-one__read-more"
                 >
                   Read More <span className="fas fa-arrow-circle-right"></span>
@@ -75,7 +75,7 @@ export default function Features() {
                     </span>
                   </div>
                   <h3 className="feature-one__title">
-                    <Link href="/our-services/infertility">
+                    <Link href="#">
                       Infertility <br /> Treatments
                     </Link>
                   </h3>
@@ -86,7 +86,7 @@ export default function Features() {
                   parenthood.
                 </p>
                 <Link
-                  href="/our-services/infertility"
+                  href="#"
                   className="feature-one__read-more"
                 >
                   Read More <span className="fas fa-arrow-circle-right"></span>
@@ -111,7 +111,7 @@ export default function Features() {
                     </span>
                   </div>
                   <h3 className="feature-one__title">
-                    <Link href="/our-services/gynaecology">
+                    <Link href="#">
                       Gynaecology <br /> Care
                     </Link>
                   </h3>
@@ -122,7 +122,7 @@ export default function Features() {
                   screenings.
                 </p>
                 <Link
-                  href="/our-services/gynaecology"
+                  href="#"
                   className="feature-one__read-more"
                 >
                   Read More <span className="fas fa-arrow-circle-right"></span>
@@ -151,7 +151,7 @@ export default function Features() {
                   </div>
                   <h3 className="feature-one__title">
                     <Link
-                      href="/our-services/laparoscopy-hysteroscopy"
+                      href="#"
                       style={{ fontSize: "22px" }}
                     >
                       Laparoscopy <br /> & Hysteroscopy
@@ -163,7 +163,7 @@ export default function Features() {
                   hysterectomy, ovarian, tubal, hysteroscopy procedures.
                 </p>
                 <Link
-                  href="/our-services/laparoscopy-hysteroscopy"
+                  href="#"
                   className="feature-one__read-more"
                 >
                   Read More <span className="fas fa-arrow-circle-right"></span>
@@ -188,7 +188,7 @@ export default function Features() {
                     </span>
                   </div>
                   <h3 className="feature-one__title">
-                    <Link href="/our-services/ultrasonography">
+                    <Link href="#">
                       Advanced <br /> Ultrasonography
                     </Link>
                   </h3>
@@ -199,7 +199,7 @@ export default function Features() {
                   health.
                 </p>
                 <Link
-                  href="/our-services/ultrasonography"
+                  href="#"
                   className="feature-one__read-more"
                 >
                   Read More <span className="fas fa-arrow-circle-right"></span>
