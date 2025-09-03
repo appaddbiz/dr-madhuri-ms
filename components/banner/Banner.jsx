@@ -1,0 +1,120 @@
+"use client";
+
+import React, { useEffect } from "react";
+
+const Banner = () => {
+  useEffect(() => {
+    import("bootstrap/dist/js/bootstrap.bundle.min.js");
+  }, []);
+
+  return (
+    <div>
+      <style jsx>{`
+        @media (min-width: 769px) {
+          .mobile-banner {
+            display: none;
+          }
+        }
+        @media (max-width: 768px) {
+          .desk-banner {
+            display: none;
+          }
+        }
+      `}</style>
+
+      <div
+        id="carouselExampleControls"
+        className="carousel slide"
+        data-bs-ride="carousel"
+        style={{ maxWidth: "1800px", margin: "0 auto" }}
+      >
+        <div className="carousel-inner">
+          <div className="carousel-item active">
+            <div>
+              <div className="desk-banner">
+                <img
+                  src="assets/home-image/Banner-2.png"
+                  className="d-block w-100"
+                  alt="..."
+                />
+              </div>
+              <div className="mobile-banner">
+                <img
+                  src="assets/home-image/Banner-2.png"
+                  className="d-block w-100"
+                  alt="..."
+                />
+              </div>
+            </div>
+          </div>
+          <div className="carousel-item">
+            <div>
+              <div className="desk-banner">
+                <img
+                  src="assets/home-image/Banner-4.png"
+                  className="d-block w-100"
+                  alt="..."
+                />
+              </div>
+              <div className="mobile-banner">
+                <img
+                  src="assets/home-image/Banner-4.png"
+                  className="d-block w-100"
+                  alt="..."
+                />
+              </div>
+            </div>
+          </div>
+          {/* 
+          <div className="carousel-item">
+            <div>
+              <div className="desk-banner">
+                <img
+                  src="assets/banners/Self Therapy.webp"
+                  className="d-block w-100"
+                  alt="..."
+                />
+              </div>
+              <div className="mobile-banner">
+                <img
+                  src="assets/mobile-banners/mobile-1-4.webp"
+                  className="d-block w-100"
+                  alt="..."
+                />
+              </div>
+            </div>
+          </div>
+          */}
+        </div>
+        <button
+          className="carousel-control-prev"
+          style={{ backgroundColor: "transparent", border: 0 }}
+          type="button"
+          data-bs-target="#carouselExampleControls"
+          data-bs-slide="prev"
+        >
+          <span
+            className="carousel-control-prev-icon"
+            aria-hidden="true"
+          ></span>
+          <span className="visually-hidden">Previous</span>
+        </button>
+        <button
+          className="carousel-control-next"
+          type="button"
+          style={{ backgroundColor: "transparent", border: 0 }}
+          data-bs-target="#carouselExampleControls"
+          data-bs-slide="next"
+        >
+          <span
+            className="carousel-control-next-icon"
+            aria-hidden="true"
+          ></span>
+          <span className="visually-hidden">Next</span>
+        </button>
+      </div>
+    </div>
+  );
+};
+
+export default Banner;

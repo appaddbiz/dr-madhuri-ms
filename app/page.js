@@ -4,7 +4,7 @@ import Testimonial from "@/components/sections/home3/Testimonial";
 import Blog from "@/components/sections/home1/Blog";
 import Cta from "@/components/sections/home1/Cta";
 import Features from "@/components/sections/home2/Feature";
-import Banner from "@/components/sections/home1/Banner";
+import Banner from "@/components/banner/Banner";
 import Company from "@/components/sections/home2/Company";
 import Project from "@/components/sections/home2/Project";
 import Service2 from "@/components/sections/home3/Service2";
