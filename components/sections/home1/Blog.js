@@ -126,7 +126,7 @@ export default function Blog() {
                 <div className="blog-one__img-box">
                   <div className="blog-one__img">
                     <img
-                      src="https://healinghospital.co.in/wp-content/uploads/2020/08/blog-pregnancy.jpg"
+                      src="https://femia.health/wp-content/uploads/2024/12/C-section-vs-vaginal-birth-title-1200x900.jpg"
                       style={{ aspectRatio: "3/2" }}
                       alt=""
                     />

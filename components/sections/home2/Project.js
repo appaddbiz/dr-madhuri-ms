@@ -31,10 +31,7 @@ export default function Project() {
               <div className="project-one__single">
                 <div className="project-one__img-box">
                   <div className="project-one__img">
-                    <img
-                      src="https://img.freepik.com/free-photo/gynecologist-talking-with-young-female-patient-medical-consultation-modern-clinic-patient-with-gynecologist-consultation-gynecological-office_657921-141.jpg?uid=P172451948&ga=GA1.1.517022815.1751973251&semt=ais_incoming&w=740&q=80"
-                      alt=""
-                    />
+                    <img src="/assets/gallery/IMG-20250903-WA0014.jpg" alt="" />
                   </div>
                   {/* <div className="project-one__content">
                     <h3 className="project-one__title">
@@ -54,10 +51,7 @@ export default function Project() {
               <div className="project-one__single">
                 <div className="project-one__img-box">
                   <div className="project-one__img">
-                    <img
-                      src="https://img.freepik.com/premium-photo/gynecologist-conducting-thorough-consultation-with-patient-modern-clinic_1192423-4425.jpg?uid=P172451948&ga=GA1.1.517022815.1751973251&semt=ais_incoming&w=740&q=80"
-                      alt=""
-                    />
+                    <img src="/assets/gallery/IMG-20250903-WA0015.jpg" alt="" />
                   </div>
                   {/* <div className="project-one__content">
                     <h3 className="project-one__title">
@@ -66,8 +60,8 @@ export default function Project() {
                     <p className="project-one__sub-title">Digital Marketing</p>
                   </div>
                 </div> */}
+                </div>
               </div>
-            </div>
             </div>
             {/*Project One Single End*/}
             {/*Project One Single Start*/}
@@ -78,7 +72,7 @@ export default function Project() {
               <div className="project-one__single">
                 <div className="project-one__img-box">
                   <div className="project-one__img">
-                    <img src="https://img.freepik.com/premium-photo/portrait-young-woman-sitting-bed-home_1048944-30401188.jpg?uid=P172451948&ga=GA1.1.517022815.1751973251&semt=ais_incoming&w=740&q=80" alt="" />
+                    <img src="/assets/gallery/IMG-20250903-WA0016.jpg" alt="" />
                   </div>
                   {/* <div className="project-one__content">
                     <h3 className="project-one__title">
@@ -98,7 +92,7 @@ export default function Project() {
               <div className="project-one__single">
                 <div className="project-one__img-box">
                   <div className="project-one__img">
-                    <img src="https://img.freepik.com/premium-photo/doctor-presenting-ultrasound-image-pregnant-woman_274689-34893.jpg?uid=P172451948&ga=GA1.1.517022815.1751973251&semt=ais_incoming&w=740&q=80" alt="" />
+                    <img src="/assets/gallery/IMG-20250903-WA0017.jpg" alt="" />
                   </div>
                   {/* <div className="project-one__content">
                     <h3 className="project-one__title">
@@ -118,7 +112,7 @@ export default function Project() {
               <div className="project-one__single">
                 <div className="project-one__img-box">
                   <div className="project-one__img">
-                    <img src="https://img.freepik.com/free-photo/close-up-dentist-using-instruments_23-2151053276.jpg?uid=P172451948&ga=GA1.1.517022815.1751973251&semt=ais_incoming&w=740&q=80" alt="" />
+                    <img src="/assets/gallery/IMG-20250903-WA0019.jpg" alt="" />
                   </div>
                   {/* <div className="project-one__content">
                     <h3 className="project-one__title">
@@ -138,7 +132,10 @@ export default function Project() {
               <div className="project-one__single">
                 <div className="project-one__img-box">
                   <div className="project-one__img">
-                    <img src="https://img.freepik.com/premium-photo/young-woman-using-digital-tablet-while-standing-against-white-background_1048944-4248802.jpg?uid=P172451948&ga=GA1.1.517022815.1751973251&semt=ais_incoming&w=740&q=80" alt="" />
+                    <img
+                      src="/assets/gallery/Modern Delivery Suites.jpg"
+                      alt=""
+                    />
                   </div>
                   {/* <div className="project-one__content">
                     <h3 className="project-one__title">
