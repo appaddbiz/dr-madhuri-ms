@@ -1,7 +1,16 @@
-import { services } from "@/utils/services";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
+import React from "react";
+
+function slugToTitle(slug) {
+  return slug.replace(/-/g, " ").replace(/\b\w/g, (l) => l.toUpperCase());
+}
 
 export default function Breadcrumb({ breadcrumbTitle, heading }) {
+  const pathname = usePathname();
+  const parts = pathname.split("/").filter(Boolean);
+  const dynamicHeading =
+    heading || (parts.length > 0 ? slugToTitle(parts[parts.length - 1]) : "");
 
   return (
     <>
@@ -33,24 +42,19 @@ export default function Breadcrumb({ breadcrumbTitle, heading }) {
                 <li>
                   <Link href="/">Home</Link>
                 </li>
-                <li>
-                  <span>-</span>
-                </li>
-                <li>
-                  <Link href={`/our-services`}>Our Services</Link>
-                </li>
-                <li>
-                  <span>-</span>
-                </li>
-                <li>
-                  <Link href={`/our-services/${heading.toLowerCase()}`}>
-                    {heading}
-                  </Link>
-                </li>
-                {/* <li>
-                  <span>-</span>
-                </li> */}
-                {/* <li>{serv.title}</li> */}
+                {parts.map((part, idx) => {
+                  const href = "/" + parts.slice(0, idx + 1).join("/");
+                  return (
+                    <React.Fragment key={href}>
+                      <li>
+                        <span>-</span>
+                      </li>
+                      <li>
+                        <Link href={href}>{slugToTitle(part)}</Link>
+                      </li>
+                    </React.Fragment>
+                  );
+                })}
               </ul>
             </div>
             {/* <h2>{breadcrumbTitle}</h2> */}

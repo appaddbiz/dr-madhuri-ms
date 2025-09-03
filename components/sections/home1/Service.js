@@ -31,9 +31,9 @@ export default function Service() {
             <div className="section-title text-center">
               <div className="section-title__tagline-box">
                 <div className="section-title__tagline-shape"></div>
-                {/* <span className="section-title__tagline">
-                  {[...new Set(subServices.map((item) => item.mainService))]}
-                </span> */}
+                <span className="section-title__tagline">
+                  {data.length > 0 ? data[0].mainService : ""}
+                </span>
               </div>
               <h2 className="section-title__title">
                 Caring for every stage of motherhood with compassion and

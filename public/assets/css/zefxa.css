@@ -693,7 +693,7 @@ a.video-popup {
   position: relative;
   display: block;
   /* background-color: var(--zefxa-black); */
-  background-color: #F50963;
+  background-color: #f50963;
 }
 
 .main-menu__top .container {
@@ -5109,7 +5109,7 @@ a.video-popup {
   font-size: 24px;
   font-weight: 600;
   line-height: 32px;
-  color: var(--zefxa-white);  
+  color: var(--zefxa-white);
   margin-top: 18px;
   margin-bottom: 23px;
 }
@@ -8992,7 +8992,7 @@ a.video-popup {
 .team-details {
   position: relative;
   display: block;
-  padding: 120px 0 113px;
+  padding: 80px 0 80px;
   z-index: 1;
 }
 

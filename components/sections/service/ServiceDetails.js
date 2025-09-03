@@ -19,8 +19,12 @@ const ServiceDetails = () => {
   const parts = pathname.split("/").filter(Boolean);
   const detailSlug = parts[2];
 
-  const isCurrentService = services && slugify(services.title) === detailSlug;
-  const pageData = isCurrentService ? services : null;
+  // Find the service object that matches the slug
+  const pageData = Array.isArray(services)
+    ? services.find(
+        (service) => service.title && slugify(service.title) === detailSlug
+      )
+    : null;
 
   return (
     <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Digital Marketing">
@@ -93,16 +97,14 @@ const ServiceDetails = () => {
                 <div className="sidebar__single service-details__service-box">
                   <h3 className="sidebar__title">All Services</h3>
                   <ul className="service-details__service-list list-unstyled">
-                    <li className="active">
-                      {services.obstetricServices.map((title) => (
-                        <li key={title.title}>
-                          <Link href={title.link}>
-                            {title.title}
-                            <span className="fas fa-angle-right"></span>
-                          </Link>
-                        </li>
-                      ))}
-                    </li>
+                    {pageData?.obstetricServices?.map((service) => (
+                      <li key={service.title}>
+                        <Link href={service.link}>
+                          {service.title}
+                          <span className="fas fa-angle-right"></span>
+                        </Link>
+                      </li>
+                    ))}
                   </ul>
                 </div>
                 <div className="sidebar__single service-details__need-help">

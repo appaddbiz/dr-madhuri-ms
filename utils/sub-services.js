@@ -74,7 +74,7 @@ export const subServices = [
     mainService: "Our Obstetrics Services",
     img: "/assets/services/Quadruplet Pregnancy.jpg",
     icon: "/assets/flat-icons/phone-call.svg",
-    title: "Twin/Triplet/Quadruplet Pregnancy",
+    title: "Twin / Triplet / Quadruplet Pregnancy",
     link: "obstetrics",
     description:
       "Advanced care for multiple pregnancies with specialized monitoring to ensure safety of mother and babies.",
@@ -98,16 +98,6 @@ export const subServices = [
     link: "obstetrics",
     description:
       "Early detection and management of restricted fetal growth to improve pregnancy outcomes and healthy delivery.",
-  },
-  {
-    id: 11,
-    mainService: "Our Infertility Services",
-    img: "/assets/services/Infertility.webp",
-    icon: "/assets/flat-icons/phone-call.svg",
-    title: "Infertility",
-    link: "infertility",
-    description:
-      "Comprehensive infertility care with evaluation, ovulation induction, and advanced treatments to support conception.",
   },
   {
     id: 12,
@@ -140,16 +130,6 @@ export const subServices = [
       "A simple and effective fertility treatment placing prepared sperm directly into the uterus.",
   },
   {
-    id: 15,
-    mainService: "Our Gynaecology Services",
-    img: "/assets/services/Gynaecology Care.png",
-    icon: "/assets/flat-icons/phone-call.svg",
-    title: "Gynaecology Care",
-    link: "gynaecology",
-    description:
-      "Comprehensive women’s health care covering prevention, diagnosis, and treatment of gynaecological conditions.",
-  },
-  {
     id: 16,
     mainService: "Our Gynaecology Services",
     img: "/assets/services/Fibroids Uterus.jpg",
@@ -174,7 +154,7 @@ export const subServices = [
     mainService: "Our Gynaecology Services",
     img: "/assets/services/Abnormal Bleeding.webp",
     icon: "/assets/flat-icons/phone-call.svg",
-    title: "Abnormal/Dysfunctional Uterus Bleeding",
+    title: "Abnormal / Dysfunctional Uterus Bleeding",
     link: "gynaecology",
     description:
       "Evaluation and treatment of heavy or irregular bleeding to restore normal uterine function.",
@@ -244,20 +224,10 @@ export const subServices = [
     mainService: "Our Gynaecology Services",
     img: "/assets/services/Annual Checkups.jpeg",
     icon: "/assets/flat-icons/phone-call.svg",
-    title: "Annual Check-ups & Preventive Screenings",
+    title: "Annual Check-ups and Preventive Screenings",
     link: "gynaecology",
     description:
       "Routine health check-ups and screenings to detect issues early and maintain long-term wellness.",
-  },
-  {
-    id: 26,
-    mainService: "Our Laparoscopy & Hysteroscopy Services",
-    img: "/assets/services/Laparoscopy Hysteroscopy.jpg",
-    icon: "/assets/flat-icons/phone-call.svg",
-    title: "Laparoscopy & Hysteroscopy",
-    link: "laparoscopy-hysteroscopy",
-    description:
-      "Advanced minimally invasive diagnostic and operative procedures for effective women’s healthcare.",
   },
   {
     id: 27,
@@ -378,16 +348,6 @@ export const subServices = [
     link: "laparoscopy-hysteroscopy",
     description:
       "Safe and permanent contraceptive procedure by blocking fallopian tubes using laparoscopy.",
-  },
-  {
-    id: 39,
-    mainService: "Our Ultrasonography Services",
-    img: "/assets/services/Ultrasonography.jpg",
-    icon: "/assets/flat-icons/phone-call.svg",
-    title: "Ultrasonography",
-    link: "ultrasonography",
-    description:
-      "Comprehensive ultrasound imaging services to aid in accurate diagnosis and women’s healthcare.",
   },
   {
     id: 40,

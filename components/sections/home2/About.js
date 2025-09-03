@@ -33,7 +33,7 @@ export default function About() {
               >
                 <div className="about-two__img" style={{ marginTop: "50px" }}>
                   <img
-                    src="https://img.freepik.com/premium-vector/woman-waiting-gynecology-consultation-illustrated_23-2148680564.jpg"
+                    src="/assets/home-image/doctorpic.jpg"
                     alt="Dr. Madhuri M S"
                   />
                 </div>
