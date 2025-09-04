@@ -9,6 +9,10 @@ import { dmSans, manrope } from "@/lib/font";
 export const metadata = {
   title: "Dr. Madhuri M S",
   description: "Compassionate care, expertise in women’s health",
+  icons: {
+    icon: "/assets/home-image/favicon.png",
+    apple: "/assets/home-image/favicon.png",
+  },
 };
 
 export default function RootLayout({ children }) {
