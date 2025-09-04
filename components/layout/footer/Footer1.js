@@ -23,7 +23,7 @@ export default function Footer1() {
                   <div className="footer-widget__logo">
                     <Link href="/">
                       <img
-                        src="/assets/images/resources/footer-logo.png"
+                        src="/assets/home-image/Dr Madhuri-mobile.png"
                         alt=""
                       />
                     </Link>
