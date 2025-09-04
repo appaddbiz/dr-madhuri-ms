@@ -24,6 +24,7 @@ export default function Footer1() {
                     <Link href="/">
                       <img
                         src="/assets/home-image/Dr Madhuri-mobile.png"
+                        style={{ width: "250px" }}
                         alt=""
                       />
                     </Link>
