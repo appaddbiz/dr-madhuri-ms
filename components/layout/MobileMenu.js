@@ -42,8 +42,8 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
           <div className="logo-box">
             <Link href="/" aria-label="logo image">
               <img
-                src="/assets/images/resources/logo-1.png"
-                width="150"
+                src="/assets/home-image/Dr Madhuri-mobile.png"
+                width="180"
                 alt=""
               />
             </Link>
@@ -106,9 +106,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       <Link href="#">Gynaecology Care</Link>
                     </li>
                     <li>
-                      <Link href="#">
-                        Laparoscopy & Hysteroscopy
-                      </Link>
+                      <Link href="#">Laparoscopy & Hysteroscopy</Link>
                     </li>
                     <li>
                       <Link href="graphic-designing">Ultrasonography</Link>
@@ -126,7 +124,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                     isActive.key == 4 ? "dropdown current" : "dropdown"
                   }
                 >
-                  <Link href="#">Testimonials</Link>
+                  <Link href="#">Gallery</Link>
                   <ul
                     style={{
                       display: `${isActive.key == 4 ? "block" : "none"}`,

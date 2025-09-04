@@ -1315,7 +1315,7 @@ a.video-popup {
   position: relative;
   height: 100%;
   overflow-y: auto;
-  padding-top: 30px;
+  padding-top: 20px;
   padding-bottom: 30px;
   padding-left: 15px;
   padding-right: 15px;
@@ -1349,7 +1349,7 @@ a.video-popup {
 }
 
 .mobile-nav__content .logo-box {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -12109,6 +12109,10 @@ a.video-popup {
   }
   .main-menu__logo img {
     height: 60px;
+  }
+  .faq-one {
+    padding-top: 70px !important;
+    padding-bottom: 70px !important;
   }
 }
 @media only screen and (min-width: 768px) {
