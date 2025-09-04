@@ -844,7 +844,7 @@ a.video-popup {
 .main-menu__logo {
   position: relative;
   display: block;
-  padding: 20.5px 0;
+  padding: 10px 0;
   z-index: 1;
 }
 
@@ -7828,7 +7828,7 @@ a.video-popup {
   top: 0;
   left: 0;
   bottom: 0;
-  width: calc((100% - 110px) / 2);
+  width: calc((100% - 100px) / 2);
   background-size: cover;
   background-position: top left;
   background-repeat: no-repeat;
@@ -11186,7 +11186,7 @@ a.video-popup {
   }
 
   .company-benefits {
-    /* padding: 120px 0 111px; */
+    padding: 50px 0 31px;
   }
 
   .testimonial-two__shape-1 {
@@ -12107,6 +12107,9 @@ a.video-popup {
   .section-title {
     text-align: center;
   }
+  .main-menu__logo img {
+    height: 60px;
+  }
 }
 @media only screen and (min-width: 768px) {
   .mobile-view {
@@ -12114,5 +12117,8 @@ a.video-popup {
   }
   .desk-view {
     display: block;
+  }
+  .main-menu__logo img {
+    height: 70px;
   }
 }

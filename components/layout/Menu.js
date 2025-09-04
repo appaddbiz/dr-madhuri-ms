@@ -239,7 +239,7 @@ export default function Menu() {
 
         <li className="dropdown">
           <Link href="#">
-            Testimonial
+            Gallery
             <span className="main-menu-border"></span>
           </Link>
           {/* <ul>

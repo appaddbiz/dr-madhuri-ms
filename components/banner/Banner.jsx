@@ -33,14 +33,14 @@ const Banner = () => {
             <div>
               <div className="desk-banner">
                 <img
-                  src="assets/home-image/Banner-2.png"
+                  src="/assets/home-image/B1.webp"
                   className="d-block w-100"
                   alt="..."
                 />
               </div>
               <div className="mobile-banner">
                 <img
-                  src="assets/home-image/Banner-2.png"
+                  src="/assets/home-image/MB 1.webp"
                   className="d-block w-100"
                   alt="..."
                 />
@@ -51,40 +51,39 @@ const Banner = () => {
             <div>
               <div className="desk-banner">
                 <img
-                  src="assets/home-image/Banner-4.png"
+                  src="/assets/home-image/B3.webp"
                   className="d-block w-100"
                   alt="..."
                 />
               </div>
               <div className="mobile-banner">
                 <img
-                  src="assets/home-image/Banner-4.png"
+                  src="/assets/home-image/MB 3.webp"
                   className="d-block w-100"
                   alt="..."
                 />
               </div>
             </div>
           </div>
-          {/* 
+
           <div className="carousel-item">
             <div>
               <div className="desk-banner">
                 <img
-                  src="assets/banners/Self Therapy.webp"
+                  src="/assets/home-image/B2.webp"
                   className="d-block w-100"
                   alt="..."
                 />
               </div>
               <div className="mobile-banner">
                 <img
-                  src="assets/mobile-banners/mobile-1-4.webp"
+                  src="/assets/home-image/MB 2.webp"
                   className="d-block w-100"
                   alt="..."
                 />
               </div>
             </div>
           </div>
-          */}
         </div>
         <button
           className="carousel-control-prev"

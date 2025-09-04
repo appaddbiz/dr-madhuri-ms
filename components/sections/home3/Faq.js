@@ -25,7 +25,7 @@ export default function Faq() {
         <div
           className="faq-one__bg"
           style={{
-            backgroundImage: " url(/assets/home-image/faq.jpg)",
+            backgroundImage: " url(/assets/gallery/IMG-20250903-WA0033.jpg)",
           }}
         ></div>
         <div className="container">
@@ -149,7 +149,6 @@ export default function Faq() {
                       </div>
                     </div>
                   </div>
-                  
                 </div>
               </div>
             </div>

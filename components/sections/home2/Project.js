@@ -92,7 +92,7 @@ export default function Project() {
               <div className="project-one__single">
                 <div className="project-one__img-box">
                   <div className="project-one__img">
-                    <img src="/assets/gallery/IMG-20250903-WA0017.jpg" alt="" />
+                    <img src="/assets/gallery/IMG-20250903-WA0032.jpg" style={{aspectRatio:"3/2"}} alt="" />
                   </div>
                   {/* <div className="project-one__content">
                     <h3 className="project-one__title">
@@ -145,6 +145,11 @@ export default function Project() {
                   </div> */}
                 </div>
               </div>
+            </div>
+            <div className="main-menu__btn-box text-center">
+              <Link href="contact" className="main-menu__btn thm-btn ">
+                View All Images
+              </Link>
             </div>
             {/*Project One Single End*/}
           </div>
