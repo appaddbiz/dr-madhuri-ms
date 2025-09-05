@@ -26,7 +26,7 @@ export default function Menu() {
         </li>
         <li>
           <Link href="#">
-            About Doctor
+            Doctor
             <span className="main-menu-border"></span>
           </Link>
         </li>
