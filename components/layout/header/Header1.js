@@ -138,7 +138,7 @@ export default function Header1({
                                     </div> */}
                     <div className="main-menu__btn-box">
                       <Link href="contact" className="main-menu__btn thm-btn">
-                        Get Appointment
+                        Appointment
                       </Link>
                     </div>
                   </div>
