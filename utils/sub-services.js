@@ -32,6 +32,16 @@ export const subServices = [
   {
     id: 4,
     mainService: "Our Obstetrics Services",
+    img: "/assets/services/Previous Cesarean Pregnancy.jpg",
+    icon: "/assets/flat-icons/phone-call.svg",
+    title: "Previous Cesarean Pregnancy - TOLAC",
+    link: "obstetrics",
+    description:
+      "Comprehensive evaluation and guidance for women with a previous cesarean delivery, offering safe Trial of Labour After Cesarean (TOLAC) options to support vaginal birth when possible.",
+  },
+  {
+    id: 4,
+    mainService: "Our Obstetrics Services",
     img: "/assets/services/Poor Obstetric Past.jpg",
     icon: "/assets/flat-icons/phone-call.svg",
     title: "Poor Obstetric Past",

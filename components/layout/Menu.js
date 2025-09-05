@@ -44,27 +44,24 @@ export default function Menu() {
                         <li><Link href="404">404 Error</Link></li>
                     </ul>
                 </li> */}
+        {/* Obstetrics Menu */}
         <li className="dropdown">
           <Link href="#">
-            Services
+            Obstetrics
             <span className="main-menu-border"></span>
           </Link>
           <ul
             className="col-xl-12"
             style={{
-              width: "1200px",
+              width: "700px",
               position: "absolute",
-              left: "-450px",
+              left: "-150px",
               padding: "20px",
             }}
           >
             <ul className="row">
-              {/* Obstetrics */}
-              <li className="col-xl-3 dropdown" style={{ listStyle: "none" }}>
-                <Link href="#" style={{ textTransform: "uppercase" }}>
-                  Obstetrics
-                </Link>
-                <span className="main-menu-border"></span>
+              {/* Pregnancy & Care */}
+              <li className="col-xl-6 dropdown" style={{ listStyle: "none" }}>
                 <ul style={{ listStyle: "none" }}>
                   <li>
                     <Link href="#">
@@ -74,42 +71,42 @@ export default function Menu() {
                   <li>
                     <Link href="#">Preconceptional Counselling</Link>
                   </li>
-                  <li className="dropdown" style={{ listStyle: "none" }}>
+                  <li>
                     <Link href="#">High Risk Pregnancy</Link>
-                    {/* <ul style={{ listStyle: "none" }}> */}
-                    <li>
-                      <Link href="#">Poor Obstetric Past</Link>
-                    </li>
-                    <li>
-                      <Link href="#">Recurrent Loss of Pregnancy</Link>
-                    </li>
-                    <li>
-                      <Link href="#">Diabetes in Pregnancy (GDM)</Link>
-                    </li>
-                    <li>
-                      <Link href="#">Hypertension in Pregnancy (PIH)</Link>
-                    </li>
-                    <li>
-                      <Link href="#">Twin/Triplet/Quadruplet Pregnancy</Link>
-                    </li>
-                    <li>
-                      <Link href="#">Multiple Pregnancies</Link>
-                    </li>
-                    <li>
-                      <Link href="#">Fetal Growth Restriction</Link>
-                    </li>
-                    {/* </ul> */}
+                  </li>
+                  <li>
+                    <Link href="#">Previous cesarean pregnancy- TOLAC</Link>
+                  </li>
+                  <li>
+                    <Link href="#">Poor Obstetric Past</Link>
+                  </li>
+                  <li>
+                    <Link href="#">Recurrent Loss of Pregnancy</Link>
+                  </li>
+                  <li>
+                    <Link href="#">Diabetes in Pregnancy (GDM)</Link>
+                  </li>
+                  <li>
+                    <Link href="#">Hypertension in Pregnancy (PIH)</Link>
+                  </li>
+                  <li>
+                    <Link href="#">Twin/Triplet/Quadruplet Pregnancy</Link>
+                  </li>
+                  <li>
+                    <Link href="#">Multiple Pregnancies</Link>
+                  </li>
+                  <li>
+                    <Link href="#">Fetal Growth Restriction</Link>
                   </li>
                 </ul>
               </li>
 
               {/* Infertility */}
-              <li className="col-xl-3 dropdown" style={{ listStyle: "none" }}>
-                <Link href="#" style={{ textTransform: "uppercase" }}>
-                  Infertility
-                </Link>
-                <span className="main-menu-border"></span>
+              <li className="col-xl-6 dropdown" style={{ listStyle: "none" }}>
                 <ul style={{ listStyle: "none" }}>
+                  <li>
+                    <Link href="#">Infertility</Link>
+                  </li>
                   <li>
                     <Link href="#">Complete Evaluation</Link>
                   </li>
@@ -121,13 +118,28 @@ export default function Menu() {
                   </li>
                 </ul>
               </li>
+            </ul>
+          </ul>
+        </li>
 
+        {/* Gynaecology Menu */}
+        <li className="dropdown">
+          <Link href="#">
+            Gynaecology
+            <span className="main-menu-border"></span>
+          </Link>
+          <ul
+            className="col-xl-12"
+            style={{
+              width: "1200px",
+              position: "absolute",
+              left: "-550px",
+              padding: "20px",
+            }}
+          >
+            <ul className="row">
               {/* Gynaecology Care */}
-              <li className="col-xl-3 dropdown" style={{ listStyle: "none" }}>
-                <Link href="#" style={{ textTransform: "uppercase" }}>
-                  Gynaecology Care
-                </Link>
-                <span className="main-menu-border"></span>
+              <li className="col-xl-4 dropdown" style={{ listStyle: "none" }}>
                 <ul style={{ listStyle: "none" }}>
                   <li>
                     <Link href="#">Fibroids / Leiomyoma of Uterus</Link>
@@ -165,12 +177,12 @@ export default function Menu() {
               </li>
 
               {/* Laparoscopy & Hysteroscopy */}
-              <li className="col-xl-3 dropdown" style={{ listStyle: "none" }}>
-                <Link href="#" style={{ textTransform: "uppercase" }}>
-                  Laparoscopy & Hysteroscopy
-                </Link>
+              <li className="col-xl-4 dropdown" style={{ listStyle: "none" }}>
                 <span className="main-menu-border"></span>
                 <ul style={{ listStyle: "none" }}>
+                  <li>
+                    <Link href="#">Laparoscopy & Hysteroscopy</Link>
+                  </li>
                   <li>
                     <Link href="#">Diagnostic Hystero-Laparoscopy</Link>
                   </li>
@@ -213,15 +225,11 @@ export default function Menu() {
               </li>
 
               {/* Ultrasonography */}
-              <li
-                className="col-xl-3 dropdown"
-                style={{ listStyle: "none", top: "-80px" }}
-              >
-                <Link href="#" style={{ textTransform: "uppercase" }}>
-                  Ultrasonography
-                </Link>
-                <span className="main-menu-border"></span>
+              <li className="col-xl-4 dropdown" style={{ listStyle: "none" }}>
                 <ul style={{ listStyle: "none" }}>
+                  <li>
+                    <Link href="#">Ultrasonography</Link>
+                  </li>
                   <li>
                     <Link href="#">Transvaginal Scan</Link>
                   </li>

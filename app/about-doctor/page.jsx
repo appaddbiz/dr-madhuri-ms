@@ -51,87 +51,37 @@ export default function Home() {
                       <h2 className="section-title__title">Dr. Madhuri M S</h2>
                     </div>
                     <p className="team-details__text">
-                      <strong>MBBS, MS - Obstetrics & Gynaecology</strong>
+                      <strong>
+                        MBBS, MS (OBG), FMAS, Diploma in Gynaecological
+                        Ultrasound
+                      </strong>
                       <br />
-                      Gynecologist, Obstetrician, Infertility Specialist
-                      <br />
-                      <span>
-                        16 Years Experience Overall (10 years as specialist)
-                      </span>
+                      Obstetrician, Gynaecologist, Infertility Specialist
                     </p>
-                    <p className="team-details__text">
-                      Dr. Madhuri M S is a Gynecologist, Obstetrician and
-                      Infertility Specialist in Banashankari 2nd Stage,
-                      Bangalore and has an experience of 16 years in these
-                      fields (10 years as a specialist). She practices at G and
-                      G Speciality Clinic, Banashankari 2nd Stage, Bangalore.
+                    <p
+                      className="team-details__text"
+                      style={{ textAlign: "justify" }}
+                    >
+                      Dr. Madhuri M S is a distinguished Obstetrician and
+                      Gynaecologist with qualifications in MBBS, MS (OBG), FMAS,
+                      and a Diploma in Gynaecological Ultrasound. She has
+                      trained and practiced in high-volume centres, which has
+                      provided her with substantial experience in the management
+                      of high-risk pregnancies, infertility care, minimally
+                      invasive laparoscopic procedures, and gynaecological
+                      ultrasound.
                       <br />
-                      She completed MBBS from Adichunchanagiri Institute of
-                      Medical Sciences, Bellur in 2008, MS - Obstetrics and
-                      Gynaecology from Vydehi Institute of Medical Sciences and
-                      Research Centre, Bangalore in 2013, and Fellowship in
-                      Minimal Access Surgery from GEM Institute, Coimbatore in
-                      2016.
+                      Her clinical practice is founded on the principles of
+                      safety, evidence-based medicine, and compassionate care,
+                      ensuring that women receive the highest standards of
+                      healthcare across all stages of life.
+                      <br />
+                      With a strong academic background and proven clinical
+                      expertise, Dr. Madhuri is committed to advancing women’s
+                      health by offering comprehensive guidance, preventive
+                      strategies, and modern therapeutic options, thereby
+                      promoting better outcomes and healthier futures.
                     </p>
-                    <ul className="team-details__points list-unstyled">
-                      <li>
-                        <div className="icon">
-                          <span className="icon-check"></span>
-                        </div>
-                        <p>
-                          Gynecologist, Obstetrician and Infertility Specialist
-                        </p>
-                      </li>
-                      <li>
-                        <div className="icon">
-                          <span className="icon-check"></span>
-                        </div>
-                        <p>Specialist in Minimal Access Surgery</p>
-                      </li>
-                    </ul>
-                    {/* <div className="team-details__call-box">
-                      <ul className="team-details__call-list list-unstyled">
-                        <li>
-                          <p>
-                            Clinic :{" "}
-                            <span>
-                              G and G Speciality Clinic, Banashankari 2nd Stage,
-                              Bangalore
-                            </span>
-                          </p>
-                        </li>
-                        <li>
-                          <p>
-                            Qualification :{" "}
-                            <span>
-                              MBBS, MS (OBG), Fellowship in Minimal Access
-                              Surgery
-                            </span>
-                          </p>
-                        </li>
-                      </ul>
-                      <ul className="team-details__call-list team-details__call-list-2 list-unstyled">
-                        <li>
-                          <p>
-                            Experience :{" "}
-                            <span>
-                              16 Years Overall (10 Years as Specialist)
-                            </span>
-                          </p>
-                        </li>
-                        <li>
-                          <p>
-                            Patient Trust : <span>99% (293 Patients)</span>
-                          </p>
-                        </li>
-                        <li>
-                          <p>
-                            Location :{" "}
-                            <span>Banashankari 2nd Stage, Bangalore</span>
-                          </p>
-                        </li>
-                      </ul>
-                    </div> */}
                   </div>
                 </div>
               </div>
@@ -215,7 +165,7 @@ export default function Home() {
         {/*Team Details End*/}
 
         {/*CTA One Start*/}
-          <Cta />
+        <Cta />
         {/*CTA One End*/}
       </Layout>
     </>

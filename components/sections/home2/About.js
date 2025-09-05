@@ -59,24 +59,32 @@ export default function About() {
                   className="about-two__text-2"
                   style={{ textAlign: "justify" }}
                 >
-                  Dr. Madhuri M S is a highly skilled Obstetrician and
-                  Gynaecologist with qualifications in
-                  <strong> MBBS, MS (OBG), FMAS</strong> and a{" "}
-                  <strong>Diploma in Gynaecological Ultrasound</strong>. She
-                  brings extensive expertise in managing high-risk pregnancies,
-                  infertility care, minimally invasive laparoscopic surgeries,
-                  and advanced gynaecological ultrasound. Her practice is
-                  centered on delivering safe, evidence-based, and compassionate
-                  healthcare to women at every stage of life.
+                  Dr. Madhuri M S is a distinguished Obstetrician and
+                  Gynaecologist with qualifications in MBBS, MS (OBG), FMAS, and
+                  a Diploma in Gynaecological Ultrasound. She has trained and
+                  practiced in high-volume centres, which has provided her with
+                  substantial experience in the management of high-risk
+                  pregnancies, infertility care, minimally invasive laparoscopic
+                  procedures, and gynaecological ultrasound.
                 </p>
                 <p
                   className="about-two__text-2"
                   style={{ textAlign: "justify" }}
                 >
-                  With her strong academic background and clinical excellence,
-                  Dr. Madhuri is committed to empowering women with the right
-                  guidance, preventive care, and modern treatment options for a
-                  healthier future.
+                  Her clinical practice is founded on the principles of safety,
+                  evidence-based medicine, and compassionate care, ensuring that
+                  women receive the highest standards of healthcare across all
+                  stages of life.
+                </p>
+                <p
+                  className="about-two__text-2"
+                  style={{ textAlign: "justify" }}
+                >
+                  With a strong academic background and proven clinical
+                  expertise, Dr. Madhuri is committed to advancing women’s
+                  health by offering comprehensive guidance, preventive
+                  strategies, and modern therapeutic options, thereby promoting
+                  better outcomes and healthier futures.
                 </p>
                 <div className="about-two__client-info">
                   <div className="about-two__client-content">

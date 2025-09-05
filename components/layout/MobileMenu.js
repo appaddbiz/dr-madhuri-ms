@@ -90,26 +90,168 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                     isActive.key == 3 ? "dropdown current" : "dropdown"
                   }
                 >
-                  <Link href="#">Our Services</Link>
+                  <Link href="#">Obstetrics</Link>
                   <ul
                     style={{
                       display: `${isActive.key == 3 ? "block" : "none"}`,
                     }}
                   >
                     <li>
-                      <Link href="#">Obstetrics</Link>
+                      <Link href="#">
+                        Comprehensive Antenatal, Labour and Postnatal Care
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="#">Preconceptional Counselling</Link>
+                    </li>
+                    <li>
+                      <Link href="#">High Risk Pregnancy</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Previous cesarean pregnancy- TOLAC</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Poor Obstetric Past</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Recurrent Loss of Pregnancy</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Diabetes in Pregnancy (GDM)</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Hypertension in Pregnancy (PIH)</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Twin/Triplet/Quadruplet Pregnancy</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Multiple Pregnancies</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Fetal Growth Restriction</Link>
                     </li>
                     <li>
                       <Link href="#">Infertility</Link>
                     </li>
                     <li>
-                      <Link href="#">Gynaecology Care</Link>
+                      <Link href="#">Complete Evaluation</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Ovulation Induction</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Intra-Uterine Insemination (IUI)</Link>
+                    </li>
+                  </ul>
+                  <button
+                    className={isActive.key == 3 ? "expanded open" : ""}
+                    onClick={() => handleToggle(3)}
+                  >
+                    <span className="fa fa-angle-right" />
+                  </button>
+                </li>
+                <li
+                  className={
+                    isActive.key == 3 ? "dropdown current" : "dropdown"
+                  }
+                >
+                  <Link href="#">Gynaecology</Link>
+                  <ul
+                    style={{
+                      display: `${isActive.key == 3 ? "block" : "none"}`,
+                    }}
+                  >
+                    <li>
+                      <Link href="#">Fibroids / Leiomyoma of Uterus</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Fibroids of Cervix</Link>
+                    </li>
+                    <li>
+                      <Link href="#">
+                        Abnormal/Dysfunctional Uterus Bleeding
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="#">Endometriosis</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Ovarian Cysts</Link>
+                    </li>
+                    <li>
+                      <Link href="#">
+                        Chocolate Cyst : Endometrioma of Ovary
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="#">Hormone Imbalances</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Severe Pelvic Pain Management</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Menopausal and Perimenopausal Care</Link>
+                    </li>
+                    <li>
+                      <Link href="#">
+                        Annual Check-ups & Preventive Screenings
+                      </Link>
                     </li>
                     <li>
                       <Link href="#">Laparoscopy & Hysteroscopy</Link>
                     </li>
                     <li>
-                      <Link href="graphic-designing">Ultrasonography</Link>
+                      <Link href="#">Diagnostic Hystero-Laparoscopy</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Operative Hystero-Laparoscopy</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Laparoscopic Myomectomy</Link>
+                    </li>
+                    <li>
+                      <Link href="#">
+                        Total Laparoscopic Hysterectomy (TLH)
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="#">Diagnostic Hysteroscopy</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Hysteroscopic Septal Resection</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Hysteroscopic Polypectomy</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Tubal Re-canalisation</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Chromopertubation</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Laparoscopic Ovarian Cystectomy</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Tubal Clipping (Hydrosalpinx)</Link>
+                    </li>
+                    <li>
+                      <Link href="#">
+                        Laparoscopic Tubal Occlusion (Permanent Sterilization)
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="#">Ultrasonography</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Transvaginal Scan</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Saline Sonography</Link>
+                    </li>
+                    <li>
+                      <Link href="#">3D</Link>
                     </li>
                   </ul>
                   <button

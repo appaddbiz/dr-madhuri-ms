@@ -84,6 +84,10 @@ export const services = [
         title: "Fetal Growth Restriction",
         link: "/our-services/obstetrics/fetal-growth-restriction",
       },
+      {
+        title: "Previous Cesarean Pregnancy - TOLAC",
+        link: "/our-services/obstetrics/previous-cesarean-pregnancy-tolac",
+      },
     ],
   },
   {
@@ -171,6 +175,10 @@ export const services = [
       {
         title: "Fetal Growth Restriction",
         link: "/our-services/obstetrics/fetal-growth-restriction",
+      },
+      {
+        title: "Previous Cesarean Pregnancy - TOLAC",
+        link: "/our-services/obstetrics/previous-cesarean-pregnancy-tolac",
       },
     ],
   },
@@ -262,8 +270,110 @@ export const services = [
         title: "Fetal Growth Restriction",
         link: "/our-services/obstetrics/fetal-growth-restriction",
       },
+      {
+        title: "Previous Cesarean Pregnancy - TOLAC",
+        link: "/our-services/obstetrics/previous-cesarean-pregnancy-tolac",
+      },
     ],
   },
+  {
+    title: "Previous Cesarean Pregnancy - TOLAC",
+    heading: "Obstetrics",
+    introduction:
+      "Many women who have had a previous cesarean delivery can still plan for a vaginal birth in their next pregnancy through a carefully monitored process known as TOLAC (Trial of Labour After Cesarean). At the clinic of Dr. Madhuri M S, we provide thorough assessment, guidance, and expert supervision to support safe vaginal birth after cesarean (VBAC) whenever possible.",
+    image: {
+      src: "/assets/services/Previous Cesarean Pregnancy.jpg",
+      alt: "Previous Cesarean Pregnancy TOLAC Care",
+    },
+    sections: [
+      {
+        heading: "What is TOLAC?",
+        description:
+          "TOLAC refers to the attempt to have a vaginal birth after a previous cesarean delivery. With the right evaluation and close medical supervision, many women are candidates for a safe and successful vaginal birth.",
+        points: [
+          "Women with one prior low transverse cesarean incision.",
+          "Absence of contraindications such as uterine rupture risk or certain uterine surgeries.",
+          "Good spacing between previous cesarean and current pregnancy.",
+          "Healthy pregnancy with no major complications.",
+        ],
+        conclusion:
+          "TOLAC is a safe and effective option for many women, reducing risks associated with repeated cesarean deliveries.",
+      },
+      {
+        heading: "Benefits of TOLAC / VBAC",
+        description:
+          "Choosing TOLAC can offer several health and recovery advantages compared to repeat cesarean deliveries.",
+        points: [
+          "Faster recovery and shorter hospital stay.",
+          "Lower risk of surgical complications.",
+          "Reduced chances of infection, bleeding, or injury to adjacent organs.",
+          "Decreased risk of complications in future pregnancies.",
+          "Opportunity for a natural birthing experience.",
+        ],
+        conclusion:
+          "VBAC offers women a chance at natural childbirth with lower long-term risks when managed under expert care.",
+      },
+      {
+        heading: "Why Choose Dr. Madhuri M S?",
+        description:
+          "Dr. Madhuri specializes in guiding women with previous cesarean deliveries through safe and well-monitored TOLAC journeys. Each case is individually evaluated, and the plan is personalized to ensure the well-being of both mother and baby.",
+        conclusion:
+          "With her experience in obstetric care and commitment to patient safety, Dr. Madhuri helps women make informed choices about their delivery, ensuring confidence and reassurance throughout the process.",
+      },
+    ],
+    link: "/our-services/obstetrics/previous-cesarean-pregnancy-tolac",
+    obstetricServices: [
+      {
+        title: "Comprehensive Antenatal, Labour and Postnatal Care",
+        link: "/our-services/obstetrics/antenatal-and-post-natal-care",
+      },
+      {
+        title: "Preconceptional Counselling",
+        link: "/our-services/obstetrics/preconceptional-counselling",
+      },
+      {
+        title: "High Risk Pregnancy",
+        link: "/our-services/obstetrics/high-risk-pregnancy",
+      },
+      {
+        title: "Poor Obstetric Past",
+        link: "/our-services/obstetrics/poor-obstetric-past",
+      },
+      {
+        title: "Recurrent Loss of Pregnancy",
+        link: "/our-services/obstetrics/recurrent-loss-of-pregnancy",
+      },
+      {
+        title: "Diabetes in Pregnancy (GDM)",
+        link: "/our-services/obstetrics/diabetes-in-pregnancy-gdm",
+      },
+      {
+        title: "Hypertension in Pregnancy (PIH)",
+        link: "/our-services/obstetrics/hypertension-in-pregnancy-pih",
+      },
+      {
+        title: "Twin/Triplet/Quadruplet Pregnancy",
+        link: "/our-services/obstetrics/twin-triplet-quadruplet-pregnancy",
+      },
+      {
+        title: "Multiple Pregnancies",
+        link: "/our-services/obstetrics/multiple-pregnancies",
+      },
+      {
+        title: "Fetal Growth Restriction",
+        link: "/our-services/obstetrics/fetal-growth-restriction",
+      },
+      {
+        title: "Previous Cesarean Pregnancy - TOLAC",
+        link: "/our-services/obstetrics/previous-cesarean-pregnancy-tolac",
+      },
+      {
+        title: "Previous Cesarean Pregnancy - TOLAC",
+        link: "/our-services/obstetrics/previous-cesarean-pregnancy-tolac",
+      },
+    ],
+  },
+
   {
     title: "Poor Obstetric Past",
     heading: "Obstetrics",
@@ -351,6 +461,10 @@ export const services = [
       {
         title: "Fetal Growth Restriction",
         link: "/our-services/obstetrics/fetal-growth-restriction",
+      },
+      {
+        title: "Previous Cesarean Pregnancy - TOLAC",
+        link: "/our-services/obstetrics/previous-cesarean-pregnancy-tolac",
       },
     ],
   },
@@ -442,6 +556,10 @@ export const services = [
         title: "Fetal Growth Restriction",
         link: "/our-services/obstetrics/fetal-growth-restriction",
       },
+      {
+        title: "Previous Cesarean Pregnancy - TOLAC",
+        link: "/our-services/obstetrics/previous-cesarean-pregnancy-tolac",
+      },
     ],
   },
   {
@@ -530,6 +648,10 @@ export const services = [
       {
         title: "Fetal Growth Restriction",
         link: "/our-services/obstetrics/fetal-growth-restriction",
+      },
+      {
+        title: "Previous Cesarean Pregnancy - TOLAC",
+        link: "/our-services/obstetrics/previous-cesarean-pregnancy-tolac",
       },
     ],
   },
@@ -620,6 +742,10 @@ export const services = [
         title: "Fetal Growth Restriction",
         link: "/our-services/obstetrics/fetal-growth-restriction",
       },
+      {
+        title: "Previous Cesarean Pregnancy - TOLAC",
+        link: "/our-services/obstetrics/previous-cesarean-pregnancy-tolac",
+      },
     ],
   },
   {
@@ -709,6 +835,10 @@ export const services = [
         title: "Fetal Growth Restriction",
         link: "/our-services/obstetrics/fetal-growth-restriction",
       },
+      {
+        title: "Previous Cesarean Pregnancy - TOLAC",
+        link: "/our-services/obstetrics/previous-cesarean-pregnancy-tolac",
+      },
     ],
   },
   {
@@ -797,6 +927,10 @@ export const services = [
       {
         title: "Fetal Growth Restriction",
         link: "/our-services/obstetrics/fetal-growth-restriction",
+      },
+      {
+        title: "Previous Cesarean Pregnancy - TOLAC",
+        link: "/our-services/obstetrics/previous-cesarean-pregnancy-tolac",
       },
     ],
   },
@@ -897,6 +1031,10 @@ export const services = [
       {
         title: "Fetal Growth Restriction",
         link: "/our-services/obstetrics/fetal-growth-restriction",
+      },
+      {
+        title: "Previous Cesarean Pregnancy - TOLAC",
+        link: "/our-services/obstetrics/previous-cesarean-pregnancy-tolac",
       },
     ],
   },

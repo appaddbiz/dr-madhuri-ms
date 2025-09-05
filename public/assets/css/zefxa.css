@@ -821,7 +821,7 @@ a.video-popup {
 }
 
 .main-menu__wrapper .container {
-  max-width: 1320px;
+  max-width: 1500px;
 }
 
 .main-menu__wrapper-inner {
@@ -5605,8 +5605,8 @@ a.video-popup {
 }
 
 .about-two__text-2 {
-  margin-top: 21px;
-  margin-bottom: 33px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .about-two__client-info {
@@ -5818,7 +5818,7 @@ a.video-popup {
 .project-one {
   position: relative;
   display: block;
-  padding: 10px 0 90px;
+  padding: 60px 0 90px;
   z-index: 1;
 }
 
@@ -9115,8 +9115,8 @@ a.video-popup {
 }
 
 .team-details__text {
-  margin-top: 25px;
-  margin-bottom: 29px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .team-details__points {
