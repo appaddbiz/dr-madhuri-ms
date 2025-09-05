@@ -47,7 +47,7 @@ const Banner = () => {
               </div>
             </div>
           </div>
-          <div className="carousel-item">
+          {/* <div className="carousel-item">
             <div>
               <div className="desk-banner">
                 <img
@@ -83,7 +83,7 @@ const Banner = () => {
                 />
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
         <button
           className="carousel-control-prev"
