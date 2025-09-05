@@ -131,9 +131,9 @@ export default function Menu() {
           <ul
             className="col-xl-12"
             style={{
-              width: "1200px",
+              width: "max-content",
               position: "absolute",
-              left: "-550px",
+              left: "-450px",
               padding: "20px",
             }}
           >
