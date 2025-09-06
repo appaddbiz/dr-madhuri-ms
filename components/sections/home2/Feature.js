@@ -39,7 +39,7 @@ export default function Features() {
                     </span>
                   </div>
                   <h3 className="feature-one__title">
-                    <Link href="#">
+                    <Link href="our-services/obstetrics">
                       Obstetrics <br /> & Pregnancy Care
                     </Link>
                   </h3>
@@ -50,7 +50,7 @@ export default function Features() {
                   preconceptional counselling.
                 </p>
                 <Link
-                  href="#"
+                  href="our-services/obstetrics"
                   className="feature-one__read-more"
                 >
                   Read More <span className="fas fa-arrow-circle-right"></span>
@@ -75,7 +75,7 @@ export default function Features() {
                     </span>
                   </div>
                   <h3 className="feature-one__title">
-                    <Link href="#">
+                    <Link href="our-services/infertility">
                       Infertility <br /> Treatments
                     </Link>
                   </h3>
@@ -86,7 +86,7 @@ export default function Features() {
                   parenthood.
                 </p>
                 <Link
-                  href="#"
+                  href="our-services/infertility"
                   className="feature-one__read-more"
                 >
                   Read More <span className="fas fa-arrow-circle-right"></span>
@@ -111,7 +111,7 @@ export default function Features() {
                     </span>
                   </div>
                   <h3 className="feature-one__title">
-                    <Link href="#">
+                    <Link href="our-services/gynaecology">
                       Gynaecology <br /> Care
                     </Link>
                   </h3>
@@ -122,7 +122,7 @@ export default function Features() {
                   screenings.
                 </p>
                 <Link
-                  href="#"
+                  href="our-services/gynaecology"
                   className="feature-one__read-more"
                 >
                   Read More <span className="fas fa-arrow-circle-right"></span>
@@ -151,7 +151,7 @@ export default function Features() {
                   </div>
                   <h3 className="feature-one__title">
                     <Link
-                      href="#"
+                      href="/our-services/laparoscopy-hysteroscopy"
                       style={{ fontSize: "22px" }}
                     >
                       Laparoscopy <br /> & Hysteroscopy
@@ -163,7 +163,7 @@ export default function Features() {
                   hysterectomy, ovarian, tubal, hysteroscopy procedures.
                 </p>
                 <Link
-                  href="#"
+                  href="/our-services/laparoscopy-hysteroscopy"
                   className="feature-one__read-more"
                 >
                   Read More <span className="fas fa-arrow-circle-right"></span>
@@ -188,7 +188,7 @@ export default function Features() {
                     </span>
                   </div>
                   <h3 className="feature-one__title">
-                    <Link href="#">
+                    <Link href="our-services/ultrasonography">
                       Advanced <br /> Ultrasonography
                     </Link>
                   </h3>
@@ -199,7 +199,7 @@ export default function Features() {
                   health.
                 </p>
                 <Link
-                  href="#"
+                  href="our-services/ultrasonography"
                   className="feature-one__read-more"
                 >
                   Read More <span className="fas fa-arrow-circle-right"></span>
@@ -217,7 +217,7 @@ export default function Features() {
                     <span className="icon-calendar"></span>
                   </div>
                   <h3 className="feature-one__title">
-                    <Link href="#">
+                    <Link href="tel:+916361197107">
                       Book an <br /> Appointment
                     </Link>
                   </h3>
@@ -226,7 +226,10 @@ export default function Features() {
                   Schedule your consultation with our specialists for
                   personalized, compassionate, and expert women’s healthcare.
                 </p>
-                <Link href="#" className="feature-one__read-more">
+                <Link
+                  href="tel:+916361197107"
+                  className="feature-one__read-more"
+                >
                   Book Now <span className="fas fa-arrow-circle-right"></span>
                 </Link>
               </div>

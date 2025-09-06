@@ -89,14 +89,20 @@ export default function About() {
                 <div className="about-two__client-info">
                   <div className="about-two__client-content">
                     <div className="cta-one__btn-box">
-                      <Link href="#" className="cta-one__btn thm-btn">
+                      <Link
+                        href="/about-doctor"
+                        className="cta-one__btn thm-btn"
+                      >
                         View More
                       </Link>
                     </div>
                   </div>
                   <div className="about-two__client-content">
                     <div className="cta-one__btn-box">
-                      <Link href="#" className="cta-one__btn thm-btn">
+                      <Link
+                        href="tel:+916361197107"
+                        className="cta-one__btn thm-btn"
+                      >
                         Book Appointment
                       </Link>
                     </div>

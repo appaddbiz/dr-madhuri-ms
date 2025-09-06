@@ -94,7 +94,10 @@ export default function Header1({
                                     <Link href="#" className="main-menu__cart"><span className="icon-shopping-cart"></span></Link>
                                 </div> */}
                   <div className="main-menu__btn-box">
-                    <Link href="contact" className="main-menu__btn thm-btn">
+                    <Link
+                      href="tel:+916361197107"
+                      className="main-menu__btn thm-btn"
+                    >
                       Appointment
                     </Link>
                   </div>
@@ -137,7 +140,10 @@ export default function Header1({
                                         <Link href="#" className="main-menu__cart"><span className="icon-shopping-cart"></span></Link>
                                     </div> */}
                     <div className="main-menu__btn-box">
-                      <Link href="contact" className="main-menu__btn thm-btn">
+                      <Link
+                        href="tel:+916361197107"
+                        className="main-menu__btn thm-btn"
+                      >
                         Appointment
                       </Link>
                     </div>

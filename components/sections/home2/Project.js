@@ -147,7 +147,7 @@ export default function Project() {
               </div>
             </div>
             <div className="main-menu__btn-box text-center">
-              <Link href="#" className="main-menu__btn thm-btn ">
+              <Link href="/gallery" className="main-menu__btn thm-btn ">
                 View All Images
               </Link>
             </div>
