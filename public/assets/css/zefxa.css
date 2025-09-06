@@ -428,7 +428,7 @@ a.video-popup {
   height: 50px;
   background: var(--zefxa-base);
   position: fixed;
-  bottom: 40px;
+  bottom: 80px;
   right: 40px;
   z-index: 99;
   text-align: center;
