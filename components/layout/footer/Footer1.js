@@ -62,22 +62,22 @@ export default function Footer1() {
                       <Link href="/">Home</Link>
                     </li>
                     <li>
-                      <Link href="#">About Doctor</Link>
+                      <Link href="/about-doctor">About Doctor</Link>
                     </li>
                     <li>
-                      <Link href="#">Obstetrics</Link>
+                      <Link href="/our-services/obstetrics">Obstetrics</Link>
                     </li>
                     <li>
-                      <Link href="#">Gynaecology</Link>
+                      <Link href="/our-services/gynaecology">Gynaecology</Link>
                     </li>
                     <li>
-                      <Link href="#">Gallery</Link>
+                      <Link href="/gallery">Gallery</Link>
                     </li>
                     <li>
                       <Link href="#">Blog</Link>
                     </li>
                     <li>
-                      <Link href="#">Contact</Link>
+                      <Link href="/contact">Contact</Link>
                     </li>
                   </ul>
                 </div>
@@ -118,7 +118,13 @@ export default function Footer1() {
                   <div className="footer-widget__title-box">
                     <h3 className="footer-widget__title">Locate Us</h3>
                   </div>
-                  <p style={{ color: "white", fontSize: "18px",marginBottom:"10px" }}>
+                  <p
+                    style={{
+                      color: "white",
+                      fontSize: "18px",
+                      marginBottom: "10px",
+                    }}
+                  >
                     Vega Health Care and Diagnostics{" "}
                   </p>
                   <ul className="footer-widget__Gallery-list list-unstyled clearfix">

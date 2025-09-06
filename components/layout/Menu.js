@@ -25,7 +25,7 @@ export default function Menu() {
           </ul> */}
         </li>
         <li>
-          <Link href="#">
+          <Link href="/about-doctor">
             Doctor
             <span className="main-menu-border"></span>
           </Link>
@@ -46,7 +46,7 @@ export default function Menu() {
                 </li> */}
         {/* Obstetrics Menu */}
         <li className="dropdown">
-          <Link href="#">
+          <Link href="/our-services/obstetrics">
             Obstetrics
             <span className="main-menu-border"></span>
           </Link>
@@ -64,39 +64,59 @@ export default function Menu() {
               <li className="col-xl-6 dropdown" style={{ listStyle: "none" }}>
                 <ul style={{ listStyle: "none" }}>
                   <li>
-                    <Link href="#">
+                    <Link href="/our-services/obstetrics/antenatal-and-post-natal-care">
                       Comprehensive Antenatal, Labour and Postnatal Care
                     </Link>
                   </li>
                   <li>
-                    <Link href="#">Preconceptional Counselling</Link>
+                    <Link href="/our-services/obstetrics/preconceptional-counselling">
+                      Preconceptional Counselling
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">High Risk Pregnancy</Link>
+                    <Link href="/our-services/obstetrics/high-risk-pregnancy">
+                      High Risk Pregnancy
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Previous cesarean pregnancy- TOLAC</Link>
+                    <Link href="/our-services/obstetrics/previous-cesarean-pregnancy-tolac">
+                      Previous cesarean pregnancy- TOLAC
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Poor Obstetric Past</Link>
+                    <Link href="/our-services/obstetrics/poor-obstetric-past">
+                      Poor Obstetric Past
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Recurrent Loss of Pregnancy</Link>
+                    <Link href="/our-services/obstetrics/recurrent-loss-of-pregnancy">
+                      Recurrent Loss of Pregnancy
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Diabetes in Pregnancy (GDM)</Link>
+                    <Link href="/our-services/obstetrics/diabetes-in-pregnancy-gdm">
+                      Diabetes in Pregnancy (GDM)
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Hypertension in Pregnancy (PIH)</Link>
+                    <Link href="/our-services/obstetrics/hypertension-in-pregnancy-pih">
+                      Hypertension in Pregnancy (PIH)
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Twin/Triplet/Quadruplet Pregnancy</Link>
+                    <Link href="/our-services/obstetrics/twin-triplet-quadruplet-pregnancy">
+                      Twin/Triplet/Quadruplet Pregnancy
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Multiple Pregnancies</Link>
+                    <Link href="/our-services/obstetrics/multiple-pregnancies">
+                      Multiple Pregnancies
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Fetal Growth Restriction</Link>
+                    <Link href="/our-services/obstetrics/fetal-growth-restriction">
+                      Fetal Growth Restriction
+                    </Link>
                   </li>
                 </ul>
               </li>
@@ -105,16 +125,22 @@ export default function Menu() {
               <li className="col-xl-6 dropdown" style={{ listStyle: "none" }}>
                 <ul style={{ listStyle: "none" }}>
                   <li>
-                    <Link href="#">Infertility</Link>
+                    <Link href="/our-services/infertility">Infertility</Link>
                   </li>
                   <li>
-                    <Link href="#">Complete Evaluation</Link>
+                    <Link href="/our-services/infertility/complete-evaluation">
+                      Complete Evaluation
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Ovulation Induction</Link>
+                    <Link href="/our-services/infertility/ovulation-induction">
+                      Ovulation Induction
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Intra-Uterine Insemination (IUI)</Link>
+                    <Link href="/our-services/infertility/intra-uterine-insemination-iui">
+                      Intra-Uterine Insemination (IUI)
+                    </Link>
                   </li>
                 </ul>
               </li>
@@ -124,7 +150,7 @@ export default function Menu() {
 
         {/* Gynaecology Menu */}
         <li className="dropdown">
-          <Link href="#">
+          <Link href="/our-services/gynaecology">
             Gynaecology
             <span className="main-menu-border"></span>
           </Link>
@@ -142,34 +168,52 @@ export default function Menu() {
               <li className="col-xl-4 dropdown" style={{ listStyle: "none" }}>
                 <ul style={{ listStyle: "none" }}>
                   <li>
-                    <Link href="#">Fibroids / Leiomyoma of Uterus</Link>
+                    <Link href="/our-services/gynaecology/fibroids-leiomyoma-of-uterus">
+                      Fibroids / Leiomyoma of Uterus
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Fibroids of Cervix</Link>
+                    <Link href="/our-services/gynaecology/fibroids-of-cervix">
+                      Fibroids of Cervix
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Abnormal/Dysfunctional Uterus Bleeding</Link>
+                    <Link href="/our-services/gynaecology/abnormal-dysfunctional-uterus-bleeding">
+                      Abnormal/Dysfunctional Uterus Bleeding
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Endometriosis</Link>
+                    <Link href="/our-services/gynaecology/endometriosis">
+                      Endometriosis
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Ovarian Cysts</Link>
+                    <Link href="/our-services/gynaecology/ovarian-cysts">
+                      Ovarian Cysts
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Chocolate Cyst : Endometrioma of Ovary</Link>
+                    <Link href="/our-services/gynaecology/chocolate-cyst-endometrioma-of-ovary">
+                      Chocolate Cyst : Endometrioma of Ovary
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Hormone Imbalances</Link>
+                    <Link href="/our-services/gynaecology/hormone-imbalances">
+                      Hormone Imbalances
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Severe Pelvic Pain Management</Link>
+                    <Link href="/our-services/gynaecology/severe-pelvic-pain-management">
+                      Severe Pelvic Pain Management
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Menopausal and Perimenopausal Care</Link>
+                    <Link href="/our-services/gynaecology/menopausal-and-perimenopausal-care">
+                      Menopausal and Perimenopausal Care
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">
+                    <Link href="/our-services/gynaecology/annual-check-ups-and-preventive-screenings">
                       Annual Check-ups & Preventive Screenings
                     </Link>
                   </li>
@@ -181,43 +225,67 @@ export default function Menu() {
                 <span className="main-menu-border"></span>
                 <ul style={{ listStyle: "none" }}>
                   <li>
-                    <Link href="#">Laparoscopy & Hysteroscopy</Link>
+                    <Link href="/our-services/laparoscopy-hysteroscopy">
+                      Laparoscopy & Hysteroscopy
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Diagnostic Hystero-Laparoscopy</Link>
+                    <Link href="/our-services/laparoscopy-hysteroscopy/diagnostic-hystero-laparoscopy">
+                      Diagnostic Hystero-Laparoscopy
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Operative Hystero-Laparoscopy</Link>
+                    <Link href="/our-services/laparoscopy-hysteroscopy/operative-hystero-laparoscopy">
+                      Operative Hystero-Laparoscopy
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Laparoscopic Myomectomy</Link>
+                    <Link href="/our-services/laparoscopy-hysteroscopy/laparoscopic-myomectomy">
+                      Laparoscopic Myomectomy
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Total Laparoscopic Hysterectomy (TLH)</Link>
+                    <Link href="/our-services/laparoscopy-hysteroscopy/total-laparoscopic-hysterectomy">
+                      Total Laparoscopic Hysterectomy (TLH)
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Diagnostic Hysteroscopy</Link>
+                    <Link href="/our-services/laparoscopy-hysteroscopy/diagnostic-hysteroscopy">
+                      Diagnostic Hysteroscopy
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Hysteroscopic Septal Resection</Link>
+                    <Link href="/our-services/laparoscopy-hysteroscopy/hysteroscopic-septal-resection">
+                      Hysteroscopic Septal Resection
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Hysteroscopic Polypectomy</Link>
+                    <Link href="/our-services/laparoscopy-hysteroscopy/hysteroscopic-polypectomy">
+                      Hysteroscopic Polypectomy
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Tubal Re-canalisation</Link>
+                    <Link href="/our-services/laparoscopy-hysteroscopy/tubal-re-canalisation">
+                      Tubal Re-canalisation
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Chromopertubation</Link>
+                    <Link href="/our-services/laparoscopy-hysteroscopy/chromopertubation">
+                      Chromopertubation
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Laparoscopic Ovarian Cystectomy</Link>
+                    <Link href="/our-services/laparoscopy-hysteroscopy/laparoscopic-ovarian-cystectomy">
+                      Laparoscopic Ovarian Cystectomy
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Tubal Clipping (Hydrosalpinx)</Link>
+                    <Link href="/our-services/laparoscopy-hysteroscopy/tubal-clipping-hydrosalpinx">
+                      Tubal Clipping (Hydrosalpinx)
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">
+                    <Link href="/our-services/laparoscopy-hysteroscopy/laparoscopic-tubal-occlusion-permanent-sterilization">
                       Laparoscopic Tubal Occlusion (Permanent Sterilization)
                     </Link>
                   </li>
@@ -228,16 +296,24 @@ export default function Menu() {
               <li className="col-xl-4 dropdown" style={{ listStyle: "none" }}>
                 <ul style={{ listStyle: "none" }}>
                   <li>
-                    <Link href="#">Ultrasonography</Link>
+                    <Link href="/our-services/ultrasonography">
+                      Ultrasonography
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Transvaginal Scan</Link>
+                    <Link href="/our-services/ultrasonography/transvaginal-scan">
+                      Transvaginal Scan
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">Saline Sonography</Link>
+                    <Link href="/our-services/ultrasonography/saline-sonography">
+                      Saline Sonography
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#">3D</Link>
+                    <Link href="/our-services/ultrasonography/3d-ultrasonography">
+                      3D
+                    </Link>
                   </li>
                 </ul>
               </li>
@@ -246,7 +322,7 @@ export default function Menu() {
         </li>
 
         <li className="dropdown">
-          <Link href="#">
+          <Link href="/gallery">
             Gallery
             <span className="main-menu-border"></span>
           </Link>
@@ -274,7 +350,7 @@ export default function Menu() {
           </ul> */}
         </li>
         <li>
-          <Link href="#">
+          <Link href="/contact">
             Contact
             <span className="main-menu-border"></span>
           </Link>

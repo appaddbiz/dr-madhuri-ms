@@ -152,7 +152,7 @@ export default function Home() {
                 <div className="col-xl-6 col-lg-6">
                   <div className="team-details__bottom-img">
                     <img
-                      src="https://img.freepik.com/premium-photo/indian-female-doctor-giving-advice-pregnant-woman_768688-219.jpg?uid=P172451948&ga=GA1.1.517022815.1751973251&semt=ais_incoming&w=740&q=80"
+                      src="/assets/gallery/Adobe Express - file (1).jpg"
                       alt="Dr. Madhuri M S"
                     />
                   </div>
