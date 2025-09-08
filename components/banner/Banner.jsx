@@ -33,32 +33,32 @@ const Banner = () => {
             <div>
               <div className="desk-banner">
                 <img
-                  src="/assets/home-image/B1.jpg"
+                  src="/assets/flat-icons/B1.webp"
                   className="d-block w-100"
                   alt="..."
                 />
               </div>
               <div className="mobile-banner">
                 <img
-                  src="/assets/home-image/MB 1.jpg"
+                  src="/assets/flat-icons/MB 1.webp"
                   className="d-block w-100"
                   alt="..."
                 />
               </div>
             </div>
           </div>
-          {/* <div className="carousel-item">
+          <div className="carousel-item">
             <div>
               <div className="desk-banner">
                 <img
-                  src="/assets/home-image/B3.webp"
+                  src="/assets/flat-icons/B2.webp"
                   className="d-block w-100"
                   alt="..."
                 />
               </div>
               <div className="mobile-banner">
                 <img
-                  src="/assets/home-image/MB 3.webp"
+                  src="/assets/flat-icons/MB 2.webp"
                   className="d-block w-100"
                   alt="..."
                 />
@@ -70,20 +70,38 @@ const Banner = () => {
             <div>
               <div className="desk-banner">
                 <img
-                  src="/assets/home-image/B2.webp"
+                  src="/assets/flat-icons/B3.webp"
                   className="d-block w-100"
                   alt="..."
                 />
               </div>
               <div className="mobile-banner">
                 <img
-                  src="/assets/home-image/MB 2.webp"
+                  src="/assets/flat-icons/MB 3.webp"
                   className="d-block w-100"
                   alt="..."
                 />
               </div>
             </div>
-          </div> */}
+          </div>
+          <div className="carousel-item">
+            <div>
+              <div className="desk-banner">
+                <img
+                  src="/assets/flat-icons/B4.jpg"
+                  className="d-block w-100"
+                  alt="..."
+                />
+              </div>
+              <div className="mobile-banner">
+                <img
+                  src="/assets/flat-icons/MB 4.jpg"
+                  className="d-block w-100"
+                  alt="..."
+                />
+              </div>
+            </div>
+          </div>
         </div>
         <button
           className="carousel-control-prev"
