@@ -12093,12 +12093,12 @@ a.video-popup {
 @media only screen and (min-width: 1600px) and (max-width: 1830px) {
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 768px) {
   .mobile-view {
-    display: block;
+    display: block !important;
   }
   .desk-view {
-    display: none;
+    display: none !important;
   }
   .company-benefits__points li {
     display: flex !important;
@@ -12115,12 +12115,12 @@ a.video-popup {
     padding-bottom: 70px !important;
   }
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 769px) {
   .mobile-view {
-    display: none;
+    display: none !important;
   }
   .desk-view {
-    display: block;
+    display: block !important;
   }
   .main-menu__logo img {
     height: 70px;
