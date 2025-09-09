@@ -52,8 +52,7 @@ export default function Footer1() {
         <div
           className="site-footer__bg"
           style={{
-            backgroundImage:
-              "url(https://wallpapers.com/images/hd/pregnant-woman-baby-bump-sitting-down-uwu8ykihqmctbd5c.jpg)",
+            backgroundImage: "url(/assets/home-image/footer-bg.jpg)",
           }}
         ></div>
         <div className="site-footer__top">
