@@ -8,7 +8,7 @@ export default function About() {
       <section className="about-two">
         <div className="container">
           <div
-            className="section-title text-center mobile-view"
+            className="section-title text-center section-title-mobile-view"
             style={{ marginBottom: "0px" }}
           >
             <div className="section-title__tagline-box">
@@ -41,7 +41,7 @@ export default function About() {
             </div>
             <div className="col-xl-7">
               <div className="about-two__right">
-                <div className="section-title text-left desk-view">
+                <div className="section-title-desk-view section-title text-left">
                   <div className="section-title__tagline-box">
                     <div className="section-title__tagline-shape">
                       <img

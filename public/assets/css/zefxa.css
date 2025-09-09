@@ -12094,11 +12094,11 @@ a.video-popup {
 }
 
 @media only screen and (max-width: 768px) {
-  .mobile-view {
-    display: block !important;
+  .section-title-mobile-view {
+    display: block;
   }
-  .desk-view {
-    display: none !important;
+  .section-title-desk-view {
+    display: none;
   }
   .company-benefits__points li {
     display: flex !important;
@@ -12116,10 +12116,10 @@ a.video-popup {
   }
 }
 @media only screen and (min-width: 769px) {
-  .mobile-view {
-    display: none !important;
+  .section-title-mobile-view {
+    display: none;
   }
-  .desk-view {
+  .section-title-desk-view {
     display: block !important;
   }
   .main-menu__logo img {
