@@ -37,12 +37,12 @@ export default function Footer1() {
         }
         @media (min-width: 769px) {
           .desk-view {
-            display: none;
+            display: none !important;
           }
         }
         @media (max-width: 768px) {
           .desk-view {
-            display: block;
+            display: block !important;
           }
         }
         `}
