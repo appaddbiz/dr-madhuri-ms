@@ -11,7 +11,7 @@ export default function Home() {
             <div className="team-details__top">
               <div className="row">
                 <div className="col-xl-5 col-lg-5">
-                  <div className="section-title text-left mobile-view">
+                  <div className="section-title text-left section-title-mobile-view">
                     <div className="section-title__tagline-box">
                       <div className="section-title__tagline-shape">
                         <img
@@ -36,7 +36,7 @@ export default function Home() {
                 </div>
                 <div className="col-xl-7 col-lg-7">
                   <div className="team-details__right">
-                    <div className="section-title text-left desk-view">
+                    <div className="section-title text-left section-title-desk-view">
                       <div className="section-title__tagline-box">
                         <div className="section-title__tagline-shape">
                           <img
