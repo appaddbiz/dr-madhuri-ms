@@ -27,10 +27,10 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
   return (
     <>
       <div className="mobile-nav__wrapper">
-        <div
+        {/* <div
           className="mobile-nav__overlay mobile-nav__toggler"
           onClick={handleMobileMenu}
-        ></div>
+        ></div> */}
         <div className="mobile-nav__content">
           <span
             className="mobile-nav__close mobile-nav__toggler"

@@ -10,8 +10,8 @@ export const metadata = {
   title: "Dr. Madhuri M S",
   description: "Compassionate care, expertise in women’s health",
   icons: {
-    icon: "/assets/home-image/favicon.png",
-    apple: "/assets/home-image/favicon.png",
+    icon: "/assets/flat-icons/Dr-Madhurifavicon.png",
+    apple: "/assets/flat-icons/Dr-Madhurifavicon.png",
   },
 };
 
