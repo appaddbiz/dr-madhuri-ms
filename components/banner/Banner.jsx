@@ -51,14 +51,14 @@ const Banner = () => {
             <div>
               <div className="desk-banner">
                 <img
-                  src="/assets/flat-icons/B2.webp"
+                  src="/assets/flat-icons/B2 (1).webp"
                   className="d-block w-100"
                   alt="..."
                 />
               </div>
               <div className="mobile-banner">
                 <img
-                  src="/assets/flat-icons/MB 2.webp"
+                  src="/assets/flat-icons/MB 2 (1).webp"
                   className="d-block w-100"
                   alt="..."
                 />
