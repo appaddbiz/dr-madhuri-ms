@@ -66,7 +66,7 @@ export default function Footer1() {
                   <div className="footer-widget__logo">
                     <Link href="/">
                       <img
-                        src="/assets/home-image/Dr Madhuri-mobile.png"
+                        src="/assets/flat-icons/Dr Madhuri.png"
                         style={{ width: "250px" }}
                         alt="Dr Madhuri Logo"
                       />

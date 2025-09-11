@@ -74,7 +74,7 @@ export default function Header1({
                 <div className="main-menu__left">
                   <div className="main-menu__logo">
                     <Link href="/">
-                      <img src="/assets/home-image/Dr Madhuri.png" alt="" />
+                      <img src="/assets/home-image/Dr Madhurilogo.png" alt="" />
                     </Link>
                   </div>
                   <div className="main-menu__main-menu-box">
@@ -120,7 +120,7 @@ export default function Header1({
                   <div className="main-menu__left">
                     <div className="main-menu__logo">
                       <Link href="/">
-                        <img src="/assets/home-image/Dr Madhuri.png" alt="" />
+                        <img src="/assets/home-image/Dr Madhurilogo.png" alt="" />
                       </Link>
                     </div>
                     <div className="main-menu__main-menu-box">
