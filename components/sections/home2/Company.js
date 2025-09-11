@@ -22,7 +22,7 @@ export default function Company() {
         <div className="container">
           <div className="row">
             <div className="col-xl-6">
-              <div className="section-title text-left mobile-view">
+              <div className="section-title text-left section-title-mobile-view">
                 <div className="section-title__tagline-box">
                   <div className="section-title__tagline-shape">
                     <img
@@ -62,7 +62,7 @@ export default function Company() {
             </div>
             <div className="col-xl-6">
               <div className="company-benefits__right">
-                <div className="section-title text-left desk-view">
+                <div className="section-title text-left section-title-desk-view">
                   <div className="section-title__tagline-box">
                     <div className="section-title__tagline-shape">
                       <img
