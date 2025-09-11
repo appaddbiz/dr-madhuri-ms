@@ -88,14 +88,14 @@ const Banner = () => {
             <div>
               <div className="desk-banner">
                 <img
-                  src="/assets/flat-icons/B4.jpg"
+                  src="/assets/flat-icons/Frame 14.jpg"
                   className="d-block w-100"
                   alt="..."
                 />
               </div>
               <div className="mobile-banner">
                 <img
-                  src="/assets/flat-icons/MB 4.jpg"
+                  src="/assets/flat-icons/MB_4.jpg"
                   className="d-block w-100"
                   alt="..."
                 />
