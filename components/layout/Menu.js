@@ -245,7 +245,7 @@ export default function Menu() {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/our-services/laparoscopy-hysteroscopy/total-laparoscopic-hysterectomy">
+                    <Link href="/our-services/laparoscopy-hysteroscopy/total-laparoscopic-hysterectomy-tlh">
                       Total Laparoscopic Hysterectomy (TLH)
                     </Link>
                   </li>
