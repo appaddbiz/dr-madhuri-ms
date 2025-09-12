@@ -27,14 +27,8 @@ function Plugin() {
       eptagmanage.onreadystatechange = function () {
         if (this.readyState === 4 && this.status === 200) {
           if (this.response !== 0) {
-            const mystr = this.response;
-            const temp = mystr.split("||||||||||");
-
-            // Debugging
-            console.log("temp: ", temp);
-
-            // Update <head> and <body>
-            jQuery("head").find("title").remove();
+            const temp = this.response.split("||||||||||");
+            // jQuery("head").find("title").remove();
             jQuery("head").append(temp[0]);
             jQuery("body").append(temp[1]);
           }
