@@ -1,6 +1,7 @@
 "use client";
-import ModalVideo from "react-modal-video";
+import dynamic from "next/dynamic";
 import { useState } from "react";
+const ModalVideo = dynamic(() => import("react-modal-video"), { ssr: false });
 export default function Video() {
   const [isOpen, setOpen] = useState(false);
   return (
@@ -25,12 +26,16 @@ export default function Video() {
         <div className="container">
           <div className="video-one__inner">
             <div className="video-one__video-link">
-              <Link onClick={() => setOpen(true)} className="video-popup">
+              <button
+                type="button"
+                onClick={() => setOpen(true)}
+                className="video-popup"
+              >
                 <div className="video-one__video-icon">
                   <span className="icon-play-button"></span>
                   <i className="ripple"></i>
                 </div>
-              </Link>
+              </button>
               <h4 className="video-one__video-text">
                 Services That Lead Creative Agency
                 <br /> For Your <span>Growth Business</span>

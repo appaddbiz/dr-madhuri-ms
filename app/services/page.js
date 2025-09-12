@@ -1,8 +1,9 @@
 "use client";
 import Link from "next/link";
 import Layout from "@/components/layout/Layout";
-import ModalVideo from "react-modal-video";
+import dynamic from "next/dynamic";
 import { useState } from "react";
+const ModalVideo = dynamic(() => import("react-modal-video"), { ssr: false });
 export default function Home() {
   const [isOpen, setOpen] = useState(false);
   return (
@@ -26,12 +27,16 @@ export default function Home() {
                 }}
               ></div>
               <div className="about-three__video-link">
-                <Link onClick={() => setOpen(true)} className="video-popup">
+                <button
+                  type="button"
+                  onClick={() => setOpen(true)}
+                  className="video-popup"
+                >
                   <div className="about-three__video-icon">
                     <span className="icon-play-button"></span>
                     <i className="ripple"></i>
                   </div>
-                </Link>
+                </button>
               </div>
             </div>
             <div className="about-three__shape-1">

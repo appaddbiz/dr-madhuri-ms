@@ -2,8 +2,9 @@
 import Link from "next/link";
 import { Autoplay, Navigation, Pagination } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
-import ModalVideo from "react-modal-video";
+import dynamic from "next/dynamic";
 import { useState } from "react";
+const ModalVideo = dynamic(() => import("react-modal-video"), { ssr: false });
 
 const swiperOptions = {
   modules: [Autoplay, Pagination, Navigation],
@@ -85,7 +86,8 @@ export default function Banner() {
                           alt=""
                         />
                       </div>
-                      <Link
+                      <button
+                        type="button"
                         onClick={() => setOpen(true)}
                         className="video-popup"
                       >
@@ -93,7 +95,7 @@ export default function Banner() {
                           <span className="icon-play-button"></span>
                           <i className="ripple"></i>
                         </div>
-                      </Link>
+                      </button>
                     </div>
                   </div>
                 </div>
@@ -150,7 +152,8 @@ export default function Banner() {
                           alt=""
                         />
                       </div>
-                      <Link
+                      <button
+                        type="button"
                         onClick={() => setOpen(true)}
                         className="video-popup"
                       >
@@ -158,7 +161,7 @@ export default function Banner() {
                           <span className="icon-play-button"></span>
                           <i className="ripple"></i>
                         </div>
-                      </Link>
+                      </button>
                     </div>
                   </div>
                 </div>
@@ -215,7 +218,8 @@ export default function Banner() {
                           alt=""
                         />
                       </div>
-                      <Link
+                      <button
+                        type="button"
                         onClick={() => setOpen(true)}
                         className="video-popup"
                       >
@@ -223,7 +227,7 @@ export default function Banner() {
                           <span className="icon-play-button"></span>
                           <i className="ripple"></i>
                         </div>
-                      </Link>
+                      </button>
                     </div>
                   </div>
                 </div>
