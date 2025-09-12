@@ -11,7 +11,6 @@ import Service2 from "@/components/sections/home3/Service2";
 import Process from "@/components/sections/home1/Process";
 import Faq from "@/components/sections/home3/Faq";
 import Service from "@/components/sections/home1/Service";
-import Plugin from "@/components/plugin/Plugin";
 
 export default function Home() {
   return (
@@ -29,7 +28,7 @@ export default function Home() {
         {/* <Testimonial /> */}
         <Blog />
       </Layout>
-      <Plugin />
+     
     </>
   );
 }
