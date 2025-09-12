@@ -21,7 +21,7 @@ export default function Cta() {
                 Book Your Consultation for <br /> Compassionate Women’s Care
               </h3>
               <div className="cta-one__btn-box">
-                <a href="tel:+916361197107" className="cta-one__btn thm-btn">
+                <Link href="tel:+916361197107" className="cta-one__btn thm-btn">
                   Book An Apppointment
                 </Link>
               </div>

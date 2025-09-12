@@ -66,7 +66,7 @@ export default function Banner() {
                           consulting services solutions.
                         </p>
                         <div className="main-slider__btn-box">
-                          <a
+                          <Link
                             href="contact"
                             className="main-slider__btn thm-btn"
                           >
@@ -125,7 +125,7 @@ export default function Banner() {
                           consulting services solutions.
                         </p>
                         <div className="main-slider__btn-box">
-                          <a
+                          <Link
                             href="contact"
                             className="main-slider__btn thm-btn"
                           >
@@ -185,7 +185,7 @@ export default function Banner() {
                           consulting services solutions.
                         </p>
                         <div className="main-slider__btn-box">
-                          <a
+                          <Link
                             href="contact"
                             className="main-slider__btn thm-btn"
                           >

@@ -64,7 +64,7 @@ export default function Footer1() {
               >
                 <div className="footer-widget__column footer-widget__about">
                   <div className="footer-widget__logo">
-                    <a href="/">
+                    <Link href="/">
                       <img
                         src="/assets/flat-icons/Dr Madhuri.png"
                         style={{ width: "250px" }}
@@ -80,7 +80,7 @@ export default function Footer1() {
                   <div className="site-footer__social-box">
                     <p style={{ color: "white" }}>
                       Address : &ensp;
-                      <a
+                      <Link
                         href="https://maps.app.goo.gl/jo8ywP9BpgwnWcoL9"
                         target="_blank"
                         rel="noopener noreferrer"
@@ -91,7 +91,7 @@ export default function Footer1() {
                     </p>
                     <p style={{ color: "white" }}>
                       Phone No. :{" "}
-                      <a href="tel:+916361197107">+91 6361197107</Link>
+                      <Link href="tel:+916361197107">+91 6361197107</Link>
                     </p>
                   </div>
                 </div>
@@ -106,25 +106,25 @@ export default function Footer1() {
                   </div>
                   <ul className="footer-widget__link-list list-unstyled">
                     <li>
-                      <a href="/">Home</Link>
+                      <Link href="/">Home</Link>
                     </li>
                     <li>
-                      <a href="/about-doctor">About Doctor</Link>
+                      <Link href="/about-doctor">About Doctor</Link>
                     </li>
                     <li>
-                      <a href="/our-services/obstetrics">Obstetrics</Link>
+                      <Link href="/our-services/obstetrics">Obstetrics</Link>
                     </li>
                     <li>
-                      <a href="/our-services/gynaecology">Gynaecology</Link>
+                      <Link href="/our-services/gynaecology">Gynaecology</Link>
                     </li>
                     <li>
-                      <a href="/gallery">Gallery</Link>
+                      <Link href="/gallery">Gallery</Link>
                     </li>
                     <li>
-                      <a href="#">Blog</Link>
+                      <Link href="#">Blog</Link>
                     </li>
                     <li>
-                      <a href="/contact">Contact</Link>
+                      <Link href="/contact">Contact</Link>
                     </li>
                   </ul>
                 </div>
@@ -170,9 +170,9 @@ export default function Footer1() {
               <div className="col-xl-12">
                 <div className="site-footer__bottom-inner">
                   <p className="site-footer__bottom-text">
-                    Copyright © 2025 <a href="#">Dr. Madhuri M.</Link> All
+                    Copyright © 2025 <Link href="#">Dr. Madhuri M.</Link> All
                     Rights Reserved. Designed By{" "}
-                    <a
+                    <Link
                       href="https://appaddindia.net/"
                       target="_blank"
                       rel="noopener noreferrer"
@@ -207,7 +207,7 @@ export default function Footer1() {
             }}
           >
             <div style={{ width: "25%" }}>
-              <a
+              <Link
                 href="https://maps.app.goo.gl/YnCGPhQwqtc42Jd89"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -234,10 +234,10 @@ export default function Footer1() {
                 >
                   LOCATE US
                 </p>
-              </a>
+              </Link>
             </div>
             <div style={{ width: "25%" }}>
-              <a
+              <Link
                 href="https://wa.link/yiy87o"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -264,10 +264,10 @@ export default function Footer1() {
                 >
                   WHATSAPP
                 </p>
-              </a>
+              </Link>
             </div>
             <div style={{ width: "25%" }}>
-              <a
+              <Link
                 href="tel:+916361197107"
                 style={{
                   display: "flex",
@@ -296,10 +296,10 @@ export default function Footer1() {
                 >
                   CALL
                 </p>
-              </a>
+              </Link>
             </div>
             <div style={{ width: "25%" }}>
-              <a
+              <Link
                 href="https://wa.link/yiy87o"
                 style={{
                   display: "flex",
@@ -329,7 +329,7 @@ export default function Footer1() {
                 >
                   APPOINTMENT
                 </p>
-              </a>
+              </Link>
             </div>
           </div>
         </section>

@@ -40,7 +40,7 @@ export default function Gallery() {
                     </div>
                     {/* <div className="project-one__content">
                     <h3 className="project-one__title">
-                      <a href="project-details">Consultant Service</Link>
+                      <Link href="project-details">Consultant Service</Link>
                     </h3>
                     <p className="project-one__sub-title">Digital Marketing</p>
                   </div> */}
@@ -63,7 +63,7 @@ export default function Gallery() {
                     </div>
                     {/* <div className="project-one__content">
                     <h3 className="project-one__title">
-                      <a href="project-details">Business Strategy</Link>
+                      <Link href="project-details">Business Strategy</Link>
                     </h3>
                     <p className="project-one__sub-title">Digital Marketing</p>
                   </div>
@@ -87,7 +87,7 @@ export default function Gallery() {
                     </div>
                     {/* <div className="project-one__content">
                     <h3 className="project-one__title">
-                      <a href="project-details">Consultant Service</Link>
+                      <Link href="project-details">Consultant Service</Link>
                     </h3>
                     <p className="project-one__sub-title">Managing Director</p>
                   </div> */}
@@ -111,7 +111,7 @@ export default function Gallery() {
                     </div>
                     {/* <div className="project-one__content">
                     <h3 className="project-one__title">
-                      <a href="project-details">UI/UX Designing</Link>
+                      <Link href="project-details">UI/UX Designing</Link>
                     </h3>
                     <p className="project-one__sub-title">Digital Marketing</p>
                   </div> */}
@@ -134,7 +134,7 @@ export default function Gallery() {
                     </div>
                     {/* <div className="project-one__content">
                     <h3 className="project-one__title">
-                      <a href="project-details">Webside Development</Link>
+                      <Link href="project-details">Webside Development</Link>
                     </h3>
                     <p className="project-one__sub-title">Managing Director</p>
                   </div> */}

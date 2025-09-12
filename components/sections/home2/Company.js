@@ -97,7 +97,7 @@ export default function Company() {
                     </div>
                     <div className="content">
                       <h3>
-                        {/* <a href="services"> */}
+                        {/* <Link href="services"> */}
                         Experienced & Qualified Specialist
                         {/* </Link> */}
                       </h3>
@@ -120,7 +120,7 @@ export default function Company() {
                     </div>
                     <div className="content">
                       <h3>
-                        {/* <a href="services"> */}
+                        {/* <Link href="services"> */}
                         Comprehensive Women’s Care
                         {/* </Link> */}
                       </h3>

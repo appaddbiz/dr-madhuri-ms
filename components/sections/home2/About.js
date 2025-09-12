@@ -89,7 +89,7 @@ export default function About() {
                 <div className="about-two__client-info">
                   <div className="about-two__client-content">
                     <div className="cta-one__btn-box">
-                      <a
+                      <Link
                         href="/about-doctor"
                         className="cta-one__btn thm-btn"
                       >
@@ -99,7 +99,7 @@ export default function About() {
                   </div>
                   <div className="about-two__client-content">
                     <div className="cta-one__btn-box">
-                      <a
+                      <Link
                         href="tel:+916361197107"
                         className="cta-one__btn thm-btn"
                       >

@@ -22,7 +22,7 @@ export default function Process() {
           </div>
           <div className="row">
             {/*Process One Single Start*/}
-            <a
+            <Link
               href="#"
               className="col-xl-3 col-lg-6 col-md-6 wow fadeInLeft"
               data-wow-delay="100ms"
@@ -57,11 +57,11 @@ export default function Process() {
                   <div className="process-one__count"></div>
                 </div>
               </div>
-            </a>
+            </Link>
             {/*Process One Single End*/}
 
             {/*Process One Single Start*/}
-            <a
+            <Link
               href="#"
               className="col-xl-3 col-lg-6 col-md-6 wow fadeInLeft"
               data-wow-delay="200ms"
@@ -94,11 +94,11 @@ export default function Process() {
                   <div className="process-one__count"></div>
                 </div>
               </div>
-            </a>
+            </Link>
             {/*Process One Single End*/}
 
             {/*Process One Single Start*/}
-            <a
+            <Link
               href="#"
               className="col-xl-3 col-lg-6 col-md-6 wow fadeInRight"
               data-wow-delay="300ms"
@@ -132,11 +132,11 @@ export default function Process() {
                   <div className="process-one__count"></div>
                 </div>
               </div>
-            </a>
+            </Link>
             {/*Process One Single End*/}
 
             {/*Process One Single Start*/}
-            <a
+            <Link
               href="#"
               className="col-xl-3 col-lg-6 col-md-6 wow fadeInRight"
               data-wow-delay="400ms"
@@ -168,7 +168,7 @@ export default function Process() {
                   <div className="process-one__count"></div>
                 </div>
               </div>
-            </a>
+            </Link>
             {/*Process One Single End*/}
           </div>
         </div>

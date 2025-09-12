@@ -5,7 +5,7 @@ import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/free-mode";
 import { dmSans, manrope } from "@/lib/font";
-import Plugin from "@/components/plugin/Plugin";
+// import Plugin from "@/components/plugin/Plugin";
 
 export const metadata = {
   title: "Dr. Madhuri M S",
@@ -21,7 +21,7 @@ export default function RootLayout({ children }) {
     <html lang="en" className={`${dmSans.variable} ${manrope.variable}`}>
       <body>
         {children}
-        <Plugin />
+        {/* <Plugin /> */}
       </body>
     </html>
   );

@@ -50,18 +50,18 @@ export default function Blog() {
                 <div className="blog-one__content">
                   <ul className="blog-one__meta list-unstyled">
                     <li>
-                      <a href="#">
+                      <Link href="#">
                         <span className="fas fa-calendar-alt"></span>20 Oct 2024
                       </Link>
                     </li>
                     <li>
-                      <a href="#">
+                      <Link href="#">
                         <span className="fas fa-comments"></span>02 Comment
                       </Link>
                     </li>
                   </ul>
                   <h3 className="blog-one__title">
-                    <a href="#">
+                    <Link href="#">
                       10 Early Signs of Pregnancy You Should Know
                     </Link>
                   </h3>
@@ -92,20 +92,18 @@ export default function Blog() {
                 <div className="blog-one__content">
                   <ul className="blog-one__meta list-unstyled">
                     <li>
-                      <a href="#">
+                      <Link href="#">
                         <span className="fas fa-calendar-alt"></span>12 Nov 2024
                       </Link>
                     </li>
                     <li>
-                      <a href="#">
+                      <Link href="#">
                         <span className="fas fa-comments"></span>05 Comment
                       </Link>
                     </li>
                   </ul>
                   <h3 className="blog-one__title">
-                    <a href="#">
-                      Understanding Menstrual Irregularities
-                    </Link>
+                    <Link href="#">Understanding Menstrual Irregularities</Link>
                   </h3>
                   <p className="blog-one__text">
                     Periods that are too frequent, too heavy, or absent may
@@ -135,18 +133,18 @@ export default function Blog() {
                 <div className="blog-one__content">
                   <ul className="blog-one__meta list-unstyled">
                     <li>
-                      <a href="#">
+                      <Link href="#">
                         <span className="fas fa-calendar-alt"></span>05 Dec 2024
                       </Link>
                     </li>
                     <li>
-                      <a href="#">
+                      <Link href="#">
                         <span className="fas fa-comments"></span>03 Comment
                       </Link>
                     </li>
                   </ul>
                   <h3 className="blog-one__title">
-                    <a href="#">
+                    <Link href="#">
                       C-Section vs Normal Delivery: What to Expect
                     </Link>
                   </h3>

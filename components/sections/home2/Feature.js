@@ -39,7 +39,7 @@ export default function Features() {
                     </span>
                   </div>
                   <h3 className="feature-one__title">
-                    <a href="our-services/obstetrics">
+                    <Link href="our-services/obstetrics">
                       Obstetrics <br /> & Pregnancy Care
                     </Link>
                   </h3>
@@ -49,7 +49,7 @@ export default function Features() {
                   expertise in high-risk pregnancy management and
                   preconceptional counselling.
                 </p>
-                <a
+                <Link
                   href="our-services/obstetrics"
                   className="feature-one__read-more"
                 >
@@ -75,7 +75,7 @@ export default function Features() {
                     </span>
                   </div>
                   <h3 className="feature-one__title">
-                    <a href="our-services/infertility">
+                    <Link href="our-services/infertility">
                       Infertility <br /> Treatments
                     </Link>
                   </h3>
@@ -85,7 +85,7 @@ export default function Features() {
                   insemination (IUI) to support couples on their journey to
                   parenthood.
                 </p>
-                <a
+                <Link
                   href="our-services/infertility"
                   className="feature-one__read-more"
                 >
@@ -111,7 +111,7 @@ export default function Features() {
                     </span>
                   </div>
                   <h3 className="feature-one__title">
-                    <a href="our-services/gynaecology">
+                    <Link href="our-services/gynaecology">
                       Gynaecology <br /> Care
                     </Link>
                   </h3>
@@ -121,7 +121,7 @@ export default function Features() {
                   cysts, menstrual disorders, menopausal care, and preventive
                   screenings.
                 </p>
-                <a
+                <Link
                   href="our-services/gynaecology"
                   className="feature-one__read-more"
                 >
@@ -150,7 +150,7 @@ export default function Features() {
                     </span>
                   </div>
                   <h3 className="feature-one__title">
-                    <a
+                    <Link
                       href="/our-services/laparoscopy-hysteroscopy"
                       style={{ fontSize: "22px" }}
                     >
@@ -162,7 +162,7 @@ export default function Features() {
                   Advanced minimally invasive surgeries: myomectomy,
                   hysterectomy, ovarian, tubal, hysteroscopy procedures.
                 </p>
-                <a
+                <Link
                   href="/our-services/laparoscopy-hysteroscopy"
                   className="feature-one__read-more"
                 >
@@ -188,7 +188,7 @@ export default function Features() {
                     </span>
                   </div>
                   <h3 className="feature-one__title">
-                    <a href="our-services/ultrasonography">
+                    <Link href="our-services/ultrasonography">
                       Advanced <br /> Ultrasonography
                     </Link>
                   </h3>
@@ -198,7 +198,7 @@ export default function Features() {
                   ultrasound for accurate diagnosis and monitoring of women’s
                   health.
                 </p>
-                <a
+                <Link
                   href="our-services/ultrasonography"
                   className="feature-one__read-more"
                 >
@@ -217,7 +217,7 @@ export default function Features() {
                     <span className="icon-calendar"></span>
                   </div>
                   <h3 className="feature-one__title">
-                    <a href="tel:+916361197107">
+                    <Link href="tel:+916361197107">
                       Book an <br /> Appointment
                     </Link>
                   </h3>
@@ -226,7 +226,7 @@ export default function Features() {
                   Schedule your consultation with our specialists for
                   personalized, compassionate, and expert women’s healthcare.
                 </p>
-                <a
+                <Link
                   href="tel:+916361197107"
                   className="feature-one__read-more"
                 >
