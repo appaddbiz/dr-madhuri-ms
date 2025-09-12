@@ -1,6 +1,7 @@
 "use client";
 import { useState } from "react";
-import ModalVideo from "react-modal-video";
+import dynamic from "next/dynamic";
+const ModalVideo = dynamic(() => import("react-modal-video"), { ssr: false });
 
 export default function VideoPopup({ style, text }) {
   const [isOpen, setOpen] = useState(false);
@@ -9,59 +10,71 @@ export default function VideoPopup({ style, text }) {
       {/* <Link onClick={() => setOpen(true)} className="lightbox-image"><i className="icon-play" /></Link> */}
       {/* <span className="play-icon flaticon-play" onClick={() => setOpen(true)} /> */}
       {!style && (
-        <Link
+        <button
+          type="button"
           onClick={() => setOpen(true)}
           className="overlay-link lightbox-image video-fancybox ripple"
         >
           <span className="play-icon flaticon-play" />
-        </Link>
+        </button>
       )}
 
       {style === 1 && (
         <div className="video-btn">
-          <Link
+          <button
+            type="button"
             onClick={() => setOpen(true)}
             className="overlay-link lightbox-image video-fancybox ripple"
           >
             <span className="play-icon flaticon-play" />{" "}
-          </Link>
+          </button>
         </div>
       )}
       {style === 2 && (
         <div className="video-btn">
-          <Link
+          <button
+            type="button"
             onClick={() => setOpen(true)}
             className="overlay-link lightbox-image video-fancybox ripple"
           >
             <span className="play-icon flaticon-play" />
-          </Link>
+          </button>
           <h6>{text ? text : "Latest Program Video"}</h6>
         </div>
       )}
       {style === 3 && (
         <div className="video-btn">
-          <Link onClick={() => setOpen(true)} className="lightbox-image">
+          <button
+            type="button"
+            onClick={() => setOpen(true)}
+            className="lightbox-image"
+          >
             <i className="customicon-play-button" />
             <span className="border-animation border-1" />
             <span className="border-animation border-2" />
             <span className="border-animation border-3" />
-          </Link>
+          </button>
         </div>
       )}
       {style === 4 && (
         <div className="video-btn">
-          <Link onClick={() => setOpen(true)} className="lightbox-image">
+          <button
+            type="button"
+            onClick={() => setOpen(true)}
+            className="lightbox-image"
+          >
             <img src="/assets/images-4/icons/video-btn-1.png" alt="" />
-          </Link>
+          </button>
         </div>
       )}
       {style === 5 && (
-        <Link
+        <button
+          type="button"
           onClick={() => setOpen(true)}
           className="video-btn overlay-link lightbox-image video-fancybox ripple"
         >
           <span className="fas fa-play" />
-        </Link>
+        </button>
       )}
 
       <ModalVideo
