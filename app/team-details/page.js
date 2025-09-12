@@ -20,13 +20,13 @@ export default function Home() {
                                     </div>
                                     <div className="team-details__social-and-share">
                                         <div className="team-details__social">
-                                            <Link href="#"><span className="fab fa-facebook-f"></span></Link>
-                                            <Link href="#"><span className="fab fa-twitter"></span></Link>
-                                            <Link href="#"><span className="fab fa-linkedin-in"></span></Link>
-                                            <Link href="#"><span className="fab fa-dribbble"></span></Link>
+                                            <a href="#"><span className="fab fa-facebook-f"></span></Link>
+                                            <a href="#"><span className="fab fa-twitter"></span></Link>
+                                            <a href="#"><span className="fab fa-linkedin-in"></span></Link>
+                                            <a href="#"><span className="fab fa-dribbble"></span></Link>
                                         </div>
                                         <div className="team-details__share">
-                                            <Link href="#"><span className="fas fa-share-alt"></span></Link>
+                                            <a href="#"><span className="fas fa-share-alt"></span></Link>
                                         </div>
                                     </div>
                                 </div>
@@ -64,10 +64,10 @@ export default function Home() {
                                 <div className="team-details__call-box">
                                     <ul className="team-details__call-list list-unstyled">
                                         <li>
-                                            <p>Phone : <Link href="tel:000325123">000-325-123</Link></p>
+                                            <p>Phone : <a href="tel:000325123">000-325-123</Link></p>
                                         </li>
                                         <li>
-                                            <p>Email : <Link href="mailto:Example@gmail.com">Example@gmail.com</Link></p>
+                                            <p>Email : <a href="mailto:Example@gmail.com">Example@gmail.com</Link></p>
                                         </li>
                                         <li>
                                             <p>Gender : <span>Male</span></p>
@@ -75,7 +75,7 @@ export default function Home() {
                                     </ul>
                                     <ul className="team-details__call-list team-details__call-list-2 list-unstyled">
                                         <li>
-                                            <p>Website : <Link href="#">Webexample.com</Link></p>
+                                            <p>Website : <a href="#">Webexample.com</Link></p>
                                         </li>
                                         <li>
                                             <p>Nationality : <span>American</span></p>
@@ -156,7 +156,7 @@ export default function Home() {
                         <h3 className="cta-one__title">Let's discuss about how we can help
                             <br/> make your business better</h3>
                         <div className="cta-one__btn-box">
-                            <Link href="about" className="cta-one__btn thm-btn">Let's Start</Link>
+                            <a href="about" className="cta-one__btn thm-btn">Let's Start</Link>
                         </div>
                     </div>
                 </div>

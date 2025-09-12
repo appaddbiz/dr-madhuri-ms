@@ -62,9 +62,9 @@ export default function ProjectSlider13() {
                             <figure className="image-box"><img src="/assets/images-4/project/project-1.jpg" alt="" /></figure>
                             <div className="text">
                                 <p><i className="fas fa-folder-open" />Construction</p>
-                                <h2><Link href="/portfolio-details">Spiral Staircase Building</Link></h2>
+                                <h2><a href="/portfolio-details">Spiral Staircase Building</Link></h2>
                                 <div className="btn-box">
-                                    <Link href="/portfolio-details">Read More</Link>
+                                    <a href="/portfolio-details">Read More</Link>
                                 </div>
                             </div>
                         </div>
@@ -76,9 +76,9 @@ export default function ProjectSlider13() {
                             <figure className="image-box"><img src="/assets/images-4/project/project-2.jpg" alt="" /></figure>
                             <div className="text">
                                 <p><i className="fas fa-folder-open" />Construction</p>
-                                <h2><Link href="/portfolio-details">Spiral Staircase Building</Link></h2>
+                                <h2><a href="/portfolio-details">Spiral Staircase Building</Link></h2>
                                 <div className="btn-box">
-                                    <Link href="/portfolio-details">Read More</Link>
+                                    <a href="/portfolio-details">Read More</Link>
                                 </div>
                             </div>
                         </div>
@@ -90,9 +90,9 @@ export default function ProjectSlider13() {
                             <figure className="image-box"><img src="/assets/images-4/project/project-3.jpg" alt="" /></figure>
                             <div className="text">
                                 <p><i className="fas fa-folder-open" />Construction</p>
-                                <h2><Link href="/portfolio-details">Spiral Staircase Building</Link></h2>
+                                <h2><a href="/portfolio-details">Spiral Staircase Building</Link></h2>
                                 <div className="btn-box">
-                                    <Link href="/portfolio-details">Read More</Link>
+                                    <a href="/portfolio-details">Read More</Link>
                                 </div>
                             </div>
                         </div>

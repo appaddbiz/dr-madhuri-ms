@@ -68,7 +68,7 @@ export default function ContactSlider5() {
                             <li>+1 800 555 44 00 &amp; 55</li>
                             <li>supportteam@Envolve.com</li>
                         </ul>
-                        <Link href="#" className="read-more-link">Get Direction <i className="fa fa-caret-right" /></Link>
+                        <a href="#" className="read-more-link">Get Direction <i className="fa fa-caret-right" /></Link>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide className="slide-item">
@@ -81,7 +81,7 @@ export default function ContactSlider5() {
                             <li>+1 800 555 44 00 &amp; 55</li>
                             <li>supportteam@Envolve.com</li>
                         </ul>
-                        <Link href="#" className="read-more-link">Get Direction <i className="fa fa-caret-right" /></Link>
+                        <a href="#" className="read-more-link">Get Direction <i className="fa fa-caret-right" /></Link>
                     </div>
                 </SwiperSlide>
 

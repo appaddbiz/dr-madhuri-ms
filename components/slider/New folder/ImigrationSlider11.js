@@ -70,7 +70,7 @@ export default function ImigrationSlider11() {
                                 <h6>A Hub For Professionals</h6>
                                 <p>Indignation and dislike men who beguiled and demoralized the charms of pleasure</p>
                             </div>
-                            <div className="btn-box"><Link href="/index-11">Read More</Link></div>
+                            <div className="btn-box"><a href="/index-11">Read More</Link></div>
                         </div>
                     </div>
                 </SwiperSlide>
@@ -84,7 +84,7 @@ export default function ImigrationSlider11() {
                                 <h6>A Fast Track Visa Process</h6>
                                 <p>Indignation and dislike men who beguiled and demoralized the charms of pleasure</p>
                             </div>
-                            <div className="btn-box"><Link href="/index-11">Read More</Link></div>
+                            <div className="btn-box"><a href="/index-11">Read More</Link></div>
                         </div>
                     </div>
                 </SwiperSlide>
@@ -98,7 +98,7 @@ export default function ImigrationSlider11() {
                                 <h6>A new Destination</h6>
                                 <p>Indignation and dislike men who beguiled and demoralized the charms of pleasure</p>
                             </div>
-                            <div className="btn-box"><Link href="/index-11">Read More</Link></div>
+                            <div className="btn-box"><a href="/index-11">Read More</Link></div>
                         </div>
                     </div>
                 </SwiperSlide>
@@ -112,7 +112,7 @@ export default function ImigrationSlider11() {
                                 <h6>A Hub For Professionals</h6>
                                 <p>Indignation and dislike men who beguiled and demoralized the charms of pleasure</p>
                             </div>
-                            <div className="btn-box"><Link href="/index-11">Read More</Link></div>
+                            <div className="btn-box"><a href="/index-11">Read More</Link></div>
                         </div>
                     </div>
                 </SwiperSlide>
@@ -126,7 +126,7 @@ export default function ImigrationSlider11() {
                                 <h6>A Fast Track Visa Process</h6>
                                 <p>Indignation and dislike men who beguiled and demoralized the charms of pleasure</p>
                             </div>
-                            <div className="btn-box"><Link href="/index-11">Read More</Link></div>
+                            <div className="btn-box"><a href="/index-11">Read More</Link></div>
                         </div>
                     </div>
                 </SwiperSlide>
@@ -140,7 +140,7 @@ export default function ImigrationSlider11() {
                                 <h6>A new Destination</h6>
                                 <p>Indignation and dislike men who beguiled and demoralized the charms of pleasure</p>
                             </div>
-                            <div className="btn-box"><Link href="/index-11">Read More</Link></div>
+                            <div className="btn-box"><a href="/index-11">Read More</Link></div>
                         </div>
                     </div>
                 </SwiperSlide>
@@ -154,7 +154,7 @@ export default function ImigrationSlider11() {
                                 <h6>A Hub For Professionals</h6>
                                 <p>Indignation and dislike men who beguiled and demoralized the charms of pleasure</p>
                             </div>
-                            <div className="btn-box"><Link href="/index-11">Read More</Link></div>
+                            <div className="btn-box"><a href="/index-11">Read More</Link></div>
                         </div>
                     </div>
                 </SwiperSlide>
@@ -168,7 +168,7 @@ export default function ImigrationSlider11() {
                                 <h6>A Fast Track Visa Process</h6>
                                 <p>Indignation and dislike men who beguiled and demoralized the charms of pleasure</p>
                             </div>
-                            <div className="btn-box"><Link href="/index-11">Read More</Link></div>
+                            <div className="btn-box"><a href="/index-11">Read More</Link></div>
                         </div>
                     </div>
                 </SwiperSlide>
@@ -182,7 +182,7 @@ export default function ImigrationSlider11() {
                                 <h6>A new Destination</h6>
                                 <p>Indignation and dislike men who beguiled and demoralized the charms of pleasure</p>
                             </div>
-                            <div className="btn-box"><Link href="/index-11">Read More</Link></div>
+                            <div className="btn-box"><a href="/index-11">Read More</Link></div>
                         </div>
                     </div>
                 </SwiperSlide>

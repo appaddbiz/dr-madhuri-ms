@@ -71,7 +71,7 @@ export default function Contact() {
                         <div className="contact-one__right">
                             <div className="contact-one__video-link wow zoomIn" data-wow-delay="100ms"
                                 data-wow-duration="3500ms">
-                                <Link href="https://www.youtube.com/watch?v=Get7rqXYrbQ" className="video-popup">
+                                <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ" className="video-popup">
                                     <div className="contact-one__video-icon">
                                         <span className="icon-play-button"></span>
                                         <i className="ripple"></i>

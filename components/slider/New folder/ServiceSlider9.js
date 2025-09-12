@@ -70,11 +70,11 @@ export default function ServiceSlider9() {
                             </div>
                             <div className="overlay-content">
                                 <div className="button">
-                                    <Link href="#"><span className="icon-right-arrow" /></Link>
+                                    <a href="#"><span className="icon-right-arrow" /></Link>
                                 </div>
                             </div>
                             <div className="title-box">
-                                <h3><Link href="#">Inspection</Link></h3>
+                                <h3><a href="#">Inspection</Link></h3>
                                 <p>Eco Car Inspection Services</p>
                             </div>
                         </div>
@@ -95,11 +95,11 @@ export default function ServiceSlider9() {
                             </div>
                             <div className="overlay-content">
                                 <div className="button">
-                                    <Link href="#"><span className="icon-car-repair" /></Link>
+                                    <a href="#"><span className="icon-car-repair" /></Link>
                                 </div>
                             </div>
                             <div className="title-box">
-                                <h3><Link href="#">Diagnostics</Link></h3>
+                                <h3><a href="#">Diagnostics</Link></h3>
                                 <p>Addition to Expert Diagnostic Testing</p>
                             </div>
                         </div>
@@ -120,11 +120,11 @@ export default function ServiceSlider9() {
                             </div>
                             <div className="overlay-content">
                                 <div className="button">
-                                    <Link href="#"><span className="icon-right-arrow" /></Link>
+                                    <a href="#"><span className="icon-right-arrow" /></Link>
                                 </div>
                             </div>
                             <div className="title-box">
-                                <h3><Link href="#">Upgrades</Link></h3>
+                                <h3><a href="#">Upgrades</Link></h3>
                                 <p>Simple Modifications to Your Car</p>
                             </div>
                         </div>
@@ -145,11 +145,11 @@ export default function ServiceSlider9() {
                             </div>
                             <div className="overlay-content">
                                 <div className="button">
-                                    <Link href="#"><span className="icon-right-arrow" /></Link>
+                                    <a href="#"><span className="icon-right-arrow" /></Link>
                                 </div>
                             </div>
                             <div className="title-box">
-                                <h3><Link href="#">Inspection</Link></h3>
+                                <h3><a href="#">Inspection</Link></h3>
                                 <p>Eco Car Inspection Services</p>
                             </div>
                         </div>
@@ -170,11 +170,11 @@ export default function ServiceSlider9() {
                             </div>
                             <div className="overlay-content">
                                 <div className="button">
-                                    <Link href="#"><span className="icon-car-repair" /></Link>
+                                    <a href="#"><span className="icon-car-repair" /></Link>
                                 </div>
                             </div>
                             <div className="title-box">
-                                <h3><Link href="#">Diagnostics</Link></h3>
+                                <h3><a href="#">Diagnostics</Link></h3>
                                 <p>Addition to Expert Diagnostic Testing</p>
                             </div>
                         </div>
@@ -195,11 +195,11 @@ export default function ServiceSlider9() {
                             </div>
                             <div className="overlay-content">
                                 <div className="button">
-                                    <Link href="#"><span className="icon-right-arrow" /></Link>
+                                    <a href="#"><span className="icon-right-arrow" /></Link>
                                 </div>
                             </div>
                             <div className="title-box">
-                                <h3><Link href="#">Upgrades</Link></h3>
+                                <h3><a href="#">Upgrades</Link></h3>
                                 <p>Simple Modifications to Your Car</p>
                             </div>
                         </div>
@@ -220,11 +220,11 @@ export default function ServiceSlider9() {
                             </div>
                             <div className="overlay-content">
                                 <div className="button">
-                                    <Link href="#"><span className="icon-right-arrow" /></Link>
+                                    <a href="#"><span className="icon-right-arrow" /></Link>
                                 </div>
                             </div>
                             <div className="title-box">
-                                <h3><Link href="#">Inspection</Link></h3>
+                                <h3><a href="#">Inspection</Link></h3>
                                 <p>Eco Car Inspection Services</p>
                             </div>
                         </div>
@@ -245,11 +245,11 @@ export default function ServiceSlider9() {
                             </div>
                             <div className="overlay-content">
                                 <div className="button">
-                                    <Link href="#"><span className="icon-car-repair" /></Link>
+                                    <a href="#"><span className="icon-car-repair" /></Link>
                                 </div>
                             </div>
                             <div className="title-box">
-                                <h3><Link href="#">Diagnostics</Link></h3>
+                                <h3><a href="#">Diagnostics</Link></h3>
                                 <p>Addition to Expert Diagnostic Testing</p>
                             </div>
                         </div>
@@ -270,11 +270,11 @@ export default function ServiceSlider9() {
                             </div>
                             <div className="overlay-content">
                                 <div className="button">
-                                    <Link href="#"><span className="icon-right-arrow" /></Link>
+                                    <a href="#"><span className="icon-right-arrow" /></Link>
                                 </div>
                             </div>
                             <div className="title-box">
-                                <h3><Link href="#">Upgrades</Link></h3>
+                                <h3><a href="#">Upgrades</Link></h3>
                                 <p>Simple Modifications to Your Car</p>
                             </div>
                         </div>

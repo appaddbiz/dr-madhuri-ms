@@ -61,7 +61,7 @@ export default function Service() {
                     </div>
                     <div className="services-one__content-wrap">
                       <div className="services-one__icon">
-                        <Link href="tel:+916361197107">
+                        <a href="tel:+916361197107">
                           <span className="">
                             <img
                               src={service.icon}
@@ -72,7 +72,7 @@ export default function Service() {
                       </div>
                       <div className="services-one__content">
                         <h3 className="services-one__title">
-                          <Link
+                          <a
                             href={`/our-services/${service.link}/${(
                               service.title || "detail"
                             )
@@ -87,7 +87,7 @@ export default function Service() {
                         <p className="services-one__text">
                           {service.description.slice(0, 100)}...
                         </p>
-                        <Link
+                        <a
                           href={`/our-services/${service.link}/${(
                             service.title || "detail"
                           )

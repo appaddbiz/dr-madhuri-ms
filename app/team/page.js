@@ -38,13 +38,13 @@ export default function Home() {
                                     <div className="team-two__content-shape">
                                         <img src="assets/images/shapes/team-two-content-shape.png" alt=""/>
                                     </div>
-                                    <h3 className="team-two__title"><Link href="team-details">Alisha Martin</Link></h3>
+                                    <h3 className="team-two__title"><a href="team-details">Alisha Martin</Link></h3>
                                     <p className="team-two__sub-title">Managing Director</p>
                                     <div className="team-two__social">
-                                        <Link href="#"><span className="icon-twitter"></span></Link>
-                                        <Link href="#"><span className="icon-facebook"></span></Link>
-                                        <Link href="#"><span className="icon-google-plus-logo"></span></Link>
-                                        <Link href="#"><span className="icon-pinterest"></span></Link>
+                                        <a href="#"><span className="icon-twitter"></span></Link>
+                                        <a href="#"><span className="icon-facebook"></span></Link>
+                                        <a href="#"><span className="icon-google-plus-logo"></span></Link>
+                                        <a href="#"><span className="icon-pinterest"></span></Link>
                                     </div>
                                 </div>
                             </div>
@@ -70,13 +70,13 @@ export default function Home() {
                                     <div className="team-two__content-shape">
                                         <img src="assets/images/shapes/team-two-content-shape.png" alt=""/>
                                     </div>
-                                    <h3 className="team-two__title"><Link href="team-details">Aimee Calderon</Link></h3>
+                                    <h3 className="team-two__title"><a href="team-details">Aimee Calderon</Link></h3>
                                     <p className="team-two__sub-title">Managing Director</p>
                                     <div className="team-two__social">
-                                        <Link href="#"><span className="icon-twitter"></span></Link>
-                                        <Link href="#"><span className="icon-facebook"></span></Link>
-                                        <Link href="#"><span className="icon-google-plus-logo"></span></Link>
-                                        <Link href="#"><span className="icon-pinterest"></span></Link>
+                                        <a href="#"><span className="icon-twitter"></span></Link>
+                                        <a href="#"><span className="icon-facebook"></span></Link>
+                                        <a href="#"><span className="icon-google-plus-logo"></span></Link>
+                                        <a href="#"><span className="icon-pinterest"></span></Link>
                                     </div>
                                 </div>
                             </div>
@@ -102,13 +102,13 @@ export default function Home() {
                                     <div className="team-two__content-shape">
                                         <img src="assets/images/shapes/team-two-content-shape.png" alt=""/>
                                     </div>
-                                    <h3 className="team-two__title"><Link href="team-details">Saba Kurbi</Link></h3>
+                                    <h3 className="team-two__title"><a href="team-details">Saba Kurbi</Link></h3>
                                     <p className="team-two__sub-title">Managing Director</p>
                                     <div className="team-two__social">
-                                        <Link href="#"><span className="icon-twitter"></span></Link>
-                                        <Link href="#"><span className="icon-facebook"></span></Link>
-                                        <Link href="#"><span className="icon-google-plus-logo"></span></Link>
-                                        <Link href="#"><span className="icon-pinterest"></span></Link>
+                                        <a href="#"><span className="icon-twitter"></span></Link>
+                                        <a href="#"><span className="icon-facebook"></span></Link>
+                                        <a href="#"><span className="icon-google-plus-logo"></span></Link>
+                                        <a href="#"><span className="icon-pinterest"></span></Link>
                                     </div>
                                 </div>
                             </div>
@@ -134,13 +134,13 @@ export default function Home() {
                                     <div className="team-two__content-shape">
                                         <img src="assets/images/shapes/team-two-content-shape.png" alt=""/>
                                     </div>
-                                    <h3 className="team-two__title"><Link href="team-details">Tamanna Tamu</Link></h3>
+                                    <h3 className="team-two__title"><a href="team-details">Tamanna Tamu</Link></h3>
                                     <p className="team-two__sub-title">Managing Director</p>
                                     <div className="team-two__social">
-                                        <Link href="#"><span className="icon-twitter"></span></Link>
-                                        <Link href="#"><span className="icon-facebook"></span></Link>
-                                        <Link href="#"><span className="icon-google-plus-logo"></span></Link>
-                                        <Link href="#"><span className="icon-pinterest"></span></Link>
+                                        <a href="#"><span className="icon-twitter"></span></Link>
+                                        <a href="#"><span className="icon-facebook"></span></Link>
+                                        <a href="#"><span className="icon-google-plus-logo"></span></Link>
+                                        <a href="#"><span className="icon-pinterest"></span></Link>
                                     </div>
                                 </div>
                             </div>
@@ -161,7 +161,7 @@ export default function Home() {
                         <h3 className="cta-one__title">Let's discuss about how we can help
                             <br/> make your business better</h3>
                         <div className="cta-one__btn-box">
-                            <Link href="about" className="cta-one__btn thm-btn">Let's Start</Link>
+                            <a href="about" className="cta-one__btn thm-btn">Let's Start</Link>
                         </div>
                     </div>
                 </div>

@@ -64,15 +64,15 @@ export default function TeamSlider12() {
                                 <li className="share-option">
                                     <i className="share-icon fas fa-share-alt" />
                                     <ul className="share-links clearfix">
-                                        <li><Link href="/index-12"><i className="fab fa-facebook-f" /></Link></li>
-                                        <li><Link href="/index-12"><i className="fab fa-twitter" /></Link></li>
-                                        <li><Link href="/index-12"><i className="fab fa-google-plus-g" /></Link></li>
+                                        <li><a href="/index-12"><i className="fab fa-facebook-f" /></Link></li>
+                                        <li><a href="/index-12"><i className="fab fa-twitter" /></Link></li>
+                                        <li><a href="/index-12"><i className="fab fa-google-plus-g" /></Link></li>
                                     </ul>
                                 </li>
-                                <li className="mail-box"><Link href="mailto:info@example.com"><i className="fas fa-envelope" /></Link></li>
+                                <li className="mail-box"><a href="mailto:info@example.com"><i className="fas fa-envelope" /></Link></li>
                             </ul>
                             <div className="text">
-                                <h3><Link href="/index-12">Zedrew Kowzel</Link></h3>
+                                <h3><a href="/index-12">Zedrew Kowzel</Link></h3>
                                 <span className="designation">Founder</span>
                             </div>
                         </div>
@@ -86,15 +86,15 @@ export default function TeamSlider12() {
                                 <li className="share-option">
                                     <i className="share-icon fas fa-share-alt" />
                                     <ul className="share-links clearfix">
-                                        <li><Link href="/index-12"><i className="fab fa-facebook-f" /></Link></li>
-                                        <li><Link href="/index-12"><i className="fab fa-twitter" /></Link></li>
-                                        <li><Link href="/index-12"><i className="fab fa-google-plus-g" /></Link></li>
+                                        <li><a href="/index-12"><i className="fab fa-facebook-f" /></Link></li>
+                                        <li><a href="/index-12"><i className="fab fa-twitter" /></Link></li>
+                                        <li><a href="/index-12"><i className="fab fa-google-plus-g" /></Link></li>
                                     </ul>
                                 </li>
-                                <li className="mail-box"><Link href="mailto:info@example.com"><i className="fas fa-envelope" /></Link></li>
+                                <li className="mail-box"><a href="mailto:info@example.com"><i className="fas fa-envelope" /></Link></li>
                             </ul>
                             <div className="text">
-                                <h3><Link href="/index-12">Peter Fransisco</Link></h3>
+                                <h3><a href="/index-12">Peter Fransisco</Link></h3>
                                 <span className="designation">Instructor</span>
                             </div>
                         </div>
@@ -108,15 +108,15 @@ export default function TeamSlider12() {
                                 <li className="share-option">
                                     <i className="share-icon fas fa-share-alt" />
                                     <ul className="share-links clearfix">
-                                        <li><Link href="/index-12"><i className="fab fa-facebook-f" /></Link></li>
-                                        <li><Link href="/index-12"><i className="fab fa-twitter" /></Link></li>
-                                        <li><Link href="/index-12"><i className="fab fa-google-plus-g" /></Link></li>
+                                        <li><a href="/index-12"><i className="fab fa-facebook-f" /></Link></li>
+                                        <li><a href="/index-12"><i className="fab fa-twitter" /></Link></li>
+                                        <li><a href="/index-12"><i className="fab fa-google-plus-g" /></Link></li>
                                     </ul>
                                 </li>
-                                <li className="mail-box"><Link href="mailto:info@example.com"><i className="fas fa-envelope" /></Link></li>
+                                <li className="mail-box"><a href="mailto:info@example.com"><i className="fas fa-envelope" /></Link></li>
                             </ul>
                             <div className="text">
-                                <h3><Link href="/index-12">Peshotan Mehta</Link></h3>
+                                <h3><a href="/index-12">Peshotan Mehta</Link></h3>
                                 <span className="designation">Instructor</span>
                             </div>
                         </div>
@@ -130,15 +130,15 @@ export default function TeamSlider12() {
                                 <li className="share-option">
                                     <i className="share-icon fas fa-share-alt" />
                                     <ul className="share-links clearfix">
-                                        <li><Link href="/index-12"><i className="fab fa-facebook-f" /></Link></li>
-                                        <li><Link href="/index-12"><i className="fab fa-twitter" /></Link></li>
-                                        <li><Link href="/index-12"><i className="fab fa-google-plus-g" /></Link></li>
+                                        <li><a href="/index-12"><i className="fab fa-facebook-f" /></Link></li>
+                                        <li><a href="/index-12"><i className="fab fa-twitter" /></Link></li>
+                                        <li><a href="/index-12"><i className="fab fa-google-plus-g" /></Link></li>
                                     </ul>
                                 </li>
-                                <li className="mail-box"><Link href="mailto:info@example.com"><i className="fas fa-envelope" /></Link></li>
+                                <li className="mail-box"><a href="mailto:info@example.com"><i className="fas fa-envelope" /></Link></li>
                             </ul>
                             <div className="text">
-                                <h3><Link href="/index-12">Peter Fransisco</Link></h3>
+                                <h3><a href="/index-12">Peter Fransisco</Link></h3>
                                 <span className="designation">Instructor</span>
                             </div>
                         </div>
@@ -152,15 +152,15 @@ export default function TeamSlider12() {
                                 <li className="share-option">
                                     <i className="share-icon fas fa-share-alt" />
                                     <ul className="share-links clearfix">
-                                        <li><Link href="/index-12"><i className="fab fa-facebook-f" /></Link></li>
-                                        <li><Link href="/index-12"><i className="fab fa-twitter" /></Link></li>
-                                        <li><Link href="/index-12"><i className="fab fa-google-plus-g" /></Link></li>
+                                        <li><a href="/index-12"><i className="fab fa-facebook-f" /></Link></li>
+                                        <li><a href="/index-12"><i className="fab fa-twitter" /></Link></li>
+                                        <li><a href="/index-12"><i className="fab fa-google-plus-g" /></Link></li>
                                     </ul>
                                 </li>
-                                <li className="mail-box"><Link href="mailto:info@example.com"><i className="fas fa-envelope" /></Link></li>
+                                <li className="mail-box"><a href="mailto:info@example.com"><i className="fas fa-envelope" /></Link></li>
                             </ul>
                             <div className="text">
-                                <h3><Link href="/index-12">Peshotan Mehta</Link></h3>
+                                <h3><a href="/index-12">Peshotan Mehta</Link></h3>
                                 <span className="designation">Instructor</span>
                             </div>
                         </div>

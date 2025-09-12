@@ -64,7 +64,7 @@ export default function Footer1() {
               >
                 <div className="footer-widget__column footer-widget__about">
                   <div className="footer-widget__logo">
-                    <Link href="/">
+                    <a href="/">
                       <img
                         src="/assets/flat-icons/Dr Madhuri.png"
                         style={{ width: "250px" }}
@@ -80,7 +80,7 @@ export default function Footer1() {
                   <div className="site-footer__social-box">
                     <p style={{ color: "white" }}>
                       Address : &ensp;
-                      <Link
+                      <a
                         href="https://maps.app.goo.gl/jo8ywP9BpgwnWcoL9"
                         target="_blank"
                         rel="noopener noreferrer"
@@ -91,7 +91,7 @@ export default function Footer1() {
                     </p>
                     <p style={{ color: "white" }}>
                       Phone No. :{" "}
-                      <Link href="tel:+916361197107">+91 6361197107</Link>
+                      <a href="tel:+916361197107">+91 6361197107</Link>
                     </p>
                   </div>
                 </div>
@@ -106,25 +106,25 @@ export default function Footer1() {
                   </div>
                   <ul className="footer-widget__link-list list-unstyled">
                     <li>
-                      <Link href="/">Home</Link>
+                      <a href="/">Home</Link>
                     </li>
                     <li>
-                      <Link href="/about-doctor">About Doctor</Link>
+                      <a href="/about-doctor">About Doctor</Link>
                     </li>
                     <li>
-                      <Link href="/our-services/obstetrics">Obstetrics</Link>
+                      <a href="/our-services/obstetrics">Obstetrics</Link>
                     </li>
                     <li>
-                      <Link href="/our-services/gynaecology">Gynaecology</Link>
+                      <a href="/our-services/gynaecology">Gynaecology</Link>
                     </li>
                     <li>
-                      <Link href="/gallery">Gallery</Link>
+                      <a href="/gallery">Gallery</Link>
                     </li>
                     <li>
-                      <Link href="#">Blog</Link>
+                      <a href="#">Blog</Link>
                     </li>
                     <li>
-                      <Link href="/contact">Contact</Link>
+                      <a href="/contact">Contact</Link>
                     </li>
                   </ul>
                 </div>
@@ -170,9 +170,9 @@ export default function Footer1() {
               <div className="col-xl-12">
                 <div className="site-footer__bottom-inner">
                   <p className="site-footer__bottom-text">
-                    Copyright © 2025 <Link href="#">Dr. Madhuri M.</Link> All
+                    Copyright © 2025 <a href="#">Dr. Madhuri M.</Link> All
                     Rights Reserved. Designed By{" "}
-                    <Link
+                    <a
                       href="https://appaddindia.net/"
                       target="_blank"
                       rel="noopener noreferrer"

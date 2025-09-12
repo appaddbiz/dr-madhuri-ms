@@ -62,7 +62,7 @@ export default function Pricing() {
                                     </li>
                                 </ul>
                                 <div className="pricing-one__btn-box">
-                                    <Link href="pricing" className="pricing-one__btn thm-btn">See More<span
+                                    <a href="pricing" className="pricing-one__btn thm-btn">See More<span
                                             className="fas fa-angle-right"></span></Link>
                                 </div>
                             </div>
@@ -113,7 +113,7 @@ export default function Pricing() {
                                     </li>
                                 </ul>
                                 <div className="pricing-one__btn-box">
-                                    <Link href="pricing" className="pricing-one__btn thm-btn">See More<span
+                                    <a href="pricing" className="pricing-one__btn thm-btn">See More<span
                                             className="fas fa-angle-right"></span></Link>
                                 </div>
                             </div>
@@ -164,7 +164,7 @@ export default function Pricing() {
                                     </li>
                                 </ul>
                                 <div className="pricing-one__btn-box">
-                                    <Link href="pricing" className="pricing-one__btn thm-btn">See More<span
+                                    <a href="pricing" className="pricing-one__btn thm-btn">See More<span
                                             className="fas fa-angle-right"></span></Link>
                                 </div>
                             </div>

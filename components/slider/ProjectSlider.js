@@ -70,7 +70,7 @@ export default function ProjectSlider2() {
                                 <div className="category">Marketing</div>
                                 <div className="text">Business Leadership</div>
                             </div>
-                            <div className="link-btn"><Link href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
+                            <div className="link-btn"><a href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
                         </div>
                     </div>
                 </SwiperSlide>
@@ -88,7 +88,7 @@ export default function ProjectSlider2() {
                                 <div className="category">Financial</div>
                                 <div className="text">Capital Management</div>
                             </div>
-                            <div className="link-btn"><Link href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
+                            <div className="link-btn"><a href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
                         </div>
                     </div>
                 </SwiperSlide>
@@ -106,7 +106,7 @@ export default function ProjectSlider2() {
                                 <div className="category">Technical</div>
                                 <div className="text">Market Expansion</div>
                             </div>
-                            <div className="link-btn"><Link href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
+                            <div className="link-btn"><a href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
                         </div>
                     </div>
                 </SwiperSlide>

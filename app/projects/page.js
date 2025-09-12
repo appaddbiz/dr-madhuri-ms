@@ -26,7 +26,7 @@ export default function Home() {
                                     <img src="assets/images/project/project-1-1.jpg" alt=""/>
                                 </div>
                                 <div className="project-one__content">
-                                    <h3 className="project-one__title"><Link href="project-details">Consultant Service</Link>
+                                    <h3 className="project-one__title"><a href="project-details">Consultant Service</Link>
                                     </h3>
                                     <p className="project-one__sub-title">Digital Marketing</p>
                                 </div>
@@ -42,7 +42,7 @@ export default function Home() {
                                     <img src="assets/images/project/project-1-2.jpg" alt=""/>
                                 </div>
                                 <div className="project-one__content">
-                                    <h3 className="project-one__title"><Link href="project-details">Business Strategy</Link>
+                                    <h3 className="project-one__title"><a href="project-details">Business Strategy</Link>
                                     </h3>
                                     <p className="project-one__sub-title">Digital Marketing</p>
                                 </div>
@@ -58,7 +58,7 @@ export default function Home() {
                                     <img src="assets/images/project/project-1-3.jpg" alt=""/>
                                 </div>
                                 <div className="project-one__content">
-                                    <h3 className="project-one__title"><Link href="project-details">Consultant Service</Link>
+                                    <h3 className="project-one__title"><a href="project-details">Consultant Service</Link>
                                     </h3>
                                     <p className="project-one__sub-title">Managing Director</p>
                                 </div>
@@ -74,7 +74,7 @@ export default function Home() {
                                     <img src="assets/images/project/project-1-4.jpg" alt=""/>
                                 </div>
                                 <div className="project-one__content">
-                                    <h3 className="project-one__title"><Link href="project-details">UI/UX
+                                    <h3 className="project-one__title"><a href="project-details">UI/UX
                                             Designing</Link></h3>
                                     <p className="project-one__sub-title">Digital Marketing</p>
                                 </div>
@@ -90,7 +90,7 @@ export default function Home() {
                                     <img src="assets/images/project/project-1-5.jpg" alt=""/>
                                 </div>
                                 <div className="project-one__content">
-                                    <h3 className="project-one__title"><Link href="project-details">Webside
+                                    <h3 className="project-one__title"><a href="project-details">Webside
                                             Development</Link></h3>
                                     <p className="project-one__sub-title">Managing Director</p>
                                 </div>
@@ -106,7 +106,7 @@ export default function Home() {
                                     <img src="assets/images/project/project-1-6.jpg" alt=""/>
                                 </div>
                                 <div className="project-one__content">
-                                    <h3 className="project-one__title"><Link href="project-details">Mobile
+                                    <h3 className="project-one__title"><a href="project-details">Mobile
                                             Application</Link></h3>
                                     <p className="project-one__sub-title">Managing Director</p>
                                 </div>
@@ -128,7 +128,7 @@ export default function Home() {
                         <h3 className="cta-one__title">Let's discuss about how we can help
                             <br/> make your business better</h3>
                         <div className="cta-one__btn-box">
-                            <Link href="about" className="cta-one__btn thm-btn">Let's Start</Link>
+                            <a href="about" className="cta-one__btn thm-btn">Let's Start</Link>
                         </div>
                     </div>
                 </div>

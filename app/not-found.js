@@ -22,7 +22,7 @@ export default function Error404() {
                                     <button type="submit"><i className="icon-magnifying-glass"></i></button>
                                 </div>
                             </form>
-                            <Link href="/" className="thm-btn error-page__btn">Back to home</Link>
+                            <a href="/" className="thm-btn error-page__btn">Back to home</Link>
                         </div>
                     </div>
                 </div>
@@ -40,7 +40,7 @@ export default function Error404() {
                         <h3 className="cta-one__title">Let's discuss about how we can help
                             <br/> make your business better</h3>
                         <div className="cta-one__btn-box">
-                            <Link href="#" className="cta-one__btn thm-btn">Let's Start</Link>
+                            <a href="#" className="cta-one__btn thm-btn">Let's Start</Link>
                         </div>
                     </div>
                 </div>

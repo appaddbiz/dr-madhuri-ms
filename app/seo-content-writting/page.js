@@ -75,27 +75,27 @@ export default function Home() {
                                 <h3 className="sidebar__title">All Services</h3>
                                 <ul className="service-details__service-list list-unstyled">
                                     <li>
-                                        <Link href="digital-marketing">Digital Marketing<span
+                                        <a href="digital-marketing">Digital Marketing<span
                                                 className="fas fa-angle-right"></span></Link>
                                     </li>
                                     <li>
-                                        <Link href="ui-ux-designing">UI/UX Designing<span
+                                        <a href="ui-ux-designing">UI/UX Designing<span
                                                 className="fas fa-angle-right"></span></Link>
                                     </li>
                                     <li>
-                                        <Link href="app-development">App Development<span
+                                        <a href="app-development">App Development<span
                                                 className="fas fa-angle-right"></span></Link>
                                     </li>
                                     <li>
-                                        <Link href="graphic-designing">Graphic Designing<span
+                                        <a href="graphic-designing">Graphic Designing<span
                                                 className="fas fa-angle-right"></span></Link>
                                     </li>
                                     <li>
-                                        <Link href="website-development">Website Development<span
+                                        <a href="website-development">Website Development<span
                                                 className="fas fa-angle-right"></span></Link>
                                     </li>
                                     <li className="active">
-                                        <Link href="seo-content-writting">SEO & Content Writting<span
+                                        <a href="seo-content-writting">SEO & Content Writting<span
                                                 className="fas fa-angle-right"></span></Link>
                                     </li>
                                 </ul>
@@ -113,7 +113,7 @@ export default function Home() {
                                     <div className="icon">
                                         <span className="icon-telephone"></span>
                                     </div>
-                                    <Link href="tel:01666444999">01-666 444 999</Link>
+                                    <a href="tel:01666444999">01-666 444 999</Link>
                                 </div>
                             </div>
                         </div>
@@ -133,7 +133,7 @@ export default function Home() {
                         <h3 className="cta-one__title">Let's discuss about how we can help
                             <br/> make your business better</h3>
                         <div className="cta-one__btn-box">
-                            <Link href="about" className="cta-one__btn thm-btn">Let's Start</Link>
+                            <a href="about" className="cta-one__btn thm-btn">Let's Start</Link>
                         </div>
                     </div>
                 </div>

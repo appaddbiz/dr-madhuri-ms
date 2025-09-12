@@ -18,10 +18,10 @@ export default function Home() {
                             <div className="blog-details__content">
                                 <ul className="blog-details__meta list-unstyled">
                                     <li>
-                                        <Link href="#"><span className="fas fa-user"></span>Admin</Link>
+                                        <a href="#"><span className="fas fa-user"></span>Admin</Link>
                                     </li>
                                     <li>
-                                        <Link href="#"><span className="fas fa-comments"></span>02 Comment</Link>
+                                        <a href="#"><span className="fas fa-comments"></span>02 Comment</Link>
                                     </li>
                                 </ul>
                                 <h3 className="blog-details__title">Basic rules of running best Marketing Services</h3>
@@ -66,7 +66,7 @@ export default function Home() {
                                                 of the printing
                                                 <br/> and typesetting industry.</p>
                                             <div className="blog-details__comment-btn-box">
-                                                <Link href="#" className="blog-details__comment-btn thm-btn">Reply More</Link>
+                                                <a href="#" className="blog-details__comment-btn thm-btn">Reply More</Link>
                                             </div>
                                         </div>
                                     </div>
@@ -80,7 +80,7 @@ export default function Home() {
                                                 of the printing
                                                 <br/> and typesetting industry.</p>
                                             <div className="blog-details__comment-btn-box">
-                                                <Link href="#" className="blog-details__comment-btn thm-btn">Reply More</Link>
+                                                <a href="#" className="blog-details__comment-btn thm-btn">Reply More</Link>
                                             </div>
                                         </div>
                                     </div>
@@ -104,7 +104,7 @@ export default function Home() {
                                             <img src="assets/images/blog/lp-1-1.jpg" alt=""/>
                                         </div>
                                         <div className="sidebar__post-content">
-                                            <h3><Link href="blog-details">Experiences That Connect
+                                            <h3><a href="blog-details">Experiences That Connect
                                                     With People</Link></h3>
                                         </div>
                                     </li>
@@ -113,7 +113,7 @@ export default function Home() {
                                             <img src="assets/images/blog/lp-1-2.jpg" alt=""/>
                                         </div>
                                         <div className="sidebar__post-content">
-                                            <h3><Link href="blog-details">We Build and Active Brands
+                                            <h3><a href="blog-details">We Build and Active Brands
                                                     Insight</Link></h3>
                                         </div>
                                     </li>
@@ -122,7 +122,7 @@ export default function Home() {
                                             <img src="assets/images/blog/lp-1-3.jpg" alt=""/>
                                         </div>
                                         <div className="sidebar__post-content">
-                                            <h3><Link href="blog-details">A Deep Understanding Of
+                                            <h3><a href="blog-details">A Deep Understanding Of
                                                     Our Audience</Link></h3>
                                         </div>
                                     </li>
@@ -131,21 +131,21 @@ export default function Home() {
                             <div className="sidebar__single sidebar__category">
                                 <h3 className="sidebar__title">Categories</h3>
                                 <ul className="sidebar__category-list list-unstyled">
-                                    <li><Link href="blog-details">Business<span className="fas fa-angle-right"></span></Link>
+                                    <li><a href="blog-details">Business<span className="fas fa-angle-right"></span></Link>
                                     </li>
-                                    <li><Link href="blog-details">Introductions<span
+                                    <li><a href="blog-details">Introductions<span
                                                 className="fas fa-angle-right"></span></Link>
                                     </li>
-                                    <li><Link href="blog-details">One Page Template<span
+                                    <li><a href="blog-details">One Page Template<span
                                                 className="fas fa-angle-right"></span></Link>
                                     </li>
-                                    <li><Link href="blog-details">Parallax Effects<span
+                                    <li><a href="blog-details">Parallax Effects<span
                                                 className="fas fa-angle-right"></span></Link>
                                     </li>
-                                    <li><Link href="blog-details">Technologies<span
+                                    <li><a href="blog-details">Technologies<span
                                                 className="fas fa-angle-right"></span></Link>
                                     </li>
-                                    <li><Link href="blog-details">Video Backgrounds<span
+                                    <li><a href="blog-details">Video Backgrounds<span
                                                 className="fas fa-angle-right"></span></Link>
                                     </li>
                                 </ul>
@@ -153,13 +153,13 @@ export default function Home() {
                             <div className="sidebar__single sidebar__tags">
                                 <h3 className="sidebar__title">Tags</h3>
                                 <div className="sidebar__tags-list">
-                                    <Link href="#">Business,</Link>
-                                    <Link href="#">Agency,</Link>
-                                    <Link href="#">Technology,</Link>
-                                    <Link href="#">Parallax,</Link>
-                                    <Link href="#">Innovative,</Link>
-                                    <Link href="#">Professional,</Link>
-                                    <Link href="#">Experience,</Link>
+                                    <a href="#">Business,</Link>
+                                    <a href="#">Agency,</Link>
+                                    <a href="#">Technology,</Link>
+                                    <a href="#">Parallax,</Link>
+                                    <a href="#">Innovative,</Link>
+                                    <a href="#">Professional,</Link>
+                                    <a href="#">Experience,</Link>
                                 </div>
                             </div>
                             <div className="sidebar__single sidebar__comments">
@@ -210,7 +210,7 @@ export default function Home() {
                         <h3 className="cta-one__title">Let's discuss about how we can help
                             <br/> make your business better</h3>
                         <div className="cta-one__btn-box">
-                            <Link href="about" className="cta-one__btn thm-btn">Let's Start</Link>
+                            <a href="about" className="cta-one__btn thm-btn">Let's Start</Link>
                         </div>
                     </div>
                 </div>

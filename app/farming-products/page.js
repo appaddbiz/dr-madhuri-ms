@@ -170,13 +170,13 @@ export default function Home() {
                             {/* Start Sidebar Single*/}
                             <div className="sidebar__single sidebar__services">
                                 <ul className="sidebar__services-list">
-                                    <li><Link className="active" href="#">Agriculture services <span
+                                    <li><a className="active" href="#">Agriculture services <span
                                                 className="icon-arrow-right"></span></Link></li>
-                                    <li><Link href="graphic-design">Graphic Design <span
+                                    <li><a href="graphic-design">Graphic Design <span
                                                 className="icon-arrow-right"></span></Link></li>
-                                    <li><Link href="delivery-services">Delivery services <span
+                                    <li><a href="delivery-services">Delivery services <span
                                                 className="icon-arrow-right"></span></Link></li>
-                                    <li><Link href="farming-products">Farming products <span
+                                    <li><a href="farming-products">Farming products <span
                                                 className="icon-arrow-right"></span></Link></li>
                                 </ul>
                             </div>
@@ -197,7 +197,7 @@ export default function Home() {
                                     </div>
                                     <div className="text-box">
                                         <p>Lorem ipsum dolor sit am cons sid</p>
-                                        <h3><Link href="923076806860">+ 92 (307)68 - 06860</Link></h3>
+                                        <h3><a href="923076806860">+ 92 (307)68 - 06860</Link></h3>
                                     </div>
                                 </div>
                             </div>

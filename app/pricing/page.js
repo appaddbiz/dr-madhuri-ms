@@ -63,7 +63,7 @@ export default function Home() {
                                     </li>
                                 </ul>
                                 <div className="pricing-one__btn-box">
-                                    <Link href="pricing" className="pricing-one__btn thm-btn">See More<span
+                                    <a href="pricing" className="pricing-one__btn thm-btn">See More<span
                                             className="fas fa-angle-right"></span></Link>
                                 </div>
                             </div>
@@ -114,7 +114,7 @@ export default function Home() {
                                     </li>
                                 </ul>
                                 <div className="pricing-one__btn-box">
-                                    <Link href="pricing" className="pricing-one__btn thm-btn">See More<span
+                                    <a href="pricing" className="pricing-one__btn thm-btn">See More<span
                                             className="fas fa-angle-right"></span></Link>
                                 </div>
                             </div>
@@ -165,7 +165,7 @@ export default function Home() {
                                     </li>
                                 </ul>
                                 <div className="pricing-one__btn-box">
-                                    <Link href="pricing" className="pricing-one__btn thm-btn">See More<span
+                                    <a href="pricing" className="pricing-one__btn thm-btn">See More<span
                                             className="fas fa-angle-right"></span></Link>
                                 </div>
                             </div>
@@ -186,7 +186,7 @@ export default function Home() {
                         <h3 className="cta-one__title">Let's discuss about how we can help
                             <br/> make your business better</h3>
                         <div className="cta-one__btn-box">
-                            <Link href="about" className="cta-one__btn thm-btn">Let's Start</Link>
+                            <a href="about" className="cta-one__btn thm-btn">Let's Start</Link>
                         </div>
                     </div>
                 </div>

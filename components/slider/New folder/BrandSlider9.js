@@ -61,28 +61,28 @@ export default function BrandSlider9() {
             <Swiper {...swiperOptions} className="theme_carousel owl-theme">
                 <SwiperSlide>
                     <div className="brand-block-nine">
-                        <Link href="#">
+                        <a href="#">
                             <img src="/assets/images-3/brand-logo-v9-1.png" alt="" />
                         </Link>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide>
                     <div className="brand-block-nine">
-                        <Link href="#">
+                        <a href="#">
                             <img src="/assets/images-3/brand-logo-v9-2.png" alt="" />
                         </Link>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide>
                     <div className="brand-block-nine">
-                        <Link href="#">
+                        <a href="#">
                             <img src="/assets/images-3/brand-logo-v9-3.png" alt="" />
                         </Link>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide>
                     <div className="brand-block-nine">
-                        <Link href="#">
+                        <a href="#">
                             <img src="/assets/images-3/brand-logo-v9-4.png" alt="" />
                         </Link>
                     </div>

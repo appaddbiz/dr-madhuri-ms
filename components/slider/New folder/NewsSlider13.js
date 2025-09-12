@@ -60,16 +60,16 @@ export default function NewsSlider13() {
                     <div className="news-block">
                         <div className="inner-box">
                             <div className="image-box">
-                                <figure className="image"><img src="/assets/images-4/news/news-1.jpg" alt="" /><Link href="/assets/images-4/news/news-1.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></figure>
-                                <div className="category"><Link href="/blog-details">Business</Link></div>
+                                <figure className="image"><img src="/assets/images-4/news/news-1.jpg" alt="" /><a href="/assets/images-4/news/news-1.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></figure>
+                                <div className="category"><a href="/blog-details">Business</Link></div>
                             </div>
                             <div className="lower-content">
                                 <ul className="post-info clearfix">
                                     <li>14 February, 2021</li>
-                                    <li><Link href="/blog-details">By Raana irave</Link></li>
+                                    <li><a href="/blog-details">By Raana irave</Link></li>
                                 </ul>
-                                <h3><Link href="/blog-details">How Evolve Can Trasform Your Servicing Experience</Link></h3>
-                                <h6><Link href="/blog-details"><i className="far fa-long-arrow-right" />Read More</Link></h6>
+                                <h3><a href="/blog-details">How Evolve Can Trasform Your Servicing Experience</Link></h3>
+                                <h6><a href="/blog-details"><i className="far fa-long-arrow-right" />Read More</Link></h6>
                             </div>
                         </div>
                     </div>
@@ -78,16 +78,16 @@ export default function NewsSlider13() {
                     <div className="news-block">
                         <div className="inner-box">
                             <div className="image-box">
-                                <figure className="image"><img src="/assets/images-4/news/news-2.jpg" alt="" /><Link href="/assets/images-4/news/news-2.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></figure>
-                                <div className="category"><Link href="/blog-details">Projects</Link></div>
+                                <figure className="image"><img src="/assets/images-4/news/news-2.jpg" alt="" /><a href="/assets/images-4/news/news-2.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></figure>
+                                <div className="category"><a href="/blog-details">Projects</Link></div>
                             </div>
                             <div className="lower-content">
                                 <ul className="post-info clearfix">
                                     <li>10 February, 2021</li>
-                                    <li><Link href="/blog-details">By Brendan Duke</Link></li>
+                                    <li><a href="/blog-details">By Brendan Duke</Link></li>
                                 </ul>
-                                <h3><Link href="/blog-details">How to Extract the Most Life Out of Car Battery?</Link></h3>
-                                <h6><Link href="/blog-details"><i className="far fa-long-arrow-right" />Read More</Link></h6>
+                                <h3><a href="/blog-details">How to Extract the Most Life Out of Car Battery?</Link></h3>
+                                <h6><a href="/blog-details"><i className="far fa-long-arrow-right" />Read More</Link></h6>
                             </div>
                         </div>
                     </div>
@@ -96,16 +96,16 @@ export default function NewsSlider13() {
                     <div className="news-block">
                         <div className="inner-box">
                             <div className="image-box">
-                                <figure className="image"><img src="/assets/images-4/news/news-3.jpg" alt="" /><Link href="/assets/images-4/news/news-3.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></figure>
-                                <div className="category"><Link href="/blog-details">Marketing</Link></div>
+                                <figure className="image"><img src="/assets/images-4/news/news-3.jpg" alt="" /><a href="/assets/images-4/news/news-3.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></figure>
+                                <div className="category"><a href="/blog-details">Marketing</Link></div>
                             </div>
                             <div className="lower-content">
                                 <ul className="post-info clearfix">
                                     <li>14 February, 2020</li>
-                                    <li><Link href="/blog-details">By Raana irave</Link></li>
+                                    <li><a href="/blog-details">By Raana irave</Link></li>
                                 </ul>
-                                <h3><Link href="/blog-details">What is the Right Time to Get Your Car Oil Replaced?</Link></h3>
-                                <h6><Link href="/blog-details"><i className="far fa-long-arrow-right" />Read More</Link></h6>
+                                <h3><a href="/blog-details">What is the Right Time to Get Your Car Oil Replaced?</Link></h3>
+                                <h6><a href="/blog-details"><i className="far fa-long-arrow-right" />Read More</Link></h6>
                             </div>
                         </div>
                     </div>
@@ -114,16 +114,16 @@ export default function NewsSlider13() {
                     <div className="news-block">
                         <div className="inner-box">
                             <div className="image-box">
-                                <figure className="image"><img src="/assets/images-4/news/news-3.jpg" alt="" /><Link href="/assets/images-4/news/news-3.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></figure>
-                                <div className="category"><Link href="/blog-details">Marketing</Link></div>
+                                <figure className="image"><img src="/assets/images-4/news/news-3.jpg" alt="" /><a href="/assets/images-4/news/news-3.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></figure>
+                                <div className="category"><a href="/blog-details">Marketing</Link></div>
                             </div>
                             <div className="lower-content">
                                 <ul className="post-info clearfix">
                                     <li>14 February, 2020</li>
-                                    <li><Link href="/blog-details">By Raana irave</Link></li>
+                                    <li><a href="/blog-details">By Raana irave</Link></li>
                                 </ul>
-                                <h3><Link href="/blog-details">What is the Right Time to Get Your Car Oil Replaced?</Link></h3>
-                                <h6><Link href="/blog-details"><i className="far fa-long-arrow-right" />Read More</Link></h6>
+                                <h3><a href="/blog-details">What is the Right Time to Get Your Car Oil Replaced?</Link></h3>
+                                <h6><a href="/blog-details"><i className="far fa-long-arrow-right" />Read More</Link></h6>
                             </div>
                         </div>
                     </div>

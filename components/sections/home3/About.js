@@ -76,7 +76,7 @@ export default function About() {
                                 </div>
                             </div>
                             <div className="about-three__btn-box">
-                                <Link href="contact" className="about-three__btn thm-btn">Get Free Quote</Link>
+                                <a href="contact" className="about-three__btn thm-btn">Get Free Quote</Link>
                             </div>
                         </div>
                     </div>

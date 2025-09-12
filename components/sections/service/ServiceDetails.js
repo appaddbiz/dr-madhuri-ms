@@ -99,7 +99,7 @@ const ServiceDetails = () => {
                   <ul className="service-details__service-list list-unstyled">
                     {pageData?.obstetricServices?.map((service) => (
                       <li key={service.title}>
-                        <Link href={service.link}>
+                        <a href={service.link}>
                           {service.title}
                           <span className="fas fa-angle-right"></span>
                         </Link>
@@ -129,7 +129,7 @@ const ServiceDetails = () => {
                     <div className="icon">
                       <span className="icon-telephone"></span>
                     </div>
-                    <Link href="tel:+916361197107">+91 6361197107</Link>
+                    <a href="tel:+916361197107">+91 6361197107</Link>
                   </div>
                 </div>
               </div>

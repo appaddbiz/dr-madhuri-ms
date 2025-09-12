@@ -64,7 +64,7 @@ export default function ServiceSlider6() {
                                 <div className="icon-box"><i className="flaticon-up" /></div>
                                 <span>Traffic Law</span>
                                 <h3>Auto Accidents</h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                         <div className="overlay-content">
@@ -76,8 +76,8 @@ export default function ServiceSlider6() {
                             </figure>
                             <div className="lower-content">
                                 <span>Traffic Law</span>
-                                <h3><Link href="/audit-assurance">Auto Accidents</Link></h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <h3><a href="/audit-assurance">Auto Accidents</Link></h3>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                     </div>
@@ -90,7 +90,7 @@ export default function ServiceSlider6() {
                                 <div className="icon-box"><i className="flaticon-chart" /></div>
                                 <span>Family Law</span>
                                 <h3>Child Welfare</h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                         <div className="overlay-content">
@@ -102,8 +102,8 @@ export default function ServiceSlider6() {
                             </figure>
                             <div className="lower-content">
                                 <span>Family Law</span>
-                                <h3><Link href="/audit-assurance">Child Welfare</Link></h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <h3><a href="/audit-assurance">Child Welfare</Link></h3>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                     </div>
@@ -116,7 +116,7 @@ export default function ServiceSlider6() {
                                 <div className="icon-box"><i className="flaticon-business-and-finance" /></div>
                                 <span>Business Law</span>
                                 <h3>Tax &amp; Insurance</h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                         <div className="overlay-content">
@@ -128,8 +128,8 @@ export default function ServiceSlider6() {
                             </figure>
                             <div className="lower-content">
                                 <span>Business Law</span>
-                                <h3><Link href="/audit-assurance">Tax &amp; Insurance</Link></h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <h3><a href="/audit-assurance">Tax &amp; Insurance</Link></h3>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                     </div>
@@ -142,7 +142,7 @@ export default function ServiceSlider6() {
                                 <div className="icon-box"><i className="flaticon-bot" /></div>
                                 <span>Family Law</span>
                                 <h3>Divorce &amp; Alimony</h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                         <div className="overlay-content">
@@ -154,8 +154,8 @@ export default function ServiceSlider6() {
                             </figure>
                             <div className="lower-content">
                                 <span>Family Law</span>
-                                <h3><Link href="/audit-assurance">Divorce &amp; Alimony</Link></h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <h3><a href="/audit-assurance">Divorce &amp; Alimony</Link></h3>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                     </div>
@@ -168,7 +168,7 @@ export default function ServiceSlider6() {
                                 <div className="icon-box"><i className="flaticon-up" /></div>
                                 <span>Traffic Law</span>
                                 <h3>Auto Accidents</h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                         <div className="overlay-content">
@@ -180,8 +180,8 @@ export default function ServiceSlider6() {
                             </figure>
                             <div className="lower-content">
                                 <span>Traffic Law</span>
-                                <h3><Link href="/audit-assurance">Auto Accidents</Link></h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <h3><a href="/audit-assurance">Auto Accidents</Link></h3>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                     </div>
@@ -194,7 +194,7 @@ export default function ServiceSlider6() {
                                 <div className="icon-box"><i className="flaticon-chart" /></div>
                                 <span>Family Law</span>
                                 <h3>Child Welfare</h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                         <div className="overlay-content">
@@ -206,8 +206,8 @@ export default function ServiceSlider6() {
                             </figure>
                             <div className="lower-content">
                                 <span>Family Law</span>
-                                <h3><Link href="/audit-assurance">Child Welfare</Link></h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <h3><a href="/audit-assurance">Child Welfare</Link></h3>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                     </div>
@@ -220,7 +220,7 @@ export default function ServiceSlider6() {
                                 <div className="icon-box"><i className="flaticon-business-and-finance" /></div>
                                 <span>Business Law</span>
                                 <h3>Tax &amp; Insurance</h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                         <div className="overlay-content">
@@ -232,8 +232,8 @@ export default function ServiceSlider6() {
                             </figure>
                             <div className="lower-content">
                                 <span>Business Law</span>
-                                <h3><Link href="/audit-assurance">Tax &amp; Insurance</Link></h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <h3><a href="/audit-assurance">Tax &amp; Insurance</Link></h3>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                     </div>
@@ -246,7 +246,7 @@ export default function ServiceSlider6() {
                                 <div className="icon-box"><i className="flaticon-bot" /></div>
                                 <span>Family Law</span>
                                 <h3>Divorce &amp; Alimony</h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                         <div className="overlay-content">
@@ -258,8 +258,8 @@ export default function ServiceSlider6() {
                             </figure>
                             <div className="lower-content">
                                 <span>Family Law</span>
-                                <h3><Link href="/audit-assurance">Divorce &amp; Alimony</Link></h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <h3><a href="/audit-assurance">Divorce &amp; Alimony</Link></h3>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                     </div>
@@ -272,7 +272,7 @@ export default function ServiceSlider6() {
                                 <div className="icon-box"><i className="flaticon-up" /></div>
                                 <span>Traffic Law</span>
                                 <h3>Auto Accidents</h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                         <div className="overlay-content">
@@ -284,8 +284,8 @@ export default function ServiceSlider6() {
                             </figure>
                             <div className="lower-content">
                                 <span>Traffic Law</span>
-                                <h3><Link href="/audit-assurance">Auto Accidents</Link></h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <h3><a href="/audit-assurance">Auto Accidents</Link></h3>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                     </div>
@@ -298,7 +298,7 @@ export default function ServiceSlider6() {
                                 <div className="icon-box"><i className="flaticon-chart" /></div>
                                 <span>Family Law</span>
                                 <h3>Child Welfare</h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                         <div className="overlay-content">
@@ -310,8 +310,8 @@ export default function ServiceSlider6() {
                             </figure>
                             <div className="lower-content">
                                 <span>Family Law</span>
-                                <h3><Link href="/audit-assurance">Child Welfare</Link></h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <h3><a href="/audit-assurance">Child Welfare</Link></h3>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                     </div>
@@ -324,7 +324,7 @@ export default function ServiceSlider6() {
                                 <div className="icon-box"><i className="flaticon-business-and-finance" /></div>
                                 <span>Business Law</span>
                                 <h3>Tax &amp; Insurance</h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                         <div className="overlay-content">
@@ -336,8 +336,8 @@ export default function ServiceSlider6() {
                             </figure>
                             <div className="lower-content">
                                 <span>Business Law</span>
-                                <h3><Link href="/audit-assurance">Tax &amp; Insurance</Link></h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <h3><a href="/audit-assurance">Tax &amp; Insurance</Link></h3>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                     </div>
@@ -350,7 +350,7 @@ export default function ServiceSlider6() {
                                 <div className="icon-box"><i className="flaticon-bot" /></div>
                                 <span>Family Law</span>
                                 <h3>Divorce &amp; Alimony</h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                         <div className="overlay-content">
@@ -362,8 +362,8 @@ export default function ServiceSlider6() {
                             </figure>
                             <div className="lower-content">
                                 <span>Family Law</span>
-                                <h3><Link href="/audit-assurance">Divorce &amp; Alimony</Link></h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <h3><a href="/audit-assurance">Divorce &amp; Alimony</Link></h3>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                     </div>
@@ -376,7 +376,7 @@ export default function ServiceSlider6() {
                                 <div className="icon-box"><i className="flaticon-up" /></div>
                                 <span>Traffic Law</span>
                                 <h3>Auto Accidents</h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                         <div className="overlay-content">
@@ -388,8 +388,8 @@ export default function ServiceSlider6() {
                             </figure>
                             <div className="lower-content">
                                 <span>Traffic Law</span>
-                                <h3><Link href="/audit-assurance">Auto Accidents</Link></h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <h3><a href="/audit-assurance">Auto Accidents</Link></h3>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                     </div>
@@ -402,7 +402,7 @@ export default function ServiceSlider6() {
                                 <div className="icon-box"><i className="flaticon-chart" /></div>
                                 <span>Family Law</span>
                                 <h3>Child Welfare</h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                         <div className="overlay-content">
@@ -414,8 +414,8 @@ export default function ServiceSlider6() {
                             </figure>
                             <div className="lower-content">
                                 <span>Family Law</span>
-                                <h3><Link href="/audit-assurance">Child Welfare</Link></h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <h3><a href="/audit-assurance">Child Welfare</Link></h3>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                     </div>
@@ -428,7 +428,7 @@ export default function ServiceSlider6() {
                                 <div className="icon-box"><i className="flaticon-business-and-finance" /></div>
                                 <span>Business Law</span>
                                 <h3>Tax &amp; Insurance</h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                         <div className="overlay-content">
@@ -440,8 +440,8 @@ export default function ServiceSlider6() {
                             </figure>
                             <div className="lower-content">
                                 <span>Business Law</span>
-                                <h3><Link href="/audit-assurance">Tax &amp; Insurance</Link></h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <h3><a href="/audit-assurance">Tax &amp; Insurance</Link></h3>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                     </div>
@@ -454,7 +454,7 @@ export default function ServiceSlider6() {
                                 <div className="icon-box"><i className="flaticon-bot" /></div>
                                 <span>Family Law</span>
                                 <h3>Divorce &amp; Alimony</h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                         <div className="overlay-content">
@@ -466,8 +466,8 @@ export default function ServiceSlider6() {
                             </figure>
                             <div className="lower-content">
                                 <span>Family Law</span>
-                                <h3><Link href="/audit-assurance">Divorce &amp; Alimony</Link></h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <h3><a href="/audit-assurance">Divorce &amp; Alimony</Link></h3>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                     </div>
@@ -480,7 +480,7 @@ export default function ServiceSlider6() {
                                 <div className="icon-box"><i className="flaticon-up" /></div>
                                 <span>Traffic Law</span>
                                 <h3>Auto Accidents</h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                         <div className="overlay-content">
@@ -492,8 +492,8 @@ export default function ServiceSlider6() {
                             </figure>
                             <div className="lower-content">
                                 <span>Traffic Law</span>
-                                <h3><Link href="/audit-assurance">Auto Accidents</Link></h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <h3><a href="/audit-assurance">Auto Accidents</Link></h3>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                     </div>
@@ -506,7 +506,7 @@ export default function ServiceSlider6() {
                                 <div className="icon-box"><i className="flaticon-chart" /></div>
                                 <span>Family Law</span>
                                 <h3>Child Welfare</h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                         <div className="overlay-content">
@@ -518,8 +518,8 @@ export default function ServiceSlider6() {
                             </figure>
                             <div className="lower-content">
                                 <span>Family Law</span>
-                                <h3><Link href="/audit-assurance">Child Welfare</Link></h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <h3><a href="/audit-assurance">Child Welfare</Link></h3>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                     </div>
@@ -532,7 +532,7 @@ export default function ServiceSlider6() {
                                 <div className="icon-box"><i className="flaticon-business-and-finance" /></div>
                                 <span>Business Law</span>
                                 <h3>Tax &amp; Insurance</h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                         <div className="overlay-content">
@@ -544,8 +544,8 @@ export default function ServiceSlider6() {
                             </figure>
                             <div className="lower-content">
                                 <span>Business Law</span>
-                                <h3><Link href="/audit-assurance">Tax &amp; Insurance</Link></h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <h3><a href="/audit-assurance">Tax &amp; Insurance</Link></h3>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                     </div>
@@ -558,7 +558,7 @@ export default function ServiceSlider6() {
                                 <div className="icon-box"><i className="flaticon-bot" /></div>
                                 <span>Family Law</span>
                                 <h3>Divorce &amp; Alimony</h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                         <div className="overlay-content">
@@ -570,8 +570,8 @@ export default function ServiceSlider6() {
                             </figure>
                             <div className="lower-content">
                                 <span>Family Law</span>
-                                <h3><Link href="/audit-assurance">Divorce &amp; Alimony</Link></h3>
-                                <div className="link"><Link href="/audit-assurance">More Details</Link></div>
+                                <h3><a href="/audit-assurance">Divorce &amp; Alimony</Link></h3>
+                                <div className="link"><a href="/audit-assurance">More Details</Link></div>
                             </div>
                         </div>
                     </div>

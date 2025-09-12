@@ -24,7 +24,7 @@ export default function Blog() {
                                     <img src="assets/images/blog/blog-2-1.jpg" alt=""/>
                                 </div>
                                 <div className="blog-two__arrow">
-                                    <Link href="#"><span className="icon-right-arrow"></span></Link>
+                                    <a href="#"><span className="icon-right-arrow"></span></Link>
                                 </div>
                                 <div className="blog-two__tag">
                                     <p>Strategy Business</p>
@@ -33,17 +33,17 @@ export default function Blog() {
                             <div className="blog-two__content">
                                 <ul className="blog-two__meta list-unstyled">
                                     <li>
-                                        <Link href="#"><span className="fas fa-calendar-alt"></span>20 Oct 2024</Link>
+                                        <a href="#"><span className="fas fa-calendar-alt"></span>20 Oct 2024</Link>
                                     </li>
                                     <li>
-                                        <Link href="#"><span className="fas fa-comments"></span>02 Comment</Link>
+                                        <a href="#"><span className="fas fa-comments"></span>02 Comment</Link>
                                     </li>
                                 </ul>
                                 <div className="blog-two__title-box">
                                     <div className="blog-two__content-shape">
                                         <img src="assets/images/shapes/blog-two-content-shape-1.png" alt=""/>
                                     </div>
-                                    <h3 className="blog-two__title"><Link href="blog-details">What is the 2024 trend for
+                                    <h3 className="blog-two__title"><a href="blog-details">What is the 2024 trend for
                                             Graphic Design ?</Link></h3>
                                     <p className="blog-two__text">Business is the activity of making one's
                                         livcing or buying & selling products.</p>
@@ -60,7 +60,7 @@ export default function Blog() {
                                     <img src="assets/images/blog/blog-2-2.jpg" alt=""/>
                                 </div>
                                 <div className="blog-two__arrow">
-                                    <Link href="#"><span className="icon-right-arrow"></span></Link>
+                                    <a href="#"><span className="icon-right-arrow"></span></Link>
                                 </div>
                                 <div className="blog-two__tag">
                                     <p>Business Solution</p>
@@ -69,17 +69,17 @@ export default function Blog() {
                             <div className="blog-two__content">
                                 <ul className="blog-two__meta list-unstyled">
                                     <li>
-                                        <Link href="#"><span className="fas fa-calendar-alt"></span>20 Oct 2024</Link>
+                                        <a href="#"><span className="fas fa-calendar-alt"></span>20 Oct 2024</Link>
                                     </li>
                                     <li>
-                                        <Link href="#"><span className="fas fa-comments"></span>02 Comment</Link>
+                                        <a href="#"><span className="fas fa-comments"></span>02 Comment</Link>
                                     </li>
                                 </ul>
                                 <div className="blog-two__title-box">
                                     <div className="blog-two__content-shape">
                                         <img src="assets/images/shapes/blog-two-content-shape-1.png" alt=""/>
                                     </div>
-                                    <h3 className="blog-two__title"><Link href="blog-details">How To Start a Consulting
+                                    <h3 className="blog-two__title"><a href="blog-details">How To Start a Consulting
                                             Business In 2024</Link></h3>
                                     <p className="blog-two__text">Business is the activity of making one's
                                         livcing or buying & selling products.</p>
@@ -96,7 +96,7 @@ export default function Blog() {
                                     <img src="assets/images/blog/blog-2-3.jpg" alt=""/>
                                 </div>
                                 <div className="blog-two__arrow">
-                                    <Link href="#"><span className="icon-right-arrow"></span></Link>
+                                    <a href="#"><span className="icon-right-arrow"></span></Link>
                                 </div>
                                 <div className="blog-two__tag">
                                     <p>Marketing Solution</p>
@@ -105,17 +105,17 @@ export default function Blog() {
                             <div className="blog-two__content">
                                 <ul className="blog-two__meta list-unstyled">
                                     <li>
-                                        <Link href="#"><span className="fas fa-calendar-alt"></span>20 Oct 2024</Link>
+                                        <a href="#"><span className="fas fa-calendar-alt"></span>20 Oct 2024</Link>
                                     </li>
                                     <li>
-                                        <Link href="#"><span className="fas fa-comments"></span>02 Comment</Link>
+                                        <a href="#"><span className="fas fa-comments"></span>02 Comment</Link>
                                     </li>
                                 </ul>
                                 <div className="blog-two__title-box">
                                     <div className="blog-two__content-shape">
                                         <img src="assets/images/shapes/blog-two-content-shape-1.png" alt=""/>
                                     </div>
-                                    <h3 className="blog-two__title"><Link href="blog-details">We are delivering the best
+                                    <h3 className="blog-two__title"><a href="blog-details">We are delivering the best
                                             IT Services</Link></h3>
                                     <p className="blog-two__text">Business is the activity of making one's
                                         livcing or buying & selling products.</p>

@@ -16,13 +16,13 @@ export default function Header1({
             <div className="main-menu__top-inner">
               <div className="main-menu__top-left">
                 <div className="main-menu__social">
-                  <Link href="#">
+                  <a href="#">
                     <i className="icon-facebook"></i>
                   </Link>
-                  <Link href="#">
+                  <a href="#">
                     <i className="icon-google-plus-logo"></i>
                   </Link>
-                  <Link href="#">
+                  <a href="#">
                     <i className="icon-twitter"></i>
                   </Link>
                 </div>
@@ -33,7 +33,7 @@ export default function Header1({
                     </div>
                     <div className="text">
                       <p>
-                        <Link href="tel:+916361197107">+91 6361197107</Link>
+                        <a href="tel:+916361197107">+91 6361197107</Link>
                       </p>
                     </div>
                   </li>
@@ -43,7 +43,7 @@ export default function Header1({
                     </div>
                     <div className="text">
                       <p>
-                        <Link href="mailto:drmadhuri.og@gmail.com">
+                        <a href="mailto:drmadhuri.og@gmail.com">
                           drmadhuri.og@gmail.com
                         </Link>
                       </p>
@@ -55,7 +55,7 @@ export default function Header1({
                     </div>
                     <div className="text">
                       <p>
-                        <Link href="https://maps.app.goo.gl/UTktM9oMxmkWy6bq6">
+                        <a href="https://maps.app.goo.gl/UTktM9oMxmkWy6bq6">
                           Pattabhirama Nagar, Jayanagar, Bengaluru, Karnataka
                           560041
                         </Link>
@@ -73,12 +73,12 @@ export default function Header1({
               <div className="main-menu__wrapper-inner">
                 <div className="main-menu__left">
                   <div className="main-menu__logo">
-                    <Link href="/">
+                    <a href="/">
                       <img src="/assets/home-image/Dr Madhurilogo.png" alt="" />
                     </Link>
                   </div>
                   <div className="main-menu__main-menu-box">
-                    <Link
+                    <a
                       href="#"
                       className="mobile-nav__toggler"
                       onClick={handleMobileMenu}
@@ -90,11 +90,11 @@ export default function Header1({
                 </div>
                 <div className="main-menu__right">
                   {/* <div className="main-menu__cart-search-box">
-                                    <Link href="#" className="main-menu__search search-toggler icon-magnifying-glass" onClick={handlePopup}></Link>
-                                    <Link href="#" className="main-menu__cart"><span className="icon-shopping-cart"></span></Link>
+                                    <a href="#" className="main-menu__search search-toggler icon-magnifying-glass" onClick={handlePopup}></Link>
+                                    <a href="#" className="main-menu__cart"><span className="icon-shopping-cart"></span></Link>
                                 </div> */}
                   <div className="main-menu__btn-box">
-                    <Link
+                    <a
                       href="tel:+916361197107"
                       className="main-menu__btn thm-btn"
                     >
@@ -119,12 +119,12 @@ export default function Header1({
                 <div className="main-menu__wrapper-inner">
                   <div className="main-menu__left">
                     <div className="main-menu__logo">
-                      <Link href="/">
+                      <a href="/">
                         <img src="/assets/home-image/Dr Madhurilogo.png" alt="" />
                       </Link>
                     </div>
                     <div className="main-menu__main-menu-box">
-                      <Link
+                      <a
                         href="#"
                         className="mobile-nav__toggler"
                         onClick={handleMobileMenu}
@@ -136,11 +136,11 @@ export default function Header1({
                   </div>
                   <div className="main-menu__right">
                     {/* <div className="main-menu__cart-search-box">
-                                        <Link href="#" className="main-menu__search search-toggler icon-magnifying-glass" onClick={handlePopup}></Link>
-                                        <Link href="#" className="main-menu__cart"><span className="icon-shopping-cart"></span></Link>
+                                        <a href="#" className="main-menu__search search-toggler icon-magnifying-glass" onClick={handlePopup}></Link>
+                                        <a href="#" className="main-menu__cart"><span className="icon-shopping-cart"></span></Link>
                                     </div> */}
                     <div className="main-menu__btn-box">
-                      <Link
+                      <a
                         href="tel:+916361197107"
                         className="main-menu__btn thm-btn"
                       >

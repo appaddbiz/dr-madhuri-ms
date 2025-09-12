@@ -40,7 +40,7 @@ export default function Breadcrumb({ breadcrumbTitle, heading }) {
               </div> */}
               <ul className="thm-breadcrumb list-unstyled">
                 <li>
-                  <Link href="/">Home</Link>
+                  <a href="/">Home</Link>
                 </li>
                 {parts.map((part, idx) => {
                   const href = "/" + parts.slice(0, idx + 1).join("/");
@@ -50,7 +50,7 @@ export default function Breadcrumb({ breadcrumbTitle, heading }) {
                         <span>-</span>
                       </li>
                       <li>
-                        <Link href={href}>{slugToTitle(part)}</Link>
+                        <a href={href}>{slugToTitle(part)}</Link>
                       </li>
                     </React.Fragment>
                   );

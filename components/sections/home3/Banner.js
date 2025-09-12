@@ -55,9 +55,9 @@ export default function Banner() {
                                         <br/>
                                         consulting services solutions.</p>
                                     <div className="main-slider-three__btn-box">
-                                        <Link href="contact" className="main-slider-three__btn-1 thm-btn">Get Free
+                                        <a href="contact" className="main-slider-three__btn-1 thm-btn">Get Free
                                             Quote</Link>
-                                        <Link href="about" className="main-slider-three__btn-2 thm-btn">Read More</Link>
+                                        <a href="about" className="main-slider-three__btn-2 thm-btn">Read More</Link>
                                     </div>
                                     <div className="main-slider-three__video-link">
                                         <div className="main-slider-three__video-shape-1">
@@ -94,9 +94,9 @@ export default function Banner() {
                                         <br/>
                                         consulting services solutions.</p>
                                     <div className="main-slider-three__btn-box">
-                                        <Link href="contact" className="main-slider-three__btn-1 thm-btn">Get Free
+                                        <a href="contact" className="main-slider-three__btn-1 thm-btn">Get Free
                                             Quote</Link>
-                                        <Link href="about" className="main-slider-three__btn-2 thm-btn">Read More</Link>
+                                        <a href="about" className="main-slider-three__btn-2 thm-btn">Read More</Link>
                                     </div>
                                     <div className="main-slider-three__video-link">
                                         <div className="main-slider-three__video-shape-1">
@@ -133,9 +133,9 @@ export default function Banner() {
                                         <br/>
                                         consulting services solutions.</p>
                                     <div className="main-slider-three__btn-box">
-                                        <Link href="contact" className="main-slider-three__btn-1 thm-btn">Get Free
+                                        <a href="contact" className="main-slider-three__btn-1 thm-btn">Get Free
                                             Quote</Link>
-                                        <Link href="about" className="main-slider-three__btn-2 thm-btn">Read More</Link>
+                                        <a href="about" className="main-slider-three__btn-2 thm-btn">Read More</Link>
                                     </div>
                                     <div className="main-slider-three__video-link">
                                         <div className="main-slider-three__video-shape-1">

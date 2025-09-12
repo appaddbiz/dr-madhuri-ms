@@ -65,7 +65,7 @@ export default function PortfolioFilter1() {
                         </div>
                         <div className="portfolio-three__content">
                             <p className="portfolio-three__sub-title">Business Audit</p>
-                            <h3 className="portfolio-three__title"><Link href="portfolio-details">Our Business
+                            <h3 className="portfolio-three__title"><a href="portfolio-details">Our Business
                                     Growth</Link></h3>
                         </div>
                     </div>
@@ -80,7 +80,7 @@ export default function PortfolioFilter1() {
                         </div>
                         <div className="portfolio-three__content">
                             <p className="portfolio-three__sub-title">Business Audit</p>
-                            <h3 className="portfolio-three__title"><Link href="portfolio-details">Our Business
+                            <h3 className="portfolio-three__title"><a href="portfolio-details">Our Business
                                     Audit</Link></h3>
                         </div>
                     </div>
@@ -95,7 +95,7 @@ export default function PortfolioFilter1() {
                         </div>
                         <div className="portfolio-three__content">
                             <p className="portfolio-three__sub-title">Business Audit</p>
-                            <h3 className="portfolio-three__title"><Link href="portfolio-details">Our Financial
+                            <h3 className="portfolio-three__title"><a href="portfolio-details">Our Financial
                                     Advices</Link></h3>
                         </div>
                     </div>
@@ -110,7 +110,7 @@ export default function PortfolioFilter1() {
                         </div>
                         <div className="portfolio-three__content">
                             <p className="portfolio-three__sub-title">Business Audit</p>
-                            <h3 className="portfolio-three__title"><Link href="portfolio-details">Our Tax Strategy</Link>
+                            <h3 className="portfolio-three__title"><a href="portfolio-details">Our Tax Strategy</Link>
                             </h3>
                         </div>
                     </div>
@@ -124,7 +124,7 @@ export default function PortfolioFilter1() {
                         </div>
                         <div className="portfolio-three__content">
                             <p className="portfolio-three__sub-title">Business Audit</p>
-                            <h3 className="portfolio-three__title"><Link href="portfolio-details">Our Tax Strategy</Link>
+                            <h3 className="portfolio-three__title"><a href="portfolio-details">Our Tax Strategy</Link>
                             </h3>
                         </div>
                     </div>
@@ -139,7 +139,7 @@ export default function PortfolioFilter1() {
                         </div>
                         <div className="portfolio-three__content">
                             <p className="portfolio-three__sub-title">Business Audit</p>
-                            <h3 className="portfolio-three__title"><Link href="portfolio-details">Our Business
+                            <h3 className="portfolio-three__title"><a href="portfolio-details">Our Business
                                     Audit</Link></h3>
                         </div>
                     </div>

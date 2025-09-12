@@ -63,8 +63,8 @@ export default function TeamSlider2() {
                             <div className="designation">Ceo &amp; Founder</div>
                             <h4>Adam Clinton</h4>
                             <ul className="list">
-                                <li><Link href="#"><span className="flaticon-call" />+44 555 66 789</Link></li>
-                                <li><Link href="#"><span className="flaticon-bag" />theodore@Envolve.com</Link></li>
+                                <li><a href="#"><span className="flaticon-call" />+44 555 66 789</Link></li>
+                                <li><a href="#"><span className="flaticon-bag" />theodore@Envolve.com</Link></li>
                             </ul>
                         </div>
                     </div>
@@ -76,8 +76,8 @@ export default function TeamSlider2() {
                             <div className="designation">Managing Director</div>
                             <h4>Homer Donnie</h4>
                             <ul className="list">
-                                <li><Link href="#"><span className="flaticon-call" />+44 555 66 123</Link></li>
-                                <li><Link href="#"><span className="flaticon-bag" />donnie@Envolve.com</Link></li>
+                                <li><a href="#"><span className="flaticon-call" />+44 555 66 123</Link></li>
+                                <li><a href="#"><span className="flaticon-bag" />donnie@Envolve.com</Link></li>
                             </ul>
                         </div>
                     </div>
@@ -89,8 +89,8 @@ export default function TeamSlider2() {
                             <div className="designation">donnie@Envolve.com</div>
                             <h4>Jerome Hobert</h4>
                             <ul className="list">
-                                <li><Link href="#"><span className="flaticon-call" />+44 555 66 456</Link></li>
-                                <li><Link href="#"><span className="flaticon-bag" />hobert@Envolve.com</Link></li>
+                                <li><a href="#"><span className="flaticon-call" />+44 555 66 456</Link></li>
+                                <li><a href="#"><span className="flaticon-bag" />hobert@Envolve.com</Link></li>
                             </ul>
                         </div>
                     </div>
@@ -102,8 +102,8 @@ export default function TeamSlider2() {
                             <div className="designation">Marketing Officer</div>
                             <h4>Leonard Melvin</h4>
                             <ul className="list">
-                                <li><Link href="#"><span className="flaticon-call" />+44 555 66 000</Link></li>
-                                <li><Link href="#"><span className="flaticon-bag" />melvin@Envolve.com</Link></li>
+                                <li><a href="#"><span className="flaticon-call" />+44 555 66 000</Link></li>
+                                <li><a href="#"><span className="flaticon-bag" />melvin@Envolve.com</Link></li>
                             </ul>
                         </div>
                     </div>

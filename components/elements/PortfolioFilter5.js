@@ -54,7 +54,7 @@ export default function PortfolioFilter5() {
                                 <div className="category">Technical</div>
                                 <div className="text">Market Expansion</div>
                             </div>
-                            <div className="link-btn"><Link href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
+                            <div className="link-btn"><a href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
                         </div>
                     </div>
                 </div>
@@ -66,7 +66,7 @@ export default function PortfolioFilter5() {
                                 <div className="category">Technical</div>
                                 <div className="text">Market Expansion</div>
                             </div>
-                            <div className="link-btn"><Link href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
+                            <div className="link-btn"><a href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
                         </div>
                     </div>
                 </div>
@@ -78,7 +78,7 @@ export default function PortfolioFilter5() {
                                 <div className="category">Technical</div>
                                 <div className="text">Market Expansion</div>
                             </div>
-                            <div className="link-btn"><Link href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
+                            <div className="link-btn"><a href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
                         </div>
                     </div>
                 </div>
@@ -90,7 +90,7 @@ export default function PortfolioFilter5() {
                                 <div className="category">Technical</div>
                                 <div className="text">Market Expansion</div>
                             </div>
-                            <div className="link-btn"><Link href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
+                            <div className="link-btn"><a href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
                         </div>
                     </div>
                 </div>
@@ -102,7 +102,7 @@ export default function PortfolioFilter5() {
                                 <div className="category">Technical</div>
                                 <div className="text">Market Expansion</div>
                             </div>
-                            <div className="link-btn"><Link href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
+                            <div className="link-btn"><a href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
                         </div>
                     </div>
                 </div>
@@ -110,7 +110,7 @@ export default function PortfolioFilter5() {
                     <div className="inner-box">
                         <h2>1.6k </h2>
                         <h4>projects Completed</h4>
-                        <Link href="#" className="read-more-link">View All Projects <i className="fa fa-caret-right" /></Link>
+                        <a href="#" className="read-more-link">View All Projects <i className="fa fa-caret-right" /></Link>
                     </div>
                 </div>
             </div>

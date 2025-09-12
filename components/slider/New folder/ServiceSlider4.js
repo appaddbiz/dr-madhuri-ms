@@ -62,7 +62,7 @@ export default function ServiceSlider4() {
                         <div className="content">
                             <div className="icon"><span className="flaticon-career" /></div>
                             <h4>Finance <br />and Restructuring</h4>
-                            <Link href="#" className="read-more-link">Read More <i className="fa fa-caret-right" /></Link>
+                            <a href="#" className="read-more-link">Read More <i className="fa fa-caret-right" /></Link>
                         </div>
                         <div className="overlay-content">
                             <div className="content-wrapper">
@@ -72,7 +72,7 @@ export default function ServiceSlider4() {
                                 </div>
                                 <div className="outer-box">
                                     <div className="text">Power  choices when nothing <br />we like best principle pleasure <br /> that has no annoying.</div>
-                                    <Link href="#" className="read-more-link">Read More <i className="fa fa-caret-right" /></Link>
+                                    <a href="#" className="read-more-link">Read More <i className="fa fa-caret-right" /></Link>
                                 </div>
                             </div>
                         </div>
@@ -84,7 +84,7 @@ export default function ServiceSlider4() {
                         <div className="content">
                             <h4>Audit <br /> and Assurance</h4>
                             <div className="icon"><span className="flaticon-question" /></div>
-                            <Link href="#" className="read-more-link">Read More <i className="fa fa-caret-right" /></Link>
+                            <a href="#" className="read-more-link">Read More <i className="fa fa-caret-right" /></Link>
                         </div>
                         <div className="overlay-content">
                             <div className="content-wrapper">
@@ -94,7 +94,7 @@ export default function ServiceSlider4() {
                                 </div>
                                 <div className="outer-box">
                                     <div className="text">Power  choices when nothing <br />we like best principle pleasure <br /> that has no annoying.</div>
-                                    <Link href="#" className="read-more-link">Read More <i className="fa fa-caret-right" /></Link>
+                                    <a href="#" className="read-more-link">Read More <i className="fa fa-caret-right" /></Link>
                                 </div>
                             </div>
                         </div>
@@ -106,7 +106,7 @@ export default function ServiceSlider4() {
                         <div className="content">
                             <div className="icon"><span className="flaticon-customer-service" /></div>
                             <h4>Trades <br />and Stock Market</h4>
-                            <Link href="#" className="read-more-link">Read More <i className="fa fa-caret-right" /></Link>
+                            <a href="#" className="read-more-link">Read More <i className="fa fa-caret-right" /></Link>
                         </div>
                         <div className="overlay-content">
                             <div className="content-wrapper">
@@ -116,7 +116,7 @@ export default function ServiceSlider4() {
                                 </div>
                                 <div className="outer-box">
                                     <div className="text">Power  choices when nothing <br />we like best principle pleasure <br /> that has no annoying.</div>
-                                    <Link href="#" className="read-more-link">Read More <i className="fa fa-caret-right" /></Link>
+                                    <a href="#" className="read-more-link">Read More <i className="fa fa-caret-right" /></Link>
                                 </div>
                             </div>
                         </div>
@@ -128,7 +128,7 @@ export default function ServiceSlider4() {
                         <div className="content">
                             <div className="icon"><span className="flaticon-career" /></div>
                             <h4>Finance <br />and Restructuring</h4>
-                            <Link href="#" className="read-more-link">Read More <i className="fa fa-caret-right" /></Link>
+                            <a href="#" className="read-more-link">Read More <i className="fa fa-caret-right" /></Link>
                         </div>
                         <div className="overlay-content">
                             <div className="content-wrapper">
@@ -138,7 +138,7 @@ export default function ServiceSlider4() {
                                 </div>
                                 <div className="outer-box">
                                     <div className="text">Power  choices when nothing <br />we like best principle pleasure <br /> that has no annoying.</div>
-                                    <Link href="#" className="read-more-link">Read More <i className="fa fa-caret-right" /></Link>
+                                    <a href="#" className="read-more-link">Read More <i className="fa fa-caret-right" /></Link>
                                 </div>
                             </div>
                         </div>
@@ -150,7 +150,7 @@ export default function ServiceSlider4() {
                         <div className="content">
                             <h4>Audit <br /> and Assurance</h4>
                             <div className="icon"><span className="flaticon-question" /></div>
-                            <Link href="#" className="read-more-link">Read More <i className="fa fa-caret-right" /></Link>
+                            <a href="#" className="read-more-link">Read More <i className="fa fa-caret-right" /></Link>
                         </div>
                         <div className="overlay-content">
                             <div className="content-wrapper">
@@ -160,7 +160,7 @@ export default function ServiceSlider4() {
                                 </div>
                                 <div className="outer-box">
                                     <div className="text">Power  choices when nothing <br />we like best principle pleasure <br /> that has no annoying.</div>
-                                    <Link href="#" className="read-more-link">Read More <i className="fa fa-caret-right" /></Link>
+                                    <a href="#" className="read-more-link">Read More <i className="fa fa-caret-right" /></Link>
                                 </div>
                             </div>
                         </div>
@@ -172,7 +172,7 @@ export default function ServiceSlider4() {
                         <div className="content">
                             <div className="icon"><span className="flaticon-customer-service" /></div>
                             <h4>Trades <br />and Stock Market</h4>
-                            <Link href="#" className="read-more-link">Read More <i className="fa fa-caret-right" /></Link>
+                            <a href="#" className="read-more-link">Read More <i className="fa fa-caret-right" /></Link>
                         </div>
                         <div className="overlay-content">
                             <div className="content-wrapper">
@@ -182,7 +182,7 @@ export default function ServiceSlider4() {
                                 </div>
                                 <div className="outer-box">
                                     <div className="text">Power  choices when nothing <br />we like best principle pleasure <br /> that has no annoying.</div>
-                                    <Link href="#" className="read-more-link">Read More <i className="fa fa-caret-right" /></Link>
+                                    <a href="#" className="read-more-link">Read More <i className="fa fa-caret-right" /></Link>
                                 </div>
                             </div>
                         </div>

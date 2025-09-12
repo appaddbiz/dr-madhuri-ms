@@ -59,49 +59,49 @@ export default function ClientSlider1() {
             <Swiper {...swiperOptions} className="theme_carousel owl-theme">
                 <SwiperSlide className="slide-item">
                     <figure className="image-box">
-                        <Link href="#"><img src="/assets/images/resource/client-1.png" alt="" />
+                        <a href="#"><img src="/assets/images/resource/client-1.png" alt="" />
                         </Link>
                     </figure>
                 </SwiperSlide>
                 <SwiperSlide className="slide-item">
                     <figure className="image-box">
-                        <Link href="#"><img src="/assets/images/resource/client-2.png" alt="" />
+                        <a href="#"><img src="/assets/images/resource/client-2.png" alt="" />
                         </Link>
                     </figure>
                 </SwiperSlide>
                 <SwiperSlide className="slide-item">
                     <figure className="image-box">
-                        <Link href="#"><img src="/assets/images/resource/client-3.png" alt="" />
+                        <a href="#"><img src="/assets/images/resource/client-3.png" alt="" />
                         </Link>
                     </figure>
                 </SwiperSlide>
                 <SwiperSlide className="slide-item">
                     <figure className="image-box">
-                        <Link href="#"><img src="/assets/images/resource/client-4.png" alt="" />
+                        <a href="#"><img src="/assets/images/resource/client-4.png" alt="" />
                         </Link>
                     </figure>
                 </SwiperSlide>
                 <SwiperSlide className="slide-item">
                     <figure className="image-box">
-                        <Link href="#"><img src="/assets/images/resource/client-1.png" alt="" />
+                        <a href="#"><img src="/assets/images/resource/client-1.png" alt="" />
                         </Link>
                     </figure>
                 </SwiperSlide>
                 <SwiperSlide className="slide-item">
                     <figure className="image-box">
-                        <Link href="#"><img src="/assets/images/resource/client-2.png" alt="" />
+                        <a href="#"><img src="/assets/images/resource/client-2.png" alt="" />
                         </Link>
                     </figure>
                 </SwiperSlide>
                 <SwiperSlide className="slide-item">
                     <figure className="image-box">
-                        <Link href="#"><img src="/assets/images/resource/client-3.png" alt="" />
+                        <a href="#"><img src="/assets/images/resource/client-3.png" alt="" />
                         </Link>
                     </figure>
                 </SwiperSlide>
                 <SwiperSlide className="slide-item">
                     <figure className="image-box">
-                        <Link href="#"><img src="/assets/images/resource/client-4.png" alt="" />
+                        <a href="#"><img src="/assets/images/resource/client-4.png" alt="" />
                         </Link>
                     </figure>
                 </SwiperSlide>

@@ -30,13 +30,13 @@ export default function Team() {
                             </div>
                             <div className="team-one__content-inner">
                                 <div className="team-one__content">
-                                    <h3 className="team-one__name"><Link href="team-details">Leslie Alexander</Link></h3>
+                                    <h3 className="team-one__name"><a href="team-details">Leslie Alexander</Link></h3>
                                     <p className="team-one__sub-title">Digital Marketer</p>
                                     <div className="team-one__social">
-                                        <Link href="team-details"><span className="icon-twitter"></span></Link>
-                                        <Link href="team-details"><span className="icon-facebook"></span></Link>
-                                        <Link href="team-details"><span className="icon-google-plus-logo"></span></Link>
-                                        <Link href="team-details"><span className="icon-pinterest"></span></Link>
+                                        <a href="team-details"><span className="icon-twitter"></span></Link>
+                                        <a href="team-details"><span className="icon-facebook"></span></Link>
+                                        <a href="team-details"><span className="icon-google-plus-logo"></span></Link>
+                                        <a href="team-details"><span className="icon-pinterest"></span></Link>
                                     </div>
                                 </div>
                             </div>
@@ -53,13 +53,13 @@ export default function Team() {
                             </div>
                             <div className="team-one__content-inner">
                                 <div className="team-one__content">
-                                    <h3 className="team-one__name"><Link href="team-details">Kendra Pual</Link></h3>
+                                    <h3 className="team-one__name"><a href="team-details">Kendra Pual</Link></h3>
                                     <p className="team-one__sub-title">Developer</p>
                                     <div className="team-one__social">
-                                        <Link href="team-details"><span className="icon-twitter"></span></Link>
-                                        <Link href="team-details"><span className="icon-facebook"></span></Link>
-                                        <Link href="team-details"><span className="icon-google-plus-logo"></span></Link>
-                                        <Link href="team-details"><span className="icon-pinterest"></span></Link>
+                                        <a href="team-details"><span className="icon-twitter"></span></Link>
+                                        <a href="team-details"><span className="icon-facebook"></span></Link>
+                                        <a href="team-details"><span className="icon-google-plus-logo"></span></Link>
+                                        <a href="team-details"><span className="icon-pinterest"></span></Link>
                                     </div>
                                 </div>
                             </div>
@@ -76,13 +76,13 @@ export default function Team() {
                             </div>
                             <div className="team-one__content-inner">
                                 <div className="team-one__content">
-                                    <h3 className="team-one__name"><Link href="team-details">Devid L.Musilal</Link></h3>
+                                    <h3 className="team-one__name"><a href="team-details">Devid L.Musilal</Link></h3>
                                     <p className="team-one__sub-title">Digital Marketer</p>
                                     <div className="team-one__social">
-                                        <Link href="team-details"><span className="icon-twitter"></span></Link>
-                                        <Link href="team-details"><span className="icon-facebook"></span></Link>
-                                        <Link href="team-details"><span className="icon-google-plus-logo"></span></Link>
-                                        <Link href="team-details"><span className="icon-pinterest"></span></Link>
+                                        <a href="team-details"><span className="icon-twitter"></span></Link>
+                                        <a href="team-details"><span className="icon-facebook"></span></Link>
+                                        <a href="team-details"><span className="icon-google-plus-logo"></span></Link>
+                                        <a href="team-details"><span className="icon-pinterest"></span></Link>
                                     </div>
                                 </div>
                             </div>

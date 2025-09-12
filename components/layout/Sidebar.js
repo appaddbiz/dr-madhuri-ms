@@ -9,13 +9,13 @@ export default function Sidebar({ isSidebar, handleSidebar }) {
             <div className="xs-sidebar-widget">
                 <div className="sidebar-widget-container">
                     <div className="widget-heading">
-                        <Link href="#" className="close-side-widget" onClick={handleSidebar}>X</Link>
+                        <a href="#" className="close-side-widget" onClick={handleSidebar}>X</Link>
                     </div>
                     <div className="sidebar-textwidget">
                         <div className="sidebar-info-contents">
                             <div className="content-inner">
                                 <div className="logo">
-                                    <Link href="/"><img src="assets/images/resources/logo-1.png" alt="" /></Link>
+                                    <a href="/"><img src="assets/images/resources/logo-1.png" alt="" /></Link>
                                 </div>
                                 <div className="content-box">
                                     <h4>About Us</h4>
@@ -57,27 +57,27 @@ export default function Sidebar({ isSidebar, handleSidebar }) {
                                         </li>
                                         <li>
                                             <span className="icon-phone-ringing"></span>
-                                            <Link href="tel:123456789">+1 555-9990-153</Link>
+                                            <a href="tel:123456789">+1 555-9990-153</Link>
                                         </li>
                                         <li>
                                             <span className="fa fa-envelope"></span>
-                                            <Link href="mailto:info@example.com">info@example.com</Link>
+                                            <a href="mailto:info@example.com">info@example.com</Link>
                                         </li>
                                     </ul>
                                 </div>
                                 <div className="thm-social-link1">
                                     <ul className="social-box">
                                         <li className="facebook">
-                                            <Link href="#"><i className="icon-facebook" aria-hidden="true"></i></Link>
+                                            <a href="#"><i className="icon-facebook" aria-hidden="true"></i></Link>
                                         </li>
                                         <li className="twitter">
-                                            <Link href="#"><i className="icon-twitter" aria-hidden="true"></i></Link>
+                                            <a href="#"><i className="icon-twitter" aria-hidden="true"></i></Link>
                                         </li>
                                         <li className="linkedin">
-                                            <Link href="#"><i className="icon-instagram" aria-hidden="true"></i></Link>
+                                            <a href="#"><i className="icon-instagram" aria-hidden="true"></i></Link>
                                         </li>
                                         <li className="gplus">
-                                            <Link href="#"><i className="icon-pinterest" aria-hidden="true"></i></Link>
+                                            <a href="#"><i className="icon-pinterest" aria-hidden="true"></i></Link>
                                         </li>
                                     </ul>
                                 </div>

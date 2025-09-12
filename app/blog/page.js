@@ -32,13 +32,13 @@ export default function Home() {
                                 <div className="blog-three__content">
                                     <ul className="blog-three__meta list-unstyled">
                                         <li>
-                                            <Link href="#"><span className="fas fa-calendar-alt"></span>20 Oct 2024</Link>
+                                            <a href="#"><span className="fas fa-calendar-alt"></span>20 Oct 2024</Link>
                                         </li>
                                         <li>
-                                            <Link href="#"><span className="fas fa-comments"></span>02 Comment</Link>
+                                            <a href="#"><span className="fas fa-comments"></span>02 Comment</Link>
                                         </li>
                                     </ul>
-                                    <h3 className="blog-three__title"><Link href="blog-details">We are delivering the best
+                                    <h3 className="blog-three__title"><a href="blog-details">We are delivering the best
                                             IT Services</Link></h3>
                                 </div>
                             </div>
@@ -50,23 +50,23 @@ export default function Home() {
                         <div className="blog-three__single-2">
                             <ul className="blog-three__meta-2 list-unstyled">
                                 <li>
-                                    <Link href="#"><span className="fas fa-calendar-alt"></span>20 Oct 2024</Link>
+                                    <a href="#"><span className="fas fa-calendar-alt"></span>20 Oct 2024</Link>
                                 </li>
                                 <li>
-                                    <Link href="#"><span className="fas fa-comments"></span>02 Comment</Link>
+                                    <a href="#"><span className="fas fa-comments"></span>02 Comment</Link>
                                 </li>
                             </ul>
                             <div className="blog-three__title-box">
                                 <div className="blog-three__content-shape-1">
                                     <img src="assets/images/shapes/blog-three-content-shape-1.png" alt=""/>
                                 </div>
-                                <h3 className="blog-three__title-2"><Link href="blog-details">Making a change on this
+                                <h3 className="blog-three__title-2"><a href="blog-details">Making a change on this
                                         internet
                                         business</Link></h3>
                                 <p className="blog-three__text-2">Business is the activity of making one's
                                     livcing or buying & selling products.</p>
                                 <div className="blog-three__read-more">
-                                    <Link href="blog-details">READ MORE<span className="icon-right-arrow"></span></Link>
+                                    <a href="blog-details">READ MORE<span className="icon-right-arrow"></span></Link>
                                 </div>
                             </div>
                         </div>
@@ -85,13 +85,13 @@ export default function Home() {
                                 <div className="blog-three__content">
                                     <ul className="blog-three__meta list-unstyled">
                                         <li>
-                                            <Link href="#"><span className="fas fa-calendar-alt"></span>20 Oct 2024</Link>
+                                            <a href="#"><span className="fas fa-calendar-alt"></span>20 Oct 2024</Link>
                                         </li>
                                         <li>
-                                            <Link href="#"><span className="fas fa-comments"></span>02 Comment</Link>
+                                            <a href="#"><span className="fas fa-comments"></span>02 Comment</Link>
                                         </li>
                                     </ul>
-                                    <h3 className="blog-three__title"><Link href="blog-details">Necessity may give us best
+                                    <h3 className="blog-three__title"><a href="blog-details">Necessity may give us best
                                             virtual court</Link></h3>
                                 </div>
                             </div>
@@ -111,13 +111,13 @@ export default function Home() {
                                 <div className="blog-three__content">
                                     <ul className="blog-three__meta list-unstyled">
                                         <li>
-                                            <Link href="#"><span className="fas fa-calendar-alt"></span>20 Oct 2024</Link>
+                                            <a href="#"><span className="fas fa-calendar-alt"></span>20 Oct 2024</Link>
                                         </li>
                                         <li>
-                                            <Link href="#"><span className="fas fa-comments"></span>02 Comment</Link>
+                                            <a href="#"><span className="fas fa-comments"></span>02 Comment</Link>
                                         </li>
                                     </ul>
-                                    <h3 className="blog-three__title"><Link href="blog-details">Revenue growth for your
+                                    <h3 className="blog-three__title"><a href="blog-details">Revenue growth for your
                                             business</Link></h3>
                                 </div>
                             </div>
@@ -129,22 +129,22 @@ export default function Home() {
                         <div className="blog-three__single-2">
                             <ul className="blog-three__meta-2 list-unstyled">
                                 <li>
-                                    <Link href="#"><span className="fas fa-calendar-alt"></span>20 Oct 2024</Link>
+                                    <a href="#"><span className="fas fa-calendar-alt"></span>20 Oct 2024</Link>
                                 </li>
                                 <li>
-                                    <Link href="#"><span className="fas fa-comments"></span>02 Comment</Link>
+                                    <a href="#"><span className="fas fa-comments"></span>02 Comment</Link>
                                 </li>
                             </ul>
                             <div className="blog-three__title-box">
                                 <div className="blog-three__content-shape-1">
                                     <img src="assets/images/shapes/blog-three-content-shape-1.png" alt=""/>
                                 </div>
-                                <h3 className="blog-three__title-2"><Link href="blog-details">Working together,ideas come
+                                <h3 className="blog-three__title-2"><a href="blog-details">Working together,ideas come
                                         to life</Link></h3>
                                 <p className="blog-three__text-2">Business is the activity of making one's
                                     livcing or buying & selling products.</p>
                                 <div className="blog-three__read-more">
-                                    <Link href="blog-details">READ MORE<span className="icon-right-arrow"></span></Link>
+                                    <a href="blog-details">READ MORE<span className="icon-right-arrow"></span></Link>
                                 </div>
                             </div>
                         </div>
@@ -163,13 +163,13 @@ export default function Home() {
                                 <div className="blog-three__content">
                                     <ul className="blog-three__meta list-unstyled">
                                         <li>
-                                            <Link href="#"><span className="fas fa-calendar-alt"></span>20 Oct 2024</Link>
+                                            <a href="#"><span className="fas fa-calendar-alt"></span>20 Oct 2024</Link>
                                         </li>
                                         <li>
-                                            <Link href="#"><span className="fas fa-comments"></span>02 Comment</Link>
+                                            <a href="#"><span className="fas fa-comments"></span>02 Comment</Link>
                                         </li>
                                     </ul>
-                                    <h3 className="blog-three__title"><Link href="blog-details">Get a few solutions to
+                                    <h3 className="blog-three__title"><a href="blog-details">Get a few solutions to
                                             hire a best candidate</Link></h3>
                                 </div>
                             </div>
@@ -190,7 +190,7 @@ export default function Home() {
                         <h3 className="cta-one__title">Let's discuss about how we can help
                             <br/> make your business better</h3>
                         <div className="cta-one__btn-box">
-                            <Link href="about" className="cta-one__btn thm-btn">Let's Start</Link>
+                            <a href="about" className="cta-one__btn thm-btn">Let's Start</Link>
                         </div>
                     </div>
                 </div>

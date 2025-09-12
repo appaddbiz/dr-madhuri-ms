@@ -35,7 +35,7 @@ export default function Project() {
                   </div>
                   {/* <div className="project-one__content">
                     <h3 className="project-one__title">
-                      <Link href="project-details">Consultant Service</Link>
+                      <a href="project-details">Consultant Service</Link>
                     </h3>
                     <p className="project-one__sub-title">Digital Marketing</p>
                   </div> */}
@@ -55,7 +55,7 @@ export default function Project() {
                   </div>
                   {/* <div className="project-one__content">
                     <h3 className="project-one__title">
-                      <Link href="project-details">Business Strategy</Link>
+                      <a href="project-details">Business Strategy</Link>
                     </h3>
                     <p className="project-one__sub-title">Digital Marketing</p>
                   </div>
@@ -76,7 +76,7 @@ export default function Project() {
                   </div>
                   {/* <div className="project-one__content">
                     <h3 className="project-one__title">
-                      <Link href="project-details">Consultant Service</Link>
+                      <a href="project-details">Consultant Service</Link>
                     </h3>
                     <p className="project-one__sub-title">Managing Director</p>
                   </div> */}
@@ -96,7 +96,7 @@ export default function Project() {
                   </div>
                   {/* <div className="project-one__content">
                     <h3 className="project-one__title">
-                      <Link href="project-details">UI/UX Designing</Link>
+                      <a href="project-details">UI/UX Designing</Link>
                     </h3>
                     <p className="project-one__sub-title">Digital Marketing</p>
                   </div> */}
@@ -116,7 +116,7 @@ export default function Project() {
                   </div>
                   {/* <div className="project-one__content">
                     <h3 className="project-one__title">
-                      <Link href="project-details">Webside Development</Link>
+                      <a href="project-details">Webside Development</Link>
                     </h3>
                     <p className="project-one__sub-title">Managing Director</p>
                   </div> */}
@@ -139,7 +139,7 @@ export default function Project() {
                   </div>
                   {/* <div className="project-one__content">
                     <h3 className="project-one__title">
-                      <Link href="project-details">Mobile Application</Link>
+                      <a href="project-details">Mobile Application</Link>
                     </h3>
                     <p className="project-one__sub-title">Managing Director</p>
                   </div> */}
@@ -147,7 +147,7 @@ export default function Project() {
               </div>
             </div>
             <div className="main-menu__btn-box text-center">
-              <Link href="/gallery" className="main-menu__btn thm-btn ">
+              <a href="/gallery" className="main-menu__btn thm-btn ">
                 View All Images
               </Link>
             </div>

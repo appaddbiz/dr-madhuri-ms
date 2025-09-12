@@ -58,16 +58,16 @@ export default function ClientSlider3() {
         <>
             <Swiper {...swiperOptions} className="theme_carousel owl-theme">
                 <SwiperSlide className="slide">
-                    <figure className="clients-logo"><Link href="/index-14"><img src="/assets/images-4/clients/clients-9.png" alt="" /></Link></figure>
+                    <figure className="clients-logo"><a href="/index-14"><img src="/assets/images-4/clients/clients-9.png" alt="" /></Link></figure>
                 </SwiperSlide>
                 <SwiperSlide className="slide">
-                    <figure className="clients-logo"><Link href="/index-14"><img src="/assets/images-4/clients/clients-10.png" alt="" /></Link></figure>
+                    <figure className="clients-logo"><a href="/index-14"><img src="/assets/images-4/clients/clients-10.png" alt="" /></Link></figure>
                 </SwiperSlide>
                 <SwiperSlide className="slide">
-                    <figure className="clients-logo"><Link href="/index-14"><img src="/assets/images-4/clients/clients-11.png" alt="" /></Link></figure>
+                    <figure className="clients-logo"><a href="/index-14"><img src="/assets/images-4/clients/clients-11.png" alt="" /></Link></figure>
                 </SwiperSlide>
                 <SwiperSlide className="slide">
-                    <figure className="clients-logo"><Link href="/index-14"><img src="/assets/images-4/clients/clients-12.png" alt="" /></Link></figure>
+                    <figure className="clients-logo"><a href="/index-14"><img src="/assets/images-4/clients/clients-12.png" alt="" /></Link></figure>
                 </SwiperSlide>
             </Swiper>
         </>

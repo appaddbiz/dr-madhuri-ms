@@ -15,24 +15,24 @@ export default function Header2({
           <div className="container">
             <div className="main-header-two__wrapper-inner">
               <div className="main-menu-two__logo">
-                <Link href="/">
+                <a href="/">
                   <img src="/assets/images/resources/logo-1.png" alt="" />
-                </Link>
+                </a>
               </div>
               <div className="main-menu-two__top">
                 <div className="main-menu-two__social">
-                  <Link href="#">
+                  <a href="#">
                     <i className="icon-twitter"></i>
-                  </Link>
-                  <Link href="#">
+                  </a>
+                  <a href="#">
                     <i className="icon-facebook"></i>
-                  </Link>
-                  <Link href="#">
+                  </a>
+                  <a href="#">
                     <i className="icon-pinterest"></i>
-                  </Link>
-                  <Link href="#">
+                  </a>
+                  <a href="#">
                     <i className="icon-instagram"></i>
-                  </Link>
+                  </a>
                 </div>
                 <ul className="list-unstyled main-menu-two__contact-list">
                   <li>
@@ -49,9 +49,9 @@ export default function Header2({
                     </div>
                     <div className="text">
                       <p>
-                        <Link href="mailto:needhelp@company.com">
+                        <a href="mailto:needhelp@company.com">
                           needhelp@company.com
-                        </Link>
+                        </a>
                       </p>
                     </div>
                   </li>
@@ -62,31 +62,31 @@ export default function Header2({
                   <div className="main-menu-two__wrapper-inner">
                     <div className="main-menu-two__left">
                       <div className="main-menu-two__main-menu-box">
-                        <Link
+                        <a
                           href="#"
                           className="mobile-nav__toggler"
                           onClick={handleMobileMenu}
                         >
                           <i className="fa fa-bars"></i>
-                        </Link>
+                        </a>
                         <Menu />
                       </div>
                     </div>
                     <div className="main-menu-two__right">
                       <div className="main-menu-two__search-box">
-                        <Link
+                        <a
                           href="#"
                           className="main-menu-two__search search-toggler icon-magnifying-glass"
                           onClick={handlePopup}
-                        ></Link>
+                        ></a>
                       </div>
                       <div className="main-menu-two__btn-box">
-                        <Link
+                        <a
                           href="contact"
                           className="main-menu-two__btn thm-btn"
                         >
                           Get Free Quote
-                        </Link>
+                        </a>
                       </div>
                     </div>
                   </div>
@@ -108,28 +108,28 @@ export default function Header2({
               <div className="main-menu-two__wrapper-inner">
                 <div className="main-menu-two__left">
                   <div className="main-menu-two__main-menu-box">
-                    <Link
+                    <a
                       href="#"
                       className="mobile-nav__toggler"
                       onClick={handleMobileMenu}
                     >
                       <i className="fa fa-bars"></i>
-                    </Link>
+                    </a>
                     <Menu />
                   </div>
                 </div>
                 <div className="main-menu-two__right">
                   <div className="main-menu-two__search-box">
-                    <Link
+                    <a
                       href="#"
                       className="main-menu-two__search search-toggler icon-magnifying-glass"
                       onClick={handlePopup}
-                    ></Link>
+                    ></a>
                   </div>
                   <div className="main-menu-two__btn-box">
-                    <Link href="contact" className="main-menu-two__btn thm-btn">
+                    <a href="contact" className="main-menu-two__btn thm-btn">
                       Get Free Quote
-                    </Link>
+                    </a>
                   </div>
                 </div>
               </div>

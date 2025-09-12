@@ -70,7 +70,7 @@ export default function ServiceSlider10() {
                         <p>1000 kms or 1 Month Warranty</p>
                     </div>
                     <div className="button">
-                        <Link href="#" className="theme-btn btn-style-nine"><span className="btn-title">Read
+                        <a href="#" className="theme-btn btn-style-nine"><span className="btn-title">Read
                             More</span></Link>
                     </div>
                 </SwiperSlide>
@@ -86,7 +86,7 @@ export default function ServiceSlider10() {
                         <p>Minimum 2 Years Warranty</p>
                     </div>
                     <div className="button">
-                        <Link href="#" className="theme-btn btn-style-nine"><span className="btn-title">Read
+                        <a href="#" className="theme-btn btn-style-nine"><span className="btn-title">Read
                             More</span></Link>
                     </div>
                 </SwiperSlide>
@@ -102,7 +102,7 @@ export default function ServiceSlider10() {
                         <p>500 kms or 1 Month Warranty</p>
                     </div>
                     <div className="button">
-                        <Link href="#" className="theme-btn btn-style-nine"><span className="btn-title">Read
+                        <a href="#" className="theme-btn btn-style-nine"><span className="btn-title">Read
                             More</span></Link>
                     </div>
                 </SwiperSlide>
@@ -118,7 +118,7 @@ export default function ServiceSlider10() {
                         <p>Inspection, Replacement ...</p>
                     </div>
                     <div className="button">
-                        <Link href="#" className="theme-btn btn-style-nine"><span className="btn-title">Read
+                        <a href="#" className="theme-btn btn-style-nine"><span className="btn-title">Read
                             More</span></Link>
                     </div>
                 </SwiperSlide>
@@ -134,7 +134,7 @@ export default function ServiceSlider10() {
                         <p>Will be the leading provider don</p>
                     </div>
                     <div className="button">
-                        <Link href="#" className="theme-btn btn-style-nine"><span className="btn-title">Read
+                        <a href="#" className="theme-btn btn-style-nine"><span className="btn-title">Read
                             More</span></Link>
                     </div>
                 </SwiperSlide>

@@ -77,7 +77,7 @@ export default function Home() {
                                 </div>
                             </div>
                             <div className="about-three__btn-box">
-                                <Link href="contact" className="about-three__btn thm-btn">Get Free Quote</Link>
+                                <a href="contact" className="about-three__btn thm-btn">Get Free Quote</Link>
                             </div>
                         </div>
                     </div>
@@ -121,7 +121,7 @@ export default function Home() {
                             <div className="service-three__icon">
                                 <span className="icon-development"></span>
                             </div>
-                            <h3 className="service-three__title"><Link href="website-development">Website
+                            <h3 className="service-three__title"><a href="website-development">Website
                                     <br/> Development</Link></h3>
                         </div>
                     </div>
@@ -136,7 +136,7 @@ export default function Home() {
                             <div className="service-three__icon">
                                 <span className="icon-bullhorn"></span>
                             </div>
-                            <h3 className="service-three__title"><Link href="digital-marketing">Digital
+                            <h3 className="service-three__title"><a href="digital-marketing">Digital
                                     <br/> Marketing</Link></h3>
                         </div>
                     </div>
@@ -151,7 +151,7 @@ export default function Home() {
                             <div className="service-three__icon">
                                 <span className="icon-analytics"></span>
                             </div>
-                            <h3 className="service-three__title"><Link href="digital-marketing">Marketing
+                            <h3 className="service-three__title"><a href="digital-marketing">Marketing
                                     <br/> Analysis</Link></h3>
                         </div>
                     </div>
@@ -166,7 +166,7 @@ export default function Home() {
                             <div className="service-three__icon">
                                 <span className="icon-curve"></span>
                             </div>
-                            <h3 className="service-three__title"><Link href="graphic-designing">Graphic
+                            <h3 className="service-three__title"><a href="graphic-designing">Graphic
                                     <br/> Designing</Link></h3>
                         </div>
                     </div>
@@ -181,7 +181,7 @@ export default function Home() {
                             <div className="service-three__icon">
                                 <span className="icon-seo"></span>
                             </div>
-                            <h3 className="service-three__title"><Link href="seo-content-writting">SEO & Content
+                            <h3 className="service-three__title"><a href="seo-content-writting">SEO & Content
                                     <br/> Writing</Link></h3>
                         </div>
                     </div>
@@ -196,7 +196,7 @@ export default function Home() {
                             <div className="service-three__icon">
                                 <span className="icon-application"></span>
                             </div>
-                            <h3 className="service-three__title"><Link href="app-development">Application
+                            <h3 className="service-three__title"><a href="app-development">Application
                                     <br/> Development</Link></h3>
                         </div>
                     </div>
@@ -227,7 +227,7 @@ export default function Home() {
                                     <img src="assets/images/blog/blog-2-1.jpg" alt=""/>
                                 </div>
                                 <div className="blog-two__arrow">
-                                    <Link href="#"><span className="icon-right-arrow"></span></Link>
+                                    <a href="#"><span className="icon-right-arrow"></span></Link>
                                 </div>
                                 <div className="blog-two__tag">
                                     <p>Strategy Business</p>
@@ -236,17 +236,17 @@ export default function Home() {
                             <div className="blog-two__content">
                                 <ul className="blog-two__meta list-unstyled">
                                     <li>
-                                        <Link href="#"><span className="fas fa-calendar-alt"></span>20 Oct 2024</Link>
+                                        <a href="#"><span className="fas fa-calendar-alt"></span>20 Oct 2024</Link>
                                     </li>
                                     <li>
-                                        <Link href="#"><span className="fas fa-comments"></span>02 Comment</Link>
+                                        <a href="#"><span className="fas fa-comments"></span>02 Comment</Link>
                                     </li>
                                 </ul>
                                 <div className="blog-two__title-box">
                                     <div className="blog-two__content-shape">
                                         <img src="assets/images/shapes/blog-two-content-shape-1.png" alt=""/>
                                     </div>
-                                    <h3 className="blog-two__title"><Link href="blog-details">What is the 2024 trend for
+                                    <h3 className="blog-two__title"><a href="blog-details">What is the 2024 trend for
                                             Graphic Design ?</Link></h3>
                                     <p className="blog-two__text">Business is the activity of making one's
                                         livcing or buying & selling products.</p>
@@ -263,7 +263,7 @@ export default function Home() {
                                     <img src="assets/images/blog/blog-2-2.jpg" alt=""/>
                                 </div>
                                 <div className="blog-two__arrow">
-                                    <Link href="#"><span className="icon-right-arrow"></span></Link>
+                                    <a href="#"><span className="icon-right-arrow"></span></Link>
                                 </div>
                                 <div className="blog-two__tag">
                                     <p>Business Solution</p>
@@ -272,17 +272,17 @@ export default function Home() {
                             <div className="blog-two__content">
                                 <ul className="blog-two__meta list-unstyled">
                                     <li>
-                                        <Link href="#"><span className="fas fa-calendar-alt"></span>20 Oct 2024</Link>
+                                        <a href="#"><span className="fas fa-calendar-alt"></span>20 Oct 2024</Link>
                                     </li>
                                     <li>
-                                        <Link href="#"><span className="fas fa-comments"></span>02 Comment</Link>
+                                        <a href="#"><span className="fas fa-comments"></span>02 Comment</Link>
                                     </li>
                                 </ul>
                                 <div className="blog-two__title-box">
                                     <div className="blog-two__content-shape">
                                         <img src="assets/images/shapes/blog-two-content-shape-1.png" alt=""/>
                                     </div>
-                                    <h3 className="blog-two__title"><Link href="blog-details">How To Start a Consulting
+                                    <h3 className="blog-two__title"><a href="blog-details">How To Start a Consulting
                                             Business In 2024</Link></h3>
                                     <p className="blog-two__text">Business is the activity of making one's
                                         livcing or buying & selling products.</p>
@@ -299,7 +299,7 @@ export default function Home() {
                                     <img src="assets/images/blog/blog-2-3.jpg" alt=""/>
                                 </div>
                                 <div className="blog-two__arrow">
-                                    <Link href="#"><span className="icon-right-arrow"></span></Link>
+                                    <a href="#"><span className="icon-right-arrow"></span></Link>
                                 </div>
                                 <div className="blog-two__tag">
                                     <p>Marketing Solution</p>
@@ -308,17 +308,17 @@ export default function Home() {
                             <div className="blog-two__content">
                                 <ul className="blog-two__meta list-unstyled">
                                     <li>
-                                        <Link href="#"><span className="fas fa-calendar-alt"></span>20 Oct 2024</Link>
+                                        <a href="#"><span className="fas fa-calendar-alt"></span>20 Oct 2024</Link>
                                     </li>
                                     <li>
-                                        <Link href="#"><span className="fas fa-comments"></span>02 Comment</Link>
+                                        <a href="#"><span className="fas fa-comments"></span>02 Comment</Link>
                                     </li>
                                 </ul>
                                 <div className="blog-two__title-box">
                                     <div className="blog-two__content-shape">
                                         <img src="assets/images/shapes/blog-two-content-shape-1.png" alt=""/>
                                     </div>
-                                    <h3 className="blog-two__title"><Link href="blog-details">We are delivering the best
+                                    <h3 className="blog-two__title"><a href="blog-details">We are delivering the best
                                             IT Services</Link></h3>
                                     <p className="blog-two__text">Business is the activity of making one's
                                         livcing or buying & selling products.</p>
@@ -341,7 +341,7 @@ export default function Home() {
                         <h3 className="cta-one__title">Let's discuss about how we can help
                             <br/> make your business better</h3>
                         <div className="cta-one__btn-box">
-                            <Link href="about" className="cta-one__btn thm-btn">Let's Start</Link>
+                            <a href="about" className="cta-one__btn thm-btn">Let's Start</Link>
                         </div>
                     </div>
                 </div>

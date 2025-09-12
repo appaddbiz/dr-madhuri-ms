@@ -63,18 +63,18 @@ export default function TeamSlider13() {
                                 <figure className="image"><img src="/assets/images-4/team/team-1.jpg" alt="" /></figure>
                             </div>
                             <div className="lower-content">
-                                <h3><Link href="/team-details">David Luponis</Link></h3>
+                                <h3><a href="/team-details">David Luponis</Link></h3>
                                 <span className="designation">Founder</span>
                                 <div className="other-links clearfix">
                                     <div className="info-box">
-                                        <Link href="/index-13"><i className="fas fa-envelope" />Email</Link>
+                                        <a href="/index-13"><i className="fas fa-envelope" />Email</Link>
                                     </div>
                                     <div className="info-box share-box">
-                                        <Link href="/index-13"><i className="fas fa-share-alt" />Share</Link>
+                                        <a href="/index-13"><i className="fas fa-share-alt" />Share</Link>
                                         <ul className="share-link clearfix">
-                                            <li><Link href="/index-13"><i className="fab fa-facebook-f" /></Link></li>
-                                            <li><Link href="/index-13"><i className="fab fa-twitter" /></Link></li>
-                                            <li><Link href="/index-13"><i className="fab fa-linkedin-in" /></Link></li>
+                                            <li><a href="/index-13"><i className="fab fa-facebook-f" /></Link></li>
+                                            <li><a href="/index-13"><i className="fab fa-twitter" /></Link></li>
+                                            <li><a href="/index-13"><i className="fab fa-linkedin-in" /></Link></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -89,18 +89,18 @@ export default function TeamSlider13() {
                                 <figure className="image"><img src="/assets/images-4/team/team-2.jpg" alt="" /></figure>
                             </div>
                             <div className="lower-content">
-                                <h3><Link href="/team-details">Peshotan Mehta</Link></h3>
+                                <h3><a href="/team-details">Peshotan Mehta</Link></h3>
                                 <span className="designation">President</span>
                                 <div className="other-links clearfix">
                                     <div className="info-box">
-                                        <Link href="/index-13"><i className="fas fa-envelope" />Email</Link>
+                                        <a href="/index-13"><i className="fas fa-envelope" />Email</Link>
                                     </div>
                                     <div className="info-box share-box">
-                                        <Link href="/index-13"><i className="fas fa-share-alt" />Share</Link>
+                                        <a href="/index-13"><i className="fas fa-share-alt" />Share</Link>
                                         <ul className="share-link clearfix">
-                                            <li><Link href="/index-13"><i className="fab fa-facebook-f" /></Link></li>
-                                            <li><Link href="/index-13"><i className="fab fa-twitter" /></Link></li>
-                                            <li><Link href="/index-13"><i className="fab fa-linkedin-in" /></Link></li>
+                                            <li><a href="/index-13"><i className="fab fa-facebook-f" /></Link></li>
+                                            <li><a href="/index-13"><i className="fab fa-twitter" /></Link></li>
+                                            <li><a href="/index-13"><i className="fab fa-linkedin-in" /></Link></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -115,18 +115,18 @@ export default function TeamSlider13() {
                                 <figure className="image"><img src="/assets/images-4/team/team-3.jpg" alt="" /></figure>
                             </div>
                             <div className="lower-content">
-                                <h3><Link href="/team-details">Philip Jones</Link></h3>
+                                <h3><a href="/team-details">Philip Jones</Link></h3>
                                 <span className="designation">Excutive Director</span>
                                 <div className="other-links clearfix">
                                     <div className="info-box">
-                                        <Link href="/index-13"><i className="fas fa-envelope" />Email</Link>
+                                        <a href="/index-13"><i className="fas fa-envelope" />Email</Link>
                                     </div>
                                     <div className="info-box share-box">
-                                        <Link href="/index-13"><i className="fas fa-share-alt" />Share</Link>
+                                        <a href="/index-13"><i className="fas fa-share-alt" />Share</Link>
                                         <ul className="share-link clearfix">
-                                            <li><Link href="/index-13"><i className="fab fa-facebook-f" /></Link></li>
-                                            <li><Link href="/index-13"><i className="fab fa-twitter" /></Link></li>
-                                            <li><Link href="/index-13"><i className="fab fa-linkedin-in" /></Link></li>
+                                            <li><a href="/index-13"><i className="fab fa-facebook-f" /></Link></li>
+                                            <li><a href="/index-13"><i className="fab fa-twitter" /></Link></li>
+                                            <li><a href="/index-13"><i className="fab fa-linkedin-in" /></Link></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -141,18 +141,18 @@ export default function TeamSlider13() {
                                 <figure className="image"><img src="/assets/images-4/team/team-4.jpg" alt="" /></figure>
                             </div>
                             <div className="lower-content">
-                                <h3><Link href="/team-details">Peter Fransisco</Link></h3>
+                                <h3><a href="/team-details">Peter Fransisco</Link></h3>
                                 <span className="designation">Manager</span>
                                 <div className="other-links clearfix">
                                     <div className="info-box">
-                                        <Link href="/index-13"><i className="fas fa-envelope" />Email</Link>
+                                        <a href="/index-13"><i className="fas fa-envelope" />Email</Link>
                                     </div>
                                     <div className="info-box share-box">
-                                        <Link href="/index-13"><i className="fas fa-share-alt" />Share</Link>
+                                        <a href="/index-13"><i className="fas fa-share-alt" />Share</Link>
                                         <ul className="share-link clearfix">
-                                            <li><Link href="/index-13"><i className="fab fa-facebook-f" /></Link></li>
-                                            <li><Link href="/index-13"><i className="fab fa-twitter" /></Link></li>
-                                            <li><Link href="/index-13"><i className="fab fa-linkedin-in" /></Link></li>
+                                            <li><a href="/index-13"><i className="fab fa-facebook-f" /></Link></li>
+                                            <li><a href="/index-13"><i className="fab fa-twitter" /></Link></li>
+                                            <li><a href="/index-13"><i className="fab fa-linkedin-in" /></Link></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -167,18 +167,18 @@ export default function TeamSlider13() {
                                 <figure className="image"><img src="/assets/images-4/team/team-3.jpg" alt="" /></figure>
                             </div>
                             <div className="lower-content">
-                                <h3><Link href="/team-details">Philip Jones</Link></h3>
+                                <h3><a href="/team-details">Philip Jones</Link></h3>
                                 <span className="designation">Excutive Director</span>
                                 <div className="other-links clearfix">
                                     <div className="info-box">
-                                        <Link href="/index-13"><i className="fas fa-envelope" />Email</Link>
+                                        <a href="/index-13"><i className="fas fa-envelope" />Email</Link>
                                     </div>
                                     <div className="info-box share-box">
-                                        <Link href="/index-13"><i className="fas fa-share-alt" />Share</Link>
+                                        <a href="/index-13"><i className="fas fa-share-alt" />Share</Link>
                                         <ul className="share-link clearfix">
-                                            <li><Link href="/index-13"><i className="fab fa-facebook-f" /></Link></li>
-                                            <li><Link href="/index-13"><i className="fab fa-twitter" /></Link></li>
-                                            <li><Link href="/index-13"><i className="fab fa-linkedin-in" /></Link></li>
+                                            <li><a href="/index-13"><i className="fab fa-facebook-f" /></Link></li>
+                                            <li><a href="/index-13"><i className="fab fa-twitter" /></Link></li>
+                                            <li><a href="/index-13"><i className="fab fa-linkedin-in" /></Link></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -193,18 +193,18 @@ export default function TeamSlider13() {
                                 <figure className="image"><img src="/assets/images-4/team/team-4.jpg" alt="" /></figure>
                             </div>
                             <div className="lower-content">
-                                <h3><Link href="/team-details">Peter Fransisco</Link></h3>
+                                <h3><a href="/team-details">Peter Fransisco</Link></h3>
                                 <span className="designation">Manager</span>
                                 <div className="other-links clearfix">
                                     <div className="info-box">
-                                        <Link href="/index-13"><i className="fas fa-envelope" />Email</Link>
+                                        <a href="/index-13"><i className="fas fa-envelope" />Email</Link>
                                     </div>
                                     <div className="info-box share-box">
-                                        <Link href="/index-13"><i className="fas fa-share-alt" />Share</Link>
+                                        <a href="/index-13"><i className="fas fa-share-alt" />Share</Link>
                                         <ul className="share-link clearfix">
-                                            <li><Link href="/index-13"><i className="fab fa-facebook-f" /></Link></li>
-                                            <li><Link href="/index-13"><i className="fab fa-twitter" /></Link></li>
-                                            <li><Link href="/index-13"><i className="fab fa-linkedin-in" /></Link></li>
+                                            <li><a href="/index-13"><i className="fab fa-facebook-f" /></Link></li>
+                                            <li><a href="/index-13"><i className="fab fa-twitter" /></Link></li>
+                                            <li><a href="/index-13"><i className="fab fa-linkedin-in" /></Link></li>
                                         </ul>
                                     </div>
                                 </div>

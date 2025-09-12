@@ -58,19 +58,19 @@ export default function ClientSlider2() {
         <>
             <Swiper {...swiperOptions} className="theme_carousel owl-theme">
                 <SwiperSlide className="clients-logo-box">
-                    <Link href="/"><img src="/assets/images/resource/client-28.png" alt="" /></Link>
+                    <a href="/"><img src="/assets/images/resource/client-28.png" alt="" /></Link>
                 </SwiperSlide>
                 <SwiperSlide className="clients-logo-box">
-                    <Link href="/"><img src="/assets/images/resource/client-31.png" alt="" /></Link>
+                    <a href="/"><img src="/assets/images/resource/client-31.png" alt="" /></Link>
                 </SwiperSlide>
                 <SwiperSlide className="clients-logo-box">
-                    <Link href="/"><img src="/assets/images/resource/client-32.png" alt="" /></Link>
+                    <a href="/"><img src="/assets/images/resource/client-32.png" alt="" /></Link>
                 </SwiperSlide>
                 <SwiperSlide className="clients-logo-box">
-                    <Link href="/"><img src="/assets/images/resource/client-29.png" alt="" /></Link>
+                    <a href="/"><img src="/assets/images/resource/client-29.png" alt="" /></Link>
                 </SwiperSlide>
                 <SwiperSlide className="clients-logo-box">
-                    <Link href="/"><img src="/assets/images/resource/client-28.png" alt="" /></Link>
+                    <a href="/"><img src="/assets/images/resource/client-28.png" alt="" /></Link>
                 </SwiperSlide>
             </Swiper>
         </>

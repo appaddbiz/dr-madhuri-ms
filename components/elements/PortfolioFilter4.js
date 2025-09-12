@@ -53,7 +53,7 @@ export default function PortfolioFilter4() {
                             <h5>Marketing</h5>
                             <h4>Leadership</h4>
                         </div>
-                        <div className="link-btn"><Link href="#"><i className="flaticon-right-arrow" /></Link></div>
+                        <div className="link-btn"><a href="#"><i className="flaticon-right-arrow" /></Link></div>
                     </div>
                 </div>
                 <div className="col-lg-3 col-md-6 project-block-six">
@@ -63,7 +63,7 @@ export default function PortfolioFilter4() {
                             <h5>Financial</h5>
                             <h4>Responsibility</h4>
                         </div>
-                        <div className="link-btn"><Link href="#"><i className="flaticon-right-arrow" /></Link></div>
+                        <div className="link-btn"><a href="#"><i className="flaticon-right-arrow" /></Link></div>
                     </div>
                 </div>
                 <div className="col-lg-3 col-md-6 project-block-six">
@@ -73,7 +73,7 @@ export default function PortfolioFilter4() {
                             <h5>Technical</h5>
                             <h4>Engineering</h4>
                         </div>
-                        <div className="link-btn"><Link href="#"><i className="flaticon-right-arrow" /></Link></div>
+                        <div className="link-btn"><a href="#"><i className="flaticon-right-arrow" /></Link></div>
                     </div>
                 </div>
                 <div className="col-lg-3 col-md-6 project-block-six">
@@ -83,7 +83,7 @@ export default function PortfolioFilter4() {
                             <h5>Coaching</h5>
                             <h4>Manufacturer</h4>
                         </div>
-                        <div className="link-btn"><Link href="#"><i className="flaticon-right-arrow" /></Link></div>
+                        <div className="link-btn"><a href="#"><i className="flaticon-right-arrow" /></Link></div>
                     </div>
                 </div>
                 <div className="col-lg-3 col-md-6 project-block-six">
@@ -93,7 +93,7 @@ export default function PortfolioFilter4() {
                             <h5>Business</h5>
                             <h4>Management</h4>
                         </div>
-                        <div className="link-btn"><Link href="#"><i className="flaticon-right-arrow" /></Link></div>
+                        <div className="link-btn"><a href="#"><i className="flaticon-right-arrow" /></Link></div>
                     </div>
                 </div>
                 <div className="col-lg-3 col-md-6 project-block-six">
@@ -103,7 +103,7 @@ export default function PortfolioFilter4() {
                             <h5>Marketing</h5>
                             <h4>Data Analytics</h4>
                         </div>
-                        <div className="link-btn"><Link href="#"><i className="flaticon-right-arrow" /></Link></div>
+                        <div className="link-btn"><a href="#"><i className="flaticon-right-arrow" /></Link></div>
                     </div>
                 </div>
                 <div className="col-lg-3 col-md-6 project-block-six">
@@ -113,7 +113,7 @@ export default function PortfolioFilter4() {
                             <h5>Technical</h5>
                             <h4>Reservations</h4>
                         </div>
-                        <div className="link-btn"><Link href="#"><i className="flaticon-right-arrow" /></Link></div>
+                        <div className="link-btn"><a href="#"><i className="flaticon-right-arrow" /></Link></div>
                     </div>
                 </div>
                 <div className="col-lg-3 col-md-6 project-block-six">
@@ -123,7 +123,7 @@ export default function PortfolioFilter4() {
                             <h5>Marketing</h5>
                             <h4>Inventory</h4>
                         </div>
-                        <div className="link-btn"><Link href="#"><i className="flaticon-right-arrow" /></Link></div>
+                        <div className="link-btn"><a href="#"><i className="flaticon-right-arrow" /></Link></div>
                     </div>
                 </div>
                 <div className="col-lg-3 col-md-6 project-block-six">
@@ -133,7 +133,7 @@ export default function PortfolioFilter4() {
                             <h5>Financial</h5>
                             <h4>Innovative</h4>
                         </div>
-                        <div className="link-btn"><Link href="#"><i className="flaticon-right-arrow" /></Link></div>
+                        <div className="link-btn"><a href="#"><i className="flaticon-right-arrow" /></Link></div>
                     </div>
                 </div>
                 <div className="col-lg-3 col-md-6 project-block-six">
@@ -143,7 +143,7 @@ export default function PortfolioFilter4() {
                             <h5>Technical</h5>
                             <h4>Supply Chain</h4>
                         </div>
-                        <div className="link-btn"><Link href="#"><i className="flaticon-right-arrow" /></Link></div>
+                        <div className="link-btn"><a href="#"><i className="flaticon-right-arrow" /></Link></div>
                     </div>
                 </div>
                 <div className="col-lg-3 col-md-6 project-block-six">
@@ -153,7 +153,7 @@ export default function PortfolioFilter4() {
                             <h5>Marketing</h5>
                             <h4>Expansion</h4>
                         </div>
-                        <div className="link-btn"><Link href="#"><i className="flaticon-right-arrow" /></Link></div>
+                        <div className="link-btn"><a href="#"><i className="flaticon-right-arrow" /></Link></div>
                     </div>
                 </div>
                 <div className="col-lg-3 col-md-6 project-block-six">
@@ -163,7 +163,7 @@ export default function PortfolioFilter4() {
                             <h5>Financial</h5>
                             <h4>Remote Support</h4>
                         </div>
-                        <div className="link-btn"><Link href="#"><i className="flaticon-right-arrow" /></Link></div>
+                        <div className="link-btn"><a href="#"><i className="flaticon-right-arrow" /></Link></div>
                     </div>
                 </div>
             </div>

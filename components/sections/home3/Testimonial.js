@@ -85,7 +85,7 @@ export default function Testimonial() {
                                 available,
                                 But majority have suffered There are many varins of passages</p>
                             <div className="testimonial-three__btn-box">
-                                <Link href="testimonials" className="testimonial-three__btn thm-btn">View More</Link>
+                                <a href="testimonials" className="testimonial-three__btn thm-btn">View More</Link>
                             </div>
                         </div>
                     </div>

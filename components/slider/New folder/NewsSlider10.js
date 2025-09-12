@@ -60,7 +60,7 @@ export default function NewsSlider10() {
                     <div className="news-block-one style-two">
                         <div className="row m-0">
                             <div className="col-md-6 p-0">
-                                <div className="image"><Link href="/blog-details"><img className="lazy-image owl-lazy loaded" src="/assets/images-2/news/news-1.jpg" data-bg="/assets/images-2/news/news-1.jpg" alt="" data-was-processed="true" /></Link></div>
+                                <div className="image"><a href="/blog-details"><img className="lazy-image owl-lazy loaded" src="/assets/images-2/news/news-1.jpg" data-bg="/assets/images-2/news/news-1.jpg" alt="" data-was-processed="true" /></Link></div>
                             </div>
                             <div className="col-md-6 p-0">
                                 <div className="inner-box">
@@ -71,9 +71,9 @@ export default function NewsSlider10() {
                                         </div>
                                     </div>
                                     <div className="category">Business</div>
-                                    <h4><Link href="/blog-details">How to Manage Business’s <br /> Online
+                                    <h4><a href="/blog-details">How to Manage Business’s <br /> Online
                                         Reputation</Link></h4>
-                                    <div className="read-more-btn"><Link href="/blog-details"><i className="flaticon-right" />Read More</Link></div>
+                                    <div className="read-more-btn"><a href="/blog-details"><i className="flaticon-right" />Read More</Link></div>
                                 </div>
                             </div>
                         </div>
@@ -83,7 +83,7 @@ export default function NewsSlider10() {
                     <div className="news-block-one style-two">
                         <div className="row m-0">
                             <div className="col-md-6 p-0">
-                                <div className="image"><Link href="/blog-details"><img className="lazy-image owl-lazy loaded" src="/assets/images-2/news/news-2.jpg" data-bg="/assets/images-2/news/news-2.jpg" alt="" data-was-processed="true" /></Link></div>
+                                <div className="image"><a href="/blog-details"><img className="lazy-image owl-lazy loaded" src="/assets/images-2/news/news-2.jpg" data-bg="/assets/images-2/news/news-2.jpg" alt="" data-was-processed="true" /></Link></div>
                             </div>
                             <div className="col-md-6 p-0">
                                 <div className="inner-box">
@@ -94,9 +94,9 @@ export default function NewsSlider10() {
                                         </div>
                                     </div>
                                     <div className="category">Projects</div>
-                                    <h4><Link href="/blog-details">Is Your Business Ready For <br /> Integration?</Link>
+                                    <h4><a href="/blog-details">Is Your Business Ready For <br /> Integration?</Link>
                                     </h4>
-                                    <div className="read-more-btn"><Link href="/blog-details"><i className="flaticon-right" />Read More</Link></div>
+                                    <div className="read-more-btn"><a href="/blog-details"><i className="flaticon-right" />Read More</Link></div>
                                 </div>
                             </div>
                         </div>
@@ -106,7 +106,7 @@ export default function NewsSlider10() {
                     <div className="news-block-one style-two">
                         <div className="row m-0">
                             <div className="col-md-6 p-0">
-                                <div className="image"><Link href="/blog-details"><img className="lazy-image owl-lazy loaded" src="/assets/images-2/news/news-3.jpg" data-bg="/assets/images-2/news/news-3.jpg" alt="" data-was-processed="true" /></Link></div>
+                                <div className="image"><a href="/blog-details"><img className="lazy-image owl-lazy loaded" src="/assets/images-2/news/news-3.jpg" data-bg="/assets/images-2/news/news-3.jpg" alt="" data-was-processed="true" /></Link></div>
                             </div>
                             <div className="col-md-6 p-0">
                                 <div className="inner-box">
@@ -117,9 +117,9 @@ export default function NewsSlider10() {
                                         </div>
                                     </div>
                                     <div className="category">Marketing</div>
-                                    <h4><Link href="/blog-details">That Should You Include In <br />Your Marketing
+                                    <h4><a href="/blog-details">That Should You Include In <br />Your Marketing
                                         Plan</Link></h4>
-                                    <div className="read-more-btn"><Link href="/blog-details"><i className="flaticon-right" />Read More</Link></div>
+                                    <div className="read-more-btn"><a href="/blog-details"><i className="flaticon-right" />Read More</Link></div>
                                 </div>
                             </div>
                         </div>
@@ -129,7 +129,7 @@ export default function NewsSlider10() {
                     <div className="news-block-one style-two">
                         <div className="row m-0">
                             <div className="col-md-6 p-0">
-                                <div className="image"><Link href="/blog-details"><img className="lazy-image owl-lazy loaded" src="/assets/images-2/news/news-1.jpg" data-bg="/assets/images-2/news/news-1.jpg" alt="" data-was-processed="true" /></Link></div>
+                                <div className="image"><a href="/blog-details"><img className="lazy-image owl-lazy loaded" src="/assets/images-2/news/news-1.jpg" data-bg="/assets/images-2/news/news-1.jpg" alt="" data-was-processed="true" /></Link></div>
                             </div>
                             <div className="col-md-6 p-0">
                                 <div className="inner-box">
@@ -140,9 +140,9 @@ export default function NewsSlider10() {
                                         </div>
                                     </div>
                                     <div className="category">Business</div>
-                                    <h4><Link href="/blog-details">How to Manage Business’s <br /> Online
+                                    <h4><a href="/blog-details">How to Manage Business’s <br /> Online
                                         Reputation</Link></h4>
-                                    <div className="read-more-btn"><Link href="/blog-details"><i className="flaticon-right" />Read More</Link></div>
+                                    <div className="read-more-btn"><a href="/blog-details"><i className="flaticon-right" />Read More</Link></div>
                                 </div>
                             </div>
                         </div>
@@ -152,7 +152,7 @@ export default function NewsSlider10() {
                     <div className="news-block-one style-two">
                         <div className="row m-0">
                             <div className="col-md-6 p-0">
-                                <div className="image"><Link href="/blog-details"><img className="lazy-image owl-lazy loaded" src="/assets/images-2/news/news-2.jpg" data-bg="/assets/images-2/news/news-2.jpg" alt="" data-was-processed="true" /></Link></div>
+                                <div className="image"><a href="/blog-details"><img className="lazy-image owl-lazy loaded" src="/assets/images-2/news/news-2.jpg" data-bg="/assets/images-2/news/news-2.jpg" alt="" data-was-processed="true" /></Link></div>
                             </div>
                             <div className="col-md-6 p-0">
                                 <div className="inner-box">
@@ -163,9 +163,9 @@ export default function NewsSlider10() {
                                         </div>
                                     </div>
                                     <div className="category">Projects</div>
-                                    <h4><Link href="/blog-details">Is Your Business Ready For <br /> Integration?</Link>
+                                    <h4><a href="/blog-details">Is Your Business Ready For <br /> Integration?</Link>
                                     </h4>
-                                    <div className="read-more-btn"><Link href="/blog-details"><i className="flaticon-right" />Read More</Link></div>
+                                    <div className="read-more-btn"><a href="/blog-details"><i className="flaticon-right" />Read More</Link></div>
                                 </div>
                             </div>
                         </div>
@@ -175,7 +175,7 @@ export default function NewsSlider10() {
                     <div className="news-block-one style-two">
                         <div className="row m-0">
                             <div className="col-md-6 p-0">
-                                <div className="image"><Link href="/blog-details"><img className="lazy-image owl-lazy loaded" src="/assets/images-2/news/news-3.jpg" data-bg="/assets/images-2/news/news-3.jpg" alt="" data-was-processed="true" /></Link></div>
+                                <div className="image"><a href="/blog-details"><img className="lazy-image owl-lazy loaded" src="/assets/images-2/news/news-3.jpg" data-bg="/assets/images-2/news/news-3.jpg" alt="" data-was-processed="true" /></Link></div>
                             </div>
                             <div className="col-md-6 p-0">
                                 <div className="inner-box">
@@ -186,9 +186,9 @@ export default function NewsSlider10() {
                                         </div>
                                     </div>
                                     <div className="category">Marketing</div>
-                                    <h4><Link href="/blog-details">That Should You Include In <br />Your Marketing
+                                    <h4><a href="/blog-details">That Should You Include In <br />Your Marketing
                                         Plan</Link></h4>
-                                    <div className="read-more-btn"><Link href="/blog-details"><i className="flaticon-right" />Read More</Link></div>
+                                    <div className="read-more-btn"><a href="/blog-details"><i className="flaticon-right" />Read More</Link></div>
                                 </div>
                             </div>
                         </div>

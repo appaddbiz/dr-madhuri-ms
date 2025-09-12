@@ -61,16 +61,16 @@ export default function TeamSlider15() {
                     <div className="team-block">
                         <div className="inner-box">
                             <figure className="image-box"><img src="/assets/images-4/team/team-9.jpg" alt="" /></figure>
-                            <h3><Link href="/team-details">Noah Harry</Link></h3>
+                            <h3><a href="/team-details">Noah Harry</Link></h3>
                             <span className="designation">Director</span>
                             <ul className="other-option clearfix">
-                                <li className="mail-box"><Link href="mailto:info@example.com"><i className="fas fa-envelope" /></Link></li>
+                                <li className="mail-box"><a href="mailto:info@example.com"><i className="fas fa-envelope" /></Link></li>
                                 <li className="share-option">
                                     <i className="share-icon fas fa-share-alt" />
                                     <ul className="share-links clearfix">
-                                        <li><Link href="/index-15"><i className="fab fa-facebook-f" /></Link></li>
-                                        <li><Link href="/index-15"><i className="fab fa-twitter" /></Link></li>
-                                        <li><Link href="/index-15"><i className="fab fa-google-plus-g" /></Link></li>
+                                        <li><a href="/index-15"><i className="fab fa-facebook-f" /></Link></li>
+                                        <li><a href="/index-15"><i className="fab fa-twitter" /></Link></li>
+                                        <li><a href="/index-15"><i className="fab fa-google-plus-g" /></Link></li>
                                     </ul>
                                 </li>
                             </ul>
@@ -81,16 +81,16 @@ export default function TeamSlider15() {
                     <div className="team-block">
                         <div className="inner-box">
                             <figure className="image-box"><img src="/assets/images-4/team/team-10.jpg" alt="" /></figure>
-                            <h3><Link href="/team-details">Issac Mason</Link></h3>
+                            <h3><a href="/team-details">Issac Mason</Link></h3>
                             <span className="designation">Founder</span>
                             <ul className="other-option clearfix">
-                                <li className="mail-box"><Link href="mailto:info@example.com"><i className="fas fa-envelope" /></Link></li>
+                                <li className="mail-box"><a href="mailto:info@example.com"><i className="fas fa-envelope" /></Link></li>
                                 <li className="share-option">
                                     <i className="share-icon fas fa-share-alt" />
                                     <ul className="share-links clearfix">
-                                        <li><Link href="/index-14"><i className="fab fa-facebook-f" /></Link></li>
-                                        <li><Link href="/index-14"><i className="fab fa-twitter" /></Link></li>
-                                        <li><Link href="/index-14"><i className="fab fa-google-plus-g" /></Link></li>
+                                        <li><a href="/index-14"><i className="fab fa-facebook-f" /></Link></li>
+                                        <li><a href="/index-14"><i className="fab fa-twitter" /></Link></li>
+                                        <li><a href="/index-14"><i className="fab fa-google-plus-g" /></Link></li>
                                     </ul>
                                 </li>
                             </ul>
@@ -101,16 +101,16 @@ export default function TeamSlider15() {
                     <div className="team-block">
                         <div className="inner-box">
                             <figure className="image-box"><img src="/assets/images-4/team/team-11.jpg" alt="" /></figure>
-                            <h3><Link href="/team-details">Teddy Dylan</Link></h3>
+                            <h3><a href="/team-details">Teddy Dylan</Link></h3>
                             <span className="designation">Manager</span>
                             <ul className="other-option clearfix">
-                                <li className="mail-box"><Link href="mailto:info@example.com"><i className="fas fa-envelope" /></Link></li>
+                                <li className="mail-box"><a href="mailto:info@example.com"><i className="fas fa-envelope" /></Link></li>
                                 <li className="share-option">
                                     <i className="share-icon fas fa-share-alt" />
                                     <ul className="share-links clearfix">
-                                        <li><Link href="/index-14"><i className="fab fa-facebook-f" /></Link></li>
-                                        <li><Link href="/index-14"><i className="fab fa-twitter" /></Link></li>
-                                        <li><Link href="/index-14"><i className="fab fa-google-plus-g" /></Link></li>
+                                        <li><a href="/index-14"><i className="fab fa-facebook-f" /></Link></li>
+                                        <li><a href="/index-14"><i className="fab fa-twitter" /></Link></li>
+                                        <li><a href="/index-14"><i className="fab fa-google-plus-g" /></Link></li>
                                     </ul>
                                 </li>
                             </ul>
@@ -121,16 +121,16 @@ export default function TeamSlider15() {
                     <div className="team-block">
                         <div className="inner-box">
                             <figure className="image-box"><img src="/assets/images-4/team/team-12.jpg" alt="" /></figure>
-                            <h3><Link href="/team-details">Harley Jude</Link></h3>
+                            <h3><a href="/team-details">Harley Jude</Link></h3>
                             <span className="designation">HR</span>
                             <ul className="other-option clearfix">
-                                <li className="mail-box"><Link href="mailto:info@example.com"><i className="fas fa-envelope" /></Link></li>
+                                <li className="mail-box"><a href="mailto:info@example.com"><i className="fas fa-envelope" /></Link></li>
                                 <li className="share-option">
                                     <i className="share-icon fas fa-share-alt" />
                                     <ul className="share-links clearfix">
-                                        <li><Link href="/index-14"><i className="fab fa-facebook-f" /></Link></li>
-                                        <li><Link href="/index-14"><i className="fab fa-twitter" /></Link></li>
-                                        <li><Link href="/index-14"><i className="fab fa-google-plus-g" /></Link></li>
+                                        <li><a href="/index-14"><i className="fab fa-facebook-f" /></Link></li>
+                                        <li><a href="/index-14"><i className="fab fa-twitter" /></Link></li>
+                                        <li><a href="/index-14"><i className="fab fa-google-plus-g" /></Link></li>
                                     </ul>
                                 </li>
                             </ul>
@@ -141,16 +141,16 @@ export default function TeamSlider15() {
                     <div className="team-block">
                         <div className="inner-box">
                             <figure className="image-box"><img src="/assets/images-4/team/team-12.jpg" alt="" /></figure>
-                            <h3><Link href="/team-details">Harley Jude</Link></h3>
+                            <h3><a href="/team-details">Harley Jude</Link></h3>
                             <span className="designation">HR</span>
                             <ul className="other-option clearfix">
-                                <li className="mail-box"><Link href="mailto:info@example.com"><i className="fas fa-envelope" /></Link></li>
+                                <li className="mail-box"><a href="mailto:info@example.com"><i className="fas fa-envelope" /></Link></li>
                                 <li className="share-option">
                                     <i className="share-icon fas fa-share-alt" />
                                     <ul className="share-links clearfix">
-                                        <li><Link href="/index-14"><i className="fab fa-facebook-f" /></Link></li>
-                                        <li><Link href="/index-14"><i className="fab fa-twitter" /></Link></li>
-                                        <li><Link href="/index-14"><i className="fab fa-google-plus-g" /></Link></li>
+                                        <li><a href="/index-14"><i className="fab fa-facebook-f" /></Link></li>
+                                        <li><a href="/index-14"><i className="fab fa-twitter" /></Link></li>
+                                        <li><a href="/index-14"><i className="fab fa-google-plus-g" /></Link></li>
                                     </ul>
                                 </li>
                             </ul>

@@ -24,13 +24,13 @@ export default function Service() {
                                     <div className="service-two__icon">
                                         <span className="icon-profit"></span>
                                     </div>
-                                    <h3><Link href="digital-marketing">Investment
+                                    <h3><a href="digital-marketing">Investment
                                             Planning</Link></h3>
                                 </div>
                                 <p className="service-two__text">Design professionals,there's a bit of controversy
                                     surrounding the filler text</p>
                                 <div className="service-two__read-more">
-                                    <Link href="digital-marketing">Read More<span
+                                    <a href="digital-marketing">Read More<span
                                             className="fas fa-arrow-circle-right"></span></Link>
                                 </div>
                             </div>
@@ -56,13 +56,13 @@ export default function Service() {
                                     <div className="service-two__icon">
                                         <span className="icon-responsible"></span>
                                     </div>
-                                    <h3><Link href="ui-ux-designing">High Quality
+                                    <h3><a href="ui-ux-designing">High Quality
                                             Services</Link></h3>
                                 </div>
                                 <p className="service-two__text">Design professionals,there's a bit of controversy
                                     surrounding the filler text</p>
                                 <div className="service-two__read-more">
-                                    <Link href="ui-ux-designing">Read More<span
+                                    <a href="ui-ux-designing">Read More<span
                                             className="fas fa-arrow-circle-right"></span></Link>
                                 </div>
                             </div>
@@ -88,13 +88,13 @@ export default function Service() {
                                     <div className="service-two__icon">
                                         <span className="icon-creative"></span>
                                     </div>
-                                    <h3><Link href="website-development">Perfect Web
+                                    <h3><a href="website-development">Perfect Web
                                             Solution</Link></h3>
                                 </div>
                                 <p className="service-two__text">Design professionals,there's a bit of controversy
                                     surrounding the filler text</p>
                                 <div className="service-two__read-more">
-                                    <Link href="website-development">Read More<span
+                                    <a href="website-development">Read More<span
                                             className="fas fa-arrow-circle-right"></span></Link>
                                 </div>
                             </div>

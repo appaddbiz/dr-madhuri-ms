@@ -68,10 +68,10 @@ export default function GallerySlider9() {
                         <div className="overlay-content">
                             <div className="title-box">
                                 <p>Engine Work</p>
-                                <h3><Link href="#">Business Leadership</Link></h3>
+                                <h3><a href="#">Business Leadership</Link></h3>
                             </div>
                             <div className="button">
-                                <Link className="lightbox-image" data-fancybox="gallery" href="#">
+                                <a className="lightbox-image" data-fancybox="gallery" href="#">
                                     <span className="icon-plus" />
                                 </Link>
                             </div>
@@ -88,10 +88,10 @@ export default function GallerySlider9() {
                         <div className="overlay-content">
                             <div className="title-box">
                                 <p>Engine Work</p>
-                                <h3><Link href="#">Business Leadership</Link></h3>
+                                <h3><a href="#">Business Leadership</Link></h3>
                             </div>
                             <div className="button">
-                                <Link className="lightbox-image" data-fancybox="gallery" href="#">
+                                <a className="lightbox-image" data-fancybox="gallery" href="#">
                                     <span className="icon-plus" />
                                 </Link>
                             </div>
@@ -108,10 +108,10 @@ export default function GallerySlider9() {
                         <div className="overlay-content">
                             <div className="title-box">
                                 <p>Engine Work</p>
-                                <h3><Link href="#">Business Leadership</Link></h3>
+                                <h3><a href="#">Business Leadership</Link></h3>
                             </div>
                             <div className="button">
-                                <Link className="lightbox-image" data-fancybox="gallery" href="#">
+                                <a className="lightbox-image" data-fancybox="gallery" href="#">
                                     <span className="icon-plus" />
                                 </Link>
                             </div>
@@ -126,10 +126,10 @@ export default function GallerySlider9() {
                         <div className="overlay-content">
                             <div className="title-box">
                                 <p>Engine Work</p>
-                                <h3><Link href="#">Business Leadership</Link></h3>
+                                <h3><a href="#">Business Leadership</Link></h3>
                             </div>
                             <div className="button">
-                                <Link className="lightbox-image" data-fancybox="gallery" href="#">
+                                <a className="lightbox-image" data-fancybox="gallery" href="#">
                                     <span className="icon-plus" />
                                 </Link>
                             </div>

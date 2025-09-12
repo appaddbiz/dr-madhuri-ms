@@ -38,7 +38,7 @@ export default function Service2() {
                             <div className="service-three__icon">
                                 <span className="icon-development"></span>
                             </div>
-                            <h3 className="service-three__title"><Link href="website-development">Website
+                            <h3 className="service-three__title"><a href="website-development">Website
                                     <br/> Development</Link></h3>
                         </div>
                     </div>
@@ -53,7 +53,7 @@ export default function Service2() {
                             <div className="service-three__icon">
                                 <span className="icon-bullhorn"></span>
                             </div>
-                            <h3 className="service-three__title"><Link href="digital-marketing">Digital
+                            <h3 className="service-three__title"><a href="digital-marketing">Digital
                                     <br/> Marketing</Link></h3>
                         </div>
                     </div>
@@ -68,7 +68,7 @@ export default function Service2() {
                             <div className="service-three__icon">
                                 <span className="icon-analytics"></span>
                             </div>
-                            <h3 className="service-three__title"><Link href="digital-marketing">Marketing
+                            <h3 className="service-three__title"><a href="digital-marketing">Marketing
                                     <br/> Analysis</Link></h3>
                         </div>
                     </div>
@@ -83,7 +83,7 @@ export default function Service2() {
                             <div className="service-three__icon">
                                 <span className="icon-curve"></span>
                             </div>
-                            <h3 className="service-three__title"><Link href="graphic-designing">Graphic
+                            <h3 className="service-three__title"><a href="graphic-designing">Graphic
                                     <br/> Designing</Link></h3>
                         </div>
                     </div>
@@ -98,7 +98,7 @@ export default function Service2() {
                             <div className="service-three__icon">
                                 <span className="icon-seo"></span>
                             </div>
-                            <h3 className="service-three__title"><Link href="seo-content-writting">SEO & Content
+                            <h3 className="service-three__title"><a href="seo-content-writting">SEO & Content
                                     <br/> Writing</Link></h3>
                         </div>
                     </div>
@@ -113,7 +113,7 @@ export default function Service2() {
                             <div className="service-three__icon">
                                 <span className="icon-application"></span>
                             </div>
-                            <h3 className="service-three__title"><Link href="app-development">Application
+                            <h3 className="service-three__title"><a href="app-development">Application
                                     <br/> Development</Link></h3>
                         </div>
                     </div>

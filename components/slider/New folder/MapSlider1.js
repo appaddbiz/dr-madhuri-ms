@@ -67,10 +67,10 @@ export default function MapSlider1() {
                     <ul>
                         <li>33/2 Korur Ap. Beyoglu, 34420</li>
                         <li>Mon - Sat: 09.00 to 06.00 Sun:Closed</li>
-                        <li><Link href="tel:+1800555440055">+1 800 555 44 00 &amp; 55</Link></li>
-                        <li><Link href="mailto:supportteam@Envolve.com">supportteam@Envolve.com</Link></li>
+                        <li><a href="tel:+1800555440055">+1 800 555 44 00 &amp; 55</Link></li>
+                        <li><a href="mailto:supportteam@Envolve.com">supportteam@Envolve.com</Link></li>
                     </ul>
-                    <Link href="#" className="link-btn">Get Direction</Link>
+                    <a href="#" className="link-btn">Get Direction</Link>
                 </SwiperSlide>
                 <SwiperSlide className="inner-box">
                     <div className="icon-box">
@@ -82,10 +82,10 @@ export default function MapSlider1() {
                     <ul>
                         <li>33/2 Korur Ap. Beyoglu, 34420</li>
                         <li>Mon - Sat: 09.00 to 06.00 Sun:Closed</li>
-                        <li><Link href="tel:+1800555440055">+1 800 555 44 00 &amp; 55</Link></li>
-                        <li><Link href="mailto:supportteam@Envolve.com">supportteam@Envolve.com</Link></li>
+                        <li><a href="tel:+1800555440055">+1 800 555 44 00 &amp; 55</Link></li>
+                        <li><a href="mailto:supportteam@Envolve.com">supportteam@Envolve.com</Link></li>
                     </ul>
-                    <Link href="#" className="link-btn">Get Direction</Link>
+                    <a href="#" className="link-btn">Get Direction</Link>
                 </SwiperSlide>
             </Swiper>
         </>

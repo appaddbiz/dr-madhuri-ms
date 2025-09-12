@@ -63,11 +63,11 @@ export default function ProjectSlider6() {
                         <div className="content-box">
                             <div className="text">
                                 <p>Traffic Law</p>
-                                <h3><Link href="/product-details">Accident With Syndrome</Link></h3>
+                                <h3><a href="/product-details">Accident With Syndrome</Link></h3>
                             </div>
                             <ul className="other-links clearfix">
-                                <li><Link href="/assets/images-2/project/project-1.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
-                                <li><Link href="/product-details"><i className="far fa-link" /></Link></li>
+                                <li><a href="/assets/images-2/project/project-1.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
+                                <li><a href="/product-details"><i className="far fa-link" /></Link></li>
                             </ul>
                         </div>
                     </div>
@@ -78,11 +78,11 @@ export default function ProjectSlider6() {
                         <div className="content-box">
                             <div className="text">
                                 <p>Traffic Law</p>
-                                <h3><Link href="/product-details">Accident With Syndrome</Link></h3>
+                                <h3><a href="/product-details">Accident With Syndrome</Link></h3>
                             </div>
                             <ul className="other-links clearfix">
-                                <li><Link href="/assets/images-2/project/project-2.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
-                                <li><Link href="/product-details"><i className="far fa-link" /></Link></li>
+                                <li><a href="/assets/images-2/project/project-2.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
+                                <li><a href="/product-details"><i className="far fa-link" /></Link></li>
                             </ul>
                         </div>
                     </div>
@@ -93,11 +93,11 @@ export default function ProjectSlider6() {
                         <div className="content-box">
                             <div className="text">
                                 <p>Traffic Law</p>
-                                <h3><Link href="/product-details">Accident With Syndrome</Link></h3>
+                                <h3><a href="/product-details">Accident With Syndrome</Link></h3>
                             </div>
                             <ul className="other-links clearfix">
-                                <li><Link href="/assets/images-2/project/project-3.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
-                                <li><Link href="/product-details"><i className="far fa-link" /></Link></li>
+                                <li><a href="/assets/images-2/project/project-3.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
+                                <li><a href="/product-details"><i className="far fa-link" /></Link></li>
                             </ul>
                         </div>
                     </div>
@@ -108,11 +108,11 @@ export default function ProjectSlider6() {
                         <div className="content-box">
                             <div className="text">
                                 <p>Traffic Law</p>
-                                <h3><Link href="/product-details">Accident With Syndrome</Link></h3>
+                                <h3><a href="/product-details">Accident With Syndrome</Link></h3>
                             </div>
                             <ul className="other-links clearfix">
-                                <li><Link href="/assets/images-2/project/project-4.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
-                                <li><Link href="/product-details"><i className="far fa-link" /></Link></li>
+                                <li><a href="/assets/images-2/project/project-4.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
+                                <li><a href="/product-details"><i className="far fa-link" /></Link></li>
                             </ul>
                         </div>
                     </div>
@@ -123,11 +123,11 @@ export default function ProjectSlider6() {
                         <div className="content-box">
                             <div className="text">
                                 <p>Traffic Law</p>
-                                <h3><Link href="/product-details">Accident With Syndrome</Link></h3>
+                                <h3><a href="/product-details">Accident With Syndrome</Link></h3>
                             </div>
                             <ul className="other-links clearfix">
-                                <li><Link href="/assets/images-2/project/project-5.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
-                                <li><Link href="/product-details"><i className="far fa-link" /></Link></li>
+                                <li><a href="/assets/images-2/project/project-5.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
+                                <li><a href="/product-details"><i className="far fa-link" /></Link></li>
                             </ul>
                         </div>
                     </div>
@@ -138,11 +138,11 @@ export default function ProjectSlider6() {
                         <div className="content-box">
                             <div className="text">
                                 <p>Traffic Law</p>
-                                <h3><Link href="/product-details">Accident With Syndrome</Link></h3>
+                                <h3><a href="/product-details">Accident With Syndrome</Link></h3>
                             </div>
                             <ul className="other-links clearfix">
-                                <li><Link href="/assets/images-2/project/project-1.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
-                                <li><Link href="/product-details"><i className="far fa-link" /></Link></li>
+                                <li><a href="/assets/images-2/project/project-1.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
+                                <li><a href="/product-details"><i className="far fa-link" /></Link></li>
                             </ul>
                         </div>
                     </div>
@@ -153,11 +153,11 @@ export default function ProjectSlider6() {
                         <div className="content-box">
                             <div className="text">
                                 <p>Traffic Law</p>
-                                <h3><Link href="/product-details">Accident With Syndrome</Link></h3>
+                                <h3><a href="/product-details">Accident With Syndrome</Link></h3>
                             </div>
                             <ul className="other-links clearfix">
-                                <li><Link href="/assets/images-2/project/project-2.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
-                                <li><Link href="/product-details"><i className="far fa-link" /></Link></li>
+                                <li><a href="/assets/images-2/project/project-2.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
+                                <li><a href="/product-details"><i className="far fa-link" /></Link></li>
                             </ul>
                         </div>
                     </div>
@@ -168,11 +168,11 @@ export default function ProjectSlider6() {
                         <div className="content-box">
                             <div className="text">
                                 <p>Traffic Law</p>
-                                <h3><Link href="/product-details">Accident With Syndrome</Link></h3>
+                                <h3><a href="/product-details">Accident With Syndrome</Link></h3>
                             </div>
                             <ul className="other-links clearfix">
-                                <li><Link href="/assets/images-2/project/project-3.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
-                                <li><Link href="/product-details"><i className="far fa-link" /></Link></li>
+                                <li><a href="/assets/images-2/project/project-3.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
+                                <li><a href="/product-details"><i className="far fa-link" /></Link></li>
                             </ul>
                         </div>
                     </div>
@@ -183,11 +183,11 @@ export default function ProjectSlider6() {
                         <div className="content-box">
                             <div className="text">
                                 <p>Traffic Law</p>
-                                <h3><Link href="/product-details">Accident With Syndrome</Link></h3>
+                                <h3><a href="/product-details">Accident With Syndrome</Link></h3>
                             </div>
                             <ul className="other-links clearfix">
-                                <li><Link href="/assets/images-2/project/project-4.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
-                                <li><Link href="/product-details"><i className="far fa-link" /></Link></li>
+                                <li><a href="/assets/images-2/project/project-4.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
+                                <li><a href="/product-details"><i className="far fa-link" /></Link></li>
                             </ul>
                         </div>
                     </div>
@@ -198,11 +198,11 @@ export default function ProjectSlider6() {
                         <div className="content-box">
                             <div className="text">
                                 <p>Traffic Law</p>
-                                <h3><Link href="/product-details">Accident With Syndrome</Link></h3>
+                                <h3><a href="/product-details">Accident With Syndrome</Link></h3>
                             </div>
                             <ul className="other-links clearfix">
-                                <li><Link href="/assets/images-2/project/project-5.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
-                                <li><Link href="/product-details"><i className="far fa-link" /></Link></li>
+                                <li><a href="/assets/images-2/project/project-5.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
+                                <li><a href="/product-details"><i className="far fa-link" /></Link></li>
                             </ul>
                         </div>
                     </div>
@@ -213,11 +213,11 @@ export default function ProjectSlider6() {
                         <div className="content-box">
                             <div className="text">
                                 <p>Traffic Law</p>
-                                <h3><Link href="/product-details">Accident With Syndrome</Link></h3>
+                                <h3><a href="/product-details">Accident With Syndrome</Link></h3>
                             </div>
                             <ul className="other-links clearfix">
-                                <li><Link href="/assets/images-2/project/project-1.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
-                                <li><Link href="/product-details"><i className="far fa-link" /></Link></li>
+                                <li><a href="/assets/images-2/project/project-1.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
+                                <li><a href="/product-details"><i className="far fa-link" /></Link></li>
                             </ul>
                         </div>
                     </div>
@@ -228,11 +228,11 @@ export default function ProjectSlider6() {
                         <div className="content-box">
                             <div className="text">
                                 <p>Traffic Law</p>
-                                <h3><Link href="/product-details">Accident With Syndrome</Link></h3>
+                                <h3><a href="/product-details">Accident With Syndrome</Link></h3>
                             </div>
                             <ul className="other-links clearfix">
-                                <li><Link href="/assets/images-2/project/project-2.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
-                                <li><Link href="/product-details"><i className="far fa-link" /></Link></li>
+                                <li><a href="/assets/images-2/project/project-2.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
+                                <li><a href="/product-details"><i className="far fa-link" /></Link></li>
                             </ul>
                         </div>
                     </div>
@@ -243,11 +243,11 @@ export default function ProjectSlider6() {
                         <div className="content-box">
                             <div className="text">
                                 <p>Traffic Law</p>
-                                <h3><Link href="/product-details">Accident With Syndrome</Link></h3>
+                                <h3><a href="/product-details">Accident With Syndrome</Link></h3>
                             </div>
                             <ul className="other-links clearfix">
-                                <li><Link href="/assets/images-2/project/project-3.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
-                                <li><Link href="/product-details"><i className="far fa-link" /></Link></li>
+                                <li><a href="/assets/images-2/project/project-3.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
+                                <li><a href="/product-details"><i className="far fa-link" /></Link></li>
                             </ul>
                         </div>
                     </div>
@@ -258,11 +258,11 @@ export default function ProjectSlider6() {
                         <div className="content-box">
                             <div className="text">
                                 <p>Traffic Law</p>
-                                <h3><Link href="/product-details">Accident With Syndrome</Link></h3>
+                                <h3><a href="/product-details">Accident With Syndrome</Link></h3>
                             </div>
                             <ul className="other-links clearfix">
-                                <li><Link href="/assets/images-2/project/project-4.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
-                                <li><Link href="/product-details"><i className="far fa-link" /></Link></li>
+                                <li><a href="/assets/images-2/project/project-4.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
+                                <li><a href="/product-details"><i className="far fa-link" /></Link></li>
                             </ul>
                         </div>
                     </div>
@@ -273,11 +273,11 @@ export default function ProjectSlider6() {
                         <div className="content-box">
                             <div className="text">
                                 <p>Traffic Law</p>
-                                <h3><Link href="/product-details">Accident With Syndrome</Link></h3>
+                                <h3><a href="/product-details">Accident With Syndrome</Link></h3>
                             </div>
                             <ul className="other-links clearfix">
-                                <li><Link href="/assets/images-2/project/project-5.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
-                                <li><Link href="/product-details"><i className="far fa-link" /></Link></li>
+                                <li><a href="/assets/images-2/project/project-5.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
+                                <li><a href="/product-details"><i className="far fa-link" /></Link></li>
                             </ul>
                         </div>
                     </div>
@@ -288,11 +288,11 @@ export default function ProjectSlider6() {
                         <div className="content-box">
                             <div className="text">
                                 <p>Traffic Law</p>
-                                <h3><Link href="/product-details">Accident With Syndrome</Link></h3>
+                                <h3><a href="/product-details">Accident With Syndrome</Link></h3>
                             </div>
                             <ul className="other-links clearfix">
-                                <li><Link href="/assets/images-2/project/project-1.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
-                                <li><Link href="/product-details"><i className="far fa-link" /></Link></li>
+                                <li><a href="/assets/images-2/project/project-1.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
+                                <li><a href="/product-details"><i className="far fa-link" /></Link></li>
                             </ul>
                         </div>
                     </div>
@@ -303,11 +303,11 @@ export default function ProjectSlider6() {
                         <div className="content-box">
                             <div className="text">
                                 <p>Traffic Law</p>
-                                <h3><Link href="/product-details">Accident With Syndrome</Link></h3>
+                                <h3><a href="/product-details">Accident With Syndrome</Link></h3>
                             </div>
                             <ul className="other-links clearfix">
-                                <li><Link href="/assets/images-2/project/project-2.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
-                                <li><Link href="/product-details"><i className="far fa-link" /></Link></li>
+                                <li><a href="/assets/images-2/project/project-2.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
+                                <li><a href="/product-details"><i className="far fa-link" /></Link></li>
                             </ul>
                         </div>
                     </div>
@@ -318,11 +318,11 @@ export default function ProjectSlider6() {
                         <div className="content-box">
                             <div className="text">
                                 <p>Traffic Law</p>
-                                <h3><Link href="/product-details">Accident With Syndrome</Link></h3>
+                                <h3><a href="/product-details">Accident With Syndrome</Link></h3>
                             </div>
                             <ul className="other-links clearfix">
-                                <li><Link href="/assets/images-2/project/project-3.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
-                                <li><Link href="/product-details"><i className="far fa-link" /></Link></li>
+                                <li><a href="/assets/images-2/project/project-3.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
+                                <li><a href="/product-details"><i className="far fa-link" /></Link></li>
                             </ul>
                         </div>
                     </div>
@@ -333,11 +333,11 @@ export default function ProjectSlider6() {
                         <div className="content-box">
                             <div className="text">
                                 <p>Traffic Law</p>
-                                <h3><Link href="/product-details">Accident With Syndrome</Link></h3>
+                                <h3><a href="/product-details">Accident With Syndrome</Link></h3>
                             </div>
                             <ul className="other-links clearfix">
-                                <li><Link href="/assets/images-2/project/project-4.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
-                                <li><Link href="/product-details"><i className="far fa-link" /></Link></li>
+                                <li><a href="/assets/images-2/project/project-4.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
+                                <li><a href="/product-details"><i className="far fa-link" /></Link></li>
                             </ul>
                         </div>
                     </div>
@@ -348,11 +348,11 @@ export default function ProjectSlider6() {
                         <div className="content-box">
                             <div className="text">
                                 <p>Traffic Law</p>
-                                <h3><Link href="/product-details">Accident With Syndrome</Link></h3>
+                                <h3><a href="/product-details">Accident With Syndrome</Link></h3>
                             </div>
                             <ul className="other-links clearfix">
-                                <li><Link href="/assets/images-2/project/project-5.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
-                                <li><Link href="/product-details"><i className="far fa-link" /></Link></li>
+                                <li><a href="/assets/images-2/project/project-5.jpg" className="lightbox-image" data-fancybox="gallery"><i className="far fa-search-plus" /></Link></li>
+                                <li><a href="/product-details"><i className="far fa-link" /></Link></li>
                             </ul>
                         </div>
                     </div>

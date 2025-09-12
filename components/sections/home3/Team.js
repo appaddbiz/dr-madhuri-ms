@@ -28,14 +28,14 @@ export default function Team() {
                             </div>
                             <div className="team-three__content-inner">
                                 <div className="team-three__content">
-                                    <h3 className="team-three__title"><Link href="team-details">Subrom Monalisa Era</Link>
+                                    <h3 className="team-three__title"><a href="team-details">Subrom Monalisa Era</Link>
                                     </h3>
                                     <p className="team-three__sub-title">Senior Manager</p>
                                     <div className="team-three__social">
-                                        <Link href="#"><span className="icon-facebook"></span></Link>
-                                        <Link href="#"><span className="icon-twitter"></span></Link>
-                                        <Link href="#"><span className="icon-instagram"></span></Link>
-                                        <Link href="#"><span className="icon-pinterest"></span></Link>
+                                        <a href="#"><span className="icon-facebook"></span></Link>
+                                        <a href="#"><span className="icon-twitter"></span></Link>
+                                        <a href="#"><span className="icon-instagram"></span></Link>
+                                        <a href="#"><span className="icon-pinterest"></span></Link>
                                     </div>
                                 </div>
                             </div>
@@ -52,14 +52,14 @@ export default function Team() {
                             </div>
                             <div className="team-three__content-inner">
                                 <div className="team-three__content">
-                                    <h3 className="team-three__title"><Link href="team-details">Raymond Horn</Link>
+                                    <h3 className="team-three__title"><a href="team-details">Raymond Horn</Link>
                                     </h3>
                                     <p className="team-three__sub-title">Senior Manager</p>
                                     <div className="team-three__social">
-                                        <Link href="#"><span className="icon-facebook"></span></Link>
-                                        <Link href="#"><span className="icon-twitter"></span></Link>
-                                        <Link href="#"><span className="icon-instagram"></span></Link>
-                                        <Link href="#"><span className="icon-pinterest"></span></Link>
+                                        <a href="#"><span className="icon-facebook"></span></Link>
+                                        <a href="#"><span className="icon-twitter"></span></Link>
+                                        <a href="#"><span className="icon-instagram"></span></Link>
+                                        <a href="#"><span className="icon-pinterest"></span></Link>
                                     </div>
                                 </div>
                             </div>
@@ -76,14 +76,14 @@ export default function Team() {
                             </div>
                             <div className="team-three__content-inner">
                                 <div className="team-three__content">
-                                    <h3 className="team-three__title"><Link href="team-details">Liam Olivia Emma</Link>
+                                    <h3 className="team-three__title"><a href="team-details">Liam Olivia Emma</Link>
                                     </h3>
                                     <p className="team-three__sub-title">Senior Manager</p>
                                     <div className="team-three__social">
-                                        <Link href="#"><span className="icon-facebook"></span></Link>
-                                        <Link href="#"><span className="icon-twitter"></span></Link>
-                                        <Link href="#"><span className="icon-instagram"></span></Link>
-                                        <Link href="#"><span className="icon-pinterest"></span></Link>
+                                        <a href="#"><span className="icon-facebook"></span></Link>
+                                        <a href="#"><span className="icon-twitter"></span></Link>
+                                        <a href="#"><span className="icon-instagram"></span></Link>
+                                        <a href="#"><span className="icon-pinterest"></span></Link>
                                     </div>
                                 </div>
                             </div>

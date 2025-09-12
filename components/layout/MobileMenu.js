@@ -40,7 +40,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
           </span>
 
           <div className="logo-box">
-            <Link href="/" aria-label="logo image">
+            <a href="/" aria-label="logo image">
               <img src="/assets/flat-icons/Dr Madhuri.png" width="180" alt="" />
             </Link>
           </div>
@@ -56,13 +56,13 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                     isActive.key == 1 ? "dropdown current" : "dropdown"
                   }
                 >
-                  <Link href="/" onClick={handleMobileMenu}>
+                  <a href="/" onClick={handleMobileMenu}>
                     Home
                   </Link>
                   {/* <ul style={{ display: `${isActive.key == 1 ? "block" : "none"}` }}>
-                                        <li><Link href="/">Home One</Link></li>
-                                        <li><Link href="index-2">Home Two</Link></li>
-                                        <li><Link href="index-3">Home Three</Link></li>
+                                        <li><a href="/">Home One</Link></li>
+                                        <li><a href="index-2">Home Two</Link></li>
+                                        <li><a href="index-3">Home Three</Link></li>
                                     </ul> */}
                   {/* <button className={isActive.key == 1 ? "expanded open" : ""} onClick={() => handleToggle(1)}><span className="fa fa-angle-right" /></button> */}
                 </li>
@@ -71,17 +71,17 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                     isActive.key == 2 ? "dropdown current" : "dropdown"
                   }
                 >
-                  <Link href="/about-doctor" onClick={handleMobileMenu}>
+                  <a href="/about-doctor" onClick={handleMobileMenu}>
                     About Doctor
                   </Link>
                   {/* <ul style={{ display: `${isActive.key == 2 ? "block" : "none"}` }}>                                 
-                                        <li><Link href="#">About Doctor</Link></li>
-                                        <li><Link href="team">Team</Link></li>
-                                        <li><Link href="team-details">Team Details</Link></li>
-                                        <li><Link href="testimonials">Testimonials</Link></li>
-                                        <li><Link href="pricing">Pricing</Link></li>
-                                        <li><Link href="faq">Faq</Link></li>
-                                        <li><Link href="404">404 Error</Link></li>
+                                        <li><a href="#">About Doctor</Link></li>
+                                        <li><a href="team">Team</Link></li>
+                                        <li><a href="team-details">Team Details</Link></li>
+                                        <li><a href="testimonials">Testimonials</Link></li>
+                                        <li><a href="pricing">Pricing</Link></li>
+                                        <li><a href="faq">Faq</Link></li>
+                                        <li><a href="404">404 Error</Link></li>
                                     </ul>
                                     <button className={isActive.key == 2 ? "expanded open" : ""} onClick={() => handleToggle(2)}><span className="fa fa-angle-right" /></button> */}
                 </li>
@@ -90,7 +90,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                     isActive.key == 3 ? "dropdown current" : "dropdown"
                   }
                 >
-                  <Link
+                  <a
                     href="/our-services/obstetrics"
                     onClick={handleMobileMenu}
                   >
@@ -102,7 +102,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                     }}
                   >
                     <li>
-                      <Link
+                      <a
                         href="/our-services/obstetrics/antenatal-and-post-natal-care"
                         onClick={handleMobileMenu}
                       >
@@ -110,7 +110,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/obstetrics/preconceptional-counselling"
                         onClick={handleMobileMenu}
                       >
@@ -118,7 +118,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/obstetrics/high-risk-pregnancy"
                         onClick={handleMobileMenu}
                       >
@@ -126,7 +126,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/obstetrics/previous-cesarean-pregnancy-tolac"
                         onClick={handleMobileMenu}
                       >
@@ -134,7 +134,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/obstetrics/poor-obstetric-past"
                         onClick={handleMobileMenu}
                       >
@@ -142,7 +142,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/obstetrics/recurrent-loss-of-pregnancy"
                         onClick={handleMobileMenu}
                       >
@@ -150,7 +150,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/obstetrics/diabetes-in-pregnancy-gdm"
                         onClick={handleMobileMenu}
                       >
@@ -158,7 +158,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/obstetrics/hypertension-in-pregnancy-pih"
                         onClick={handleMobileMenu}
                       >
@@ -166,7 +166,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/obstetrics/twin-triplet-quadruplet-pregnancy"
                         onClick={handleMobileMenu}
                       >
@@ -174,7 +174,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/obstetrics/multiple-pregnancies"
                         onClick={handleMobileMenu}
                       >
@@ -182,7 +182,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/obstetrics/fetal-growth-restriction"
                         onClick={handleMobileMenu}
                       >
@@ -190,7 +190,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/infertility"
                         onClick={handleMobileMenu}
                       >
@@ -198,7 +198,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/infertility/complete-evaluation"
                         onClick={handleMobileMenu}
                       >
@@ -206,7 +206,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/infertility/ovulation-induction"
                         onClick={handleMobileMenu}
                       >
@@ -214,7 +214,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/infertility/intra-uterine-insemination-iui"
                         onClick={handleMobileMenu}
                       >
@@ -234,7 +234,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                     isActive.key == 3 ? "dropdown current" : "dropdown"
                   }
                 >
-                  <Link
+                  <a
                     href="/our-services/gynaecology"
                     onClick={handleMobileMenu}
                   >
@@ -246,7 +246,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                     }}
                   >
                     <li>
-                      <Link
+                      <a
                         href="/our-services/gynaecology/fibroids-leiomyoma-of-uterus"
                         onClick={handleMobileMenu}
                       >
@@ -254,7 +254,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/gynaecology/fibroids-of-cervix"
                         onClick={handleMobileMenu}
                       >
@@ -262,7 +262,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/gynaecology/abnormal-dysfunctional-uterus-bleeding"
                         onClick={handleMobileMenu}
                       >
@@ -270,7 +270,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/gynaecology/endometriosis"
                         onClick={handleMobileMenu}
                       >
@@ -278,7 +278,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/gynaecology/ovarian-cysts"
                         onClick={handleMobileMenu}
                       >
@@ -286,7 +286,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/gynaecology/chocolate-cyst-endometrioma-of-ovary"
                         onClick={handleMobileMenu}
                       >
@@ -294,7 +294,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/gynaecology/hormone-imbalances"
                         onClick={handleMobileMenu}
                       >
@@ -302,7 +302,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/gynaecology/severe-pelvic-pain-management"
                         onClick={handleMobileMenu}
                       >
@@ -310,7 +310,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/gynaecology/menopausal-and-perimenopausal-care"
                         onClick={handleMobileMenu}
                       >
@@ -318,7 +318,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/gynaecology/annual-check-ups-and-preventive-screenings"
                         onClick={handleMobileMenu}
                       >
@@ -326,7 +326,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/laparoscopy-hysteroscopy"
                         onClick={handleMobileMenu}
                       >
@@ -334,7 +334,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/laparoscopy-hysteroscopy/diagnostic-hystero-laparoscopy"
                         onClick={handleMobileMenu}
                       >
@@ -342,7 +342,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/laparoscopy-hysteroscopy/operative-hystero-laparoscopy"
                         onClick={handleMobileMenu}
                       >
@@ -350,7 +350,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/laparoscopy-hysteroscopy/laparoscopic-myomectomy"
                         onClick={handleMobileMenu}
                       >
@@ -358,7 +358,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/laparoscopy-hysteroscopy/total-laparoscopic-hysterectomy"
                         onClick={handleMobileMenu}
                       >
@@ -366,7 +366,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/laparoscopy-hysteroscopy/diagnostic-hysteroscopy"
                         onClick={handleMobileMenu}
                       >
@@ -374,7 +374,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/laparoscopy-hysteroscopy/hysteroscopic-septal-resection"
                         onClick={handleMobileMenu}
                       >
@@ -382,7 +382,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/laparoscopy-hysteroscopy/hysteroscopic-polypectomy"
                         onClick={handleMobileMenu}
                       >
@@ -390,7 +390,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/laparoscopy-hysteroscopy/tubal-re-canalisation"
                         onClick={handleMobileMenu}
                       >
@@ -398,7 +398,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/laparoscopy-hysteroscopy/chromopertubation"
                         onClick={handleMobileMenu}
                       >
@@ -406,7 +406,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/laparoscopy-hysteroscopy/laparoscopic-ovarian-cystectomy"
                         onClick={handleMobileMenu}
                       >
@@ -414,7 +414,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/laparoscopy-hysteroscopy/tubal-clipping-hydrosalpinx"
                         onClick={handleMobileMenu}
                       >
@@ -422,7 +422,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/laparoscopy-hysteroscopy/laparoscopic-tubal-occlusion-permanent-sterilization"
                         onClick={handleMobileMenu}
                       >
@@ -430,7 +430,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/ultrasonography"
                         onClick={handleMobileMenu}
                       >
@@ -438,7 +438,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/ultrasonography/transvaginal-scan"
                         onClick={handleMobileMenu}
                       >
@@ -446,7 +446,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/ultrasonography/saline-sonography"
                         onClick={handleMobileMenu}
                       >
@@ -454,7 +454,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      <a
                         href="/our-services/ultrasonography/3d-ultrasonography"
                         onClick={handleMobileMenu}
                       >
@@ -474,7 +474,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                     isActive.key == 4 ? "dropdown current" : "dropdown"
                   }
                 >
-                  <Link href="/gallery" onClick={handleMobileMenu}>
+                  <a href="/gallery" onClick={handleMobileMenu}>
                     Gallery
                   </Link>
                   <ul
@@ -483,10 +483,10 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                     }}
                   >
                     {/* <li>
-                      <Link href="projects">Projects</Link>
+                      <a href="projects">Projects</Link>
                     </li>
                     <li>
-                      <Link href="project-details">Project Details</Link>
+                      <a href="project-details">Project Details</Link>
                     </li> */}
                   </ul>
                   {/* <button
@@ -501,7 +501,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                     isActive.key == 5 ? "dropdown current" : "dropdown"
                   }
                 >
-                  <Link href="/#" onClick={handleMobileMenu}>
+                  <a href="/#" onClick={handleMobileMenu}>
                     Blogs
                   </Link>
                   <ul
@@ -510,10 +510,10 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                     }}
                   >
                     {/* <li>
-                      <Link href="blog">Blog</Link>
+                      <a href="blog">Blog</Link>
                     </li>
                     <li>
-                      <Link href="blog-details">Blog Details</Link>
+                      <a href="blog-details">Blog Details</Link>
                     </li> */}
                   </ul>
                   {/* <button
@@ -524,7 +524,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                   </button> */}
                 </li>
                 <li>
-                  <Link href="/contact" onClick={handleMobileMenu}>
+                  <a href="/contact" onClick={handleMobileMenu}>
                     Contact
                   </Link>
                 </li>
@@ -534,7 +534,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
           <ul className="mobile-nav__contact list-unstyled">
             <li>
               <i className="fa fa-envelope"></i>
-              <Link
+              <a
                 href="mailto:drmadhuri.og@gmail.com"
                 onClick={handleMobileMenu}
               >
@@ -543,17 +543,17 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
             </li>
             <li>
               <i className="fa fa-phone-alt"></i>
-              <Link href="tel:+916361197107" onClick={handleMobileMenu}>
+              <a href="tel:+916361197107" onClick={handleMobileMenu}>
                 +91 6361197107
               </Link>
             </li>
           </ul>
           <div className="mobile-nav__top">
             <div className="mobile-nav__social">
-              <Link href="#" className="fab fa-twitter"></Link>
-              <Link href="#" className="fab fa-facebook-square"></Link>
-              <Link href="#" className="fab fa-pinterest-p"></Link>
-              <Link href="#" className="fab fa-instagram"></Link>
+              <a href="#" className="fab fa-twitter"></Link>
+              <a href="#" className="fab fa-facebook-square"></Link>
+              <a href="#" className="fab fa-pinterest-p"></Link>
+              <a href="#" className="fab fa-instagram"></Link>
             </div>
           </div>
         </div>

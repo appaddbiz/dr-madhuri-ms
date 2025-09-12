@@ -12,9 +12,9 @@ export default function Header2({ scroll, handlePopup, handleSidebar, handleMobi
                 <div className="main-menu-three__top-inner">
                     <div className="main-menu-three__top-left">
                         <div className="main-menu-three__social">
-                            <Link href="#"><i className="icon-facebook"></i></Link>
-                            <Link href="#"><i className="icon-google-plus-logo"></i></Link>
-                            <Link href="#"><i className="icon-twitter"></i></Link>
+                            <a href="#"><i className="icon-facebook"></i></Link>
+                            <a href="#"><i className="icon-google-plus-logo"></i></Link>
+                            <a href="#"><i className="icon-twitter"></i></Link>
                         </div>
                         <ul className="list-unstyled main-menu-three__contact-list">
                             <li>
@@ -30,7 +30,7 @@ export default function Header2({ scroll, handlePopup, handleSidebar, handleMobi
                                     <i className="icon-mail"></i>
                                 </div>
                                 <div className="text">
-                                    <p><Link href="mailto:needhelp@company.com">needhelp@company.com</Link>
+                                    <p><a href="mailto:needhelp@company.com">needhelp@company.com</Link>
                                     </p>
                                 </div>
                             </li>
@@ -54,16 +54,16 @@ export default function Header2({ scroll, handlePopup, handleSidebar, handleMobi
                     <div className="main-menu-three__wrapper-inner">
                         <div className="main-menu-three__left">
                             <div className="main-menu-three__logo">
-                                <Link href="/"><img src="assets/images/resources/logo-1.png" alt=""/></Link>
+                                <a href="/"><img src="assets/images/resources/logo-1.png" alt=""/></Link>
                             </div>
                             <div className="main-menu-three__main-menu-box">
-                                <Link href="#" className="mobile-nav__toggler" onClick={handleMobileMenu}><i className="fa fa-bars"></i></Link>
+                                <a href="#" className="mobile-nav__toggler" onClick={handleMobileMenu}><i className="fa fa-bars"></i></Link>
                                 <Menu/>
                             </div>
                         </div>
                         <div className="main-menu-three__right">
                             <div className="main-menu-three__search-box">
-                                <Link href="#" className="main-menu-three__search search-toggler icon-magnifying-glass" onClick={handlePopup}></Link>
+                                <a href="#" className="main-menu-three__search search-toggler icon-magnifying-glass" onClick={handlePopup}></Link>
                             </div>
                             <div className="main-menu-three__call">
                                 <div className="main-menu-three__call-icon">
@@ -71,11 +71,11 @@ export default function Header2({ scroll, handlePopup, handleSidebar, handleMobi
                                 </div>
                                 <div className="main-menu-three__call-number">
                                     <p>Call Anytime</p>
-                                    <h5><Link href="tel:12466688899">+124 666 888 99</Link></h5>
+                                    <h5><a href="tel:12466688899">+124 666 888 99</Link></h5>
                                 </div>
                             </div>
                             <div className="main-menu-three__btn-box">
-                                <Link href="contact" className="main-menu-three__btn thm-btn">Get Free Quote</Link>
+                                <a href="contact" className="main-menu-three__btn thm-btn">Get Free Quote</Link>
                             </div>
                         </div>
                     </div>
@@ -90,16 +90,16 @@ export default function Header2({ scroll, handlePopup, handleSidebar, handleMobi
                         <div className="main-menu-three__wrapper-inner">
                             <div className="main-menu-three__left">
                                 <div className="main-menu-three__logo">
-                                    <Link href="/"><img src="assets/images/resources/logo-1.png" alt=""/></Link>
+                                    <a href="/"><img src="assets/images/resources/logo-1.png" alt=""/></Link>
                                 </div>
                                 <div className="main-menu-three__main-menu-box">
-                                    <Link href="#" className="mobile-nav__toggler" onClick={handleMobileMenu}><i className="fa fa-bars"></i></Link>
+                                    <a href="#" className="mobile-nav__toggler" onClick={handleMobileMenu}><i className="fa fa-bars"></i></Link>
                                     <Menu/>
                                 </div>
                             </div>
                             <div className="main-menu-three__right">
                                 <div className="main-menu-three__search-box">
-                                    <Link href="#" className="main-menu-three__search search-toggler icon-magnifying-glass" onClick={handlePopup}></Link>
+                                    <a href="#" className="main-menu-three__search search-toggler icon-magnifying-glass" onClick={handlePopup}></Link>
                                 </div>
                                 <div className="main-menu-three__call">
                                     <div className="main-menu-three__call-icon">
@@ -107,11 +107,11 @@ export default function Header2({ scroll, handlePopup, handleSidebar, handleMobi
                                     </div>
                                     <div className="main-menu-three__call-number">
                                         <p>Call Anytime</p>
-                                        <h5><Link href="tel:12466688899">+124 666 888 99</Link></h5>
+                                        <h5><a href="tel:12466688899">+124 666 888 99</Link></h5>
                                     </div>
                                 </div>
                                 <div className="main-menu-three__btn-box">
-                                    <Link href="contact" className="main-menu-three__btn thm-btn">Get Free Quote</Link>
+                                    <a href="contact" className="main-menu-three__btn thm-btn">Get Free Quote</Link>
                                 </div>
                             </div>
                         </div>
