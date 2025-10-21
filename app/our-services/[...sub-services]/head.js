@@ -3,18 +3,14 @@ export default function Head({ params }) {
   if (segs.length !== 1) return null;
   const slug = segs[0];
 
+    // Only output JSON-LD here; titles/descriptions are set via generateMetadata
   if (slug === "obstetrics") {
-    const title = "Best Obstetrician in Jayanagar";
-    const description =
-      "Best Obstetrician in Jayanagar - Expert maternity care, personalized guidance, and advanced treatments to ensure a safe and healthy pregnancy journey.";
-    const canonical = "https://www.drmadhurimsobgyn.com/our-services/obstetrics";
-
     const jsonLd = {
       "@context": "https://schema.org",
       "@type": "MedicalBusiness",
-      "@id": `${canonical}#obstetrics`,
+      "@id": `https://www.drmadhurimsobgyn.com/our-services/obstetrics#obstetrics`,
       name: "Obstetrics Services - Dr. Madhuri M S",
-      url: canonical,
+      url: "https://www.drmadhurimsobgyn.com/our-services/obstetrics",
       description:
         "Comprehensive obstetric care in Jayanagar, Bengaluru by Dr. Madhuri M S - an experienced Obstetrician & Gynaecologist specializing in prenatal, antenatal, and postnatal care, high-risk pregnancy management, and safe delivery. Compassionate and personalized maternity support across Jayanagar, JP Nagar, Banashankari, and BTM Layout.",
       image: "https://www.drmadhurimsobgyn.com/assets/flat-icons/B1.webp",
@@ -60,30 +56,20 @@ export default function Head({ params }) {
     };
 
     return (
-      <>
-        <title>{title}</title>
-        <meta name="description" content={description} />
-        <link rel="canonical" href={canonical} />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-        />
-      </>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
     );
   }
 
   if (slug === "gynaecology") {
-    const title = "Gynaecology Clinic in Jayanagar";
-    const description =
-      "Gynaecology Clinic in Jayanagar - Expert women's health care with advanced treatments, compassionate support, and personalized solutions for every stage of life.";
-    const canonical = "https://www.drmadhurimsobgyn.com/our-services/gynaecology";
-
     const jsonLd = {
       "@context": "https://schema.org",
       "@type": "MedicalBusiness",
-      "@id": `${canonical}#gynaecology`,
+      "@id": `https://www.drmadhurimsobgyn.com/our-services/gynaecology#gynaecology`,
       name: "Gynaecology Services - Dr. Madhuri M S",
-      url: canonical,
+      url: "https://www.drmadhurimsobgyn.com/our-services/gynaecology",
       description:
         "Comprehensive gynaecology care in Jayanagar by Dr. Madhuri M S, covering adolescent health, menstrual disorders, PCOS, fibroids, endometriosis, cervical screening, menopause care, and minimally invasive procedures for safe, evidence-based treatment.",
       image: "https://www.drmadhurimsobgyn.com/assets/flat-icons/B1.webp",
@@ -127,18 +113,12 @@ export default function Head({ params }) {
     };
 
     return (
-      <>
-        <title>{title}</title>
-        <meta name="description" content={description} />
-        <link rel="canonical" href={canonical} />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-        />
-      </>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
     );
   }
 
   return null;
 }
-

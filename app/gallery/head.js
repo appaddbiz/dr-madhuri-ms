@@ -1,16 +1,13 @@
 export default function Head() {
-  const title = "Fibroid Treatment in Jayanagar";
-  const description =
-    "Fibroid Treatment in Jayanagar - Expert gynecologists offering advanced diagnosis, minimally invasive procedures, and personalized care for effective fibroid management.";
-  const canonical = "https://www.drmadhurimsobgyn.com/gallery";
-
+  // Only output JSON-LD here; title/description set via route metadata
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "MedicalBusiness",
     "@id": "https://www.drmadhurimsobgyn.com/our-services/gynaecology#gynaecology",
     name: "Gynaecology Services - Dr. Madhuri M S",
-    url: canonical,
-    description,
+    url: "https://www.drmadhurimsobgyn.com/gallery",
+    description:
+      "Fibroid Treatment in Jayanagar - Expert gynecologists offering advanced diagnosis, minimally invasive procedures, and personalized care for effective fibroid management.",
     image: "https://www.drmadhurimsobgyn.com/assets/flat-icons/B1.webp",
     logo: "https://www.drmadhurimsobgyn.com/assets/flat-icons/B1.webp",
     email: "mailto:drmadhuri.og@gmail.com",
@@ -52,15 +49,9 @@ export default function Head() {
   };
 
   return (
-    <>
-      <title>{title}</title>
-      <meta name="description" content={description} />
-      <link rel="canonical" href={canonical} />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
-    </>
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+    />
   );
 }
-

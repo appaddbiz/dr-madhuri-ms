@@ -1,15 +1,11 @@
 export default function Head() {
-  const title = "VBAC Specialist in Jayanagar";
-  const description =
-    "VBAC Specialist in Jayanagar - Expert care for safe Vaginal Birth After Cesarean, personalized guidance, and advanced support for a healthy delivery journey.";
-  const canonical = "https://www.drmadhurimsobgyn.com/about-doctor";
-
+  // Only output JSON-LD here; title/description set via route metadata
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Physician",
     "@id": "https://www.drmadhurimsobgyn.com/about-doctor#dr-madhuri-ms",
     name: "Dr. Madhuri M S",
-    url: canonical,
+    url: "https://www.drmadhurimsobgyn.com/about-doctor",
     image: "https://www.drmadhurimsobgyn.com/assets/flat-icons/B1.webp",
     jobTitle:
       "Consultant Obstetrician, Gynaecologist & Minimal Invasive Surgeon",
@@ -68,15 +64,9 @@ export default function Head() {
   };
 
   return (
-    <>
-      <title>{title}</title>
-      <meta name="description" content={description} />
-      <link rel="canonical" href={canonical} />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
-    </>
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+    />
   );
 }
-

@@ -1,16 +1,13 @@
 export default function Head() {
-  const title = "Laparoscopic Gynecologist in Jayanagar";
-  const description =
-    "Laparoscopic Gynecologist in Jayanagar - Expert in minimally invasive surgeries offering advanced treatment, faster recovery, and personalized women's health care.";
-  const canonical = "https://www.drmadhurimsobgyn.com/contact";
-
+  // Only output JSON-LD here; title/description set via route metadata
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "MedicalBusiness",
     "@id": "https://www.drmadhurimsobgyn.com/our-services/gynaecology#gynaecology",
     name: "Gynaecology Services - Dr. Madhuri M S",
-    url: canonical,
-    description,
+    url: "https://www.drmadhurimsobgyn.com/contact",
+    description:
+      "Laparoscopic Gynecologist in Jayanagar - Expert in minimally invasive surgeries offering advanced treatment, faster recovery, and personalized women's health care.",
     image: "https://www.drmadhurimsobgyn.com/assets/flat-icons/B1.webp",
     logo: "https://www.drmadhurimsobgyn.com/assets/flat-icons/B1.webp",
     email: "mailto:drmadhuri.og@gmail.com",
@@ -52,15 +49,9 @@ export default function Head() {
   };
 
   return (
-    <>
-      <title>{title}</title>
-      <meta name="description" content={description} />
-      <link rel="canonical" href={canonical} />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
-    </>
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+    />
   );
 }
-

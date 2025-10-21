@@ -46,7 +46,7 @@ export default function Service() {
             <div className="row">
               {data.map((service, index) => (
                 <div
-                  key={service.id}
+                  key={`${service.link}-${(service.title || '').toLowerCase()}`}
                   className={`col-xl-4 col-lg-6 col-md-6 wow fadeIn${
                     index % 2 === 0 ? "Left" : "Right"
                   }`}

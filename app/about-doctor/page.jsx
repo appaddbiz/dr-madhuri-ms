@@ -1,6 +1,15 @@
 import Link from "next/link";
 import Layout from "@/components/layout/Layout";
 import Cta from "@/components/sections/home1/Cta";
+
+export const metadata = {
+  title: "VBAC Specialist in Jayanagar",
+  description:
+    "VBAC Specialist in Jayanagar - Expert care for safe Vaginal Birth After Cesarean, personalized guidance, and advanced support for a healthy delivery journey.",
+  alternates: {
+    canonical: "https://www.drmadhurimsobgyn.com/about-doctor",
+  },
+};
 export default function Home() {
   return (
     <>

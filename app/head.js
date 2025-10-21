@@ -1,9 +1,5 @@
 export default function Head() {
-  const title = "Best Gynecologist in Jayanagar";
-  const description =
-    "Best Gynecologist in Jayanagar - Expert women's health care, offering advanced treatments, personalized consultations, and compassionate support for overall wellness.";
-  const canonical = "https://www.drmadhurimsobgyn.com/";
-
+  // Only output JSON-LD here; titles/descriptions are set via route metadata
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "MedicalOrganization",
@@ -53,15 +49,9 @@ export default function Head() {
   };
 
   return (
-    <>
-      <title>{title}</title>
-      <meta name="description" content={description} />
-      <link rel="canonical" href={canonical} />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
-    </>
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+    />
   );
 }
-

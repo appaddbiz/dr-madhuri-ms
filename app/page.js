@@ -36,3 +36,12 @@ export default function Home() {
     </>
   );
 }
+
+export const metadata = {
+  title: "Best Gynecologist in Jayanagar",
+  description:
+    "Best Gynecologist in Jayanagar - Expert women's health care, offering advanced treatments, personalized consultations, and compassionate support for overall wellness.",
+  alternates: {
+    canonical: "https://www.drmadhurimsobgyn.com/",
+  },
+};
