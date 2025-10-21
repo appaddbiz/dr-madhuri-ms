@@ -36,8 +36,11 @@ export default function Service() {
                 </span>
               </div>
               <h2 className="section-title__title">
-                Caring for every stage of motherhood with compassion and
-                expertise
+                {name === 'obstetrics'
+                  ? 'Best Obstetrician in Jayanagar'
+                  : name === 'gynaecology'
+                  ? 'Gynaecology Clinic in Jayanagar'
+                  : 'Caring for every stage of motherhood with compassion and expertise'}
               </h2>
             </div>
             <div className="row">

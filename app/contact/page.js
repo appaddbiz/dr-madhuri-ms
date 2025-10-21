@@ -6,6 +6,10 @@ import Link from "next/link";
 export default function Home() {
   return (
     <>
+      {/* SEO H2 (visually hidden for semantics) */}
+      <h2 style={{position:'absolute',left:'-9999px',width:1,height:1,overflow:'hidden'}}>
+        Laparoscopic Gynecologist in Jayanagar
+      </h2>
       <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Contact">
         {/*Contact Two Start*/}
         <section className="contact-two">
@@ -23,17 +27,17 @@ export default function Home() {
             <div className="row">
               <div className="col-xl-7">
                 <div className="contact-two__left">
-                  <div className="section-title text-left">
-                    <div className="section-title__tagline-box">
-                      <div className="section-title__tagline-shape">
-                        <img
-                          src="assets/images/shapes/section-title-tagline-shape.png"
-                          alt=""
-                        />
-                      </div>
-                      <span className="section-title__tagline">
-                        Connect with Our Specialists Now
-                      </span>
+                <div className="section-title text-left">
+                  <div className="section-title__tagline-box">
+                    <div className="section-title__tagline-shape">
+                      <img
+                        src="assets/images/shapes/section-title-tagline-shape.png"
+                        alt="Laparoscopic Gynecologist in Jayanagar"
+                      />
+                    </div>
+                    <span className="section-title__tagline">
+                      Connect with Our Specialists Now
+                    </span>
                     </div>
                     <h2 className="section-title__title">
                       Book an appointment now to experience advanced women’s

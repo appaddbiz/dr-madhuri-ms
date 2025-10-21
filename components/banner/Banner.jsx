@@ -35,14 +35,14 @@ const Banner = () => {
                 <img
                   src="/assets/flat-icons/B1.webp"
                   className="d-block w-100"
-                  alt="..."
+                  alt="Best Gynecologist in Jayanagar"
                 />
               </div>
               <div className="mobile-banner">
                 <img
                   src="/assets/flat-icons/MB 1.webp"
                   className="d-block w-100"
-                  alt="..."
+                  alt="Best Gynecologist in Jayanagar"
                 />
               </div>
             </div>
@@ -53,14 +53,14 @@ const Banner = () => {
                 <img
                   src="/assets/flat-icons/B2 (1).webp"
                   className="d-block w-100"
-                  alt="..."
+                  alt="Best Gynecologist in Jayanagar"
                 />
               </div>
               <div className="mobile-banner">
                 <img
                   src="/assets/flat-icons/MB 2 (1).webp"
                   className="d-block w-100"
-                  alt="..."
+                  alt="Best Gynecologist in Jayanagar"
                 />
               </div>
             </div>
@@ -72,14 +72,14 @@ const Banner = () => {
                 <img
                   src="/assets/flat-icons/B3.webp"
                   className="d-block w-100"
-                  alt="..."
+                  alt="Best Gynecologist in Jayanagar"
                 />
               </div>
               <div className="mobile-banner">
                 <img
                   src="/assets/flat-icons/MB 3.webp"
                   className="d-block w-100"
-                  alt="..."
+                  alt="Best Gynecologist in Jayanagar"
                 />
               </div>
             </div>
@@ -90,14 +90,14 @@ const Banner = () => {
                 <img
                   src="/assets/flat-icons/Frame 14.jpg"
                   className="d-block w-100"
-                  alt="..."
+                  alt="Best Gynecologist in Jayanagar"
                 />
               </div>
               <div className="mobile-banner">
                 <img
                   src="/assets/flat-icons/MB_4.jpg"
                   className="d-block w-100"
-                  alt="..."
+                  alt="Best Gynecologist in Jayanagar"
                 />
               </div>
             </div>

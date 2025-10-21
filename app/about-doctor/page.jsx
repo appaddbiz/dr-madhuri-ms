@@ -4,6 +4,10 @@ import Cta from "@/components/sections/home1/Cta";
 export default function Home() {
   return (
     <>
+      {/* SEO H2 (visually hidden for semantics) */}
+      <h2 style={{position:'absolute',left:'-9999px',width:1,height:1,overflow:'hidden'}}>
+        VBAC Specialist in Jayanagar
+      </h2>
       <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Team Details">
         {/*Team Details Start*/}
         <section className="team-details">
@@ -29,7 +33,7 @@ export default function Home() {
                     <div className="team-details__top-img">
                       <img
                         src="/assets/home-image/Doctor.jpg"
-                        alt="Dr. Madhuri M S"
+                        alt="VBAC Specialist in Jayanagar"
                       />
                     </div>
                   </div>
@@ -153,7 +157,7 @@ export default function Home() {
                   <div className="team-details__bottom-img">
                     <img
                       src="/assets/gallery/Adobe Express - file (1).jpg"
-                      alt="Dr. Madhuri M S"
+                      alt="VBAC Specialist in Jayanagar"
                     />
                   </div>
                 </div>
