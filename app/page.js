@@ -15,6 +15,10 @@ import Service from "@/components/sections/home1/Service";
 export default function Home() {
   return (
     <>
+      {/* SEO H2 (visually hidden for semantics) */}
+      <h2 style={{position:'absolute',left:'-9999px',width:1,height:1,overflow:'hidden'}}>
+        Best Gynecologist in Jayanagar
+      </h2>
       <Layout headerStyle={1} footerStyle={1}>
         <Banner />
         {/* <Features /> */}
@@ -32,3 +36,12 @@ export default function Home() {
     </>
   );
 }
+
+export const metadata = {
+  title: "Best Gynecologist in Jayanagar",
+  description:
+    "Best Gynecologist in Jayanagar - Expert women's health care, offering advanced treatments, personalized consultations, and compassionate support for overall wellness.",
+  alternates: {
+    canonical: "https://www.drmadhurimsobgyn.com/",
+  },
+};

@@ -5,6 +5,10 @@ import Link from "next/link";
 export default function Gallery() {
   return (
     <>
+      {/* SEO H2 (visually hidden for semantics) */}
+      <h2 style={{position:'absolute',left:'-9999px',width:1,height:1,overflow:'hidden'}}>
+        Fibroid Treatment in Jayanagar
+      </h2>
       <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Team Details">
         {/*Project One Start*/}
         <section className="project-one" style={{ paddingTop: "60px" }}>
@@ -35,7 +39,7 @@ export default function Gallery() {
                     <div className="project-one__img">
                       <img
                         src="/assets/gallery/IMG-20250903-WA0014.jpg"
-                        alt=""
+                        alt="Fibroid Treatment in Jayanagar"
                       />
                     </div>
                     {/* <div className="project-one__content">
@@ -58,7 +62,7 @@ export default function Gallery() {
                     <div className="project-one__img">
                       <img
                         src="/assets/gallery/IMG-20250903-WA0015.jpg"
-                        alt=""
+                        alt="Fibroid Treatment in Jayanagar"
                       />
                     </div>
                     {/* <div className="project-one__content">
@@ -82,7 +86,7 @@ export default function Gallery() {
                     <div className="project-one__img">
                       <img
                         src="/assets/gallery/IMG-20250903-WA0016.jpg"
-                        alt=""
+                        alt="Fibroid Treatment in Jayanagar"
                       />
                     </div>
                     {/* <div className="project-one__content">
@@ -106,7 +110,7 @@ export default function Gallery() {
                       <img
                         src="/assets/gallery/IMG-20250903-WA0032.jpg"
                         style={{ aspectRatio: "3/2" }}
-                        alt=""
+                        alt="Fibroid Treatment in Jayanagar"
                       />
                     </div>
                     {/* <div className="project-one__content">
@@ -129,7 +133,7 @@ export default function Gallery() {
                     <div className="project-one__img">
                       <img
                         src="/assets/gallery/IMG-20250903-WA0019.jpg"
-                        alt=""
+                        alt="Fibroid Treatment in Jayanagar"
                       />
                     </div>
                     {/* <div className="project-one__content">
@@ -152,7 +156,7 @@ export default function Gallery() {
                     <div className="project-one__img">
                       <img
                         src="/assets/gallery/Modern Delivery Suites.jpg"
-                        alt=""
+                        alt="Fibroid Treatment in Jayanagar"
                       />
                     </div>
                   </div>
@@ -167,7 +171,7 @@ export default function Gallery() {
                     <div className="project-one__img">
                       <img
                         src="/assets/gallery/IMG-20250903-WA0034.jpg"
-                        alt=""
+                        alt="Fibroid Treatment in Jayanagar"
                       />
                     </div>
                   </div>
@@ -182,7 +186,7 @@ export default function Gallery() {
                     <div className="project-one__img">
                       <img
                         src="/assets/gallery/IMG-20250903-WA0029.jpg"
-                        alt=""
+                        alt="Fibroid Treatment in Jayanagar"
                       />
                     </div>
                   </div>
@@ -197,7 +201,7 @@ export default function Gallery() {
                     <div className="project-one__img">
                       <img
                         src="/assets/gallery/IMG-20250903-WA0030.jpg"
-                        alt=""
+                        alt="Fibroid Treatment in Jayanagar"
                       />
                     </div>
                   </div>

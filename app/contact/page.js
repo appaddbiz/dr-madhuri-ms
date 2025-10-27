@@ -6,6 +6,18 @@ import Link from "next/link";
 export default function Home() {
   return (
     <>
+      {/* SEO H2 (visually hidden for semantics) */}
+      <h2
+        style={{
+          position: "absolute",
+          left: "-9999px",
+          width: 1,
+          height: 1,
+          overflow: "hidden",
+        }}
+      >
+        Laparoscopic Gynecologist in Jayanagar
+      </h2>
       <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Contact">
         {/*Contact Two Start*/}
         <section className="contact-two">
@@ -28,7 +40,7 @@ export default function Home() {
                       <div className="section-title__tagline-shape">
                         <img
                           src="assets/images/shapes/section-title-tagline-shape.png"
-                          alt=""
+                          alt="Laparoscopic Gynecologist in Jayanagar"
                         />
                       </div>
                       <span className="section-title__tagline">
@@ -143,9 +155,7 @@ export default function Home() {
                 <iframe
                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3929.221113664361!2d77.58939099999999!3d12.926115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae15a140eff81d%3A0xceaf71cbeec2c022!2s426%2F27-1%2C%2033rd%20Cross%20Rd%2C%204th%20T%20Block%20East%2C%20Pattabhirama%20Nagar%2C%20Jayanagar%2C%20Bengaluru%2C%20Karnataka%20560041!5e1!3m2!1sen!2sin!4v1756901832500!5m2!1sen!2sin"
                   style={{ height: "400px", width: "100%", border: "0" }}
-                  allowfullscreen=""
                   loading="lazy"
-                  referrerpolicy="no-referrer-when-downgrade"
                 ></iframe>
               </div>
             </div>
