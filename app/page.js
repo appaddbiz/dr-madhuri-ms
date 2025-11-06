@@ -16,9 +16,7 @@ export default function Home() {
   return (
     <>
       {/* SEO H2 (visually hidden for semantics) */}
-      <h2 style={{position:'absolute',left:'-9999px',width:1,height:1,overflow:'hidden'}}>
-        Best Gynecologist in Jayanagar
-      </h2>
+      
       <Layout headerStyle={1} footerStyle={1}>
         <Banner />
         {/* <Features /> */}
@@ -32,7 +30,6 @@ export default function Home() {
         {/* <Testimonial /> */}
         <Blog />
       </Layout>
-     
     </>
   );
 }

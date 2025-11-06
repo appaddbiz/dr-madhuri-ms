@@ -7,6 +7,16 @@ export default function About() {
       {/*About Two Start*/}
       <section className="about-two">
         <div className="container">
+          <h1
+            style={{
+              textAlign: "center",
+              marginBottom: "20px",
+              color: "#a90644",
+              fontSize: "25px",
+            }}
+          >
+            Best Gynecologist in Jayanagar
+          </h1>
           <div
             className="section-title text-center section-title-mobile-view"
             style={{ marginBottom: "0px" }}
@@ -51,6 +61,7 @@ export default function About() {
                     </div>
                     <span className="section-title__tagline">About Doctor</span>
                   </div>
+
                   <h2 className="section-title__title">
                     Compassionate Care for Women’s Health
                   </h2>
