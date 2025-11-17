@@ -233,6 +233,21 @@ export default function Gallery() {
                   </div>
                 </div>
               </div>
+              <div
+                className="col-xl-4 col-lg-6 col-md-6 wow fadeInRight"
+                data-wow-delay="600ms"
+              >
+                <div className="project-one__single">
+                  <div className="project-one__img-box">
+                    <div className="project-one__img">
+                      <img
+                        src="/assets/gallery/WhatsApp Image 2025-11-17 at 12.17.34_4a470ac0.jpg"
+                        alt=""
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
               {/*Project One Single End*/}
             </div>
           </div>
