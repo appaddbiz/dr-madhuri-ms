@@ -24,7 +24,7 @@ export default function RootLayout({ children }) {
         {children}
 
         {/* jQuery Plugin */}
-        <Script
+        {/* <Script
           src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
           strategy="afterInteractive"
         />
@@ -57,7 +57,7 @@ export default function RootLayout({ children }) {
             if (document.readyState === 'complete') { execute(); }
             else { window.addEventListener('load', execute); }
           })();
-        `}</Script>
+        `}</Script> */}
 
         {/* Google Analytics */}
         <Script
