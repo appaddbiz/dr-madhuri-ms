@@ -6,7 +6,15 @@ export default function Gallery() {
   return (
     <>
       {/* SEO H2 (visually hidden for semantics) */}
-      <h2 style={{position:'absolute',left:'-9999px',width:1,height:1,overflow:'hidden'}}>
+      <h2
+        style={{
+          position: "absolute",
+          left: "-9999px",
+          width: 1,
+          height: 1,
+          overflow: "hidden",
+        }}
+      >
         Fibroid Treatment in Jayanagar
       </h2>
       <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Team Details">
@@ -231,6 +239,21 @@ export default function Gallery() {
                     <div className="project-one__img">
                       <img
                         src="/assets/gallery/IMG-20250903-WA0033.jpg"
+                        alt=""
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="col-xl-4 col-lg-6 col-md-6 wow fadeInRight"
+                data-wow-delay="600ms"
+              >
+                <div className="project-one__single">
+                  <div className="project-one__img-box">
+                    <div className="project-one__img">
+                      <img
+                        src="/assets/gallery/WhatsApp Image 2025-11-17 at 12.17.34_17664627.jpg"
                         alt=""
                       />
                     </div>
