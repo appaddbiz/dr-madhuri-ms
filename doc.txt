@@ -1,0 +1,583 @@
+﻿﻿Best Obstetrician
+Gynaecologist 
+Minimal invasive surgeon
+Fibroid treatment
+pregnancy care 
+VBAC Specialist
+
+
+________________
+
+
+https://www.drmadhurimsobgyn.com/ 
+
+
+SEO Title - Best Gynecologist in Jayanagar
+
+
+Description - Best Gynecologist in Jayanagar – Expert women’s health care, offering advanced treatments, personalized consultations, and compassionate support for overall wellness.
+
+
+H2 - Best Gynecologist in Jayanagar 
+
+
+Image Alt - Best Gynecologist in Jayanagar 
+
+
+JSON LD
+
+
+<script type='application/ld+json'>
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalOrganization",
+  "@id": "https://www.drmadhurimsobgyn.com/#organization",
+  "name": "Dr. Madhuri M S — Obstetrics & Gynaecology",
+  "url": "https://www.drmadhurimsobgyn.com/",
+  "description": "Compassionate, evidence-based women’s healthcare in Jayanagar, Bengaluru — covering antenatal and postnatal care, high-risk pregnancy, infertility evaluation, minimally invasive laparoscopic surgery, and advanced gynaecological ultrasonography.",
+  "logo": "https://www.drmadhurimsobgyn.com/assets/flat-icons/B1.webp",
+  "image": "https://www.drmadhurimsobgyn.com/assets/flat-icons/B1.webp",
+  "email": "mailto:drmadhuri.og@gmail.com",
+  "telephone": "+91-6361197107",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Pattabhirama Nagar, Jayanagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560041",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 12.9261622,
+    "longitude": 77.5894468
+  },
+  "hasMap": "https://www.google.com/maps/place/Vega+Health+Care+and+Diagnostics+%7C+Ultrasound,+Fetal+Imaging,+Gastroenterology,+ENT+%7C+Jayanagar,+Bangalore/@12.9261622,77.5894468,17z",
+  "sameAs": [
+    "https://api.whatsapp.com/send?phone=916361197107",
+    "https://www.google.com/maps/place/Vega+Health+Care+and+Diagnostics+%7C+Ultrasound,+Fetal+Imaging,+Gastroenterology,+ENT+%7C+Jayanagar,+Bangalore/@12.9261622,77.5894468,17z"
+  ],
+  "knowsAbout": [
+    "Obstetrics & Pregnancy Care",
+    "High-Risk Pregnancy Management",
+    "Infertility Evaluation and IUI",
+    "Gynaecology Care (fibroids, endometriosis, ovarian cysts, menstrual disorders, menopausal care)",
+    "Laparoscopy & Hysteroscopy (myomectomy, TLH, hysteroscopic procedures)",
+    "Advanced Ultrasonography (transvaginal scan, saline sonography, 3D ultrasound)"
+  ],
+  "keywords": [
+    "Best Gynecologist in Jayanagar",
+    "Women’s Health Doctor in Jayanagar",
+    "Laparoscopic Gynecologist in Jayanagar",
+    "OBG Doctor in Jayanagar",
+    "Pregnancy Doctor in Jayanagar"
+  ]
+}
+</script>
+
+
+
+
+________________
+
+
+https://www.drmadhurimsobgyn.com/about-doctor 
+
+SEO Title - VBAC Specialist in Jayanagar
+
+
+Description - VBAC Specialist in Jayanagar – Expert care for safe Vaginal Birth After Cesarean, personalized guidance, and advanced support for a healthy delivery journey.
+
+
+
+
+H2 - VBAC Specialist in Jayanagar
+
+
+Image Alt - VBAC Specialist in Jayanagar
+
+
+JSON LD 
+
+
+<script type='application/ld+json'>
+{
+  "@context": "https://schema.org",
+  "@type": "Physician",
+  "@id": "https://www.drmadhurimsobgyn.com/about-doctor#dr-madhuri-ms",
+  "name": "Dr. Madhuri M S",
+  "url": "https://www.drmadhurimsobgyn.com/about-doctor",
+  "image": "https://www.drmadhurimsobgyn.com/assets/flat-icons/B1.webp",
+  "jobTitle": "Consultant Obstetrician, Gynaecologist & Minimal Invasive Surgeon",
+  "description": "MBBS, MS (OBG), FMAS, Diploma in Gynaecological Ultrasound. Experienced in high-risk pregnancy, infertility management, VBAC, fibroid treatment, laparoscopy & hysteroscopy, and advanced gynaecological ultrasonography.",
+  "email": "mailto:drmadhuri.og@gmail.com",
+  "telephone": "+91-6361197107",
+  "worksFor": {
+    "@type": "MedicalOrganization",
+    "name": "Dr. Madhuri M S — Obstetrics & Gynaecology",
+    "url": "https://www.drmadhurimsobgyn.com/"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Pattabhirama Nagar, Jayanagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560041",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 12.9261622,
+    "longitude": 77.5894468
+  },
+  "hasMap": "https://www.google.com/maps/place/Vega+Health+Care+and+Diagnostics+%7C+Ultrasound,+Fetal+Imaging,+Gastroenterology,+ENT+%7C+Jayanagar,+Bangalore/@12.9261622,77.5894468,17z",
+  "sameAs": [
+    "https://maps.app.goo.gl/jo8ywP9BpgwnWcoL9",
+    "https://wa.link/4vni1l"
+  ],
+  "areaServed": "Jayanagar, Bengaluru",
+  "medicalSpecialty": [
+    "Obstetrics",
+    "Gynecology",
+    "Infertility",
+    "Minimally Invasive Gynecologic Surgery",
+    "Ultrasonography"
+  ],
+  "knowsAbout": [
+    "High-Risk Pregnancy Management",
+    "VBAC (Vaginal Birth After Caesarean)",
+    "Fibroid and Endometriosis Treatment",
+    "Infertility Evaluation, Ovulation Induction, IUI",
+    "Laparoscopy & Hysteroscopy (Myomectomy, TLH, Septal Resection, Polypectomy)",
+    "Transvaginal Scan, Saline Sonography, 3D Ultrasound"
+  ],
+  "keywords": [
+    "Best Obstetrician in Jayanagar",
+    "Gynaecologist in Jayanagar",
+    "Minimal invasive surgeon in Jayanagar",
+    "Fibroid treatment in Jayanagar",
+    "Pregnancy care in Jayanagar",
+    "VBAC Specialist in Jayanagar"
+  ]
+}
+</script>
+
+
+
+
+________________
+
+
+https://www.drmadhurimsobgyn.com/our-services/obstetrics 
+
+
+
+
+SEO Title - Best Obstetrician in Jayanagar
+
+
+Description - Best Obstetrician in Jayanagar – Expert maternity care, personalized guidance, and advanced treatments to ensure a safe and healthy pregnancy journey.
+
+
+
+
+H2 - Best Obstetrician in Jayanagar
+
+
+Image Alt - Best Obstetrician in Jayanagar
+
+
+
+
+
+
+JSON LD 
+
+
+<script type='application/ld+json'>
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalBusiness",
+  "@id": "https://www.drmadhurimsobgyn.com/our-services/obstetrics#obstetrics",
+  "name": "Obstetrics Services - Dr. Madhuri M S",
+  "url": "https://www.drmadhurimsobgyn.com/our-services/obstetrics",
+  "description": "Comprehensive obstetric care in Jayanagar, Bengaluru by Dr. Madhuri M S — an experienced Obstetrician & Gynaecologist specializing in prenatal, antenatal, and postnatal care, high-risk pregnancy management, and safe delivery. Compassionate and personalized maternity support across Jayanagar, JP Nagar, Banashankari, and BTM Layout.",
+  "image": "https://www.drmadhurimsobgyn.com/assets/flat-icons/B1.webp",
+  "logo": "https://www.drmadhurimsobgyn.com/assets/flat-icons/B1.webp",
+  "email": "mailto:drmadhuri.og@gmail.com",
+  "telephone": "+91-6361197107",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Pattabhirama Nagar, Jayanagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560041",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 12.9261622,
+    "longitude": 77.5894468
+  },
+  "hasMap": "https://www.google.com/maps/place/Vega+Health+Care+and+Diagnostics+%7C+Ultrasound,+Fetal+Imaging,+Gastroenterology,+ENT+%7C+Jayanagar,+Bangalore/@12.9261622,77.5894468,17z",
+  "sameAs": [
+    "https://maps.app.goo.gl/jo8ywP9BpgwnWcoL9",
+    "https://wa.link/4vni1l"
+  ],
+  "medicalSpecialty": [
+    "Obstetrics",
+    "High-Risk Pregnancy Care",
+    "Prenatal and Antenatal Care",
+    "Labour and Delivery",
+    "Postnatal Care",
+    "VBAC (Vaginal Birth After Caesarean)"
+  ],
+  "knowsAbout": [
+    "Comprehensive Pregnancy Care",
+    "Preconception Counseling",
+    "High-Risk Pregnancy Management",
+    "Normal and Caesarean Delivery",
+    "VBAC Support",
+    "Postnatal Recovery"
+  ],
+  "keywords": [
+    "Best Obstetrician in Jayanagar",
+    "Best Obstetrician in Bangalore",
+    "OBG Doctor in JP Nagar",
+    "Best Obstetrician in Banashanakri",
+    "Best Obstetrician in BTM Layout"
+  ],
+  "areaServed": [
+    "Jayanagar",
+    "JP Nagar",
+    "Banashankari",
+    "BTM Layout",
+    "Bangalore"
+  ]
+}
+</script>
+
+
+
+
+
+
+________________
+
+
+https://www.drmadhurimsobgyn.com/our-services/gynaecology 
+
+
+
+
+SEO Title - Gynaecology Clinic in Jayanagar
+
+
+Description - Gynaecology Clinic in Jayanagar – Expert women’s health care with advanced treatments, compassionate support, and personalized solutions for every stage of life.
+
+
+
+
+H2 - Gynaecology Clinic in Jayanagar
+
+
+Image Alt - Gynaecology Clinic in Jayanagar
+
+
+JSON LD 
+
+
+<script type='application/ld+json'>
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalBusiness",
+  "@id": "https://www.drmadhurimsobgyn.com/our-services/gynaecology#gynaecology",
+  "name": "Gynaecology Services - Dr. Madhuri M S",
+  "url": "https://www.drmadhurimsobgyn.com/our-services/gynaecology",
+  "description": "Comprehensive gynaecology care in Jayanagar by Dr. Madhuri M S, covering adolescent health, menstrual disorders, PCOS, fibroids, endometriosis, cervical screening, menopause care, and minimally invasive procedures for safe, evidence-based treatment.",
+  "image": "https://www.drmadhurimsobgyn.com/assets/flat-icons/B1.webp",
+  "logo": "https://www.drmadhurimsobgyn.com/assets/flat-icons/B1.webp",
+  "email": "mailto:drmadhuri.og@gmail.com",
+  "telephone": "+91-6361197107",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Pattabhirama Nagar, Jayanagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560041",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 12.9261622,
+    "longitude": 77.5894468
+  },
+  "hasMap": "https://maps.app.goo.gl/jo8ywP9BpgwnWcoL9",
+  "sameAs": [
+    "https://maps.app.goo.gl/jo8ywP9BpgwnWcoL9",
+    "https://wa.link/4vni1l"
+  ],
+  "areaServed": [
+    "Jayanagar",
+    "JP Nagar",
+    "Banashankari",
+    "BTM Layout",
+    "Bengaluru"
+  ],
+  "medicalSpecialty": [
+    "Gynecology",
+    "Minimally Invasive Gynecologic Surgery",
+    "Ultrasonography"
+  ],
+  "knowsAbout": [
+    "Adolescent gynaecology and counselling",
+    "Menstrual disorders (dysmenorrhea, menorrhagia, irregular cycles)",
+    "PCOS diagnosis and management",
+    "Fibroids and endometriosis treatment",
+    "Ovarian cyst evaluation and care",
+    "Cervical screening (Pap smear, HPV testing) and colposcopy",
+    "Premenstrual syndrome (PMS/PMDD) management",
+    "Perimenopause and menopause care",
+    "Pelvic pain evaluation",
+    "Infections and vaginal health",
+    "Contraception and family planning",
+    "Laparoscopy & hysteroscopy (diagnostic and operative)"
+  ],
+  "keywords": [
+    "Gynaecology Clinic in Jayanagar",
+    "Gynaecology Clinic in JP Nagar",
+    "Gynaecology Clinic in Bangalore",
+    "Gynaecology Clinic in BTM Layout",
+    "Gynaecology Clinic in Banashankari"
+  ]
+}
+</script>
+
+
+________________
+
+
+https://www.drmadhurimsobgyn.com/gallery 
+
+
+
+
+SEO Title - Fibroid Treatment in Jayanagar
+
+
+Description - Fibroid Treatment in Jayanagar – Expert gynecologists offering advanced diagnosis, minimally invasive procedures, and personalized care for effective fibroid management.
+
+
+
+
+H2 - Fibroid Treatment in Jayanagar
+
+
+Image Alt - Fibroid Treatment in Jayanagar
+
+
+
+
+
+
+JSON LD 
+
+
+<script type='application/ld+json'>
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalBusiness",
+  "@id": "https://www.drmadhurimsobgyn.com/our-services/gynaecology#gynaecology",
+  "name": "Gynaecology Services - Dr. Madhuri M S",
+  "url": "https://www.drmadhurimsobgyn.com/gallery",
+  "description": "Fibroid Treatment in Jayanagar – Expert gynecologists offering advanced diagnosis, minimally invasive procedures, and personalized care for effective fibroid management.",
+  "image": "https://www.drmadhurimsobgyn.com/assets/flat-icons/B1.webp",
+  "logo": "https://www.drmadhurimsobgyn.com/assets/flat-icons/B1.webp",
+  "email": "mailto:drmadhuri.og@gmail.com",
+  "telephone": "+91-6361197107",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Pattabhirama Nagar, Jayanagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560041",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 12.9261622,
+    "longitude": 77.5894468
+  },
+  "hasMap": "https://maps.app.goo.gl/jo8ywP9BpgwnWcoL9",
+  "sameAs": [
+    "https://maps.app.goo.gl/jo8ywP9BpgwnWcoL9",
+    "https://wa.link/4vni1l"
+  ],
+  "areaServed": [
+    "Jayanagar",
+    "JP Nagar",
+    "Banashankari",
+    "BTM Layout",
+    "Bengaluru"
+  ],
+  "medicalSpecialty": [
+    "Gynecology",
+    "Minimally Invasive Gynecologic Surgery",
+    "Ultrasonography"
+  ],
+  "knowsAbout": [
+    "Adolescent gynaecology and counselling",
+    "Menstrual disorders (dysmenorrhea, menorrhagia, irregular cycles)",
+    "PCOS diagnosis and management",
+    "Fibroids and endometriosis treatment",
+    "Ovarian cyst evaluation and care",
+    "Cervical screening (Pap smear, HPV testing) and colposcopy",
+    "Premenstrual syndrome (PMS/PMDD) management",
+    "Perimenopause and menopause care",
+    "Pelvic pain evaluation",
+    "Infections and vaginal health",
+    "Contraception and family planning",
+    "Laparoscopy & hysteroscopy (diagnostic and operative)"
+  ],
+  "keywords": [
+    "Fibroid Treatment in Jayanagar",
+    "Fibroid Treatment in JP Nagar",
+    "Fibroid Treatment in Bangalore",
+    "Fibroid Treatment in BTM Layout",
+    "Fibroid Treatment in Banashankari"
+  ]
+}
+</script>
+
+
+
+
+________________
+ 
+https://www.drmadhurimsobgyn.com/contact 
+
+
+SEO Title - Laparoscopic Gynecologist in Jayanagar
+
+
+Description - Laparoscopic Gynecologist in Jayanagar – Expert in minimally invasive surgeries offering advanced treatment, faster recovery, and personalized women’s health care.
+
+
+
+
+H2 - Laparoscopic Gynecologist in Jayanagar
+
+
+Image Alt - Laparoscopic Gynecologist in Jayanagar
+
+
+JSON LD 
+
+
+<script type='application/ld+json'>
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalBusiness",
+  "@id": "https://www.drmadhurimsobgyn.com/our-services/gynaecology#gynaecology",
+  "name": "Gynaecology Services - Dr. Madhuri M S",
+  "url": "https://www.drmadhurimsobgyn.com/contact",
+  "description": "Laparoscopic Gynecologist in Jayanagar – Expert in minimally invasive surgeries offering advanced treatment, faster recovery, and personalized women’s health care.",
+  "image": "https://www.drmadhurimsobgyn.com/assets/flat-icons/B1.webp",
+  "logo": "https://www.drmadhurimsobgyn.com/assets/flat-icons/B1.webp",
+  "email": "mailto:drmadhuri.og@gmail.com",
+  "telephone": "+91-6361197107",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Pattabhirama Nagar, Jayanagar",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560041",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 12.9261622,
+    "longitude": 77.5894468
+  },
+  "hasMap": "https://maps.app.goo.gl/jo8ywP9BpgwnWcoL9",
+  "sameAs": [
+    "https://maps.app.goo.gl/jo8ywP9BpgwnWcoL9",
+    "https://wa.link/4vni1l"
+  ],
+  "areaServed": [
+    "Jayanagar",
+    "JP Nagar",
+    "Banashankari",
+    "BTM Layout",
+    "Bengaluru"
+  ],
+  "medicalSpecialty": [
+    "Gynecology",
+    "Minimally Invasive Gynecologic Surgery",
+    "Ultrasonography"
+  ],
+  "knowsAbout": [
+    "Adolescent gynaecology and counselling",
+    "Menstrual disorders (dysmenorrhea, menorrhagia, irregular cycles)",
+    "PCOS diagnosis and management",
+    "Fibroids and endometriosis treatment",
+    "Ovarian cyst evaluation and care",
+    "Cervical screening (Pap smear, HPV testing) and colposcopy",
+    "Premenstrual syndrome (PMS/PMDD) management",
+    "Perimenopause and menopause care",
+    "Pelvic pain evaluation",
+    "Infections and vaginal health",
+    "Contraception and family planning",
+    "Laparoscopy & hysteroscopy (diagnostic and operative)"
+  ],
+  "keywords": [
+    "Laparoscopic Gynecologist in Jayanagar",
+    "Laparoscopic Gynecologist in JP Nagar",
+    "Laparoscopic Gynecologist in Bangalore",
+    "Laparoscopic Gynecologist in BTM Layout",
+    "Laparoscopic Gynecologist in Banashankari"
+  ]
+}
+</script>
+
+
+
+
+
+
+________________
+
+
+
+
+
+
+SEO Title - 
+
+
+Description - 
+
+
+
+
+H2 - 
+
+
+Image Alt - 
+
+
+JSON LD 
+
+
+
+
+
+
+________________
+
+
+
+
+
+
+SEO Title -
