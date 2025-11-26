@@ -9,8 +9,9 @@ import Script from "next/script";
 // import Plugin from "@/components/plugin/Plugin";
 
 export const metadata = {
-  title: "Dr. Madhuri M S",
-  description: "Compassionate care, expertise in women’s health",
+  title: "Best Maternity Clinic in Jayanaga | Trusted Care Bangalore",
+  description:
+    "Experience compassionate maternity care at the Best Maternity Clinic in Jayanagar, Bangalore. Expert gynecologist support for pregnancy, delivery, and women's health.",
   icons: {
     icon: "/assets/flat-icons/Dr-Madhurifavicon.png",
     apple: "/assets/flat-icons/Dr-Madhurifavicon.png",
@@ -24,7 +25,7 @@ export default function RootLayout({ children }) {
         {children}
 
         {/* jQuery Plugin */}
-        <Script
+        {/* <Script
           src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
           strategy="afterInteractive"
         />
@@ -57,7 +58,7 @@ export default function RootLayout({ children }) {
             if (document.readyState === 'complete') { execute(); }
             else { window.addEventListener('load', execute); }
           })();
-        `}</Script>
+        `}</Script> */}
 
         {/* Google Analytics */}
         <Script

@@ -6,8 +6,8 @@ import Link from "next/link";
 export default function Home() {
   return (
     <>
-      {/* SEO H2 (visually hidden for semantics) */}
-      <h2
+      {/* SEO H1 (visually hidden for semantics) */}
+      <h1
         style={{
           position: "absolute",
           left: "-9999px",
@@ -17,7 +17,7 @@ export default function Home() {
         }}
       >
         Laparoscopic Gynecologist in Jayanagar
-      </h2>
+      </h1>
       <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Contact">
         {/*Contact Two Start*/}
         <section className="contact-two">
@@ -33,7 +33,7 @@ export default function Home() {
             </div> */}
           <div className="container">
             <div className="row">
-              <div className="col-xl-7">
+              <div className="col-xl-4" style={{marginBottom:"40px"}}>
                 <div className="contact-two__left">
                   <div className="section-title text-left">
                     <div className="section-title__tagline-box">
@@ -47,10 +47,10 @@ export default function Home() {
                         Connect with Our Specialists Now
                       </span>
                     </div>
-                    <h2 className="section-title__title">
+                    {/* <h2 className="section-title__title">
                       Book an appointment now to experience advanced women’s
                       healthcare with dedicated support at every step.
-                    </h2>
+                    </h2> */}
                   </div>
                   <form
                     className="contact-form-validated contact-two__form"
@@ -75,8 +75,8 @@ export default function Home() {
                       window.open(url, "_blank");
                     }}
                   >
-                    <div className="row">
-                      <div className="col-xl-6 col-lg-6">
+                    <div className="">
+                      <div className="col-xl-12 col-lg-6">
                         <div className="contact-two__input-box">
                           <input
                             type="text"
@@ -86,7 +86,7 @@ export default function Home() {
                           />
                         </div>
                       </div>
-                      <div className="col-xl-6 col-lg-6">
+                      <div className="col-xl-12 col-lg-6">
                         <div className="contact-two__input-box">
                           <input
                             type="email"
@@ -96,7 +96,7 @@ export default function Home() {
                           />
                         </div>
                       </div>
-                      <div className="col-xl-6 col-lg-6">
+                      <div className="col-xl-12 col-lg-6">
                         <div className="contact-two__input-box">
                           <input
                             type="text"
@@ -106,7 +106,7 @@ export default function Home() {
                           />
                         </div>
                       </div>
-                      <div className="col-xl-6 col-lg-6 col-md-6">
+                      <div className="col-xl-12 col-lg-6 col-md-6">
                         <div className="contact-two__input-box">
                           <div className="select-box">
                             <select
@@ -131,7 +131,7 @@ export default function Home() {
                         </div>
                       </div>
 
-                      <div className="col-xl-6 col-lg-6 col-md-6">
+                      <div className="col-xl-12 col-lg-6 col-md-6">
                         <div className="contact-two__btn-box">
                           <button
                             type="submit"
@@ -151,11 +151,42 @@ export default function Home() {
                   </p> */}
                 </div>
               </div>
-              <div className="col-xl-5" style={{ marginTop: "30px" }}>
+              <div className="col-xl-4">
+                <p
+                  style={{
+                    fontSize: "18px",
+                    marginBottom: "10px",
+                    color:"#f50963"
+                  }}
+                >
+                  Vega Health Care and Diagnostics <br />
+                  <span>Timings : 4 PM to 5 PM</span>
+                </p>
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3929.221113664361!2d77.58939099999999!3d12.926115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae15a140eff81d%3A0xceaf71cbeec2c022!2s426%2F27-1%2C%2033rd%20Cross%20Rd%2C%204th%20T%20Block%20East%2C%20Pattabhirama%20Nagar%2C%20Jayanagar%2C%20Bengaluru%2C%20Karnataka%20560041!5e1!3m2!1sen!2sin!4v1756901832500!5m2!1sen!2sin"
-                  style={{ height: "400px", width: "100%", border: "0" }}
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3929.220370766951!2d77.58944679999999!3d12.9261622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1563e26bbd3f%3A0x4e930c0d201868f9!2sVega%20Health%20Care%20and%20Diagnostics%20%7C%20Ultrasound%2C%20Fetal%20Imaging%2C%20Gastroenterology%2C%20ENT%20%7C%20Jayanagar%2C%20Bangalore!5e1!3m2!1sen!2sin!4v1763452359274!5m2!1sen!2sin"
+                  style={{ height: "300px", width: "100%", border: "0" }}
+                  allowfullscreen=""
                   loading="lazy"
+                  referrerpolicy="no-referrer-when-downgrade"
+                ></iframe>
+              </div>
+              <div className="col-xl-4">
+                <p
+                  style={{
+                    fontSize: "18px",
+                    marginBottom: "10px",
+                    color:"#f50963"
+                  }}
+                >
+                  Maiya Multi Speciality Hospital <br />
+                  <span>Timings : 5 PM to 6:30 PM</span>
+                </p>
+                <iframe
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3928.961812920714!2d77.5855859!3d12.9425794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae15be18fc071b%3A0x9c0e5d2e2f04a5e5!2sMaiya%20Multi%20Speciality%20Hospital!5e1!3m2!1sen!2sin!4v1763451199063!5m2!1sen!2sin"
+                  style={{ height: "300px", width: "100%", border: "0" }}
+                  allowfullscreen=""
+                  loading="lazy"
+                  referrerpolicy="no-referrer-when-downgrade"
                 ></iframe>
               </div>
             </div>

@@ -1,7 +1,7 @@
 export const metadata = {
-  title: "Laparoscopic Gynecologist in Jayanagar",
+  title: "Laparoscopic Gynecologist in Jayanagar | Bangalore",
   description:
-    "Laparoscopic Gynecologist in Jayanagar - Expert in minimally invasive surgeries offering advanced treatment, faster recovery, and personalized women's health care.",
+    "Find the best Laparoscopic Gynecologist in Jayanagar offering advanced minimally invasive treatments with compassionate women's healthcare and expert guidance.",
   alternates: {
     canonical: "https://www.drmadhurimsobgyn.com/contact",
   },

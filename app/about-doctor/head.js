@@ -2,22 +2,12 @@ export default function Head() {
   // Only output JSON-LD here; title/description set via route metadata
   const jsonLd = {
     "@context": "https://schema.org",
-    "@type": "Physician",
-    "@id": "https://www.drmadhurimsobgyn.com/about-doctor#dr-madhuri-ms",
-    name: "Dr. Madhuri M S",
+    "@type": "MedicalClinic",
+    "@id": "https://www.drmadhurimsobgyn.com/about-doctor#clinic",
+    name: "Dr Madhuri M S OB-GYN Clinic",
     url: "https://www.drmadhurimsobgyn.com/about-doctor",
-    image: "https://www.drmadhurimsobgyn.com/assets/flat-icons/B1.webp",
-    jobTitle:
-      "Consultant Obstetrician, Gynaecologist & Minimal Invasive Surgeon",
-    description:
-      "MBBS, MS (OBG), FMAS, Diploma in Gynaecological Ultrasound. Experienced in high-risk pregnancy, infertility management, VBAC, fibroid treatment, laparoscopy & hysteroscopy, and advanced gynaecological ultrasonography.",
-    email: "mailto:drmadhuri.og@gmail.com",
-    telephone: "+91-6361197107",
-    worksFor: {
-      "@type": "MedicalOrganization",
-      name: "Dr. Madhuri M S - Obstetrics & Gynaecology",
-      url: "https://www.drmadhurimsobgyn.com/",
-    },
+    image: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+    logo: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
     address: {
       "@type": "PostalAddress",
       streetAddress: "Pattabhirama Nagar, Jayanagar",
@@ -28,39 +18,21 @@ export default function Head() {
     },
     geo: {
       "@type": "GeoCoordinates",
-      latitude: 12.9261622,
-      longitude: 77.5894468,
+      latitude: "12.9300",
+      longitude: "77.5800",
     },
-    hasMap:
-      "https://www.google.com/maps/place/Vega+Health+Care+and+Diagnostics+%7C+Ultrasound,+Fetal+Imaging,+Gastroenterology,+ENT+%7C+Jayanagar,+Bangalore/@12.9261622,77.5894468,17z",
-    sameAs: [
-      "https://maps.app.goo.gl/jo8ywP9BpgwnWcoL9",
-      "https://wa.link/4vni1l",
-    ],
-    areaServed: "Jayanagar, Bengaluru",
-    medicalSpecialty: [
-      "Obstetrics",
-      "Gynecology",
-      "Infertility",
-      "Minimally Invasive Gynecologic Surgery",
-      "Ultrasonography",
-    ],
-    knowsAbout: [
-      "High-Risk Pregnancy Management",
-      "VBAC (Vaginal Birth After Caesarean)",
-      "Fibroid and Endometriosis Treatment",
-      "Infertility Evaluation, Ovulation Induction, IUI",
-      "Laparoscopy & Hysteroscopy (Myomectomy, TLH, Septal Resection, Polypectomy)",
-      "Transvaginal Scan, Saline Sonography, 3D Ultrasound",
-    ],
+    telephone: "+91 6361197107",
+    email: "drmadhuri.og@gmail.com",
     keywords: [
-      "Best Obstetrician in Jayanagar",
-      "Gynaecologist in Jayanagar",
-      "Minimal invasive surgeon in Jayanagar",
-      "Fibroid treatment in Jayanagar",
-      "Pregnancy care in Jayanagar",
+      "Best maternity clinic in Jayanagar",
+      "Best Gynecologist in Jayanagar 7th Block",
+      "Diabetes in Pregnancy (GDM)Specialist  in Jayanagar 7th Block",
+      "Best Gynecologist in Jayanagar 4th Block",
+      "Best Gynecologist in Jayanagar 9th block",
       "VBAC Specialist in Jayanagar",
     ],
+    datePublished: "2025-11-20",
+    sameAs: ["https://www.drmadhurimsobgyn.com/"],
   };
 
   return (

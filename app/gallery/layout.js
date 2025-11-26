@@ -1,7 +1,7 @@
 export const metadata = {
-  title: "Fibroid Treatment in Jayanagar",
+  title: "Fibroid Treatment in Jayanagar | Expert Care Bangalore",
   description:
-    "Fibroid Treatment in Jayanagar - Expert gynecologists offering advanced diagnosis, minimally invasive procedures, and personalized care for effective fibroid management.",
+    "Effective Fibroid Treatment in Jayanagar with advanced diagnostic and minimally invasive care. Get expert guidance and personalized treatment for faster recovery.",
   alternates: {
     canonical: "https://www.drmadhurimsobgyn.com/gallery",
   },

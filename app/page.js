@@ -15,8 +15,18 @@ import Service from "@/components/sections/home1/Service";
 export default function Home() {
   return (
     <>
-      {/* SEO H2 (visually hidden for semantics) */}
-      
+      {/* SEO H1 (visually hidden for semantics) */}
+      <h1
+        style={{
+          position: "absolute",
+          left: "-9999px",
+          width: 1,
+          height: 1,
+          overflow: "hidden",
+        }}
+      >
+        Best maternity clinic in Jayanagar
+      </h1>
       <Layout headerStyle={1} footerStyle={1}>
         <Banner />
         {/* <Features /> */}
@@ -35,9 +45,9 @@ export default function Home() {
 }
 
 export const metadata = {
-  title: "Best Gynecologist in Jayanagar",
+  title: "Best Maternity Clinic in Jayanagar | Trusted Care Bangalore",
   description:
-    "Best Gynecologist in Jayanagar - Expert women's health care, offering advanced treatments, personalized consultations, and compassionate support for overall wellness.",
+    "Experience compassionate maternity care at the Best Maternity Clinic in Jayanagar, Bangalore. Expert gynecologist support for pregnancy, delivery, and women's health.",
   alternates: {
     canonical: "https://www.drmadhurimsobgyn.com/",
   },

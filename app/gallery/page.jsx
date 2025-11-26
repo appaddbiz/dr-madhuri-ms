@@ -5,8 +5,8 @@ import Link from "next/link";
 export default function Gallery() {
   return (
     <>
-      {/* SEO H2 (visually hidden for semantics) */}
-      <h2
+      {/* SEO H1 (visually hidden for semantics) */}
+      <h1
         style={{
           position: "absolute",
           left: "-9999px",
@@ -16,7 +16,7 @@ export default function Gallery() {
         }}
       >
         Fibroid Treatment in Jayanagar
-      </h2>
+      </h1>
       <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Team Details">
         {/*Project One Start*/}
         <section className="project-one" style={{ paddingTop: "60px" }}>
@@ -26,7 +26,7 @@ export default function Gallery() {
                 <div className="section-title__tagline-shape">
                   <img
                     src="assets/images/shapes/section-title-tagline-shape.png"
-                    alt=""
+                    alt="Fibroid Treatment in Jayanagar"
                   />
                 </div>
                 <span className="section-title__tagline">Our Gallery</span>
@@ -224,7 +224,7 @@ export default function Gallery() {
                     <div className="project-one__img">
                       <img
                         src="/assets/gallery/IMG-20250903-WA0031.jpg"
-                        alt=""
+                        alt="Fibroid Treatment in Jayanagar"
                       />
                     </div>
                   </div>
@@ -239,7 +239,7 @@ export default function Gallery() {
                     <div className="project-one__img">
                       <img
                         src="/assets/gallery/IMG-20250903-WA0033.jpg"
-                        alt=""
+                        alt="Fibroid Treatment in Jayanagar"
                       />
                     </div>
                   </div>
@@ -253,8 +253,8 @@ export default function Gallery() {
                   <div className="project-one__img-box">
                     <div className="project-one__img">
                       <img
-                        src="/assets/gallery/WhatsApp Image 2025-11-17 at 12.17.34_17664627.jpg"
-                        alt=""
+                        src="/assets/gallery/WhatsApp Image 2025-11-17 at 12.17.34_4a470ac0.jpg"
+                        alt="Fibroid Treatment in Jayanagar"
                       />
                     </div>
                   </div>
