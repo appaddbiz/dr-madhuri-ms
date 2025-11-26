@@ -11,6 +11,13 @@ export default function Service() {
   const [data, setData] = useState([]);
   console.log("data", data);
 
+  const h1Text =
+    name === "obstetrics"
+      ? "Best Obstetrician in Jayanagar"
+      : name === "gynaecology"
+      ? "Gynaecology Clinic in Jayanagar"
+      : "";
+
   useEffect(() => {
     const update = subServices.filter((ele, i) => {
       return ele.link === name;
@@ -20,6 +27,19 @@ export default function Service() {
 
   return (
     <>
+      {h1Text ? (
+        <h1
+          style={{
+            position: "absolute",
+            left: "-9999px",
+            width: 1,
+            height: 1,
+            overflow: "hidden",
+          }}
+        >
+          {h1Text}
+        </h1>
+      ) : null}
       {/*Services One Start*/}
       <Layout
         headerStyle={1}

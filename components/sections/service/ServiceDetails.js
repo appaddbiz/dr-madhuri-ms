@@ -19,15 +19,40 @@ const ServiceDetails = () => {
   const parts = pathname.split("/").filter(Boolean);
   const detailSlug = parts[2];
 
+  const seoH1Map = {
+    "antenatal-and-post-natal-care": "Comprehensive Antenatal Care in Jayanagar",
+    "high-risk-pregnancy": "High Risk Pregnancy Specialist in Jayanagar",
+    "previous-cesarean-pregnancy-tolac": "Pregnancy after C-section treatment in Jayanagar",
+    "poor-obstetric-past": "Best Obstetrician in Jayanagar",
+    "recurrent-loss-of-pregnancy": "Recurrent Loss of Pregnancy treatment in Jayanagar",
+    "diabetes-in-pregnancy-gdm": "Diabetes in Pregnancy  Treatment in Jayanagar 7th Block Care",
+    "hypertension-in-pregnancy-pih": "Hypertension in Pregnancy treatment in Jayanagar",
+    "twin-triplet-quadruplet-pregnancy": "Twin pregnancy Specialist in jayanagar 9th block",
+    "multiple-pregnancies": "Multiple birth pregnancy doctor in Jayanagar",
+  };
+
   // Find the service object that matches the slug
   const pageData = Array.isArray(services)
     ? services.find(
         (service) => service.title && slugify(service.title) === detailSlug
       )
     : null;
+  const h1Text = seoH1Map[detailSlug] || pageData?.title || "Service";
+  const heroAlt = seoH1Map[detailSlug] || pageData?.image?.alt || "Service Details";
 
   return (
     <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Digital Marketing">
+      <h1
+        style={{
+          position: "absolute",
+          left: "-9999px",
+          width: 1,
+          height: 1,
+          overflow: "hidden",
+        }}
+      >
+        {h1Text}
+      </h1>
       <section className="service-details">
         <div className="container">
           <div className="row">
@@ -47,7 +72,7 @@ const ServiceDetails = () => {
                       pageData?.image?.src ||
                       "assets/images/services/service-details-img-6.jpg"
                     }
-                    alt={pageData?.image?.alt || "Service Details"}
+                    alt={heroAlt}
                   />
                 </div>
 

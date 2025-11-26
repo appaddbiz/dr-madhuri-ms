@@ -6,8 +6,8 @@ import Link from "next/link";
 export default function Home() {
   return (
     <>
-      {/* SEO H2 (visually hidden for semantics) */}
-      <h2
+      {/* SEO H1 (visually hidden for semantics) */}
+      <h1
         style={{
           position: "absolute",
           left: "-9999px",
@@ -17,7 +17,7 @@ export default function Home() {
         }}
       >
         Laparoscopic Gynecologist in Jayanagar
-      </h2>
+      </h1>
       <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Contact">
         {/*Contact Two Start*/}
         <section className="contact-two">

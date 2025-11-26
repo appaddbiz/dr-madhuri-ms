@@ -3,9 +3,9 @@ import Layout from "@/components/layout/Layout";
 import Cta from "@/components/sections/home1/Cta";
 
 export const metadata = {
-  title: "VBAC Specialist in Jayanagar",
+  title: "VBAC Specialist in Jayanagar | Expert Care Bangalore",
   description:
-    "VBAC Specialist in Jayanagar - Expert care for safe Vaginal Birth After Cesarean, personalized guidance, and advanced support for a healthy delivery journey.",
+    "Experience safe and personalized VBAC care with a trusted VBAC Specialist in Jayanagar, Bangalore. Get expert guidance, advanced monitoring, and compassionate support.",
   alternates: {
     canonical: "https://www.drmadhurimsobgyn.com/about-doctor",
   },
@@ -13,10 +13,10 @@ export const metadata = {
 export default function Home() {
   return (
     <>
-      {/* SEO H2 (visually hidden for semantics) */}
-      <h2 style={{position:'absolute',left:'-9999px',width:1,height:1,overflow:'hidden'}}>
+      {/* SEO H1 (visually hidden for semantics) */}
+      <h1 style={{position:'absolute',left:'-9999px',width:1,height:1,overflow:'hidden'}}>
         VBAC Specialist in Jayanagar
-      </h2>
+      </h1>
       <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Team Details">
         {/*Team Details Start*/}
         <section className="team-details">
