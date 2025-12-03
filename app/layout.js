@@ -62,14 +62,14 @@ export default function RootLayout({ children }) {
 
         {/* Google Analytics */}
         <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-QDDNNJJ07B"
+          src="https://www.googletagmanager.com/gtag/js?id=G-H6CN50R24E"
           strategy="afterInteractive"
         />
-        <Script id="google-analytics" strategy="afterInteractive">{`
+        <Script id="google-analytics-h6cn50r24e" strategy="afterInteractive">{`
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
-          gtag('config', 'G-QDDNNJJ07B');
+          gtag('config', 'G-H6CN50R24E');
         `}</Script>
       </body>
     </html>
