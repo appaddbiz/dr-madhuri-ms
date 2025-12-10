@@ -6,7 +6,8 @@ export default function Head() {
     "@id": "https://www.drmadhurimsobgyn.com/#clinic",
     name: "Dr Madhuri M S OB-GYN Clinic",
     url: "https://www.drmadhurimsobgyn.com/",
-    image: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+    image:
+      "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
     logo: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
     address: {
       "@type": "PostalAddress",
