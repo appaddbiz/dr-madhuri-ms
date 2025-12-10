@@ -298,7 +298,7 @@ const seoConfig = {
 };
 
 export async function generateMetadata({ params }) {
-  // Await params for Next.js 15+ compatibility
+  
   const resolvedParams = await params;
   const segs = Array.isArray(resolvedParams?.["sub-services"]) 
     ? resolvedParams["sub-services"] 
