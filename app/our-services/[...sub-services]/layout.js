@@ -298,7 +298,11 @@ const seoConfig = {
 };
 
 export async function generateMetadata({ params }) {
-  const segs = Array.isArray(params?.["sub-services"]) ? params["sub-services"] : [];
+  // Await params for Next.js 15+ compatibility
+  const resolvedParams = await params;
+  const segs = Array.isArray(resolvedParams?.["sub-services"]) 
+    ? resolvedParams["sub-services"] 
+    : [];
   const pathKey = segs.join("/");
   const seo = seoConfig[pathKey];
 
@@ -312,10 +316,14 @@ export async function generateMetadata({ params }) {
     };
   }
 
-  return {};
+  // Return default metadata if no match found
+  return {
+    title: "Dr. Madhuri M S - Expert Gynecologist in Jayanagar",
+    description: "Comprehensive women's healthcare services in Jayanagar, Bangalore.",
+  };
 }
 
-export default function SubServicesLayout({ children }) {
+export default function SubServicesLayout({ children, params }) {
   return children;
 }
-
+export const dynamic = "force-dynamic";
