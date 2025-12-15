@@ -13,7 +13,7 @@ export const SEOSection = () => {
 
   useEffect(() => {
     const update = seoMetaData.find(
-      (elem) => elem.url == `http://localhost:3000/${fullUrl}`
+      (elem) => elem.url == `https://www.drmadhurimsobgyn.com/${fullUrl}`
     );
     setValue(update);
   }, [fullUrl]);
