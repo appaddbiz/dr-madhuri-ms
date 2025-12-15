@@ -6,6 +6,8 @@ import "swiper/css/pagination";
 import "swiper/css/free-mode";
 import { dmSans, manrope } from "@/lib/font";
 import Script from "next/script";
+import { SEOSection } from "@/components/seo/SEOSection";
+import SEOPage from "./seo/page";
 // import Plugin from "@/components/plugin/Plugin";
 
 export const metadata = {
@@ -21,6 +23,11 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className={`${dmSans.variable} ${manrope.variable}`}>
+      <head>
+        <meta name="author" content="Themeservices" />
+        <link rel="icon" href="/favicon.jpg" sizes="any" />
+        <SEOPage />
+      </head>
       <body>
         {children}
 
