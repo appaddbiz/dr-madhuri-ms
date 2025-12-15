@@ -13,9 +13,10 @@ export const SEOSection = () => {
 
   useEffect(() => {
     const update = seoMetaData.find(
-      (elem) => elem.url == `https://www.drmadhurimsobgyn.com/${fullUrl}`
+      (elem) => elem.url == `https://www.drmadhurimsobgyn.com${fullUrl}`
     );
     setValue(update);
+    console.log("object", update);
   }, [fullUrl]);
 
   return (
