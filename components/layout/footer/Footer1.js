@@ -126,6 +126,9 @@ export default function Footer1() {
                     <li>
                       <Link href="/contact">Contact</Link>
                     </li>
+                    <li>
+                      <Link href="/sitemap">Sitemap</Link>
+                    </li>
                   </ul>
                 </div>
               </div>
