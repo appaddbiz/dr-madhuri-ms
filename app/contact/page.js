@@ -33,7 +33,7 @@ export default function Home() {
             </div> */}
           <div className="container">
             <div className="row">
-              <div className="col-xl-4" style={{marginBottom:"40px"}}>
+              <div className="col-xl-4" style={{ marginBottom: "40px" }}>
                 <div className="contact-two__left">
                   <div className="section-title text-left">
                     <div className="section-title__tagline-box">
@@ -156,7 +156,7 @@ export default function Home() {
                   style={{
                     fontSize: "18px",
                     marginBottom: "10px",
-                    color:"#f50963"
+                    color: "#f50963",
                   }}
                 >
                   Vega Health Care and Diagnostics <br />
@@ -175,11 +175,11 @@ export default function Home() {
                   style={{
                     fontSize: "18px",
                     marginBottom: "10px",
-                    color:"#f50963"
+                    color: "#f50963",
                   }}
                 >
                   Maiya Multi Speciality Hospital <br />
-                  <span>Timings : 5 PM to 6:30 PM</span>
+                  <span>Timings : 5 PM to 7:00 PM</span>
                 </p>
                 <iframe
                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3928.961812920714!2d77.5855859!3d12.9425794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae15be18fc071b%3A0x9c0e5d2e2f04a5e5!2sMaiya%20Multi%20Speciality%20Hospital!5e1!3m2!1sen!2sin!4v1763451199063!5m2!1sen!2sin"
