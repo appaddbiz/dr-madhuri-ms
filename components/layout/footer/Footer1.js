@@ -183,7 +183,7 @@ export default function Footer1() {
                   >
                     Maiya Multi Speciality Hospital <br />
                     <span style={{ color: "white" }}>
-                      Timings : 5 PM to 6:30 PM
+                      Timings : 5 PM to 7:00 PM
                     </span>
                   </p>
                   <ul className="footer-widget__Gallery-list list-unstyled clearfix">
