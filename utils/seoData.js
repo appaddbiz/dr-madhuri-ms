@@ -7588,4 +7588,759 @@ export const seoMetaData = [
       sameAs: ["https://www.drmadhurimsobgyn.com/"]
     }
   },
+
+  {
+    url: "https://www.drmadhurimsobgyn.com/sitemap/best-maternity-clinic-in-byrasandra",
+    title: "Best Maternity Clinic in Byrasandra for Pregnancy Care",
+    description:
+      "Choose the Best Maternity Clinic in Byrasandra for expert pregnancy care, safe delivery services, prenatal monitoring, and postnatal support.",
+    keywords:
+      "Best maternity clinic in Byrasandra, Best maternity clinic in Jayanagar, Best Gynecologist in Jayanagar 7th Block, Gynaecology Clinic in Jayanagar",
+    h2: "Best Maternity Clinic in Byrasandra for Complete Care",
+    jsonScript: {
+      "@context": "https://schema.org",
+      "@type": "MedicalClinic",
+      "@id": "https://www.drmadhurimsobgyn.com/best-maternity-clinic-in-byrasandra#clinic",
+      name: "Dr Madhuri M S OB-GYN Clinic",
+      url: "https://www.drmadhurimsobgyn.com/sitemap/best-maternity-clinic-in-byrasandra",
+      image: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      logo: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "Pattabhirama Nagar, Jayanagar",
+        addressLocality: "Bengaluru",
+        addressRegion: "Karnataka",
+        postalCode: "560041",
+        addressCountry: "IN"
+      },
+      geo: {
+        "@type": "GeoCoordinates",
+        latitude: "12.9300",
+        longitude: "77.5800"
+      },
+      telephone: "+91 6361197107",
+      email: "drmadhuri.og@gmail.com",
+      keywords: [
+        "Best maternity clinic in Byrasandra",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
+      ],
+      datePublished: "2025-12-17",
+      sameAs: ["https://www.drmadhurimsobgyn.com/"]
+    }
+  },
+
+  {
+    url: "https://www.drmadhurimsobgyn.com/sitemap/best-obstetrician-in-byrasandra",
+    title: "Expert Pregnancy Care by Leading Obstetrician in Byrasandra",
+    description:
+      "Trusted obstetric care offering personalized pregnancy monitoring, safe delivery planning, advanced diagnostics, and compassionate maternal support.",
+    keywords:
+      "Best Obstetrician in Byrasandra, Best maternity clinic in Jayanagar, Best Gynecologist in Jayanagar 7th Block, Gynaecology Clinic in Jayanagar",
+    h2: "Best Obstetrician in Byrasandra for Safe Pregnancy Care",
+    jsonScript: {
+      "@context": "https://schema.org",
+      "@type": "MedicalClinic",
+      "@id": "https://www.drmadhurimsobgyn.com/best-obstetrician-in-byrasandra#clinic",
+      name: "Dr Madhuri M S OB-GYN Clinic",
+      url: "https://www.drmadhurimsobgyn.com/sitemap/best-obstetrician-in-byrasandra",
+      image: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      logo: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "Pattabhirama Nagar, Jayanagar",
+        addressLocality: "Bengaluru",
+        addressRegion: "Karnataka",
+        postalCode: "560041",
+        addressCountry: "IN"
+      },
+      geo: {
+        "@type": "GeoCoordinates",
+        latitude: "12.9300",
+        longitude: "77.5800"
+      },
+      telephone: "+91 6361197107",
+      email: "drmadhuri.og@gmail.com",
+      keywords: [
+        "Best Obstetrician in Byrasandra",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
+      ],
+      datePublished: "2025-12-17",
+      sameAs: ["https://www.drmadhurimsobgyn.com/"]
+    }
+  },
+
+  {
+    url: "https://www.drmadhurimsobgyn.com/sitemap/best-gynecologist-in-byrasandra",
+    title: "Best Gynecologist in Byrasandra | Expert Care in Bangalore",
+    description:
+      "Consult the Best Gynecologist in Byrasandra for expert care in pregnancy, fertility, menstrual health, and preventive gynecology with personalized treatment.",
+    keywords:
+      "Best Gynecologist in Byrasandra, Best maternity clinic in Jayanagar, Gynaecology Clinic in Jayanagar, Best Gynecologist in Jayanagar 7th Block",
+    h2: "Best Gynecologist in Byrasandra for Women's Health Care",
+    jsonScript: {
+      "@context": "https://schema.org",
+      "@type": "MedicalClinic",
+      "@id": "https://www.drmadhurimsobgyn.com/best-gynecologist-in-byrasandra#clinic",
+      name: "Dr Madhuri M S OB-GYN Clinic",
+      url: "https://www.drmadhurimsobgyn.com/sitemap/best-gynecologist-in-byrasandra",
+      image: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      logo: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "Pattabhirama Nagar, Jayanagar",
+        addressLocality: "Bengaluru",
+        addressRegion: "Karnataka",
+        postalCode: "560041",
+        addressCountry: "IN"
+      },
+      geo: {
+        "@type": "GeoCoordinates",
+        latitude: "12.9300",
+        longitude: "77.5800"
+      },
+      telephone: "+91 6361197107",
+      email: "drmadhuri.og@gmail.com",
+      keywords: [
+        "Best Gynecologist in Byrasandra",
+        "Best maternity clinic in Jayanagar",
+        "Gynaecology Clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block"
+      ],
+      datePublished: "2025-12-17",
+      sameAs: ["https://www.drmadhurimsobgyn.com/"]
+    }
+  },
+
+  {
+    url: "https://www.drmadhurimsobgyn.com/sitemap/high-risk-pregnancy-in-byrasandra",
+    title: "Best Care for High Risk Pregnancy in Byrasandra | Bangalore",
+    description:
+      "Get expert care for High Risk Pregnancy in Byrasandra with advanced monitoring, personalized treatment plans, and specialist obstetric support.",
+    keywords:
+      "High Risk Pregnancy in Byrasandra, Best maternity clinic in Jayanagar, Best Gynecologist in Jayanagar 7th Block, Gynaecology Clinic in Jayanagar",
+    h2: "High Risk Pregnancy in Byrasandra with Expert Care",
+    jsonScript: {
+      "@context": "https://schema.org",
+      "@type": "MedicalClinic",
+      "@id": "https://www.drmadhurimsobgyn.com/high-risk-pregnancy-in-byrasandra#clinic",
+      name: "Dr Madhuri M S OB-GYN Clinic",
+      url: "https://www.drmadhurimsobgyn.com/sitemap/high-risk-pregnancy-in-byrasandra",
+      image: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      logo: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "Pattabhirama Nagar, Jayanagar",
+        addressLocality: "Bengaluru",
+        addressRegion: "Karnataka",
+        postalCode: "560041",
+        addressCountry: "IN"
+      },
+      geo: {
+        "@type": "GeoCoordinates",
+        latitude: "12.9300",
+        longitude: "77.5800"
+      },
+      telephone: "+91 6361197107",
+      email: "drmadhuri.og@gmail.com",
+      keywords: [
+        "High Risk Pregnancy in Byrasandra",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
+      ],
+      datePublished: "2025-12-17",
+      sameAs: ["https://www.drmadhurimsobgyn.com/"]
+    }
+  },
+
+  {
+    url: "https://www.drmadhurimsobgyn.com/sitemap/comprehensive-antenatal-in-byrasandra",
+    title: "Comprehensive Antenatal in Byrasandra– Expert Pregnancy Care",
+    description:
+      "Choose Comprehensive Antenatal in Byrasandra for complete pregnancy care with expert monitoring, scans, nutrition advice, and personalized maternal support.",
+    keywords:
+      "Comprehensive Antenatal in Byrasandra, Best maternity clinic in Jayanagar, Best Gynecologist in Jayanagar 7th Block, Gynaecology Clinic in Jayanagar",
+    h2: "Comprehensive Antenatal in Byrasandra for Healthy Pregnancy Care",
+    jsonScript: {
+      "@context": "https://schema.org",
+      "@type": "MedicalClinic",
+      "@id": "https://www.drmadhurimsobgyn.com/comprehensive-antenatal-in-byrasandra#clinic",
+      name: "Dr Madhuri M S OB-GYN Clinic",
+      url: "https://www.drmadhurimsobgyn.com/sitemap/comprehensive-antenatal-in-byrasandra",
+      image: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      logo: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "Pattabhirama Nagar, Jayanagar",
+        addressLocality: "Bengaluru",
+        addressRegion: "Karnataka",
+        postalCode: "560041",
+        addressCountry: "IN"
+      },
+      geo: {
+        "@type": "GeoCoordinates",
+        latitude: "12.9300",
+        longitude: "77.5800"
+      },
+      telephone: "+91 6361197107",
+      email: "drmadhuri.og@gmail.com",
+      keywords: [
+        "Comprehensive Antenatal in Byrasandra",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
+      ],
+      datePublished: "2025-12-17",
+      sameAs: ["https://www.drmadhurimsobgyn.com/"]
+    }
+  },
+
+  {
+    url: "https://www.drmadhurimsobgyn.com/sitemap/diabetes-in-pregnancy-gdm-treatment-in-byrasandra",
+    title: "Diabetes in Pregnancy Treatment in Byrasandra | Bangalore",
+    description:
+      "Expert Diabetes in Pregnancy (GDM) Treatment in Byrasandra with personalized monitoring, diet guidance, glucose control, and safe maternity care.",
+    keywords:
+      "Diabetes in Pregnancy (GDM) Treatment in Byrasandra, Best maternity clinic in Jayanagar, Diabetes in Pregnancy (GDM) Specialist in Jayanagar 7th Block, Gynaecology Clinic in Jayanagar",
+    h2: "Diabetes in Pregnancy (GDM) Treatment in Byrasandra - Bangalore",
+    jsonScript: {
+      "@context": "https://schema.org",
+      "@type": "MedicalClinic",
+      "@id": "https://www.drmadhurimsobgyn.com/diabetes-in-pregnancy-gdm-treatment-in-byrasandra#clinic",
+      name: "Dr Madhuri M S OB-GYN Clinic",
+      url: "https://www.drmadhurimsobgyn.com/sitemap/diabetes-in-pregnancy-gdm-treatment-in-byrasandra",
+      image: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      logo: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "Pattabhirama Nagar, Jayanagar",
+        addressLocality: "Bengaluru",
+        addressRegion: "Karnataka",
+        postalCode: "560041",
+        addressCountry: "IN"
+      },
+      geo: {
+        "@type": "GeoCoordinates",
+        latitude: "12.9300",
+        longitude: "77.5800"
+      },
+      telephone: "+91 6361197107",
+      email: "drmadhuri.og@gmail.com",
+      keywords: [
+        "Diabetes in Pregnancy (GDM) Treatment in Byrasandra",
+        "Best maternity clinic in Jayanagar",
+        "Diabetes in Pregnancy (GDM) Specialist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
+      ],
+      datePublished: "2025-12-17",
+      sameAs: ["https://www.drmadhurimsobgyn.com/"]
+    }
+  },
+
+  {
+    url: "https://www.drmadhurimsobgyn.com/sitemap/hypertension-in-pregnancy-pih-in-byrasandra",
+    title: "Hypertension in Pregnancy (PIH) in Byrasandra Care|Bangalore",
+    description:
+      "Expert care for Hypertension in Pregnancy (PIH) in Byrasandra with early diagnosis, safe monitoring, and personalized treatment for mother and baby.",
+    keywords:
+      "Hypertension in Pregnancy (PIH) in Byrasandra, Best maternity clinic in Jayanagar, Best Gynecologist in Jayanagar 7th Block, Gynaecology Clinic in Jayanagar",
+    h2: "Hypertension in Pregnancy (PIH) in Byrasandra Care",
+    jsonScript: {
+      "@context": "https://schema.org",
+      "@type": "MedicalClinic",
+      "@id": "https://www.drmadhurimsobgyn.com/hypertension-in-pregnancy-pih-in-byrasandra#clinic",
+      name: "Dr Madhuri M S OB-GYN Clinic",
+      url: "https://www.drmadhurimsobgyn.com/sitemap/hypertension-in-pregnancy-pih-in-byrasandra",
+      image: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      logo: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "Pattabhirama Nagar, Jayanagar",
+        addressLocality: "Bengaluru",
+        addressRegion: "Karnataka",
+        postalCode: "560041",
+        addressCountry: "IN"
+      },
+      geo: {
+        "@type": "GeoCoordinates",
+        latitude: "12.9300",
+        longitude: "77.5800"
+      },
+      telephone: "+91 6361197107",
+      email: "drmadhuri.og@gmail.com",
+      keywords: [
+        "Hypertension in Pregnancy (PIH) in Byrasandra",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
+      ],
+      datePublished: "2025-12-17",
+      sameAs: ["https://www.drmadhurimsobgyn.com/"]
+    }
+  },
+
+  {
+    url: "https://www.drmadhurimsobgyn.com/sitemap/infertility-in-byrasandra",
+    title: "Infertility in Byrasandra | Infertility Treatement Bangalore",
+    description:
+      "Expert care for Infertility in Byrasandra with accurate diagnosis, personalized treatment plans, fertility counseling, and compassionate medical support.",
+    keywords:
+      "Infertility in Byrasandra, Best maternity clinic in Jayanagar, Best Gynecologist in Jayanagar 7th Block, Gynaecology Clinic in Jayanagar",
+    h2: "Infertility in Byrasandra – Advanced Care for Parenthood",
+    jsonScript: {
+      "@context": "https://schema.org",
+      "@type": "MedicalClinic",
+      "@id": "https://www.drmadhurimsobgyn.com/infertility-in-byrasandra#clinic",
+      name: "Dr Madhuri M S OB-GYN Clinic",
+      url: "https://www.drmadhurimsobgyn.com/sitemap/infertility-in-byrasandra",
+      image: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      logo: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "Pattabhirama Nagar, Jayanagar",
+        addressLocality: "Bengaluru",
+        addressRegion: "Karnataka",
+        postalCode: "560041",
+        addressCountry: "IN"
+      },
+      geo: {
+        "@type": "GeoCoordinates",
+        latitude: "12.9300",
+        longitude: "77.5800"
+      },
+      telephone: "+91 6361197107",
+      email: "drmadhurimsobgyn@gmail.com",
+      keywords: [
+        "Infertility in Byrasandra",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
+      ],
+      datePublished: "2025-12-17",
+      sameAs: ["https://www.drmadhurimsobgyn.com/"]
+    }
+  },
+
+  {
+    url: "https://www.drmadhurimsobgyn.com/sitemap/intra-uterine-insemination-iui-in-byrasandra",
+    title: "Intra-Uterine Insemination (IUI) in Byrasandra Care",
+    description:
+      "Intra-Uterine Insemination (IUI) in Byrasandra offers safe, effective fertility treatment with expert guidance, modern facilities, and personalized care.",
+    keywords:
+      "Intra-Uterine Insemination (IUI) in Byrasandra, Best maternity clinic in Jayanagar, Best Gynecologist in Jayanagar 7th Block, Gynaecology Clinic in Jayanagar",
+    h2: "Advanced Intra-Uterine Insemination (IUI) in Byrasandra Care",
+    jsonScript: {
+      "@context": "https://schema.org",
+      "@type": "MedicalClinic",
+      "@id": "https://www.drmadhurimsobgyn.com/intra-uterine-insemination-iui-in-byrasandra#clinic",
+      name: "Dr Madhuri M S OB-GYN Clinic",
+      url: "https://www.drmadhurimsobgyn.com/sitemap/intra-uterine-insemination-iui-in-byrasandra",
+      image: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      logo: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "Pattabhirama Nagar, Jayanagar",
+        addressLocality: "Bengaluru",
+        addressRegion: "Karnataka",
+        postalCode: "560041",
+        addressCountry: "IN"
+      },
+      geo: {
+        "@type": "GeoCoordinates",
+        latitude: "12.9300",
+        longitude: "77.5800"
+      },
+      telephone: "+91 6361197107",
+      email: "drmadhuri.og@gmail.com",
+      keywords: [
+        "Intra-Uterine Insemination (IUI) in Byrasandra",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
+      ],
+      datePublished: "2025-12-17",
+      sameAs: ["https://www.drmadhurimsobgyn.com/"]
+    }
+  },
+
+  {
+    url: "https://www.drmadhurimsobgyn.com/sitemap/ovulation-induction-in-byrasandra",
+    title: "Ovulation Induction in Byrasandra for Fertility Support",
+    description:
+      "Ovulation Induction in Byrasandra helps regulate ovulation, improve fertility, and increase pregnancy chances with personalized gynecological care.",
+    keywords:
+      "Ovulation Induction in Byrasandra, Best maternity clinic in Jayanagar, Best Gynecologist in Jayanagar 7th Block, Gynaecology Clinic in Jayanagar",
+    h2: "Ovulation Induction in Byrasandra for Fertility Care",
+    jsonScript: {
+      "@context": "https://schema.org",
+      "@type": "MedicalClinic",
+      "@id": "https://www.drmadhurimsobgyn.com/ovulation-induction-in-byrasandra#clinic",
+      name: "Dr Madhuri M S OB-GYN Clinic",
+      url: "https://www.drmadhurimsobgyn.com/sitemap/ovulation-induction-in-byrasandra",
+      image: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      logo: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "Pattabhirama Nagar, Jayanagar",
+        addressLocality: "Bengaluru",
+        addressRegion: "Karnataka",
+        postalCode: "560041",
+        addressCountry: "IN"
+      },
+      geo: {
+        "@type": "GeoCoordinates",
+        latitude: "12.9300",
+        longitude: "77.5800"
+      },
+      telephone: "+91 6361197107",
+      email: "drmadhuri.og@gmail.com",
+      keywords: [
+        "Ovulation Induction in Byrasandra",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
+      ],
+      datePublished: "2025-12-17",
+      sameAs: ["https://www.drmadhurimsobgyn.com/"]
+    }
+  },
+
+  {
+    url: "https://www.drmadhurimsobgyn.com/sitemap/laparoscopic-myomectomy-in-byrasandra",
+    title: "Laparoscopic Myomectomy in Byrasandra– Expert Care Bangalore",
+    description:
+      "Choose Laparoscopic Myomectomy in Byrasandra for advanced fibroid removal, faster recovery, minimal scars, and fertility-preserving gynecological care.",
+    keywords:
+      "Laparoscopic Myomectomy in Byrasandra, Best maternity clinic in Jayanagar, Best Gynecologist in Jayanagar 7th Block, Gynaecology Clinic in Jayanagar",
+    h2: "Laparoscopic Myomectomy in Byrasandra for Fibroid Care",
+    jsonScript: {
+      "@context": "https://schema.org",
+      "@type": "MedicalClinic",
+      "@id": "https://www.drmadhurimsobgyn.com/laparoscopic-myomectomy-in-byrasandra#clinic",
+      name: "Dr Madhuri M S OB-GYN Clinic",
+      url: "https://www.drmadhurimsobgyn.com/sitemap/laparoscopic-myomectomy-in-byrasandra",
+      image: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      logo: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "Pattabhirama Nagar, Jayanagar",
+        addressLocality: "Bengaluru",
+        addressRegion: "Karnataka",
+        postalCode: "560041",
+        addressCountry: "IN"
+      },
+      geo: {
+        "@type": "GeoCoordinates",
+        latitude: "12.9300",
+        longitude: "77.5800"
+      },
+      telephone: "+91 6361197107",
+      email: "drmadhuri.og@gmail.com",
+      keywords: [
+        "Laparoscopic Myomectomy in Byrasandra",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
+      ],
+      datePublished: "2025-12-17",
+      sameAs: ["https://www.drmadhurimsobgyn.com/"]
+    }
+  },
+
+  {
+    url: "https://www.drmadhurimsobgyn.com/sitemap/total-laparoscopic-hysterectomy-tlh-in-byrasandra",
+    title: "Best Total Laparoscopic Hysterectomy in Byrasandra Bangalore",
+    description:
+      "Choose Total Laparoscopic Hysterectomy (TLH) in Byrasandra for advanced minimally invasive surgery, faster recovery, less pain, and expert gynecological care.",
+    keywords:
+      "Total Laparoscopic Hysterectomy (TLH) in Byrasandra, Best maternity clinic in Jayanagar, Best Gynecologist in Jayanagar 7th Block, Gynaecology Clinic in Jayanagar",
+    h2: "Total Laparoscopic Hysterectomy (TLH) in Byrasandra - Bangalore",
+    jsonScript: {
+      "@context": "https://schema.org",
+      "@type": "MedicalClinic",
+      "@id": "https://www.drmadhurimsobgyn.com/total-laparoscopic-hysterectomy-tlh-in-byrasandra#clinic",
+      name: "Dr Madhuri M S OB-GYN Clinic",
+      url: "https://www.drmadhurimsobgyn.com/sitemap/total-laparoscopic-hysterectomy-tlh-in-byrasandra",
+      image: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      logo: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "Pattabhirama Nagar, Jayanagar",
+        addressLocality: "Bengaluru",
+        addressRegion: "Karnataka",
+        postalCode: "560041",
+        addressCountry: "IN"
+      },
+      geo: {
+        "@type": "GeoCoordinates",
+        latitude: "12.9300",
+        longitude: "77.5800"
+      },
+      telephone: "+91 6361197107",
+      email: "drmadhuri.og@gmail.com",
+      keywords: [
+        "Total Laparoscopic Hysterectomy (TLH) in Byrasandra",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
+      ],
+      datePublished: "2025-12-17",
+      sameAs: ["https://www.drmadhurimsobgyn.com/"]
+    }
+  },
+
+  {
+    url: "https://www.drmadhurimsobgyn.com/sitemap/laparoscopy-hysteroscopy-in-byrasandra",
+    title: "Laparoscopy & Hysteroscopy in Byrasandra – Advanced Care",
+    description:
+      "Expert Laparoscopy & Hysteroscopy in Byrasandra for accurate diagnosis and minimally invasive treatment of gynecological conditions with faster recovery.",
+    keywords:
+      "Laparoscopy & Hysteroscopy in Byrasandra, Best maternity clinic in Jayanagar, Best Gynecologist in Jayanagar 7th Block, Gynaecology Clinic in Jayanagar",
+    h2: "Laparoscopy & Hysteroscopy in Byrasandra for Women's Care",
+    jsonScript: {
+      "@context": "https://schema.org",
+      "@type": "MedicalClinic",
+      "@id": "https://www.drmadhurimsobgyn.com/laparoscopy-hysteroscopy-in-byrasandra#clinic",
+      name: "Dr Madhuri M S OB-GYN Clinic",
+      url: "https://www.drmadhurimsobgyn.com/sitemap/laparoscopy-hysteroscopy-in-byrasandra",
+      image: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      logo: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "Pattabhirama Nagar, Jayanagar",
+        addressLocality: "Bengaluru",
+        addressRegion: "Karnataka",
+        postalCode: "560041",
+        addressCountry: "IN"
+      },
+      geo: {
+        "@type": "GeoCoordinates",
+        latitude: "12.9300",
+        longitude: "77.5800"
+      },
+      telephone: "+91 6361197107",
+      email: "drmadhuri.og@gmail.com",
+      keywords: [
+        "Laparoscopy & Hysteroscopy in Byrasandra",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
+      ],
+      datePublished: "2025-12-17",
+      sameAs: ["https://www.drmadhurimsobgyn.com/"]
+    }
+  },
+
+  {
+    url: "https://www.drmadhurimsobgyn.com/sitemap/fibroids-leiomyoma-of-uterus-in-byrasandra",
+    title: "Fibroids / Leiomyoma of Uterus in Byrasandra | Bangalore",
+    description:
+      "Expert diagnosis and treatment for Fibroids / Leiomyoma of Uterus in Byrasandra with personalized care, advanced imaging, and fertility-focused solutions.",
+    keywords:
+      "Fibroids / Leiomyoma of Uterus in Byrasandra, Best maternity clinic in Jayanagar, Best Gynecologist in Jayanagar 7th Block, Gynaecology Clinic in Jayanagar",
+    h2: "Fibroids / Leiomyoma of Uterus in Byrasandra Care",
+    jsonScript: {
+      "@context": "https://schema.org",
+      "@type": "MedicalClinic",
+      "@id": "https://www.drmadhurimsobgyn.com/fibroids-leiomyoma-of-uterus-in-byrasandra#clinic",
+      name: "Dr Madhuri M S OB-GYN Clinic",
+      url: "https://www.drmadhurimsobgyn.com/sitemap/fibroids-leiomyoma-of-uterus-in-byrasandra",
+      image: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      logo: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "Pattabhirama Nagar, Jayanagar",
+        addressLocality: "Bengaluru",
+        addressRegion: "Karnataka",
+        postalCode: "560041",
+        addressCountry: "IN"
+      },
+      geo: {
+        "@type": "GeoCoordinates",
+        latitude: "12.9300",
+        longitude: "77.5800"
+      },
+      telephone: "+91 6361197107",
+      email: "drmadhuri.og@gmail.com",
+      keywords: [
+        "Fibroids / Leiomyoma of Uterus in Byrasandra",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
+      ],
+      datePublished: "2025-12-17",
+      sameAs: ["https://www.drmadhurimsobgyn.com/"]
+    }
+  },
+
+  {
+    url: "https://www.drmadhurimsobgyn.com/sitemap/endometriosis-in-byrasandra",
+    title: "Endometriosis in Byrasandra – Advanced Gynecological Care",
+    description:
+      "Get specialized care for Endometriosis in Byrasandra with expert diagnosis, treatment options, and personalized management for women’s reproductive health.",
+    keywords:
+      "Endometriosis in Byrasandra, Best Gynecologist in Jayanagar 7th Block, Gynaecology Clinic in Jayanagar",
+    h2: "Endometriosis in Byrasandra – Expert Care and Treatment",
+    jsonScript: {
+      "@context": "https://schema.org",
+      "@type": "MedicalClinic",
+      "@id": "https://www.drmadhurimsobgyn.com/endometriosis-in-byrasandra#clinic",
+      name: "Dr Madhuri M S OB-GYN Clinic",
+      url: "https://www.drmadhurimsobgyn.com/sitemap/endometriosis-in-byrasandra",
+      image: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      logo: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "Pattabhirama Nagar, Jayanagar",
+        addressLocality: "Bengaluru",
+        addressRegion: "Karnataka",
+        postalCode: "560041",
+        addressCountry: "IN"
+      },
+      geo: {
+        "@type": "GeoCoordinates",
+        latitude: "12.9300",
+        longitude: "77.5800"
+      },
+      telephone: "+91 6361197107",
+      email: "drmadhuri.og@gmail.com",
+      keywords: [
+        "Endometriosis in Byrasandra",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
+      ],
+      datePublished: "2025-12-17",
+      sameAs: ["https://www.drmadhurimsobgyn.com/"]
+    }
+  },
+
+  {
+    url: "https://www.drmadhurimsobgyn.com/sitemap/ovarian-cysts-in-byrasandra",
+    title: "Ovarian Cysts in Byrasandra– Advanced Women’s Care Bangalore",
+    description:
+      "Get effective care for Ovarian Cysts in Byrasandra with expert diagnosis, treatment, and monitoring for women’s reproductive health.",
+    keywords:
+      "Ovarian Cysts in Byrasandra, Best Gynecologist in Jayanagar 7th Block, Gynaecology Clinic in Jayanagar, Women’s Health Clinic in Byrasandra",
+    h2: "Ovarian Cysts in Byrasandra – Expert Diagnosis & Treatment",
+    jsonScript: {
+      "@context": "https://schema.org",
+      "@type": "MedicalClinic",
+      "@id": "https://www.drmadhurimsobgyn.com/ovarian-cysts-in-byrasandra#clinic",
+      name: "Dr Madhuri M S OB-GYN Clinic",
+      url: "https://www.drmadhurimsobgyn.com/sitemap/ovarian-cysts-in-byrasandra",
+      image: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      logo: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "Pattabhirama Nagar, Jayanagar",
+        addressLocality: "Bengaluru",
+        addressRegion: "Karnataka",
+        postalCode: "560041",
+        addressCountry: "IN"
+      },
+      geo: {
+        "@type": "GeoCoordinates",
+        latitude: "12.9300",
+        longitude: "77.5800"
+      },
+      telephone: "+91 6361197107",
+      email: "drmadhuri.og@gmail.com",
+      keywords: [
+        "Ovarian Cysts in Byrasandra",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar",
+        "Women’s Health Clinic in Byrasandra"
+      ],
+      datePublished: "2025-12-17",
+      sameAs: ["https://www.drmadhurimsobgyn.com/"]
+    }
+  },
+
+  {
+    url: "https://www.drmadhurimsobgyn.com/sitemap/recurrent-loss-of-pregnancy-in-byrasandra",
+    title: "Recurrent Loss of Pregnancy in Byrasandra – Bangalore",
+    description:
+      "Get specialized treatment for Recurrent Loss of Pregnancy in Byrasandra with expert diagnosis, personalized care, and advanced reproductive support.",
+    keywords:
+      "Recurrent Loss of Pregnancy in Byrasandra, Best maternity clinic in Jayanagar, Best Gynecologist in Jayanagar 7th Block, Gynaecology Clinic in Jayanagar",
+    h2: "Recurrent Loss of Pregnancy in Byrasandra – Expert Care & Support",
+    jsonScript: {
+      "@context": "https://schema.org",
+      "@type": "MedicalClinic",
+      "@id": "https://www.drmadhurimsobgyn.com/recurrent-loss-of-pregnancy-in-byrasandra#clinic",
+      name: "Dr Madhuri M S OB-GYN Clinic",
+      url: "https://www.drmadhurimsobgyn.com/sitemap/recurrent-loss-of-pregnancy-in-byrasandra",
+      image: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      logo: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "Pattabhirama Nagar, Jayanagar",
+        addressLocality: "Bengaluru",
+        addressRegion: "Karnataka",
+        postalCode: "560041",
+        addressCountry: "IN"
+      },
+      geo: {
+        "@type": "GeoCoordinates",
+        latitude: "12.9300",
+        longitude: "77.5800"
+      },
+      telephone: "+91 6361197107",
+      email: "drmadhuri.og@gmail.com",
+      keywords: [
+        "Recurrent Loss of Pregnancy in Byrasandra",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
+      ],
+      datePublished: "2025-12-17",
+      sameAs: ["https://www.drmadhurimsobgyn.com/"]
+    }
+  },
+
+  {
+    url: "https://www.drmadhurimsobgyn.com/sitemap/labour-and-postnatal-care-in-byrasandra",
+    title: "Labour and Postnatal Care in Byrasandra – Expert Support",
+    description:
+      "Experience reliable Labour and Postnatal Care in Byrasandra with expert monitoring, personalized guidance, and support for a safe and healthy childbirth journey.",
+    keywords:
+      "Labour and Postnatal Care in Byrasandra, Best maternity clinic in Jayanagar, Best Gynecologist in Jayanagar 7th Block, Gynaecology Clinic in Jayanagar",
+    h2: "Labour and Postnatal Care in Byrasandra for Safe Motherhood",
+    jsonScript: {
+      "@context": "https://schema.org",
+      "@type": "MedicalClinic",
+      "@id": "https://www.drmadhurimsobgyn.com/labour-and-postnatal-care-in-byrasandra#clinic",
+      name: "Dr Madhuri M S OB-GYN Clinic",
+      url: "https://www.drmadhurimsobgyn.com/sitemap/labour-and-postnatal-care-in-byrasandra",
+      image: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      logo: "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "Pattabhirama Nagar, Jayanagar",
+        addressLocality: "Bengaluru",
+        addressRegion: "Karnataka",
+        postalCode: "560041",
+        addressCountry: "IN"
+      },
+      geo: {
+        "@type": "GeoCoordinates",
+        latitude: "12.9300",
+        longitude: "77.5800"
+      },
+      telephone: "+91 6361197107",
+      email: "drmadhuri.og@gmail.com",
+      keywords: [
+        "Labour and Postnatal Care in Byrasandra",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
+      ],
+      datePublished: "2025-12-17",
+      sameAs: ["https://www.drmadhurimsobgyn.com/"]
+    }
+  },
 ];
