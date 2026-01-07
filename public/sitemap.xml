@@ -1,280 +1,987 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Home -->
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>1.00</priority>
-    <changefreq>weekly</changefreq>
-  </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-  <!-- About -->
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/about-doctor</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-    <changefreq>monthly</changefreq>
-  </url>
 
-  <!-- Services index pages -->
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.64</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/obstetrics</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/infertility</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/gynaecology</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/ultrasonography</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-    <changefreq>weekly</changefreq>
-  </url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/about-doctor</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/obstetrics</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/obstetrics/antenatal-and-post-natal-care</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/obstetrics/preconceptional-counselling</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/obstetrics/high-risk-pregnancy</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/obstetrics/previous-cesarean-pregnancy-tolac</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/obstetrics/poor-obstetric-past</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/obstetrics/recurrent-loss-of-pregnancy</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/obstetrics/diabetes-in-pregnancy-gdm</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/obstetrics/hypertension-in-pregnancy-pih</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/obstetrics/twin-triplet-quadruplet-pregnancy</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/obstetrics/multiple-pregnancies</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/obstetrics/fetal-growth-restriction</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/infertility</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/infertility/complete-evaluation</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/infertility/ovulation-induction</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/infertility/intra-uterine-insemination-iui</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/gynaecology</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/gynaecology/fibroids-leiomyoma-of-uterus</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/gynaecology/fibroids-of-cervix</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/gynaecology/abnormal-dysfunctional-uterus-bleeding</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/gynaecology/endometriosis</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/gynaecology/ovarian-cysts</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/gynaecology/chocolate-cyst-endometrioma-of-ovary</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/gynaecology/hormone-imbalances</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/gynaecology/severe-pelvic-pain-management</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/gynaecology/menopausal-and-perimenopausal-care</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/gynaecology/annual-check-ups-and-preventive-screenings</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/diagnostic-hystero-laparoscopy</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/operative-hystero-laparoscopy</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/laparoscopic-myomectomy</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/total-laparoscopic-hysterectomy-tlh</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/diagnostic-hysteroscopy</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/hysteroscopic-septal-resection</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/hysteroscopic-polypectomy</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/tubal-re-canalisation</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/chromopertubation</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/laparoscopic-ovarian-cystectomy</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/tubal-clipping-hydrosalpinx</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/laparoscopic-tubal-occlusion-permanent-sterilization</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/ultrasonography</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/ultrasonography/transvaginal-scan</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/ultrasonography/saline-sonography</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/ultrasonography/3d-ultrasonography</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/gallery</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/contact</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/total-laparoscopic-hysterectomy</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/our-services</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/best-maternity-clinic-in-jayanagar-7th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/best-obstetrician-in-jayanagar-7th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/best-gynecologist-in-jayanagar-7th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/high-risk-pregnancy-specialist-in-jayanagar-7th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/comprehensive-antenatal-care-in-jayanagar-7th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/diabetes-in-pregnancy-gdm-treatment-in-jayanagar-7th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/fibroids-leiomyoma-of-uterus-in-jayanagar-7th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/infertility-in-jayanagar-7th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/intra-uterine-insemination-iui-in-jayanagar-7th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/ovulation-induction-in-jayanagar-7th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/laparoscopic-myomectomy-in-jayanagar-7th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/total-laparoscopic-hysterectomy-tlh-in-jayanagar-7th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/laparoscopy-hysteroscopy-in-jayanagar-7th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/endometriosis-in-jayanagar-7th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/ovarian-cysts-in-jayanagar-7th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/recurrent-loss-of-pregnancy-in-jayanagar-7th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/labour-and-postnatal-care-in-jayanagar-7th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/hypertension-in-pregnancy-pih-in-jayanagar-7th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/best-maternity-clinic-tavarekere-main-road</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/best-obstetrician-in-tavarekere-main-road</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/best-gynaecologist-in-tavarekere-main-road</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/high-risk-pregnancy-in-tavarekere-main-road</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/comprehensive-antenatal-in-tavarekere-main-road</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/diabetes-in-pregnancy-gdm-treatment-in-tavarekere-main-road</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/fibroids-leiomyoma-of-uterus-in-tavarekere-main-road</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/infertility-in-tavarekere-main-road</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/intra-uterine-insemination-iui-in-tavarekere-main-road</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/ovulation-induction-in-tavarekere-main-road</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/laparoscopic-myomectomy-in-tavarekere-main-road</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/total-laparoscopic-hysterectomy-tlh-in-tavarekere-main-road</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/laparoscopy-hysteroscopy-in-tavarekere-main-road</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/endometriosis-in-tavarekere-main-road</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/ovarian-cysts-in-tavarekere-main-road</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/recurrent-loss-of-pregnancy-in-tavarekere-main-road</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/labour-and-postnatal-care-in-tavarekere-main-road</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/hypertension-in-pregnancy-pih-in-tavarekere-main-road</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/best-maternity-clinic-in-jayanagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/best-obstetrician-in-jayanagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/best-gynecologist-in-jayanagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/high-risk-pregnancy-specialist-in-jayanagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/comprehensive-antenatal-care-in-jayanagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/diabetes-in-pregnancy-gdm-treatment-in-jayanagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/fibroids-leiomyoma-of-uterus-in-jayanagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/infertility-in-jayanagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/intra-uterine-insemination-iui-in-jayanagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/ovulation-induction-in-jayanagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/laparoscopic-myomectomy-in-jayanagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/total-laparoscopic-hysterectomy-tlh-in-jayanagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/laparoscopy-hysteroscopy-in-jayanagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/endometriosis-in-jayanagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/ovarian-cysts-in-jayanagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/recurrent-loss-of-pregnancy-in-jayanagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/labour-and-postnatal-care-in-jayanagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/hypertension-in-pregnancy-pih-in-jayanagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/best-maternity-clinic-in-jayanagar-4th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/best-obstetrician-in-jayanagar-4th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/best-gynecologist-in-jayanagar-4th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/high-risk-pregnancy-specialist-in-jayanagar-4th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/comprehensive-antenatal-care-in-jayanagar-4th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/diabetes-in-pregnancy-gdm-treatment-in-jayanagar-4th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/fibroids-leiomyoma-of-uterus-in-jayanagar-4th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/infertility-in-jayanagar-4th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/intra-uterine-insemination-iui-in-jayanagar-4th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/ovulation-induction-in-jayanagar-4th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/laparoscopic-myomectomy-in-jayanagar-4th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/total-laparoscopic-hysterectomy-tlh-in-jayanagar-4th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/laparoscopy-hysteroscopy-in-jayanagar-4th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/endometriosis-in-jayanagar-4th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/ovarian-cysts-in-jayanagar-4th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/recurrent-loss-of-pregnancy-in-jayanagar-4th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/labour-and-postnatal-care-in-jayanagar-4th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/hypertension-in-pregnancy-pih-in-jayanagar-4th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/best-maternity-clinic-in-jayanagar-9th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/best-obstetrician-in-jayanagar-9th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/best-gynecologist-in-jayanagar-9th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/high-risk-pregnancy-specialist-in-jayanagar-9th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/comprehensive-antenatal-care-in-jayanagar-9th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/diabetes-in-pregnancy-gdm-treatment-in-jayanagar-9th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/fibroids-leiomyoma-of-uterus-in-jayanagar-9th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/infertility-in-jayanagar-9th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/intra-uterine-insemination-iui-in-jayanagar-9th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/ovulation-induction-in-jayanagar-9th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/laparoscopic-myomectomy-in-jayanagar-9th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/total-laparoscopic-hysterectomy-tlh-in-jayanagar-9th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/laparoscopy-hysteroscopy-in-jayanagar-9th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/endometriosis-in-jayanagar-9th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/ovarian-cysts-in-jayanagar-9th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/recurrent-loss-of-pregnancy-in-jayanagar-9th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/labour-and-postnatal-care-in-jayanagar-9th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/hypertension-in-pregnancy-pih-in-jayanagar-9th-block</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/best-maternity-clinic-in-sg-palya</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/best-obstetrician-in-sg-palya</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/best-gynecologist-in-sg-palya</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/high-risk-pregnancy-in-sg-palya</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/comprehensive-antenatal-in-sg-palya</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/diabetes-in-pregnancy-gdm-treatment-in-sg-palya</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/fibroids-leiomyoma-of-uterus-in-sg-palya</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/infertility-in-sg-palya</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/intra-uterine-insemination-iui-in-sg-palya</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/ovulation-induction-in-sg-palya</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/laparoscopic-myomectomy-in-sg-palya</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/total-laparoscopic-hysterectomy-tlh-in-sg-palya</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/laparoscopy-hysteroscopy-in-sg-palya</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/endometriosis-in-sg-palya</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/ovarian-cysts-in-sg-palya</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/recurrent-loss-of-pregnancy-in-sg-palya</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/labour-and-postnatal-care-in-sg-palya</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/hypertension-in-pregnancy-pih-in-sg-palya</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/best-maternity-clinic-in-tilak-nagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/best-obstetrician-in-tilak-nagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/best-gynecologist-in-tilak-nagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/high-risk-pregnancy-in-tilak-nagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/comprehensive-antenatal-in-tilak-nagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/diabetes-in-pregnancy-gdm-treatment-in-tilak-nagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/fibroids-leiomyoma-of-uterus-in-tilak-nagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/infertility-in-tilak-nagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/intra-uterine-insemination-iui-in-tilak-nagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/ovulation-induction-in-tilak-nagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/laparoscopic-myomectomy-in-tilak-nagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/total-laparoscopic-hysterectomy-tlh-in-tilak-nagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/laparoscopy-hysteroscopy-in-tilak-nagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/endometriosis-in-tilak-nagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/ovarian-cysts-in-tilak-nagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/recurrent-loss-of-pregnancy-in-tilak-nagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/labour-and-postnatal-care-in-tilak-nagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/hypertension-in-pregnancy-pih-in-tilak-nagar</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/best-maternity-clinic-in-byrasandra</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/best-obstetrician-in-byrasandra</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/best-gynecologist-in-byrasandra</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/high-risk-pregnancy-in-byrasandra</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/comprehensive-antenatal-in-byrasandra</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/diabetes-in-pregnancy-gdm-treatment-in-byrasandra</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/fibroids-leiomyoma-of-uterus-in-byrasandra</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/infertility-in-byrasandra</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/intra-uterine-insemination-iui-in-byrasandra</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/ovulation-induction-in-byrasandra</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/laparoscopic-myomectomy-in-byrasandra</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/total-laparoscopic-hysterectomy-tlh-in-byrasandra</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/laparoscopy-hysteroscopy-in-byrasandra</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/endometriosis-in-byrasandra</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/ovarian-cysts-in-byrasandra</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/recurrent-loss-of-pregnancy-in-byrasandra</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/labour-and-postnatal-care-in-byrasandra</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.drmadhurimsobgyn.com/sitemap/hypertension-in-pregnancy-pih-in-byrasandra</loc>
+  <lastmod>2026-01-07T07:38:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
 
-  <!-- Obstetrics details -->
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/obstetrics/antenatal-and-post-natal-care</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/obstetrics/preconceptional-counselling</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/obstetrics/high-risk-pregnancy</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/obstetrics/previous-cesarean-pregnancy-tolac</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/obstetrics/poor-obstetric-past</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/obstetrics/recurrent-loss-of-pregnancy</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/obstetrics/diabetes-in-pregnancy-gdm</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/obstetrics/hypertension-in-pregnancy-pih</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/obstetrics/twin-triplet-quadruplet-pregnancy</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/obstetrics/multiple-pregnancies</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/obstetrics/fetal-growth-restriction</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
 
-  <!-- Infertility details -->
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/infertility/complete-evaluation</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/infertility/ovulation-induction</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/infertility/intra-uterine-insemination-iui</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-
-  <!-- Gynaecology details -->
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/gynaecology/fibroids-leiomyoma-of-uterus</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/gynaecology/fibroids-of-cervix</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/gynaecology/abnormal-dysfunctional-uterus-bleeding</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/gynaecology/endometriosis</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/gynaecology/ovarian-cysts</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/gynaecology/chocolate-cyst-endometrioma-of-ovary</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/gynaecology/hormone-imbalances</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/gynaecology/severe-pelvic-pain-management</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/gynaecology/menopausal-and-perimenopausal-care</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/gynaecology/annual-check-ups-and-preventive-screenings</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-
-  <!-- Laparoscopy/Hysteroscopy details -->
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/diagnostic-hystero-laparoscopy</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/operative-hystero-laparoscopy</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/laparoscopic-myomectomy</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/total-laparoscopic-hysterectomy-tlh</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/diagnostic-hysteroscopy</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/hysteroscopic-septal-resection</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/hysteroscopic-polypectomy</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/tubal-re-canalisation</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/chromopertubation</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/laparoscopic-ovarian-cystectomy</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/tubal-clipping-hydrosalpinx</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/laparoscopic-tubal-occlusion-permanent-sterilization</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-
-  <!-- Ultrasonography details -->
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/ultrasonography/transvaginal-scan</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/ultrasonography/saline-sonography</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/ultrasonography/3d-ultrasonography</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-
-  <!-- Other pages -->
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/gallery</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/contact</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-
-  <!-- If you also use this URL (it differs slightly from TLH above) -->
-  <url>
-    <loc>https://www.drmadhurimsobgyn.com/our-services/laparoscopy-hysteroscopy/total-laparoscopic-hysterectomy</loc>
-    <lastmod>2025-10-07</lastmod>
-    <priority>0.80</priority>
-  </url>
 </urlset>
