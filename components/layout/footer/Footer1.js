@@ -1,6 +1,27 @@
 import Link from "next/link";
 
 export default function Footer1() {
+  const hospitalLocations = [
+    {
+      name: "Vega Health Care and Diagnostics",
+      timings: "4 PM to 5 PM",
+      mapSrc:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3929.220370766951!2d77.58944679999999!3d12.9261622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1563e26bbd3f%3A0x4e930c0d201868f9!2sVega%20Health%20Care%20and%20Diagnostics%20%7C%20Ultrasound%2C%20Fetal%20Imaging%2C%20Gastroenterology%2C%20ENT%20%7C%20Jayanagar%2C%20Bangalore!5e1!3m2!1sen!2sin!4v1757065813476!5m2!1sen!2sin",
+    },
+    {
+      name: "Maiya Multi Speciality Hospital",
+      timings: "4:30 PM to 5:30 PM",
+      mapSrc:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3928.961812920714!2d77.5855859!3d12.9425794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae15be18fc071b%3A0x9c0e5d2e2f04a5e5!2sMaiya%20Multi%20Speciality%20Hospital!5e1!3m2!1sen!2sin!4v1763451199063!5m2!1sen!2sin",
+    },
+    {
+      name: "Brindhavan Aerion Hospital",
+      timings: "5:30 PM to 6:30 PM",
+      mapSrc:
+        "https://www.google.com/maps?q=Brindhavvan%20Areion%20Hospital%2C%2017%2C%204th%20Main%20Rd%2C%20Chamrajpet%2C%20Bengaluru%2C%20Karnataka%20560018&output=embed",
+    },
+  ];
+
   return (
     <>
       <style>
@@ -133,70 +154,43 @@ export default function Footer1() {
                 </div>
               </div>
               <div
-                className="col-xl-3 col-lg-6 col-md-6 wow fadeInUp"
+                className="col-xl-6 col-lg-12 col-md-12 wow fadeInUp"
                 data-wow-delay="500ms"
               >
                 <div className="footer-widget__column footer-widget__Gallery">
                   <div className="footer-widget__title-box">
                     <h3 className="footer-widget__title">Locate Us</h3>
                   </div>
-                  <p
-                    style={{
-                      color: "white",
-                      fontSize: "18px",
-                      marginBottom: "10px",
-                    }}
-                  >
-                    Vega Health Care and Diagnostics <br />
-                    <span style={{ color: "white" }}>
-                      Timings : 4 PM to 5 PM
-                    </span>
-                  </p>
-                  <ul className="footer-widget__Gallery-list list-unstyled clearfix">
-                    <li>
-                      <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3929.220370766951!2d77.58944679999999!3d12.9261622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1563e26bbd3f%3A0x4e930c0d201868f9!2sVega%20Health%20Care%20and%20Diagnostics%20%7C%20Ultrasound%2C%20Fetal%20Imaging%2C%20Gastroenterology%2C%20ENT%20%7C%20Jayanagar%2C%20Bangalore!5e1!3m2!1sen!2sin!4v1757065813476!5m2!1sen!2sin"
-                        style={{ height: "250px", width: "90%" }}
-                        allowFullScreen=""
-                        loading="lazy"
-                        referrerPolicy="no-referrer-when-downgrade"
-                        title="Vega Health Care and Diagnostics Location"
-                      ></iframe>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-              <div
-                className="col-xl-3 col-lg-6 col-md-6 wow fadeInUp"
-                data-wow-delay="500ms"
-              >
-                <div className="footer-widget__column footer-widget__Gallery">
-                  <div className="footer-widget__title-box">
-                    <h3 className="footer-widget__title">Locate Us</h3>
+                  <div className="row">
+                    {hospitalLocations.map((location) => (
+                      <div
+                        key={location.name}
+                        className="col-xl-4 col-md-6"
+                        style={{ marginBottom: "30px" }}
+                      >
+                        <p
+                          style={{
+                            color: "white",
+                            fontSize: "18px",
+                            marginBottom: "10px",
+                          }}
+                        >
+                          {location.name} <br />
+                          <span style={{ color: "white" }}>
+                            Timings : {location.timings}
+                          </span>
+                        </p>
+                        <iframe
+                          src={location.mapSrc}
+                          style={{ height: "250px", width: "100%" }}
+                          allowFullScreen=""
+                          loading="lazy"
+                          referrerPolicy="no-referrer-when-downgrade"
+                          title={`${location.name} Location`}
+                        ></iframe>
+                      </div>
+                    ))}
                   </div>
-                  <p
-                    style={{
-                      color: "white",
-                      fontSize: "18px",
-                      marginBottom: "10px",
-                    }}
-                  >
-                    Maiya Multi Speciality Hospital <br />
-                    <span style={{ color: "white" }}>
-                      Timings : 5 PM to 7:00 PM
-                    </span>
-                  </p>
-                  <ul className="footer-widget__Gallery-list list-unstyled clearfix">
-                    <li>
-                      <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3928.961812920714!2d77.5855859!3d12.9425794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae15be18fc071b%3A0x9c0e5d2e2f04a5e5!2sMaiya%20Multi%20Speciality%20Hospital!5e1!3m2!1sen!2sin!4v1763451199063!5m2!1sen!2sin"
-                        style={{ height: "250px", width: "90%" }}
-                        allowfullscreen=""
-                        loading="lazy"
-                        referrerpolicy="no-referrer-when-downgrade"
-                      ></iframe>
-                    </li>
-                  </ul>
                 </div>
               </div>
             </div>
