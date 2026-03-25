@@ -4,6 +4,27 @@ import Layout from "@/components/layout/Layout";
 import Cta from "@/components/sections/home1/Cta";
 import Link from "next/link";
 export default function Home() {
+  const hospitalLocations = [
+    {
+      name: "Vega Health Care and Diagnostics",
+      timings: "4 PM to 5 PM",
+      mapSrc:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3929.220370766951!2d77.58944679999999!3d12.9261622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1563e26bbd3f%3A0x4e930c0d201868f9!2sVega%20Health%20Care%20and%20Diagnostics%20%7C%20Ultrasound%2C%20Fetal%20Imaging%2C%20Gastroenterology%2C%20ENT%20%7C%20Jayanagar%2C%20Bangalore!5e1!3m2!1sen!2sin!4v1763452359274!5m2!1sen!2sin",
+    },
+    {
+      name: "Maiya Multi Speciality Hospital",
+      timings: "4:30 PM to 5:30 PM",
+      mapSrc:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3928.961812920714!2d77.5855859!3d12.9425794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae15be18fc071b%3A0x9c0e5d2e2f04a5e5!2sMaiya%20Multi%20Speciality%20Hospital!5e1!3m2!1sen!2sin!4v1763451199063!5m2!1sen!2sin",
+    },
+    {
+      name: "Brindhavan Aerion Hospital",
+      timings: "5:30 PM to 6:30 PM",
+      mapSrc:
+        "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7513.1711100955545!2d77.569152!3d12.957902!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae15fbb612ffa9%3A0x536cb958c3d87850!2sBRINDHAVVAN%20AREION%20HOSPITAL!5e1!3m2!1sen!2sus!4v1774441023291!5m2!1sen!2sus",
+    },
+  ];
+
   return (
     <>
       {/* SEO H1 (visually hidden for semantics) */}
@@ -33,7 +54,7 @@ export default function Home() {
             </div> */}
           <div className="container">
             <div className="row">
-              <div className="col-xl-4" style={{ marginBottom: "40px" }}>
+              <div className="col-xl-3" style={{ marginBottom: "40px" }}>
                 <div className="contact-two__left">
                   <div className="section-title text-left">
                     <div className="section-title__tagline-box">
@@ -67,9 +88,9 @@ export default function Home() {
                       Phone: ${phone}
                       Service: ${subject}`;
 
-                      const whatsappNumber = "917899338662"; // Replace with your WhatsApp number
+                      const whatsappNumber = "916361197107"; // Replace with your WhatsApp number
                       const url = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(
-                        message
+                        message,
                       )}`;
 
                       window.open(url, "_blank");
@@ -151,43 +172,35 @@ export default function Home() {
                   </p> */}
                 </div>
               </div>
-              <div className="col-xl-4">
-                <p
-                  style={{
-                    fontSize: "18px",
-                    marginBottom: "10px",
-                    color: "#f50963",
-                  }}
-                >
-                  Vega Health Care and Diagnostics <br />
-                  <span>Timings : 4 PM to 5 PM</span>
-                </p>
-                <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3929.220370766951!2d77.58944679999999!3d12.9261622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1563e26bbd3f%3A0x4e930c0d201868f9!2sVega%20Health%20Care%20and%20Diagnostics%20%7C%20Ultrasound%2C%20Fetal%20Imaging%2C%20Gastroenterology%2C%20ENT%20%7C%20Jayanagar%2C%20Bangalore!5e1!3m2!1sen!2sin!4v1763452359274!5m2!1sen!2sin"
-                  style={{ height: "300px", width: "100%", border: "0" }}
-                  allowfullscreen=""
-                  loading="lazy"
-                  referrerpolicy="no-referrer-when-downgrade"
-                ></iframe>
-              </div>
-              <div className="col-xl-4">
-                <p
-                  style={{
-                    fontSize: "18px",
-                    marginBottom: "10px",
-                    color: "#f50963",
-                  }}
-                >
-                  Maiya Multi Speciality Hospital <br />
-                  <span>Timings : 5 PM to 7:00 PM</span>
-                </p>
-                <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3928.961812920714!2d77.5855859!3d12.9425794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae15be18fc071b%3A0x9c0e5d2e2f04a5e5!2sMaiya%20Multi%20Speciality%20Hospital!5e1!3m2!1sen!2sin!4v1763451199063!5m2!1sen!2sin"
-                  style={{ height: "300px", width: "100%", border: "0" }}
-                  allowfullscreen=""
-                  loading="lazy"
-                  referrerpolicy="no-referrer-when-downgrade"
-                ></iframe>
+              <div className="col-xl-9">
+                <div className="row">
+                  {hospitalLocations.map((location) => (
+                    <div
+                      key={location.name}
+                      className="col-xl-4 col-md-6"
+                      style={{ marginBottom: "30px" }}
+                    >
+                      <p
+                        style={{
+                          fontSize: "18px",
+                          marginBottom: "10px",
+                          color: "#f50963",
+                        }}
+                      >
+                        {location.name} <br />
+                        <span>Timings : {location.timings}</span>
+                      </p>
+                      <iframe
+                        src={location.mapSrc}
+                        style={{ height: "300px", width: "100%", border: "0" }}
+                        allowFullScreen=""
+                        loading="lazy"
+                        referrerPolicy="no-referrer-when-downgrade"
+                        title={`${location.name} Location`}
+                      ></iframe>
+                    </div>
+                  ))}
+                </div>
               </div>
             </div>
           </div>
