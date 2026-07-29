@@ -11,9 +11,9 @@ import SEOPage from "./seo/page";
 // import Plugin from "@/components/plugin/Plugin";
 
 export const metadata = {
-  title: "Best Maternity Clinic in Jayanaga | Trusted Care Bangalore",
+  title: "Best Maternity Clinic in Jayanagar | Trusted Care Bangalore",
   description:
-    "Experience compassionate maternity care at the Best Maternity Clinic in Jayanagar, Bangalore. Expert gynecologist support for pregnancy, delivery, and women's health.",
+    "Compassionate maternity care in Jayanagar, Bangalore, with expert gynecologist support for pregnancy, safe delivery, and women's health.",
   icons: {
     icon: "/assets/flat-icons/Dr-Madhurifavicon.png",
     apple: "/assets/flat-icons/Dr-Madhurifavicon.png",
