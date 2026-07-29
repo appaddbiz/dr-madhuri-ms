@@ -47,7 +47,7 @@ export default function Home() {
 export const metadata = {
   title: "Best Maternity Clinic in Jayanagar | Trusted Care Bangalore",
   description:
-    "Experience compassionate maternity care at the Best Maternity Clinic in Jayanagar, Bangalore. Expert gynecologist support for pregnancy, delivery, and women's health.",
+    "Compassionate maternity care in Jayanagar, Bangalore, with expert gynecologist support for pregnancy, safe delivery, and women's health.",
   alternates: {
     canonical: "https://www.drmadhurimsobgyn.com/",
   },
