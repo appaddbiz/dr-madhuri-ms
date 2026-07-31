@@ -1580,7 +1580,7 @@ export const seoMetaData = [
     }
   },
 
-{
+  {
     url: "https://www.drmadhurimsobgyn.com/sitemap/best-maternity-clinic-in-jayanagar-7th-block",
     title: "Best Maternity Clinic in Jayanagar 7th Block for Care",
     description:
@@ -1597,33 +1597,33 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Best maternity clinic in Jayanagar 7th Block",
-            "Best Gynecologist in Jayanagar 7th Block",
-            "Prenatal Care Specialist in Jayanagar",
-            "High-Risk Pregnancy Care in Jayanagar",
-            "Postnatal Support in Jayanagar",
-            "Gynaecology Clinic in Jayanagar"
+        "Best maternity clinic in Jayanagar 7th Block",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Prenatal Care Specialist in Jayanagar",
+        "High-Risk Pregnancy Care in Jayanagar",
+        "Postnatal Support in Jayanagar",
+        "Gynaecology Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/best-obstetrician-in-jayanagar-7th-block",
@@ -1642,32 +1642,32 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Best Obstetrician in Jayanagar 7th Block",
-            "Pregnancy Care in Jayanagar 7th Block",
-            "High-risk Pregnancy Specialist in Jayanagar",
-            "OBGYN Clinic in Jayanagar",
-            "Maternity Clinic in Jayanagar"
+        "Best Obstetrician in Jayanagar 7th Block",
+        "Pregnancy Care in Jayanagar 7th Block",
+        "High-risk Pregnancy Specialist in Jayanagar",
+        "OBGYN Clinic in Jayanagar",
+        "Maternity Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/best-gynecologist-in-jayanagar-7th-block",
@@ -1686,31 +1686,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Best Gynecologist in Jayanagar 7th Block",
-            "Gynecology Clinic in Jayanagar",
-            "Pregnancy Care Specialist in Jayanagar",
-            "Women Health Clinic in Jayanagar"
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynecology Clinic in Jayanagar",
+        "Pregnancy Care Specialist in Jayanagar",
+        "Women Health Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/high-risk-pregnancy-specialist-in-jayanagar-7th-block",
@@ -1729,32 +1729,32 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "High Risk Pregnancy Specialist in Jayanagar 7th Block",
-            "Best maternity clinic in Jayanagar",
-            "High risk pregnancy care in Bangalore",
-            "Pregnancy complications treatment in Jayanagar",
-            "Gynecologist for high risk pregnancy in Jayanagar"
+        "High Risk Pregnancy Specialist in Jayanagar 7th Block",
+        "Best maternity clinic in Jayanagar",
+        "High risk pregnancy care in Bangalore",
+        "Pregnancy complications treatment in Jayanagar",
+        "Gynecologist for high risk pregnancy in Jayanagar"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/comprehensive-antenatal-care-in-jayanagar-7th-block",
@@ -1773,31 +1773,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Comprehensive Antenatal Care in Jayanagar 7th Block",
-            "Pregnancy Checkup Jayanagar",
-            "Prenatal Care in Jayanagar",
-            "Maternal Health Jayanagar 7th Block"
+        "Comprehensive Antenatal Care in Jayanagar 7th Block",
+        "Pregnancy Checkup Jayanagar",
+        "Prenatal Care in Jayanagar",
+        "Maternal Health Jayanagar 7th Block"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/diabetes-in-pregnancy-gdm-treatment-in-jayanagar-7th-block",
@@ -1816,31 +1816,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Diabetes in Pregnancy (GDM) Treatment in Jayanagar 7th Block",
-            "GDM Specialist Jayanagar",
-            "Gestational Diabetes Care Jayanagar",
-            "Pregnancy Diabetes Management Jayanagar"
+        "Diabetes in Pregnancy (GDM) Treatment in Jayanagar 7th Block",
+        "GDM Specialist Jayanagar",
+        "Gestational Diabetes Care Jayanagar",
+        "Pregnancy Diabetes Management Jayanagar"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/fibroids-leiomyoma-of-uterus-in-jayanagar-7th-block",
@@ -1859,31 +1859,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Fibroids / Leiomyoma of Uterus in Jayanagar 7th Block",
-            "Uterine Fibroid Treatment Jayanagar",
-            "Minimally Invasive Fibroid Surgery Jayanagar",
-            "Gynecologic Care for Fibroids Jayanagar"
+        "Fibroids / Leiomyoma of Uterus in Jayanagar 7th Block",
+        "Uterine Fibroid Treatment Jayanagar",
+        "Minimally Invasive Fibroid Surgery Jayanagar",
+        "Gynecologic Care for Fibroids Jayanagar"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/infertility-in-jayanagar-7th-block",
@@ -1902,31 +1902,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Infertility in Jayanagar 7th Block",
-            "Fertility Specialist Jayanagar",
-            "Assisted Reproductive Techniques Jayanagar",
-            "Advanced Infertility Care Jayanagar"
+        "Infertility in Jayanagar 7th Block",
+        "Fertility Specialist Jayanagar",
+        "Assisted Reproductive Techniques Jayanagar",
+        "Advanced Infertility Care Jayanagar"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/intra-uterine-insemination-iui-in-jayanagar-7th-block",
@@ -1945,31 +1945,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Intra-Uterine Insemination (IUI) in Jayanagar 7th Block",
-            "IUI Treatment Jayanagar",
-            "Assisted Reproductive Techniques Jayanagar",
-            "Fertility Specialist Jayanagar 7th Block"
+        "Intra-Uterine Insemination (IUI) in Jayanagar 7th Block",
+        "IUI Treatment Jayanagar",
+        "Assisted Reproductive Techniques Jayanagar",
+        "Fertility Specialist Jayanagar 7th Block"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/ovulation-induction-in-jayanagar-7th-block",
@@ -1988,31 +1988,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Ovulation Induction in Jayanagar 7th Block",
-            "Fertility Specialist Jayanagar",
-            "Hormonal Ovulation Therapy Jayanagar",
-            "Assisted Reproductive Care Jayanagar"
+        "Ovulation Induction in Jayanagar 7th Block",
+        "Fertility Specialist Jayanagar",
+        "Hormonal Ovulation Therapy Jayanagar",
+        "Assisted Reproductive Care Jayanagar"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/laparoscopic-myomectomy-in-jayanagar-7th-block",
@@ -2031,31 +2031,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Laparoscopic Myomectomy in Jayanagar 7th Block",
-            "Minimally Invasive Fibroid Surgery Jayanagar",
-            "Fertility Preserving Surgery Jayanagar",
-            "Gynecologic Surgery Jayanagar 7th Block"
+        "Laparoscopic Myomectomy in Jayanagar 7th Block",
+        "Minimally Invasive Fibroid Surgery Jayanagar",
+        "Fertility Preserving Surgery Jayanagar",
+        "Gynecologic Surgery Jayanagar 7th Block"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/total-laparoscopic-hysterectomy-tlh-in-jayanagar-7th-block",
@@ -2074,31 +2074,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Total Laparoscopic Hysterectomy (TLH) in Jayanagar 7th Block",
-            "Minimally Invasive Hysterectomy Jayanagar",
-            "TLH Surgery Jayanagar",
-            "Gynecologic Surgery Jayanagar"
+        "Total Laparoscopic Hysterectomy (TLH) in Jayanagar 7th Block",
+        "Minimally Invasive Hysterectomy Jayanagar",
+        "TLH Surgery Jayanagar",
+        "Gynecologic Surgery Jayanagar"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/laparoscopy-&-hysteroscopy-in-jayanagar-7th-block",
@@ -2117,31 +2117,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Laparoscopy & Hysteroscopy in Jayanagar 7th Block",
-            "Minimally Invasive Gynecology Jayanagar",
-            "Infertility Surgery Jayanagar",
-            "Diagnostic and Therapeutic Procedures Jayanagar"
+        "Laparoscopy & Hysteroscopy in Jayanagar 7th Block",
+        "Minimally Invasive Gynecology Jayanagar",
+        "Infertility Surgery Jayanagar",
+        "Diagnostic and Therapeutic Procedures Jayanagar"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/endometriosis-in-jayanagar-7th-block",
@@ -2160,31 +2160,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Endometriosis in Jayanagar 7th Block",
-            "Endometriosis Treatment Jayanagar",
-            "Minimally Invasive Surgery Jayanagar",
-            "Fertility Preservation Jayanagar"
+        "Endometriosis in Jayanagar 7th Block",
+        "Endometriosis Treatment Jayanagar",
+        "Minimally Invasive Surgery Jayanagar",
+        "Fertility Preservation Jayanagar"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/ovarian-cysts-in-jayanagar-7th-block",
@@ -2203,31 +2203,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Ovarian Cysts in Jayanagar 7th Block",
-            "Ovarian Cyst Surgery Jayanagar",
-            "Minimally Invasive Gynecology Jayanagar",
-            "Fertility Preservation Jayanagar"
+        "Ovarian Cysts in Jayanagar 7th Block",
+        "Ovarian Cyst Surgery Jayanagar",
+        "Minimally Invasive Gynecology Jayanagar",
+        "Fertility Preservation Jayanagar"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/recurrent-loss-of-pregnancy-in-jayanagar-7th-block",
@@ -2246,31 +2246,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Recurrent Loss of Pregnancy in Jayanagar 7th Block",
-            "Recurrent Miscarriage Treatment Jayanagar",
-            "Fertility Support Jayanagar",
-            "Specialized Pregnancy Care Jayanagar"
+        "Recurrent Loss of Pregnancy in Jayanagar 7th Block",
+        "Recurrent Miscarriage Treatment Jayanagar",
+        "Fertility Support Jayanagar",
+        "Specialized Pregnancy Care Jayanagar"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/hypertension-in-pregnancy-pih-in-tavarekere-main-road",
@@ -2289,31 +2289,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Labour and Postnatal Care in Jayanagar 7th Block",
-            "Safe Delivery Jayanagar",
-            "Postnatal Support Jayanagar",
-            "Newborn Care Jayanagar"
+        "Labour and Postnatal Care in Jayanagar 7th Block",
+        "Safe Delivery Jayanagar",
+        "Postnatal Support Jayanagar",
+        "Newborn Care Jayanagar"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/hypertension-in-pregnancy-pih-in-jayanagar-7th-block",
@@ -2332,31 +2332,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Hypertension in Pregnancy (PIH) in Jayanagar 7th Block",
-            "Pregnancy High Blood Pressure Jayanagar",
-            "PIH Monitoring Jayanagar",
-            "Maternal-Fetal Care Jayanagar"
+        "Hypertension in Pregnancy (PIH) in Jayanagar 7th Block",
+        "Pregnancy High Blood Pressure Jayanagar",
+        "PIH Monitoring Jayanagar",
+        "Maternal-Fetal Care Jayanagar"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/best-obstetrician-in-tavarekere-main-road",
@@ -2375,32 +2375,32 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Tavarekere Main Road",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560029",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Tavarekere Main Road",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560029",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9141",
-            "longitude": "77.6091"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9141",
+        "longitude": "77.6091"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Best Obstetrician in Tavarekere main road",
-            "Pregnancy Care in Tavarekere",
-            "Prenatal Checkup in Tavarekere",
-            "High-risk Pregnancy Specialist Tavarekere",
-            "Postnatal Care in Tavarekere"
+        "Best Obstetrician in Tavarekere main road",
+        "Pregnancy Care in Tavarekere",
+        "Prenatal Checkup in Tavarekere",
+        "High-risk Pregnancy Specialist Tavarekere",
+        "Postnatal Care in Tavarekere"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/best-gynecologist-in-tavarekere-main-road",
@@ -2419,31 +2419,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Best Gynecologist in Tavarekere main road",
-            "Gynecologist near Tavarekere Main Road",
-            "Women\u2019s Health Specialist Tavarekere",
-            "Obstetrician in Tavarekere"
+        "Best Gynecologist in Tavarekere main road",
+        "Gynecologist near Tavarekere Main Road",
+        "Women\u2019s Health Specialist Tavarekere",
+        "Obstetrician in Tavarekere"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/high-risk-pregnancy-in-tavarekere-main-road",
@@ -2462,31 +2462,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "High Risk Pregnancy in Tavarekere main road",
-            "High Risk Pregnancy care in Tavarekere",
-            "Pregnancy complications care Tavarekere",
-            "Maternal health specialist Tavarekere"
+        "High Risk Pregnancy in Tavarekere main road",
+        "High Risk Pregnancy care in Tavarekere",
+        "Pregnancy complications care Tavarekere",
+        "Maternal health specialist Tavarekere"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/comprehensive-antenatal-in-tavarekere-main-road",
@@ -2505,30 +2505,30 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Comprehensive Antenatal in Tavarekere main road",
-            "Antenatal care Tavarekere",
-            "Pregnancy care Tavarekere"
+        "Comprehensive Antenatal in Tavarekere main road",
+        "Antenatal care Tavarekere",
+        "Pregnancy care Tavarekere"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/diabetes-in-pregnancy-gdm-treatment-in-tavarekere-main-road",
@@ -2547,30 +2547,30 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Diabetes in Pregnancy (GDM) Treatment in Tavarekere main road",
-            "Gestational diabetes care Tavarekere",
-            "GDM specialist Tavarekere"
+        "Diabetes in Pregnancy (GDM) Treatment in Tavarekere main road",
+        "Gestational diabetes care Tavarekere",
+        "GDM specialist Tavarekere"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/hypertension-in-pregnancy-pih-in-tavarekere-main-road",
@@ -2589,30 +2589,30 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Hypertension in Pregnancy (PIH) in Tavarekere main road",
-            "PIH treatment Tavarekere",
-            "Pregnancy hypertension specialist Tavarekere"
+        "Hypertension in Pregnancy (PIH) in Tavarekere main road",
+        "PIH treatment Tavarekere",
+        "Pregnancy hypertension specialist Tavarekere"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/infertility-in-tavarekere-main-road",
@@ -2631,30 +2631,30 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Infertility in Tavarekere main road",
-            "Fertility treatment Tavarekere",
-            "Reproductive care Tavarekere"
+        "Infertility in Tavarekere main road",
+        "Fertility treatment Tavarekere",
+        "Reproductive care Tavarekere"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/ovarian-cysts-in-tavarekere-main-road",
@@ -2673,30 +2673,30 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Ovarian Cysts in Tavarekere main road",
-            "Women\u2019s Health Clinic in Tavarekere Main Road",
-            "OB-GYN Specialist in Tavarekere Main Road"
+        "Ovarian Cysts in Tavarekere main road",
+        "Women\u2019s Health Clinic in Tavarekere Main Road",
+        "OB-GYN Specialist in Tavarekere Main Road"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/recurrent-loss-of-pregnancy-in-tavarekere-main-road",
@@ -2715,30 +2715,30 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Recurrent Loss of Pregnancy in Tavarekere main road",
-            "Miscarriage Specialist in Tavarekere Main Road",
-            "Pregnancy Loss Evaluation Clinic"
+        "Recurrent Loss of Pregnancy in Tavarekere main road",
+        "Miscarriage Specialist in Tavarekere Main Road",
+        "Pregnancy Loss Evaluation Clinic"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/labour-and-postnatal-care-in-tavarekere-main-road",
@@ -2757,30 +2757,30 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Labour and Postnatal Care in Tavarekere main road",
-            "Maternity Care in Tavarekere Main Road",
-            "Post Delivery Care Clinic"
+        "Labour and Postnatal Care in Tavarekere main road",
+        "Maternity Care in Tavarekere Main Road",
+        "Post Delivery Care Clinic"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/intra-uterine-insemination-iui-in-tavarekere-main-road",
@@ -2799,30 +2799,30 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Intra-Uterine Insemination (IUI) in Tavarekere main road",
-            "IUI Treatment in Tavarekere Main Road",
-            "Fertility Clinic in Tavarekere Main Road"
+        "Intra-Uterine Insemination (IUI) in Tavarekere main road",
+        "IUI Treatment in Tavarekere Main Road",
+        "Fertility Clinic in Tavarekere Main Road"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/ovulation-induction-in-tavarekere-main-road",
@@ -2841,30 +2841,30 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Ovulation Induction in Tavarekere main road",
-            "Fertility Treatment in Tavarekere Main Road",
-            "Ovulation Support for Women"
+        "Ovulation Induction in Tavarekere main road",
+        "Fertility Treatment in Tavarekere Main Road",
+        "Ovulation Support for Women"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/laparoscopic-myomectomy-in-tavarekere-main-road",
@@ -2883,31 +2883,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Laparoscopic Myomectomy in Tavarekere main road",
-            "Minimally Invasive Fibroid Removal in Tavarekere",
-            "Fibroid Treatment Specialist in Tavarekere",
-            "Gynecologic Laparoscopic Surgery Tavarekere"
+        "Laparoscopic Myomectomy in Tavarekere main road",
+        "Minimally Invasive Fibroid Removal in Tavarekere",
+        "Fibroid Treatment Specialist in Tavarekere",
+        "Gynecologic Laparoscopic Surgery Tavarekere"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/total-laparoscopic-hysterectomy-tlh-in-tavarekere-main-road",
@@ -2926,31 +2926,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Total Laparoscopic Hysterectomy (TLH) in Tavarekere main road",
-            "TLH Surgery Specialist Tavarekere",
-            "Minimally Invasive Hysterectomy Tavarekere",
-            "Advanced Gynecologic Surgery Tavarekere"
+        "Total Laparoscopic Hysterectomy (TLH) in Tavarekere main road",
+        "TLH Surgery Specialist Tavarekere",
+        "Minimally Invasive Hysterectomy Tavarekere",
+        "Advanced Gynecologic Surgery Tavarekere"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/laparoscopy-&-hysteroscopy-in-tavarekere-main-road",
@@ -2969,31 +2969,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Laparoscopy & Hysteroscopy in Tavarekere main road",
-            "Minimally Invasive Gynecology Tavarekere",
-            "Diagnostic and Therapeutic Laparoscopy Tavarekere",
-            "Hysteroscopic Procedures in Tavarekere Main Road"
+        "Laparoscopy & Hysteroscopy in Tavarekere main road",
+        "Minimally Invasive Gynecology Tavarekere",
+        "Diagnostic and Therapeutic Laparoscopy Tavarekere",
+        "Hysteroscopic Procedures in Tavarekere Main Road"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/fibroids-leiomyoma-of-uterus-in-tavarekere-main-road",
@@ -3012,31 +3012,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Fibroids / Leiomyoma of Uterus in Tavarekere main road",
-            "Uterine Fibroid Treatment Tavarekere",
-            "Minimally Invasive Fibroid Surgery Tavarekere",
-            "Gynecologic Care for Fibroids Tavarekere"
+        "Fibroids / Leiomyoma of Uterus in Tavarekere main road",
+        "Uterine Fibroid Treatment Tavarekere",
+        "Minimally Invasive Fibroid Surgery Tavarekere",
+        "Gynecologic Care for Fibroids Tavarekere"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/endometriosis-in-tavarekere-main-road",
@@ -3055,31 +3055,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Endometriosis in Tavarekere main road",
-            "Endometriosis Treatment Tavarekere",
-            "Minimally Invasive Endometriosis Surgery Tavarekere",
-            "Women\u2019s Reproductive Health Tavarekere"
+        "Endometriosis in Tavarekere main road",
+        "Endometriosis Treatment Tavarekere",
+        "Minimally Invasive Endometriosis Surgery Tavarekere",
+        "Women\u2019s Reproductive Health Tavarekere"
       ],
       "datePublished": "2025-12-10",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/best-obstetrician-in-jayanagar",
@@ -3098,32 +3098,32 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Best Obstetrician in Jayanagar",
-            "Pregnancy Care in Jayanagar",
-            "High-risk Pregnancy Specialist in Jayanagar",
-            "OBGYN Clinic in Jayanagar",
-            "Maternity Clinic in Jayanagar"
+        "Best Obstetrician in Jayanagar",
+        "Pregnancy Care in Jayanagar",
+        "High-risk Pregnancy Specialist in Jayanagar",
+        "OBGYN Clinic in Jayanagar",
+        "Maternity Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/best-gynecologist-in-jayanagar",
@@ -3142,31 +3142,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Best Gynecologist in Jayanagar",
-            "Gynecology Clinic in Jayanagar",
-            "Pregnancy Care Specialist in Jayanagar",
-            "Women Health Clinic in Jayanagar"
+        "Best Gynecologist in Jayanagar",
+        "Gynecology Clinic in Jayanagar",
+        "Pregnancy Care Specialist in Jayanagar",
+        "Women Health Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/high-risk-pregnancy-specialist-in-jayanagar",
@@ -3185,32 +3185,32 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "High Risk Pregnancy Specialist in Jayanagar",
-            "Best maternity clinic in Jayanagar",
-            "High risk pregnancy care in Bangalore",
-            "Pregnancy complications treatment in Jayanagar",
-            "Gynecologist for high risk pregnancy in Jayanagar"
+        "High Risk Pregnancy Specialist in Jayanagar",
+        "Best maternity clinic in Jayanagar",
+        "High risk pregnancy care in Bangalore",
+        "Pregnancy complications treatment in Jayanagar",
+        "Gynecologist for high risk pregnancy in Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/comprehensive-antenatal-care-in-jayanagar",
@@ -3229,31 +3229,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Comprehensive Antenatal Care in Jayanagar",
-            "Pregnancy Checkup Jayanagar",
-            "Prenatal Care in Jayanagar",
-            "Maternal Health Jayanagar 7th Block"
+        "Comprehensive Antenatal Care in Jayanagar",
+        "Pregnancy Checkup Jayanagar",
+        "Prenatal Care in Jayanagar",
+        "Maternal Health Jayanagar 7th Block"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/diabetes-in-pregnancy-gdm-treatment-in-jayanagar",
@@ -3272,31 +3272,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Diabetes in Pregnancy (GDM) Treatment in Jayanagar",
-            "GDM Specialist Jayanagar",
-            "Gestational Diabetes Care Jayanagar",
-            "Pregnancy Diabetes Management Jayanagar"
+        "Diabetes in Pregnancy (GDM) Treatment in Jayanagar",
+        "GDM Specialist Jayanagar",
+        "Gestational Diabetes Care Jayanagar",
+        "Pregnancy Diabetes Management Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/fibroids-leiomyoma-of-uterus-in-jayanagar",
@@ -3315,31 +3315,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Fibroids / Leiomyoma of Uterus in Jayanagar",
-            "Uterine Fibroid Treatment Jayanagar",
-            "Minimally Invasive Fibroid Surgery Jayanagar",
-            "Gynecologic Care for Fibroids Jayanagar"
+        "Fibroids / Leiomyoma of Uterus in Jayanagar",
+        "Uterine Fibroid Treatment Jayanagar",
+        "Minimally Invasive Fibroid Surgery Jayanagar",
+        "Gynecologic Care for Fibroids Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/infertility-in-jayanagar",
@@ -3358,31 +3358,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Infertility in Jayanagar",
-            "Fertility Specialist Jayanagar",
-            "Assisted Reproductive Techniques Jayanagar",
-            "Advanced Infertility Care Jayanagar"
+        "Infertility in Jayanagar",
+        "Fertility Specialist Jayanagar",
+        "Assisted Reproductive Techniques Jayanagar",
+        "Advanced Infertility Care Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/intra-uterine-insemination-iui-in-jayanagar",
@@ -3401,31 +3401,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Intra-Uterine Insemination (IUI) in Jayanagar",
-            "IUI Treatment Jayanagar",
-            "Assisted Reproductive Techniques Jayanagar",
-            "Fertility Specialist Jayanagar 7th Block"
+        "Intra-Uterine Insemination (IUI) in Jayanagar",
+        "IUI Treatment Jayanagar",
+        "Assisted Reproductive Techniques Jayanagar",
+        "Fertility Specialist Jayanagar 7th Block"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/ovulation-induction-in-jayanagar",
@@ -3444,31 +3444,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Ovulation Induction in Jayanagar",
-            "Fertility Specialist Jayanagar",
-            "Hormonal Ovulation Therapy Jayanagar",
-            "Assisted Reproductive Care Jayanagar"
+        "Ovulation Induction in Jayanagar",
+        "Fertility Specialist Jayanagar",
+        "Hormonal Ovulation Therapy Jayanagar",
+        "Assisted Reproductive Care Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/laparoscopic-myomectomy-in-jayanagar",
@@ -3487,31 +3487,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Laparoscopic Myomectomy in Jayanagar",
-            "Minimally Invasive Fibroid Surgery Jayanagar",
-            "Fertility Preserving Surgery Jayanagar",
-            "Gynecologic Surgery Jayanagar 7th Block"
+        "Laparoscopic Myomectomy in Jayanagar",
+        "Minimally Invasive Fibroid Surgery Jayanagar",
+        "Fertility Preserving Surgery Jayanagar",
+        "Gynecologic Surgery Jayanagar 7th Block"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/total-laparoscopic-hysterectomy-tlh-in-jayanagar",
@@ -3530,31 +3530,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Total Laparoscopic Hysterectomy (TLH) in Jayanagar",
-            "Minimally Invasive Hysterectomy Jayanagar",
-            "TLH Surgery Jayanagar",
-            "Gynecologic Surgery Jayanagar"
+        "Total Laparoscopic Hysterectomy (TLH) in Jayanagar",
+        "Minimally Invasive Hysterectomy Jayanagar",
+        "TLH Surgery Jayanagar",
+        "Gynecologic Surgery Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/laparoscopy-&-hysteroscopy-in-jayanagar",
@@ -3573,31 +3573,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Laparoscopy & Hysteroscopy in Jayanagar",
-            "Minimally Invasive Gynecology Jayanagar",
-            "Infertility Surgery Jayanagar",
-            "Diagnostic and Therapeutic Procedures Jayanagar"
+        "Laparoscopy & Hysteroscopy in Jayanagar",
+        "Minimally Invasive Gynecology Jayanagar",
+        "Infertility Surgery Jayanagar",
+        "Diagnostic and Therapeutic Procedures Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/endometriosis-in-jayanagar",
@@ -3616,31 +3616,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Endometriosis in Jayanagar",
-            "Endometriosis Treatment Jayanagar",
-            "Minimally Invasive Surgery Jayanagar",
-            "Fertility Preservation Jayanagar"
+        "Endometriosis in Jayanagar",
+        "Endometriosis Treatment Jayanagar",
+        "Minimally Invasive Surgery Jayanagar",
+        "Fertility Preservation Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/ovarian-cysts-in-jayanagar",
@@ -3659,31 +3659,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Ovarian Cysts in Jayanagar",
-            "Ovarian Cyst Surgery Jayanagar",
-            "Minimally Invasive Gynecology Jayanagar",
-            "Fertility Preservation Jayanagar"
+        "Ovarian Cysts in Jayanagar",
+        "Ovarian Cyst Surgery Jayanagar",
+        "Minimally Invasive Gynecology Jayanagar",
+        "Fertility Preservation Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/recurrent-loss-of-pregnancy-in-jayanagar",
@@ -3702,31 +3702,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Recurrent Loss of Pregnancy in Jayanagar",
-            "Recurrent Miscarriage Treatment Jayanagar",
-            "Fertility Support Jayanagar",
-            "Specialized Pregnancy Care Jayanagar"
+        "Recurrent Loss of Pregnancy in Jayanagar",
+        "Recurrent Miscarriage Treatment Jayanagar",
+        "Fertility Support Jayanagar",
+        "Specialized Pregnancy Care Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/hypertension-in-pregnancy-pih-in-tavarekere-main-road",
@@ -3745,31 +3745,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Labour and Postnatal Care in Jayanagar",
-            "Safe Delivery Jayanagar",
-            "Postnatal Support Jayanagar",
-            "Newborn Care Jayanagar"
+        "Labour and Postnatal Care in Jayanagar",
+        "Safe Delivery Jayanagar",
+        "Postnatal Support Jayanagar",
+        "Newborn Care Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/hypertension-in-pregnancy-pih-in-jayanagar",
@@ -3788,31 +3788,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Hypertension in Pregnancy (PIH) in Jayanagar",
-            "Pregnancy High Blood Pressure Jayanagar",
-            "PIH Monitoring Jayanagar",
-            "Maternal-Fetal Care Jayanagar"
+        "Hypertension in Pregnancy (PIH) in Jayanagar",
+        "Pregnancy High Blood Pressure Jayanagar",
+        "PIH Monitoring Jayanagar",
+        "Maternal-Fetal Care Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/best-obstetrician-in-jayanagar-4th-block",
@@ -3831,32 +3831,32 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Best Obstetrician in Jayanagar 4th Block",
-            "Pregnancy Care in Jayanagar 4th Block",
-            "High-risk Pregnancy Specialist in Jayanagar",
-            "OBGYN Clinic in Jayanagar",
-            "Maternity Clinic in Jayanagar"
+        "Best Obstetrician in Jayanagar 4th Block",
+        "Pregnancy Care in Jayanagar 4th Block",
+        "High-risk Pregnancy Specialist in Jayanagar",
+        "OBGYN Clinic in Jayanagar",
+        "Maternity Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/best-gynecologist-in-jayanagar-4th-block",
@@ -3875,31 +3875,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Best Gynecologist in Jayanagar 4th Block",
-            "Gynecology Clinic in Jayanagar",
-            "Pregnancy Care Specialist in Jayanagar",
-            "Women Health Clinic in Jayanagar"
+        "Best Gynecologist in Jayanagar 4th Block",
+        "Gynecology Clinic in Jayanagar",
+        "Pregnancy Care Specialist in Jayanagar",
+        "Women Health Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/high-risk-pregnancy-specialist-in-jayanagar-4th-block",
@@ -3918,32 +3918,32 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "High Risk Pregnancy Specialist in Jayanagar 4th Block",
-            "Best maternity clinic in Jayanagar",
-            "High risk pregnancy care in Bangalore",
-            "Pregnancy complications treatment in Jayanagar",
-            "Gynecologist for high risk pregnancy in Jayanagar"
+        "High Risk Pregnancy Specialist in Jayanagar 4th Block",
+        "Best maternity clinic in Jayanagar",
+        "High risk pregnancy care in Bangalore",
+        "Pregnancy complications treatment in Jayanagar",
+        "Gynecologist for high risk pregnancy in Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/comprehensive-antenatal-care-in-jayanagar-4th-block",
@@ -3962,31 +3962,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Comprehensive Antenatal Care in Jayanagar 4th Block",
-            "Pregnancy Checkup Jayanagar",
-            "Prenatal Care in Jayanagar",
-            "Maternal Health Jayanagar 7th Block"
+        "Comprehensive Antenatal Care in Jayanagar 4th Block",
+        "Pregnancy Checkup Jayanagar",
+        "Prenatal Care in Jayanagar",
+        "Maternal Health Jayanagar 7th Block"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/diabetes-in-pregnancy-gdm-treatment-in-jayanagar-4th-block",
@@ -4005,31 +4005,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Diabetes in Pregnancy (GDM) Treatment in Jayanagar 4th Block",
-            "GDM Specialist Jayanagar",
-            "Gestational Diabetes Care Jayanagar",
-            "Pregnancy Diabetes Management Jayanagar"
+        "Diabetes in Pregnancy (GDM) Treatment in Jayanagar 4th Block",
+        "GDM Specialist Jayanagar",
+        "Gestational Diabetes Care Jayanagar",
+        "Pregnancy Diabetes Management Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/fibroids-leiomyoma-of-uterus-in-jayanagar-4th-block",
@@ -4048,31 +4048,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Fibroids / Leiomyoma of Uterus in Jayanagar 4th Block",
-            "Uterine Fibroid Treatment Jayanagar",
-            "Minimally Invasive Fibroid Surgery Jayanagar",
-            "Gynecologic Care for Fibroids Jayanagar"
+        "Fibroids / Leiomyoma of Uterus in Jayanagar 4th Block",
+        "Uterine Fibroid Treatment Jayanagar",
+        "Minimally Invasive Fibroid Surgery Jayanagar",
+        "Gynecologic Care for Fibroids Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/infertility-in-jayanagar-4th-block",
@@ -4091,31 +4091,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Infertility in Jayanagar 4th Block",
-            "Fertility Specialist Jayanagar",
-            "Assisted Reproductive Techniques Jayanagar",
-            "Advanced Infertility Care Jayanagar"
+        "Infertility in Jayanagar 4th Block",
+        "Fertility Specialist Jayanagar",
+        "Assisted Reproductive Techniques Jayanagar",
+        "Advanced Infertility Care Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/intra-uterine-insemination-iui-in-jayanagar-4th-block",
@@ -4134,31 +4134,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Intra-Uterine Insemination (IUI) in Jayanagar 4th Block",
-            "IUI Treatment Jayanagar",
-            "Assisted Reproductive Techniques Jayanagar",
-            "Fertility Specialist Jayanagar 7th Block"
+        "Intra-Uterine Insemination (IUI) in Jayanagar 4th Block",
+        "IUI Treatment Jayanagar",
+        "Assisted Reproductive Techniques Jayanagar",
+        "Fertility Specialist Jayanagar 7th Block"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/ovulation-induction-in-jayanagar-4th-block",
@@ -4177,31 +4177,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Ovulation Induction in Jayanagar 4th Block",
-            "Fertility Specialist Jayanagar",
-            "Hormonal Ovulation Therapy Jayanagar",
-            "Assisted Reproductive Care Jayanagar"
+        "Ovulation Induction in Jayanagar 4th Block",
+        "Fertility Specialist Jayanagar",
+        "Hormonal Ovulation Therapy Jayanagar",
+        "Assisted Reproductive Care Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/laparoscopic-myomectomy-in-jayanagar-4th-block",
@@ -4220,31 +4220,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Laparoscopic Myomectomy in Jayanagar 4th Block",
-            "Minimally Invasive Fibroid Surgery Jayanagar",
-            "Fertility Preserving Surgery Jayanagar",
-            "Gynecologic Surgery Jayanagar 7th Block"
+        "Laparoscopic Myomectomy in Jayanagar 4th Block",
+        "Minimally Invasive Fibroid Surgery Jayanagar",
+        "Fertility Preserving Surgery Jayanagar",
+        "Gynecologic Surgery Jayanagar 7th Block"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/total-laparoscopic-hysterectomy-tlh-in-jayanagar-4th-block",
@@ -4263,31 +4263,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Total Laparoscopic Hysterectomy (TLH) in Jayanagar 4th Block",
-            "Minimally Invasive Hysterectomy Jayanagar",
-            "TLH Surgery Jayanagar",
-            "Gynecologic Surgery Jayanagar"
+        "Total Laparoscopic Hysterectomy (TLH) in Jayanagar 4th Block",
+        "Minimally Invasive Hysterectomy Jayanagar",
+        "TLH Surgery Jayanagar",
+        "Gynecologic Surgery Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/laparoscopy-&-hysteroscopy-in-jayanagar-4th-block",
@@ -4306,31 +4306,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Laparoscopy & Hysteroscopy in Jayanagar 4th Block",
-            "Minimally Invasive Gynecology Jayanagar",
-            "Infertility Surgery Jayanagar",
-            "Diagnostic and Therapeutic Procedures Jayanagar"
+        "Laparoscopy & Hysteroscopy in Jayanagar 4th Block",
+        "Minimally Invasive Gynecology Jayanagar",
+        "Infertility Surgery Jayanagar",
+        "Diagnostic and Therapeutic Procedures Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/endometriosis-in-jayanagar-4th-block",
@@ -4349,31 +4349,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Endometriosis in Jayanagar 4th Block",
-            "Endometriosis Treatment Jayanagar",
-            "Minimally Invasive Surgery Jayanagar",
-            "Fertility Preservation Jayanagar"
+        "Endometriosis in Jayanagar 4th Block",
+        "Endometriosis Treatment Jayanagar",
+        "Minimally Invasive Surgery Jayanagar",
+        "Fertility Preservation Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/ovarian-cysts-in-jayanagar-4th-block",
@@ -4392,31 +4392,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Ovarian Cysts in Jayanagar 4th Block",
-            "Ovarian Cyst Surgery Jayanagar",
-            "Minimally Invasive Gynecology Jayanagar",
-            "Fertility Preservation Jayanagar"
+        "Ovarian Cysts in Jayanagar 4th Block",
+        "Ovarian Cyst Surgery Jayanagar",
+        "Minimally Invasive Gynecology Jayanagar",
+        "Fertility Preservation Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/recurrent-loss-of-pregnancy-in-jayanagar-4th-block",
@@ -4435,31 +4435,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Recurrent Loss of Pregnancy in Jayanagar 4th Block",
-            "Recurrent Miscarriage Treatment Jayanagar",
-            "Fertility Support Jayanagar",
-            "Specialized Pregnancy Care Jayanagar"
+        "Recurrent Loss of Pregnancy in Jayanagar 4th Block",
+        "Recurrent Miscarriage Treatment Jayanagar",
+        "Fertility Support Jayanagar",
+        "Specialized Pregnancy Care Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/hypertension-in-pregnancy-pih-in-tavarekere-main-road",
@@ -4478,31 +4478,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Labour and Postnatal Care in Jayanagar 4th Block",
-            "Safe Delivery Jayanagar",
-            "Postnatal Support Jayanagar",
-            "Newborn Care Jayanagar"
+        "Labour and Postnatal Care in Jayanagar 4th Block",
+        "Safe Delivery Jayanagar",
+        "Postnatal Support Jayanagar",
+        "Newborn Care Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/hypertension-in-pregnancy-pih-in-jayanagar-4th-block",
@@ -4521,31 +4521,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Hypertension in Pregnancy (PIH) in Jayanagar 4th Block",
-            "Pregnancy High Blood Pressure Jayanagar",
-            "PIH Monitoring Jayanagar",
-            "Maternal-Fetal Care Jayanagar"
+        "Hypertension in Pregnancy (PIH) in Jayanagar 4th Block",
+        "Pregnancy High Blood Pressure Jayanagar",
+        "PIH Monitoring Jayanagar",
+        "Maternal-Fetal Care Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/best-obstetrician-in-jayanagar-9th-block",
@@ -4564,32 +4564,32 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Best Obstetrician in Jayanagar 9th Block",
-            "Pregnancy Care in Jayanagar 4th Block",
-            "High-risk Pregnancy Specialist in Jayanagar",
-            "OBGYN Clinic in Jayanagar",
-            "Maternity Clinic in Jayanagar"
+        "Best Obstetrician in Jayanagar 9th Block",
+        "Pregnancy Care in Jayanagar 4th Block",
+        "High-risk Pregnancy Specialist in Jayanagar",
+        "OBGYN Clinic in Jayanagar",
+        "Maternity Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/best-gynecologist-in-jayanagar-9th-block",
@@ -4608,31 +4608,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Best Gynecologist in Jayanagar 9th Block",
-            "Gynecology Clinic in Jayanagar",
-            "Pregnancy Care Specialist in Jayanagar",
-            "Women Health Clinic in Jayanagar"
+        "Best Gynecologist in Jayanagar 9th Block",
+        "Gynecology Clinic in Jayanagar",
+        "Pregnancy Care Specialist in Jayanagar",
+        "Women Health Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/high-risk-pregnancy-specialist-in-jayanagar-9th-block",
@@ -4651,32 +4651,32 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "High Risk Pregnancy Specialist in Jayanagar 9th Block",
-            "Best maternity clinic in Jayanagar",
-            "High risk pregnancy care in Bangalore",
-            "Pregnancy complications treatment in Jayanagar",
-            "Gynecologist for high risk pregnancy in Jayanagar"
+        "High Risk Pregnancy Specialist in Jayanagar 9th Block",
+        "Best maternity clinic in Jayanagar",
+        "High risk pregnancy care in Bangalore",
+        "Pregnancy complications treatment in Jayanagar",
+        "Gynecologist for high risk pregnancy in Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/comprehensive-antenatal-care-in-jayanagar-9th-block",
@@ -4695,31 +4695,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Comprehensive Antenatal Care in Jayanagar 9th Block",
-            "Pregnancy Checkup Jayanagar",
-            "Prenatal Care in Jayanagar",
-            "Maternal Health Jayanagar 7th Block"
+        "Comprehensive Antenatal Care in Jayanagar 9th Block",
+        "Pregnancy Checkup Jayanagar",
+        "Prenatal Care in Jayanagar",
+        "Maternal Health Jayanagar 7th Block"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/diabetes-in-pregnancy-gdm-treatment-in-jayanagar-9th-block",
@@ -4738,31 +4738,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Diabetes in Pregnancy (GDM) Treatment in Jayanagar 9th Block",
-            "GDM Specialist Jayanagar",
-            "Gestational Diabetes Care Jayanagar",
-            "Pregnancy Diabetes Management Jayanagar"
+        "Diabetes in Pregnancy (GDM) Treatment in Jayanagar 9th Block",
+        "GDM Specialist Jayanagar",
+        "Gestational Diabetes Care Jayanagar",
+        "Pregnancy Diabetes Management Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/fibroids-leiomyoma-of-uterus-in-jayanagar-9th-block",
@@ -4781,31 +4781,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Fibroids / Leiomyoma of Uterus in Jayanagar 9th Block",
-            "Uterine Fibroid Treatment Jayanagar",
-            "Minimally Invasive Fibroid Surgery Jayanagar",
-            "Gynecologic Care for Fibroids Jayanagar"
+        "Fibroids / Leiomyoma of Uterus in Jayanagar 9th Block",
+        "Uterine Fibroid Treatment Jayanagar",
+        "Minimally Invasive Fibroid Surgery Jayanagar",
+        "Gynecologic Care for Fibroids Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/infertility-in-jayanagar-9th-block",
@@ -4824,31 +4824,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Infertility in Jayanagar 9th Block",
-            "Fertility Specialist Jayanagar",
-            "Assisted Reproductive Techniques Jayanagar",
-            "Advanced Infertility Care Jayanagar"
+        "Infertility in Jayanagar 9th Block",
+        "Fertility Specialist Jayanagar",
+        "Assisted Reproductive Techniques Jayanagar",
+        "Advanced Infertility Care Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/intra-uterine-insemination-iui-in-jayanagar-9th-block",
@@ -4867,31 +4867,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Intra-Uterine Insemination (IUI) in Jayanagar 9th Block",
-            "IUI Treatment Jayanagar",
-            "Assisted Reproductive Techniques Jayanagar",
-            "Fertility Specialist Jayanagar 7th Block"
+        "Intra-Uterine Insemination (IUI) in Jayanagar 9th Block",
+        "IUI Treatment Jayanagar",
+        "Assisted Reproductive Techniques Jayanagar",
+        "Fertility Specialist Jayanagar 7th Block"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/ovulation-induction-in-jayanagar-9th-block",
@@ -4910,31 +4910,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Ovulation Induction in Jayanagar 9th Block",
-            "Fertility Specialist Jayanagar",
-            "Hormonal Ovulation Therapy Jayanagar",
-            "Assisted Reproductive Care Jayanagar"
+        "Ovulation Induction in Jayanagar 9th Block",
+        "Fertility Specialist Jayanagar",
+        "Hormonal Ovulation Therapy Jayanagar",
+        "Assisted Reproductive Care Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/laparoscopic-myomectomy-in-jayanagar-9th-block",
@@ -4953,31 +4953,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Laparoscopic Myomectomy in Jayanagar 9th Block",
-            "Minimally Invasive Fibroid Surgery Jayanagar",
-            "Fertility Preserving Surgery Jayanagar",
-            "Gynecologic Surgery Jayanagar 7th Block"
+        "Laparoscopic Myomectomy in Jayanagar 9th Block",
+        "Minimally Invasive Fibroid Surgery Jayanagar",
+        "Fertility Preserving Surgery Jayanagar",
+        "Gynecologic Surgery Jayanagar 7th Block"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/total-laparoscopic-hysterectomy-tlh-in-jayanagar-9th-block",
@@ -4996,31 +4996,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Total Laparoscopic Hysterectomy (TLH) in Jayanagar 9th Block",
-            "Minimally Invasive Hysterectomy Jayanagar",
-            "TLH Surgery Jayanagar",
-            "Gynecologic Surgery Jayanagar"
+        "Total Laparoscopic Hysterectomy (TLH) in Jayanagar 9th Block",
+        "Minimally Invasive Hysterectomy Jayanagar",
+        "TLH Surgery Jayanagar",
+        "Gynecologic Surgery Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/laparoscopy-&-hysteroscopy-in-jayanagar-9th-block",
@@ -5039,31 +5039,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Laparoscopy & Hysteroscopy in Jayanagar 9th Block",
-            "Minimally Invasive Gynecology Jayanagar",
-            "Infertility Surgery Jayanagar",
-            "Diagnostic and Therapeutic Procedures Jayanagar"
+        "Laparoscopy & Hysteroscopy in Jayanagar 9th Block",
+        "Minimally Invasive Gynecology Jayanagar",
+        "Infertility Surgery Jayanagar",
+        "Diagnostic and Therapeutic Procedures Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/endometriosis-in-jayanagar-9th-block",
@@ -5082,31 +5082,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Endometriosis in Jayanagar 9th Block",
-            "Endometriosis Treatment Jayanagar",
-            "Minimally Invasive Surgery Jayanagar",
-            "Fertility Preservation Jayanagar"
+        "Endometriosis in Jayanagar 9th Block",
+        "Endometriosis Treatment Jayanagar",
+        "Minimally Invasive Surgery Jayanagar",
+        "Fertility Preservation Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/ovarian-cysts-in-jayanagar-9th-block",
@@ -5125,31 +5125,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Ovarian Cysts in Jayanagar 9th Block",
-            "Ovarian Cyst Surgery Jayanagar",
-            "Minimally Invasive Gynecology Jayanagar",
-            "Fertility Preservation Jayanagar"
+        "Ovarian Cysts in Jayanagar 9th Block",
+        "Ovarian Cyst Surgery Jayanagar",
+        "Minimally Invasive Gynecology Jayanagar",
+        "Fertility Preservation Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/recurrent-loss-of-pregnancy-in-jayanagar-9th-block",
@@ -5168,31 +5168,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Recurrent Loss of Pregnancy in Jayanagar 9th Block",
-            "Recurrent Miscarriage Treatment Jayanagar",
-            "Fertility Support Jayanagar",
-            "Specialized Pregnancy Care Jayanagar"
+        "Recurrent Loss of Pregnancy in Jayanagar 9th Block",
+        "Recurrent Miscarriage Treatment Jayanagar",
+        "Fertility Support Jayanagar",
+        "Specialized Pregnancy Care Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/labour-and-postnatal-care-in-jayanagar-9th-block",
@@ -5211,31 +5211,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Labour and Postnatal Care in Jayanagar 9th Block",
-            "Safe Delivery Jayanagar",
-            "Postnatal Support Jayanagar",
-            "Newborn Care Jayanagar"
+        "Labour and Postnatal Care in Jayanagar 9th Block",
+        "Safe Delivery Jayanagar",
+        "Postnatal Support Jayanagar",
+        "Newborn Care Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/hypertension-in-pregnancy-pih-in-jayanagar-9th-block",
@@ -5254,31 +5254,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Hypertension in Pregnancy (PIH) in Jayanagar 9th Block",
-            "Pregnancy High Blood Pressure Jayanagar",
-            "PIH Monitoring Jayanagar",
-            "Maternal-Fetal Care Jayanagar"
+        "Hypertension in Pregnancy (PIH) in Jayanagar 9th Block",
+        "Pregnancy High Blood Pressure Jayanagar",
+        "PIH Monitoring Jayanagar",
+        "Maternal-Fetal Care Jayanagar"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/best-obstetrician-in-sg-palya",
@@ -5297,22 +5297,22 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "SG Palya, Tavarekere",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560029",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "SG Palya, Tavarekere",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560029",
+        "addressCountry": "IN"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Best Obstetrician in sg palya",
-            "Pregnancy specialist in SG Palya",
-            "Obstetrics clinic in SG Palya"
+        "Best Obstetrician in sg palya",
+        "Pregnancy specialist in SG Palya",
+        "Obstetrics clinic in SG Palya"
       ],
       "datePublished": "2025-12-12"
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/best-gynecologist-in-sg-palya",
@@ -5331,22 +5331,22 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "SG Palya, Tavarekere",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560029",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "SG Palya, Tavarekere",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560029",
+        "addressCountry": "IN"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Best Gynecologist in sg palya",
-            "Women\u2019s health specialist in SG Palya",
-            "Gynecology clinic in SG Palya"
+        "Best Gynecologist in sg palya",
+        "Women\u2019s health specialist in SG Palya",
+        "Gynecology clinic in SG Palya"
       ],
       "datePublished": "2025-12-12"
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/high-risk-pregnancy-in-sg-palya",
@@ -5365,22 +5365,22 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "SG Palya, Tavarekere",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560029",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "SG Palya, Tavarekere",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560029",
+        "addressCountry": "IN"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "High risk pregnancy in sg palya",
-            "High risk pregnancy care SG Palya",
-            "Pregnancy complications SG Palya"
+        "High risk pregnancy in sg palya",
+        "High risk pregnancy care SG Palya",
+        "Pregnancy complications SG Palya"
       ],
       "datePublished": "2025-12-12"
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/comprehensive-antenatal-in-sg-palya",
@@ -5399,22 +5399,22 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "SG Palya, Tavarekere",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560029",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "SG Palya, Tavarekere",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560029",
+        "addressCountry": "IN"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Comprehensive antenatal in sg palya",
-            "Antenatal care SG Palya",
-            "Pregnancy checkups SG Palya"
+        "Comprehensive antenatal in sg palya",
+        "Antenatal care SG Palya",
+        "Pregnancy checkups SG Palya"
       ],
       "datePublished": "2025-12-12"
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/diabetes-in-pregnancy-gdm-treatment-in-sg-palya",
@@ -5433,31 +5433,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "SG Palya, Tavarekere Main Road",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560029",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "SG Palya, Tavarekere Main Road",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560029",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9350",
-            "longitude": "77.6060"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9350",
+        "longitude": "77.6060"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Diabetes in Pregnancy (GDM) Treatment in sg palya",
-            "GDM care in SG Palya",
-            "Pregnancy diabetes management SG Palya",
-            "Gestational diabetes treatment SG Palya"
+        "Diabetes in Pregnancy (GDM) Treatment in sg palya",
+        "GDM care in SG Palya",
+        "Pregnancy diabetes management SG Palya",
+        "Gestational diabetes treatment SG Palya"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/hypertension-in-pregnancy-pih-in-sg-palya",
@@ -5476,31 +5476,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "SG Palya, Tavarekere Main Road",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560029",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "SG Palya, Tavarekere Main Road",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560029",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9350",
-            "longitude": "77.6060"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9350",
+        "longitude": "77.6060"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Hypertension in Pregnancy (PIH) in sg palya",
-            "Pregnancy hypertension management SG Palya",
-            "PIH care in SG Palya",
-            "High BP in pregnancy treatment SG Palya"
+        "Hypertension in Pregnancy (PIH) in sg palya",
+        "Pregnancy hypertension management SG Palya",
+        "PIH care in SG Palya",
+        "High BP in pregnancy treatment SG Palya"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/infertility-in-sg-palya",
@@ -5519,31 +5519,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "SG Palya, Tavarekere Main Road",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560029",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "SG Palya, Tavarekere Main Road",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560029",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9350",
-            "longitude": "77.6060"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9350",
+        "longitude": "77.6060"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Infertility in sg palya",
-            "Fertility treatment in SG Palya",
-            "IVF and IUI care in SG Palya",
-            "Reproductive health clinic SG Palya"
+        "Infertility in sg palya",
+        "Fertility treatment in SG Palya",
+        "IVF and IUI care in SG Palya",
+        "Reproductive health clinic SG Palya"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/intra-uterine-insemination-iui-in-sg-palya",
@@ -5562,31 +5562,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "SG Palya, Tavarekere Main Road",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560029",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "SG Palya, Tavarekere Main Road",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560029",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9350",
-            "longitude": "77.6060"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9350",
+        "longitude": "77.6060"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Intra-Uterine Insemination (IUI) in sg palya",
-            "IUI fertility treatment SG Palya",
-            "Assisted conception SG Palya",
-            "Fertility clinic SG Palya"
+        "Intra-Uterine Insemination (IUI) in sg palya",
+        "IUI fertility treatment SG Palya",
+        "Assisted conception SG Palya",
+        "Fertility clinic SG Palya"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/ovulation-induction-in-sg-palya",
@@ -5605,31 +5605,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "SG Palya, Tavarekere Main Road",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560029",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "SG Palya, Tavarekere Main Road",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560029",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9350",
-            "longitude": "77.6060"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9350",
+        "longitude": "77.6060"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Ovulation Induction in sg palya",
-            "Fertility medication treatment SG Palya",
-            "Assisted ovulation SG Palya",
-            "Fertility clinic SG Palya"
+        "Ovulation Induction in sg palya",
+        "Fertility medication treatment SG Palya",
+        "Assisted ovulation SG Palya",
+        "Fertility clinic SG Palya"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/laparoscopic-myomectomy-in-sg-palya",
@@ -5648,31 +5648,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "SG Palya, Tavarekere Main Road",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560029",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "SG Palya, Tavarekere Main Road",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560029",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9350",
-            "longitude": "77.6060"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9350",
+        "longitude": "77.6060"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Laparoscopic Myomectomy in sg palya",
-            "Fibroid surgery in SG Palya",
-            "Minimally invasive gynecology in SG Palya",
-            "Myomectomy specialist in SG Palya"
+        "Laparoscopic Myomectomy in sg palya",
+        "Fibroid surgery in SG Palya",
+        "Minimally invasive gynecology in SG Palya",
+        "Myomectomy specialist in SG Palya"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/total-laparoscopic-hysterectomy-tlh-in-sg-palya",
@@ -5691,31 +5691,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "SG Palya, Tavarekere Main Road",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560029",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "SG Palya, Tavarekere Main Road",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560029",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9350",
-            "longitude": "77.6060"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9350",
+        "longitude": "77.6060"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Total Laparoscopic Hysterectomy (TLH) in sg palya",
-            "TLH surgery in SG Palya",
-            "Laparoscopic hysterectomy clinic in SG Palya",
-            "Gynecologist for TLH in SG Palya"
+        "Total Laparoscopic Hysterectomy (TLH) in sg palya",
+        "TLH surgery in SG Palya",
+        "Laparoscopic hysterectomy clinic in SG Palya",
+        "Gynecologist for TLH in SG Palya"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/laparoscopy-&-hysteroscopy-in-sg-palya",
@@ -5734,31 +5734,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "SG Palya, Tavarekere Main Road",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560029",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "SG Palya, Tavarekere Main Road",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560029",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9350",
-            "longitude": "77.6060"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9350",
+        "longitude": "77.6060"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Laparoscopy & Hysteroscopy in sg palya",
-            "Laparoscopic surgery clinic in SG Palya",
-            "Hysteroscopy specialist in SG Palya",
-            "Minimally invasive gynecological care in SG Palya"
+        "Laparoscopy & Hysteroscopy in sg palya",
+        "Laparoscopic surgery clinic in SG Palya",
+        "Hysteroscopy specialist in SG Palya",
+        "Minimally invasive gynecological care in SG Palya"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/fibroids-leiomyoma-of-uterus-in-sg-palya",
@@ -5777,31 +5777,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "SG Palya, Tavarekere Main Road",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560029",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "SG Palya, Tavarekere Main Road",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560029",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9350",
-            "longitude": "77.6060"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9350",
+        "longitude": "77.6060"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Fibroids / Leiomyoma of Uterus in sg palya",
-            "Uterine fibroids treatment in SG Palya",
-            "Gynecologist for fibroids in SG Palya",
-            "Leiomyoma specialist in SG Palya"
+        "Fibroids / Leiomyoma of Uterus in sg palya",
+        "Uterine fibroids treatment in SG Palya",
+        "Gynecologist for fibroids in SG Palya",
+        "Leiomyoma specialist in SG Palya"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/endometriosis-in-sg-palya",
@@ -5820,31 +5820,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "SG Palya, Tavarekere Main Road",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560029",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "SG Palya, Tavarekere Main Road",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560029",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9350",
-            "longitude": "77.6060"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9350",
+        "longitude": "77.6060"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Endometriosis in sg palya",
-            "Endometriosis specialist in SG Palya",
-            "Gynecologist clinic in SG Palya",
-            "Fertility care in SG Palya"
+        "Endometriosis in sg palya",
+        "Endometriosis specialist in SG Palya",
+        "Gynecologist clinic in SG Palya",
+        "Fertility care in SG Palya"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/ovarian-cysts-in-sg-palya",
@@ -5863,31 +5863,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "SG Palya, Tavarekere Main Road",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560029",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "SG Palya, Tavarekere Main Road",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560029",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9350",
-            "longitude": "77.6060"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9350",
+        "longitude": "77.6060"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Ovarian Cysts in sg palya",
-            "Ovarian cyst specialist in SG Palya",
-            "Gynecologist clinic in SG Palya",
-            "Fertility care in SG Palya"
+        "Ovarian Cysts in sg palya",
+        "Ovarian cyst specialist in SG Palya",
+        "Gynecologist clinic in SG Palya",
+        "Fertility care in SG Palya"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/recurrent-loss-of-pregnancy-in-sg-palya",
@@ -5906,31 +5906,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "SG Palya, Tavarekere Main Road",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560029",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "SG Palya, Tavarekere Main Road",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560029",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9350",
-            "longitude": "77.6060"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9350",
+        "longitude": "77.6060"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Recurrent Loss of Pregnancy in sg palya",
-            "RPL specialist in SG Palya",
-            "Fertility clinic in SG Palya",
-            "Pregnancy care in SG Palya"
+        "Recurrent Loss of Pregnancy in sg palya",
+        "RPL specialist in SG Palya",
+        "Fertility clinic in SG Palya",
+        "Pregnancy care in SG Palya"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/labour-and-postnatal-care-in-sg-palya",
@@ -5949,31 +5949,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "SG Palya, Tavarekere Main Road",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560029",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "SG Palya, Tavarekere Main Road",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560029",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9350",
-            "longitude": "77.6060"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9350",
+        "longitude": "77.6060"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Labour and Postnatal Care in sg palya",
-            "Postnatal care clinic in SG Palya",
-            "Delivery care in SG Palya",
-            "Maternity support in SG Palya"
+        "Labour and Postnatal Care in sg palya",
+        "Postnatal care clinic in SG Palya",
+        "Delivery care in SG Palya",
+        "Maternity support in SG Palya"
       ],
       "datePublished": "2025-12-12",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/best-obstetrician-in-tilak-nagar",
@@ -5992,31 +5992,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Best Obstetrician in Tilak Nagar",
-            "Best maternity clinic in Jayanagar",
-            "Best Gynecologist in Jayanagar 7th Block",
-            "Gynaecology Clinic in Jayanagar"
+        "Best Obstetrician in Tilak Nagar",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-16",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/best-gynecologist-in-tilak-nagar",
@@ -6035,31 +6035,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Best Gynecologist in Tilak Nagar",
-            "Gynecology Clinic in Tilak Nagar",
-            "Pregnancy Care in Tilak Nagar",
-            "Women\u2019s Health Specialist in Tilak Nagar"
+        "Best Gynecologist in Tilak Nagar",
+        "Gynecology Clinic in Tilak Nagar",
+        "Pregnancy Care in Tilak Nagar",
+        "Women\u2019s Health Specialist in Tilak Nagar"
       ],
       "datePublished": "2025-12-16",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/high-risk-pregnancy-in-tilak-nagar",
@@ -6078,31 +6078,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "High Risk Pregnancy in Tilak Nagar",
-            "Best maternity clinic in Jayanagar",
-            "Best Gynecologist in Jayanagar 7th Block",
-            "Gynaecology Clinic in Jayanagar"
+        "High Risk Pregnancy in Tilak Nagar",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-16",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/comprehensive-antenatal-in-tilak-nagar",
@@ -6121,31 +6121,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Comprehensive Antenatal in Tilak Nagar",
-            "Best maternity clinic in Jayanagar",
-            "Best Gynecologist in Jayanagar 7th Block",
-            "Gynaecology Clinic in Jayanagar"
+        "Comprehensive Antenatal in Tilak Nagar",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-16",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/diabetes-in-pregnancy-gdm-treatment-in-tilak-nagar",
@@ -6164,32 +6164,32 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Diabetes in Pregnancy (GDM) Treatment in Tilak Nagar",
-            "Best maternity clinic in Jayanagar",
-            "Best Gynecologist in Jayanagar 7th Block",
-            "Diabetes in Pregnancy (GDM) Specialist in Jayanagar 7th Block",
-            "Gynaecology Clinic in Jayanagar"
+        "Diabetes in Pregnancy (GDM) Treatment in Tilak Nagar",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Diabetes in Pregnancy (GDM) Specialist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-16",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/hypertension-in-pregnancy-pih-in-tilak-nagar",
@@ -6208,31 +6208,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Hypertension in Pregnancy (PIH) in Tilak Nagar",
-            "Best maternity clinic in Jayanagar",
-            "Best Gynecologist in Jayanagar 7th Block",
-            "Gynaecology Clinic in Jayanagar"
+        "Hypertension in Pregnancy (PIH) in Tilak Nagar",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-16",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/infertility-in-tilak-nagar",
@@ -6251,31 +6251,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Infertility in Tilak Nagar",
-            "Best maternity clinic in Jayanagar",
-            "Best Gynecologist in Jayanagar 7th Block",
-            "Gynaecology Clinic in Jayanagar"
+        "Infertility in Tilak Nagar",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-16",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/intra-uterine-insemination-iui-in-tilak-nagar",
@@ -6294,31 +6294,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Intra-Uterine Insemination (IUI) in Tilak Nagar",
-            "Best maternity clinic in Jayanagar",
-            "Best Gynecologist in Jayanagar 7th Block",
-            "Gynaecology Clinic in Jayanagar"
+        "Intra-Uterine Insemination (IUI) in Tilak Nagar",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-16",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/ovulation-induction-in-tilak-nagar",
@@ -6337,31 +6337,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Ovulation Induction in Tilak Nagar",
-            "Best maternity clinic in Jayanagar",
-            "Best Gynecologist in Jayanagar 7th Block",
-            "Gynaecology Clinic in Jayanagar"
+        "Ovulation Induction in Tilak Nagar",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-16",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/laparoscopic-myomectomy-in-tilak-nagar",
@@ -6380,31 +6380,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Laparoscopic Myomectomy in Tilak Nagar",
-            "Best maternity clinic in Jayanagar",
-            "Best Gynecologist in Jayanagar 7th Block",
-            "Gynaecology Clinic in Jayanagar"
+        "Laparoscopic Myomectomy in Tilak Nagar",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-16",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/total-laparoscopic-hysterectomy-tlh-in-tilak-nagar",
@@ -6423,31 +6423,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Total Laparoscopic Hysterectomy (TLH) in Tilak Nagar",
-            "Best maternity clinic in Jayanagar",
-            "Best Gynecologist in Jayanagar 7th Block",
-            "Gynaecology Clinic in Jayanagar"
+        "Total Laparoscopic Hysterectomy (TLH) in Tilak Nagar",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-16",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/laparoscopy-&-hysteroscopy-in-tilak-nagar",
@@ -6466,31 +6466,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Laparoscopy & Hysteroscopy in Tilak Nagar",
-            "Best maternity clinic in Jayanagar",
-            "Best Gynecologist in Jayanagar 7th Block",
-            "Gynaecology Clinic in Jayanagar"
+        "Laparoscopy & Hysteroscopy in Tilak Nagar",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-16",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/fibroids-leiomyoma-of-uterus-in-tilak-nagar",
@@ -6509,31 +6509,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Fibroids / Leiomyoma of Uterus in Tilak Nagar",
-            "Best maternity clinic in Jayanagar",
-            "Best Gynecologist in Jayanagar 7th Block",
-            "Gynaecology Clinic in Jayanagar"
+        "Fibroids / Leiomyoma of Uterus in Tilak Nagar",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-16",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/endometriosis-in-tilak-nagar",
@@ -6552,31 +6552,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Endometriosis in Tilak Nagar",
-            "Best maternity clinic in Jayanagar",
-            "Best Gynecologist in Jayanagar 7th Block",
-            "Gynaecology Clinic in Jayanagar"
+        "Endometriosis in Tilak Nagar",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-16",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/ovarian-cysts-in-tilak-nagar",
@@ -6595,31 +6595,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Ovarian Cysts in Tilak Nagar",
-            "Best maternity clinic in Jayanagar",
-            "Best Gynecologist in Jayanagar 7th Block",
-            "Gynaecology Clinic in Jayanagar"
+        "Ovarian Cysts in Tilak Nagar",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-16",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/recurrent-loss-of-pregnancy-in-tilak-nagar",
@@ -6638,31 +6638,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Recurrent Loss of Pregnancy in Tilak Nagar",
-            "Best maternity clinic in Jayanagar",
-            "Best Gynecologist in Jayanagar 7th Block",
-            "Gynaecology Clinic in Jayanagar"
+        "Recurrent Loss of Pregnancy in Tilak Nagar",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-16",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/labour-and-postnatal-care-in-tilak-nagar",
@@ -6681,31 +6681,31 @@ export const seoMetaData = [
       "image": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "logo": "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
       "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pattabhirama Nagar, Jayanagar",
-            "addressLocality": "Bengaluru",
-            "addressRegion": "Karnataka",
-            "postalCode": "560041",
-            "addressCountry": "IN"
+        "@type": "PostalAddress",
+        "streetAddress": "Pattabhirama Nagar, Jayanagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560041",
+        "addressCountry": "IN"
       },
       "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9300",
-            "longitude": "77.5800"
+        "@type": "GeoCoordinates",
+        "latitude": "12.9300",
+        "longitude": "77.5800"
       },
       "telephone": "+91 6361197107",
       "email": "drmadhuri.og@gmail.com",
       "keywords": [
-            "Labour and Postnatal Care in Tilak Nagar",
-            "Best maternity clinic in Jayanagar",
-            "Best Gynecologist in Jayanagar 7th Block",
-            "Gynaecology Clinic in Jayanagar"
+        "Labour and Postnatal Care in Tilak Nagar",
+        "Best maternity clinic in Jayanagar",
+        "Best Gynecologist in Jayanagar 7th Block",
+        "Gynaecology Clinic in Jayanagar"
       ],
       "datePublished": "2025-12-16",
       "sameAs": [
-            "https://www.drmadhurimsobgyn.com/"
+        "https://www.drmadhurimsobgyn.com/"
       ]
-},
+    },
   },
   {
     url: "https://www.drmadhurimsobgyn.com/sitemap/best-maternity-clinic-in-tilak-nagar",
@@ -8342,5 +8342,147 @@ export const seoMetaData = [
       datePublished: "2025-12-17",
       sameAs: ["https://www.drmadhurimsobgyn.com/"]
     }
+  },
+
+  // Blogs here
+
+  {
+    url: "https://www.drmadhurimsobgyn.com/early-signs-of-pregnancy-jayanagar-bangalore",
+    title: "Early Signs of Pregnancy You Should Know | Dr. Madhuri M S",
+    description:
+      "Wondering if you're pregnant? Learn the 10 early pregnancy signs, when to test, and when to consult a gynaecologist in Jayanagar.",
+    keywords:
+      "Early Signs of Pregnancy in Jayanagar, Pregnancy Symptoms in Bangalore, Best Gynecologist in Jayanagar 7th Block, Best maternity clinic in Jayanagar",
+    h2: "10 Early Signs of Pregnancy You Should Know",
+    jsonScript: {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "MedicalClinic",
+          "@id": "https://www.drmadhurimsobgyn.com/#clinic",
+          name: "Dr Madhuri M S OB-GYN Clinic",
+          url: "https://www.drmadhurimsobgyn.com/",
+          image:
+            "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+          logo:
+            "https://www.drmadhurimsobgyn.com/assets/home-image/Dr%20Madhurilogo.png",
+          address: {
+            "@type": "PostalAddress",
+            streetAddress: "Pattabhirama Nagar, Jayanagar",
+            addressLocality: "Bengaluru",
+            addressRegion: "Karnataka",
+            postalCode: "560041",
+            addressCountry: "IN",
+          },
+          geo: {
+            "@type": "GeoCoordinates",
+            latitude: "12.9300",
+            longitude: "77.5800",
+          },
+          telephone: "+91 6361197107",
+          email: "drmadhuri.og@gmail.com",
+          keywords: [
+            "Best maternity clinic in Jayanagar",
+            "Best Gynecologist in Jayanagar 7th Block",
+            "Diabetes in Pregnancy (GDM) Specialist in Jayanagar 7th Block",
+            "Best Gynecologist in Jayanagar 4th Block",
+            "Best Gynecologist in Jayanagar 9th Block",
+          ],
+          datePublished: "2025-12-17",
+          sameAs: ["https://www.drmadhurimsobgyn.com/"],
+        },
+        {
+          "@type": "Article",
+          "@id":
+            "https://www.drmadhurimsobgyn.com/early-signs-of-pregnancy-jayanagar-bangalore#article",
+          url:
+            "https://www.drmadhurimsobgyn.com/early-signs-of-pregnancy-jayanagar-bangalore",
+          headline: "10 Early Signs of Pregnancy You Should Know",
+          author: {
+            "@type": "Person",
+            name: "Dr Madhuri M S",
+          },
+          publisher: {
+            "@id": "https://www.drmadhurimsobgyn.com/#clinic",
+          },
+          mainEntityOfPage: {
+            "@type": "WebPage",
+            "@id":
+              "https://www.drmadhurimsobgyn.com/early-signs-of-pregnancy-jayanagar-bangalore",
+          },
+        },
+        {
+          "@type": "FAQPage",
+          "@id":
+            "https://www.drmadhurimsobgyn.com/early-signs-of-pregnancy-jayanagar-bangalore#faq",
+          mainEntity: [
+            {
+              "@type": "Question",
+              name: "What are the earliest signs of pregnancy?",
+              acceptedAnswer: {
+                "@type": "Answer",
+                text: "The earliest commonly reported signs include a missed period, breast tenderness, mild fatigue, and nausea. These appear as hCG and progesterone levels rise after implantation, though not every woman experiences the same symptoms or timing.",
+              },
+            },
+            {
+              "@type": "Question",
+              name: "Can pregnancy symptoms appear before a missed period?",
+              acceptedAnswer: {
+                "@type": "Answer",
+                text: "Yes, some women notice symptoms like breast tenderness, fatigue, or mild cramping in the days before their period is due, around the time of implantation. However, these symptoms overlap significantly with PMS, so they aren't reliable confirmation on their own.",
+              },
+            },
+            {
+              "@type": "Question",
+              name: "How soon can I take a pregnancy test?",
+              acceptedAnswer: {
+                "@type": "Answer",
+                text: "Most home pregnancy tests are designed to be taken after a missed period for the most accurate result. Testing earlier increases the chance of a false negative, since hCG levels may not yet be high enough to detect.",
+              },
+            },
+            {
+              "@type": "Question",
+              name: "Can early pregnancy symptoms feel like PMS?",
+              acceptedAnswer: {
+                "@type": "Answer",
+                text: "Yes, many early pregnancy symptoms, including breast tenderness, mood changes, fatigue, and mild cramping, closely resemble typical PMS symptoms. This overlap is one of the main reasons symptoms alone can't confirm pregnancy.",
+              },
+            },
+            {
+              "@type": "Question",
+              name: "Is light spotting normal in early pregnancy?",
+              acceptedAnswer: {
+                "@type": "Answer",
+                text: "Light spotting, often around the time of implantation, can be a normal early pregnancy sign for some women. However, heavy, painful, or prolonged bleeding should be evaluated by a gynaecologist rather than assumed to be normal.",
+              },
+            },
+            {
+              "@type": "Question",
+              name: "When should I see a gynaecologist after a positive pregnancy test?",
+              acceptedAnswer: {
+                "@type": "Answer",
+                text: "It's generally advisable to schedule a consultation soon after a positive result to confirm the pregnancy, estimate dating, and begin antenatal care. Early evaluation also allows any concerns or risk factors to be addressed promptly.",
+              },
+            },
+            {
+              "@type": "Question",
+              name: "Can fatigue and frequent urination be early pregnancy symptoms?",
+              acceptedAnswer: {
+                "@type": "Answer",
+                text: "Yes, both are commonly reported in early pregnancy due to rising progesterone and increased blood flow to the kidneys. That said, they can also result from other causes like poor sleep, stress, or infections, so they work best as supporting signs rather than standalone proof.",
+              },
+            },
+            {
+              "@type": "Question",
+              name: "What should I do if I have pregnancy symptoms but the test is negative?",
+              acceptedAnswer: {
+                "@type": "Answer",
+                text: "If symptoms persist and your period remains absent, it's reasonable to repeat the test after a few days using a first-morning urine sample. If results remain unclear or your period doesn't return, consulting a gynaecologist for a blood test or clinical evaluation is the next appropriate step.",
+              },
+            },
+          ],
+        },
+      ],
+    },
   },
 ];
