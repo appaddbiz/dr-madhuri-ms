@@ -142,7 +142,7 @@ export default function Footer1() {
                       <Link href="/gallery">Gallery</Link>
                     </li>
                     <li>
-                      <Link href="#">Blog</Link>
+                      <Link href="/blog">Blog</Link>
                     </li>
                     <li>
                       <Link href="/contact">Contact</Link>
