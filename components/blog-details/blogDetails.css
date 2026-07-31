@@ -1,0 +1,563 @@
+/* Custom styles for Blog Details Page */
+
+.blog-details-section {
+  padding: 50px 0 80px 0;
+  background-color: #fcfdfd;
+}
+
+/* Hero Header Header Card */
+.blog-header-box {
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 35px 35px 30px 35px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.04);
+  border: 1px solid #f0f2f5;
+  margin-bottom: 30px;
+}
+
+.blog-meta-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 18px;
+}
+
+.blog-category-badge {
+  background: linear-gradient(135deg, #f50963, #e00653);
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: 700;
+  padding: 6px 16px;
+  border-radius: 50px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.blog-verified-badge {
+  background: #e6f7eff0;
+  color: #0d9488;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 6px 14px;
+  border-radius: 50px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid #ccfbf1;
+}
+
+.blog-meta-info {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  color: #64748b;
+  font-size: 14px;
+  margin-left: auto;
+}
+
+.blog-meta-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.blog-main-title {
+  font-size: 36px;
+  font-weight: 800;
+  color: #0f172a;
+  line-height: 1.3;
+  margin-bottom: 20px;
+  letter-spacing: -0.5px;
+}
+
+/* Featured Image Frame */
+.blog-featured-img-container {
+  position: relative;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.08);
+  margin-bottom: 35px;
+  background: #f8fafc;
+}
+
+.blog-featured-img-container img {
+  width: 100%;
+  max-height: 480px;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.5s ease;
+}
+
+.blog-featured-img-container:hover img {
+  transform: scale(1.02);
+}
+
+/* Executive Summary / Key Takeaways Box */
+.blog-key-takeaways {
+  background: linear-gradient(135deg, #fff5f8 0%, #ffffff 100%);
+  border: 1px solid #fecdd3;
+  border-left: 5px solid #f50963;
+  border-radius: 16px;
+  padding: 24px;
+  margin-bottom: 35px;
+}
+
+.blog-key-takeaways-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #9f1239;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.blog-key-takeaways-list {
+  margin: 0;
+  padding-left: 20px;
+  color: #334155;
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+.blog-key-takeaways-list li {
+  margin-bottom: 8px;
+}
+
+/* Article Body Content Styling */
+.blog-article-body {
+  font-size: 17px;
+  line-height: 1.8;
+  color: #334155;
+}
+
+.blog-article-body p {
+  margin-bottom: 22px;
+  font-size: 17px;
+  line-height: 1.8;
+  color: #334155;
+}
+
+.blog-article-body h2 {
+  font-size: 26px;
+  font-weight: 800;
+  color: #0f172a;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  position: relative;
+  padding-bottom: 10px;
+  letter-spacing: -0.3px;
+}
+
+.blog-article-body h2::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 60px;
+  height: 4px;
+  background: linear-gradient(90deg, #f50963, #ff7a18);
+  border-radius: 2px;
+}
+
+.blog-article-body h3 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #1e293b;
+  margin-top: 15px;
+  margin-bottom: 12px;
+}
+
+/* Numbered Sign List Cards */
+.pregnancy-signs-list {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 30px 0 !important;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.pregnancy-signs-list li {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 26px 28px;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03);
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.pregnancy-signs-list li:hover {
+  border-color: #f50963;
+  box-shadow: 0 10px 25px rgba(245, 9, 99, 0.08);
+  transform: translateY(-2px);
+}
+
+.pregnancy-signs-list li h3 {
+  color: #f50963;
+  margin-top: 0;
+  font-size: 21px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+/* Urgent Care Callout Box */
+.urgent-care-section {
+  background: linear-gradient(135deg, #fff1f2 0%, #ffe4e6 100%);
+  border: 1px solid #fecdd3;
+  border-left: 6px solid #e11d48;
+  border-radius: 18px;
+  padding: 30px;
+  margin: 40px 0;
+}
+
+.urgent-care-section h2 {
+  color: #9f1239 !important;
+  margin-top: 0 !important;
+  font-size: 24px !important;
+}
+
+.urgent-care-section h2::after {
+  display: none;
+}
+
+.urgent-care-section ul {
+  background: #ffffff;
+  padding: 20px 24px 20px 45px;
+  border-radius: 14px;
+  border: 1px solid #fda4af;
+  margin: 20px 0;
+}
+
+.urgent-care-section ul li {
+  color: #be123c;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+/* In-Article Consultation CTA Banner */
+.in-article-cta {
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+  color: #ffffff;
+  border-radius: 20px;
+  padding: 32px 36px;
+  margin: 40px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  box-shadow: 0 15px 35px rgba(15, 23, 42, 0.2);
+}
+
+.in-article-cta-content h4 {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.in-article-cta-content p {
+  color: #94a3b8;
+  font-size: 15px;
+  margin: 0;
+  line-height: 1.5;
+}
+
+.in-article-cta-btn {
+  background: linear-gradient(135deg, #f50963, #ff5388);
+  color: #ffffff !important;
+  padding: 14px 28px;
+  border-radius: 50px;
+  font-weight: 700;
+  font-size: 15px;
+  white-space: nowrap;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  transition: all 0.3s ease;
+  box-shadow: 0 8px 20px rgba(245, 9, 99, 0.3);
+  text-decoration: none !important;
+}
+
+.in-article-cta-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 25px rgba(245, 9, 99, 0.4);
+  background: linear-gradient(135deg, #ff5388, #f50963);
+}
+
+/* Doctor Bio Card */
+.doctor-author-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 20px;
+  padding: 30px;
+  margin-top: 45px;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.03);
+}
+
+.doctor-avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #f50963, #ff7a18);
+  padding: 3px;
+  flex-shrink: 0;
+}
+
+.doctor-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  background: #ffffff;
+}
+
+.doctor-author-info h4 {
+  font-size: 20px;
+  font-weight: 800;
+  color: #0f172a;
+  margin-bottom: 4px;
+}
+
+.doctor-author-subtitle {
+  color: #f50963;
+  font-weight: 600;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.doctor-author-bio {
+  color: #64748b;
+  font-size: 14px;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* Sidebar Custom Styling */
+.sidebar-sticky-wrapper {
+  position: sticky;
+  top: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.sidebar-card {
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 28px;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.03);
+}
+
+.sidebar-card-title {
+  font-size: 20px;
+  font-weight: 800;
+  color: #0f172a;
+  margin-bottom: 20px;
+  padding-bottom: 12px;
+  border-bottom: 2px solid #f1f5f9;
+  position: relative;
+}
+
+.sidebar-card-title::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 40px;
+  height: 2px;
+  background: #f50963;
+}
+
+/* Doctor Consultation Sidebar Widget */
+.sidebar-doctor-widget {
+  background: linear-gradient(180deg, #fff0f5 0%, #ffffff 100%);
+  border: 1px solid #fecdd3;
+  border-radius: 20px;
+  padding: 26px;
+  text-align: center;
+}
+
+.sidebar-doctor-img {
+  width: 85px;
+  height: 85px;
+  border-radius: 50%;
+  margin: 0 auto 14px auto;
+  border: 3px solid #ffffff;
+  box-shadow: 0 8px 20px rgba(245, 9, 99, 0.15);
+  overflow: hidden;
+}
+
+.sidebar-doctor-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.sidebar-doctor-name {
+  font-size: 19px;
+  font-weight: 800;
+  color: #0f172a;
+  margin-bottom: 4px;
+}
+
+.sidebar-doctor-spec {
+  font-size: 13px;
+  color: #f50963;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.sidebar-doctor-desc {
+  font-size: 13px;
+  color: #64748b;
+  line-height: 1.5;
+  margin-bottom: 18px;
+}
+
+.sidebar-doctor-cta {
+  width: 100%;
+  background: linear-gradient(135deg, #f50963, #e00653);
+  color: #ffffff !important;
+  font-weight: 700;
+  font-size: 14px;
+  padding: 12px 20px;
+  border-radius: 50px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  box-shadow: 0 6px 16px rgba(245, 9, 99, 0.25);
+  transition: all 0.3s ease;
+  text-decoration: none !important;
+}
+
+.sidebar-doctor-cta:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 22px rgba(245, 9, 99, 0.35);
+}
+
+/* Sidebar Recent Posts */
+.sidebar-post-list {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.sidebar-post-item {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid #f1f5f9;
+  transition: transform 0.2s ease;
+}
+
+.sidebar-post-item:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.sidebar-post-item:hover {
+  transform: translateX(4px);
+}
+
+.sidebar-post-thumb {
+  width: 70px;
+  height: 70px;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  background: #f1f5f9;
+}
+
+.sidebar-post-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.sidebar-post-content h5 {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.4;
+  margin-bottom: 6px;
+}
+
+.sidebar-post-content h5 a {
+  color: #1e293b;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.sidebar-post-content h5 a:hover {
+  color: #f50963;
+}
+
+.sidebar-post-date {
+  font-size: 12px;
+  color: #94a3b8;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+/* Category Pills */
+.sidebar-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.sidebar-tag-pill {
+  background: #f8fafc;
+  color: #475569;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 6px 14px;
+  border-radius: 50px;
+  border: 1px solid #e2e8f0;
+  transition: all 0.2s ease;
+  text-decoration: none !important;
+}
+
+.sidebar-tag-pill:hover {
+  background: #f50963;
+  color: #ffffff;
+  border-color: #f50963;
+}
+
+@media (max-width: 991px) {
+  .in-article-cta {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .sidebar-sticky-wrapper {
+    position: static;
+    margin-top: 40px;
+  }
+
+  .blog-main-title {
+    font-size: 28px;
+  }
+
+  .doctor-author-card {
+    flex-direction: column;
+    text-align: center;
+  }
+}

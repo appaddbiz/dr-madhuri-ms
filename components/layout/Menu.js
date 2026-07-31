@@ -336,7 +336,7 @@ export default function Menu() {
           </ul> */}
         </li>
         <li className="dropdown">
-          <Link href="#">
+          <Link href="/blog">
             Blog
             <span className="main-menu-border"></span>
           </Link>
